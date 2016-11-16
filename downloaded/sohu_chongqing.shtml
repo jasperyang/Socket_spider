@@ -1,0 +1,619 @@
+HTTP/1.1 200 OK
+Date: Tue, 15 Nov 2016 07:20:23 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips
+Last-Modified: Wed, 28 Oct 2015 02:40:00 GMT
+Accept-Ranges: bytes
+Content-Length: 29405
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<title>重庆新闻-搜狐新闻中心</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<base href="http://news.sohu.com">
+<style>
+td,body,input,select {font-size: 12px;color:#333333;}
+a:hover {color:#005EF9;text-decoration: underline;}
+.eng {font-size: 11px; font-family: arial,helvetica}
+.white {font-size: 12px;color: #FFFFFF; text-decoration: none;}
+.treeline{font-size: 12px;color: #54DEFF; text-decoration: none;}
+a.white:hover {color:#FFEFA5}
+.blue { text-decoration: underline;color:#000099;line-height: 18px;}
+.finput {BORDER-RIGHT: 0px ridge;BORDER-TOP: 1px ridge #727272; BORDER-LEFT: 1px ridge #727272; BORDER-BOTTOM: 0px
+ridge;font-size: 12px;}
+.black {
+ color: #333333;
+ text-decoration: none;
+ line-height: 19px;
+ font-size: 12px;
+}
+.black2 {color: #333333;text-decoration: none;line-height: 15px;}
+.foxinput {BORDER-RIGHT: 1px ridge; BORDER-TOP: #ffffff 1px ridge; BORDER-LEFT: #ffffff 1px }
+.newstitle {
+ font-size: 14px;
+ color: #000000;
+ text-decoration: none;
+ line-height: 22px;
+}
+.gray { font-size: 12px;line-height: 20px;color: #656565;text-decoration: none;}
+.newsblue1 {
+ font-size: 14px;
+ line-height: 21px;
+ color: #0F0CBF;
+}
+.newsblue2 {
+ font-size: 12px;
+ color: #002DF0;
+ text-decoration: none;
+}
+.newsblue3 {
+ font-size: 12px;
+ color: #0F0CBF;
+ line-height: 18px;
+}
+.newsblue4 {
+ font-size: 14px;
+ line-height: 23px;
+ color: #0F0CBF;
+}
+li {
+ margin-left: 10px;
+ list-style-type: square;
+ list-style-image: url(cc_blue.gif);
+}
+.yellow1 {
+ font-size: 12px;
+ color: #FFD98F;
+}
+.newsblue5 {
+ color: #005ef9;
+ text-decoration: none;
+ line-height: 18px;
+}
+.newst1,a.newst1:hover {
+ color: #FEC34E;
+ text-decoration: none;
+}
+.newsred1,a.newsred1:hover {
+ color: #FF8D12;
+ text-decoration: none;
+}
+.newstop {color: #333333;text-decoration: none;line-height: 15px;}
+a.newstop:hover {color:#333333;text-decoration:  underline;}
+.newstop2 {color: #333333;text-decoration: none;line-height: 18px;}
+a.newstop2:hover {color:#333333;text-decoration:  underline;}
+.navigater {color: #333333;text-decoration: none;line-height: 19px;font-size: 12px;}
+a.blue:hover{color:#cc0000;}
+a.navigater:hover{color:#cc0000;}
+.news_img {border-color: #000000;}
+.newsblue0,a.newsblue0:visited {font-size: 14px;line-height: 21px;color: #0F0CBF;}
+a.newsblue1:visited,a.newsblue2:visited,a.newsblue3:visited,a.newsblue4:visited {color:#800080}
+.ui_nav1,a.ui_nav1:visited {color: #D91200;line-height:20px;text-decoration: none;}
+a.ui_nav1:hover{color: #D91200;text-decoration:underline;}
+.img{border:#000000 1px solid;}
+.img1{border:#00468C 1px solid;}
+.newsblue4 {
+ font-size: 14px;
+ line-height: 23px;
+ color: #3935C2;
+}
+td.setitem1{font-size:14px;color:#000000;padding-top:2px}
+td.setitem2{font-size:14px;color:#000000;padding-top:4px}
+</style>
+<sohu_cms_include:subject_style> </sohu_cms_include>
+</head>
+<body topmargin=4 leftmargin=0>
+<center>
+<SohuHeaderCode>
+<!-- begin sohu_news_head_news-->
+<sohu_cms_include:sohu_news_head_news><style type=text/css>
+.ui_top{color:#000000;font-size:12px;line-height:18px;}
+.ui_top a:link{color:#000000;text-decoration:none;}
+.ui_top a:visited{color:#000000;text-decoration:none;}
+.ui_top a:hover {color:#000000;text-decoration:underline;}
+
+.up1 {color:656565;line-height:18px;font-size:12px}
+.up1 td{color:#656565;line-height:18px;font-size:12px}
+.up1 A:link {color:#656565;text-decoration:none;line-height:18px;font-size:12px}
+.up1 A:Visited {color:#656565;text-decoration:none;}
+.up1 A:Hover {color:#656565;TEXT-DECORATION: underline;}
+</style>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=87><img src=http://images.sohu.com/uiue/sohu_logo/2005/sohu_logo2.gif height=22 border=0></td>
+<td bgcolor=#EFEBEF><a href=http://news.sohu.com><img src="http://images.sohu.com/uiue/sohu_logo/2005/news_logo2.gif" height="22" border="0"></a></td>
+<td align=right class=ui_top valign=bottom bgcolor=#EFEBEF><a href=http://www.sohu.com/>搜狐首页</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://news.sohu.com/>新闻</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://sports.sohu.com/>体育</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://yule.sohu.com/>娱乐</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://business.sohu.com/>财经</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://it.sohu.com/>IT</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://auto.sohu.com/>汽车</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://house.sohu.com/>房产</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://women.sohu.com/>女人</a><font style="font-size:4px"> </font><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://sms.sohu.com/>短信</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://mms.sohu.com/>彩信</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://alumni.sohu.com/ >校友录</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://login.mail.sohu.com/>邮件</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://store.sohu.com/>商城</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://club.sohu.com/>BBS</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://www.sogou.com/
+><font color=#ff0000>搜狗</font></a>&nbsp;</td></tr>
+<tr><td height=3 colspan=3><img src=http://images.sohu.com/ccc.gif width=1 height=1></td></tr>
+</table>
+<!--sohu_top:end--> </sohu_cms_include>
+<!--end of sohu_news_head_news-->
+<!--begin sohu_news_banner-->
+<sohu_cms_include:sohu_news_banner><style>
+.setwhite{color: #ffffff}
+
+A.setwhite:link {font-size:12px;text-decoration: none; color: #ffffff} 
+
+A.setwhite:visited {font-size:12px;text-decoration: none; color: #ffffff} 
+
+A.setwhite:active {font-size:12px;text-decoration: none} 
+
+A.setwhite:hover {font-size:12px;text-decoration: underline; color: #ffffff}
+</style>
+<table width=760 border=0 cellpadding=0 cellspacing=1 bgcolor=#355F8C>
+	<tr><td bgcolor=#355F8C class=a01 align=center height=22>
+	<a href="http://news.sohu.com/guoneixinwen.shtml" class=setwhite target=_blank>国内</a> | 
+	<a href="http://news.sohu.com/guojixinwen.shtml" class=setwhite target=_blank>国际</a> | 
+	<a href="http://news.sohu.com/shehuixinwen.shtml" class=setwhite target=_blank>社会</a> | 
+	<a href="http://mil.news.sohu.com/" class=setwhite target=_blank>军事</a> | 
+	<a href="http://star.news.sohu.com/" class=setwhite target=_blank>评论</a> | 
+	<a href="http://news.sohu.com/difangxinweng.shtml" class=setwhite target=_blank>地方</a> | 
+	<a href="http://people.business.sohu.com/" class=setwhite target=_blank>人物</a> | 
+	<a href="http://club.sohu.com/more/fangtan/index.htm" class=setwhite target=_blank>嘉宾访谈</a> | 
+	<a href="http://media.news.sohu.com/" class=setwhite target=_blank>传媒地图</a> | 
+	<a href="http://news.sohu.com/1/0402/03/subject200480346.shtml" class=setwhite target=_blank>热点排行</a>  | 
+	<a href="http://index.news.sohu.com/zhuanti/zhuanti_index.php" class=setwhite target=_blank>专题</a> | 
+	<a href="http://club.news.sohu.com" class=setwhite target="_blank">百姓论坛</a> | 
+	<a href="http://pic.news.sohu.com" class=setwhite target="_blank">图吧</a> | 
+	<a href="http://news.sohu.com/news_scrollnews.shtml" class=setwhite target=_blank>滚动</a> 
+	</td></tr>
+</table><img src=http://images.sohu.com/ccc.gif width=1 height=3><br> </sohu_cms_include>
+<!--end of sohu_news_banner-->
+</SohuHeaderCode><SohuNaviCode></SohuNaviCode>
+<img src=/images/city_c.gif width=1 height=5><br>
+<table width=760 cellspacing=0 cellpadding=0 border=0>
+<tr>
+<td width=590 valign=top align=center background=/images/city_df201.gif>
+ <!-------地方新闻---------->
+ <table width=590 cellspacing=0 cellpadding=0 border=0>
+ <tr><td colspan=3 height=3 bgcolor=#00468C></td></tr>
+ <tr>
+ <td width=232 rowspan=2 height=40>
+<!--begin of sohu_news_subject_frag1-->
+<sohu_cms_include:sohu_news_subject_frag1><img src=http://photo.sohu.com/57/75/Img215187557.gif width=232 height=40> </sohu_cms_include>
+<!--end of sohu_news_subject_frag1-->
+</td>
+ <td width=30 rowspan=2 valign=top><img src=/images/city_df102.gif width=30 height=40></td>
+ <td width=328 height=8 bgcolor=#B9DAF3></td>
+ </tr>
+ <tr><td width=328 height=32 align=right valign=bottom>
+<script language="JavaScript">
+  var today = new Date();
+  var seconds = today.getSeconds();
+  function rand(){return(seconds%2);}
+  function linkto(){location.href = (rand()?'http://www.sohu.com':'http://www.sohu.com');}
+  var enabled = 0;   today = new Date();var day;
+  var date;if(today.getDay()==0) day = "星期日";
+  if(today.getDay()==1)     day = "星期一";
+  if(today.getDay()==2)     day = "星期二";
+  if(today.getDay()==3)     day = "星期三";
+  if(today.getDay()==4)     day = "星期四";
+  if(today.getDay()==5)     day = "星期五";
+  if(today.getDay()==6)     day = "星期六";
+  if (today.getYear() < 1900) {
+   date = (today.getYear()+1900)  + "年" + (today.getMonth() + 1 ) + "月" + today.getDate() + "日  " + " " + day ;}
+  else {
+    date = (today.getYear())  + "年" + (today.getMonth() + 1 ) + "月" + today.getDate() + "日  " + " " + day;
+  }
+  document.write(date+"");
+</script>
+</td></tr>
+ </table>
+ <table width=590 cellspacing=0 cellpadding=0 border=0>
+ <tr>
+ <td width=232 valign=top align=center>
+  <!-----big pic-------->
+<!--begin sohu_news_subject_frag2-->
+<sohu_cms_include:sohu_news_subject_frag2><TABLE height=240 cellSpacing=0 cellPadding=0 width=200 border=0>
+<TBODY>
+<TR>
+  <TD height=17 bgcolor="#E7F4FF"> </TD>
+</TR>
+<TR>
+<TD height=176 bgcolor="#E7F4FF"><a href="http://news.sohu.com/20050519/n225622125.shtml"
+target=blank><img class=img height=156 alt=三峡博物馆票价听证会
+src="http://photocdn.sohu.com/20050519/Img225625457.gif" 
+width=210 border=0></a> </TD>
+</TR>
+
+<TR>
+<TD align=middle height=19><A class=newsblue2 
+
+href="http://news.sohu.com/20050519/n225622125.shtml"
+target=_blank>三峡博物馆票价听证会 
+     </A></TD></TR>
+<TR>
+<TD align=middle height=28>
+<P align=right><FONT color=#0000ff>更多重庆图片：<A 
+
+href="http://news.sohu.com/1/0704/59/subject220895990.shtml" target=_blank>时政</A> <A 
+
+href="http://news.sohu.com/1/0704/60/subject220896017.shtml" 
+
+target=_blank>社会</A></FONT></P></TD></TR></TBODY></TABLE> </sohu_cms_include>
+<!--end of sohu_news_subject_frag2-->
+</td>
+ <td width=358 valign=top>
+  <!-----地方新闻列表-------->
+  <table width=358 cellspacing=0 cellpadding=0 border=0>
+  <tr><td width=15 height=1></td><td width=333 background=/images/city_df202.gif></td></tr>
+  <tr><td colspan=2 height=20></td></tr>
+  </table>
+  <table width=335 cellspacing=0 cellpadding=0 border=0>
+  <tr><td>
+<!--begin sohu_localnews_list-->
+<sohu_cms_include:sohu_localnews_list><li><a href="http://news.sohu.com/20050701/n226147488.shtml"  target=_blank  class=newsblue4>重庆奉节矿难导致5死 矿主欲私了瞒报实情出逃</a></li>
+
+<li><a href="http://news.sohu.com/20050628/n226104135.shtml"  target=_blank  class=newsblue4>重庆市抓获公安部A级嫌犯 破获海南三亚8年悬案</a></li>
+
+<li><a href="http://news.sohu.com/20050627/n226094153.shtml"  target=_blank  class=newsblue4>重庆巫溪岩体崩塌险情排除 险区3万余人返家园</a></li>
+
+<li><a href="http://news.sohu.com/20050627/n226090157.shtml"  target=_blank  class=newsblue4>重庆公开销毁500余公斤毒品 10条警犬守护(图)</a></li>
+
+<li><a href="http://news.sohu.com/20050624/n226063669.shtml"  target=_blank  class=newsblue4>重庆现网络色情聊天室 美女“裸聊”月挣三四千</a></li>
+
+<li><a href="http://news.sohu.com/20050624/n226063566.shtml"  target=_blank  class=newsblue4>重庆巫溪昨晚炸石坝排险 堰塞湖第一爆成功(图)</a></li>
+
+<li><a href="http://news.sohu.com/20050623/n226050703.shtml"  target=_blank  class=newsblue4>重庆明日以雷阵雨天气为主 气温下降至29度左右</a></li>
+
+<li><a href="http://news.sohu.com/20050623/n226049547.shtml"  target=_blank  class=newsblue4>重庆巫溪排爆引发岩体垮塌 四千人紧急转移(图)</a></li>
+
+<li><a href="http://news.sohu.com/20050622/n226034636.shtml"  target=_blank  class=newsblue4>重庆市商委出台新规范 遏制商场促销五大陷阱</a></li>
+
+<li><a href="http://news.sohu.com/20050622/n226034534.shtml"  target=_blank  class=newsblue4>重庆警方连破大宗毒品案 缴获海洛因近20公斤</a></li>
+
+<li><a href="http://news.sohu.com/20050616/n225959926.shtml"  target=_blank  class=newsblue4>重庆渝中区发现蒋介石签发民国警察任职令(图)</a></li>
+
+<li><a href="http://news.sohu.com/20050616/n225959922.shtml"  target=_blank  class=newsblue4>重庆市吸毒人数全国第六 将建立禁毒志愿者队伍</a></li>
+
+<li><a href="http://news.sohu.com/20050614/n225930601.shtml"  target=_blank  class=newsblue4>重庆直辖八年的辉煌历程一：发展动力明显增强</a></li>
+
+<li><a href="http://news.sohu.com/20050614/n225928760.shtml"  target=_blank  class=newsblue4>图：重庆市繁华地段朝天门挂市长峰会倒计时牌</a></li> </sohu_cms_include>
+<!--end of  sohu_localnews_list-->
+  </td></tr>
+  </table>
+ </td></tr>
+ </table></td>
+<td width=10></td>
+<td width=160 valign=top align=center background=/images/city_df203.gif>
+ <!------天气预报-------->
+<!--begin of sohu_news_subject_frag14-->
+<sohu_cms_include:sohu_news_subject_frag14><table width=160 cellspacing=0 cellpadding=0 border=0>
+	<tr><td height=1 bgcolor=#5988B8></td></tr>
+	</table>
+	<table width=158 cellspacing=0 cellpadding=0 border=0>
+	<tr><td height=23 bgcolor=#AACCFF align=center class=setitem1>天气预报</td></tr>
+	</table>
+	<img src=images/c.gif width=1 height=8><br>
+	<IFRAME marginWidth=0 marginHeight=0 src="http://weather.news.sohu.com/htm/forecast_index.htm" frameBorder=0 width=144 scrolling=no height=190></IFRAME><br><img src=images/c.gif width=1 height=16> </sohu_cms_include>
+<!--end of sohu_news_subject_frag14-->
+ <img src=/images/city_c.gif width=1 height=16><br>
+ <!------短信订阅-------->
+<!--begin of sohu_news_subject_frag4-->
+<sohu_cms_include:sohu_news_subject_frag4><!-----短信订阅开始--------->
+<style>
+.newsbluesms {
+ font-size: 12px;
+ color: #002DF0;
+ text-decoration: none;
+}
+</style>
+<script language=javascript>
+<!--
+function fastbook_with_mms(fm) {
+	var usernumber;
+	if (fm.usernumber)
+	{
+		usernumber = fm.usernumber.value;
+	}
+	else
+	{
+		usernumber = "";
+	}
+	var url="http://sms.sohu.com/book/fastbook2.php?me=1&usernumber="+usernumber+"&";
+	for (i=0;i<fm.recv.length;i++)
+	{
+		if(fm.recv[i].checked == true)
+		{ 
+			url=url+"rec[]="+fm.recv[i].value+"&";
+		}
+	}
+	window.open(url,'','width=400 height=470,resizable=yes');
+	return (false);
+}
+-->
+</script>
+
+<table width=158 cellspacing=0 cellpadding=0 border=0>
+	<tr><td height=24 bgcolor=#AACCFF align=center class=setitem1>短信订阅</td></tr>
+	</table>
+	<img src=images/c.gif width=1 height=10><br>
+<table width=154 cellspacing=1 cellpadding=0 border=0 bgcolor=#ffffff>
+<FORM name=book action='' onsubmit='return fastbook_with_mms(this);' method=post>
+<input type=hidden name=comefrom value=''>
+<input type="hidden" name="me" value="1" >
+  <tr>
+	<td width=68 height=26 bgcolor=#D9EAFB ><input type=checkbox  name=recv  value="22"><a href="http://sms.sohu.com/book/book.php?id=22" target="_blank"  style="font-size:9pt" class=newsbluesms>焦点新闻</a> </td>
+	<td width=73 bgcolor=#D9EAFB align=center class=newsbluesms><input type="checkbox" name=recv value="180"><a href="http://sms.sohu.com/book/book.php?id=180" target="_blank"  style="font-size:9pt" class=newsbluesms>闪电新闻</a></td>
+	</tr>
+	<tr>
+	<td height=26 bgcolor=#D9EAFB align=center class=newsblue2 width="68"><input type="checkbox" name=recv value="110"><a href="http://sms.sohu.com/book/book.php?id=110" target="_blank"  style="font-size:9pt" class=newsbluesms>情趣笑话</a></td>
+	<td bgcolor=#D9EAFB align=center class=newsbluesms width="73"><input type="checkbox" name=recv value="23"><a href="http://sms.sohu.com/book/book.php?id=23" target="_blank"  style="font-size:9pt" class=newsbluesms>社会新闻</a></td>
+	</tr>
+	<tr>
+	<td height=26 bgcolor=#D9EAFB align=center class=newsblue2 width="68"><input type="checkbox" name=recv value="77"><a href="http://sms.sohu.com/book/book.php?id=77" target="_blank"  style="font-size:9pt" class=newsbluesms>体育新闻</a></td>
+	<td bgcolor=#D9EAFB align=center class=newsbluesms width="73"> 
+      <input type=submit value="订阅"></td>
+	</tr>
+	<tr><td colspan=3 height=23 bgcolor=#D9EAFB align=center><a href=http://sms.sohu.com/book/ target=_blank class=newsbluesms>更多短信订阅..>></a></td></tr>
+	<tr><td colspan=3 height=23 bgcolor=#D9EAFB align=center><a href=http://sms.sohu.com/mo/mo.php target=_blank  class=newsbluesms>点播短信</a>  <a href=http://sms.sohu.com/help/index2.php  target=_blank class=newsbluesms>帮助信息</a></td></tr>
+</form>
+	</table>
+<!-----短信订阅结束---------> </sohu_cms_include>
+<!--end of sohu_news_subject_frag4-->
+<!--begin of sohu_news_subject_frag5-->
+<sohu_cms_include:sohu_news_subject_frag5> </sohu_cms_include>
+<!--end of sohu_news_subject_frag5-->
+</td>
+</tr>
+<tr><td height=5></td><td></td><td background=/images/city_df203.gif></td></tr>
+</table>
+<!--begin of sohu_news_subject_frag6-->
+<sohu_cms_include:sohu_news_subject_frag6>    </sohu_cms_include>
+<!--end of sohu_news_subject_frag6-->
+<!-------横切２---------->
+<!--begin of sohu_news_subject_frag7-->
+<sohu_cms_include:sohu_news_subject_frag7> </sohu_cms_include>
+<!--end of sohu_news_subject_frag7-->
+<!--begin of sohu_news_subject_frag9-->
+<sohu_cms_include:sohu_news_subject_frag9> </sohu_cms_include>
+<!--end of sohu_news_subject_frag9-->
+<!-------横切3---------->
+<table width=760 cellspacing=0 cellpadding=0 border=0>
+<tr>
+<td width=590 valign=top align=center background=/images/city_dfbg.gif>
+ <table width=588 cellspacing=0 cellpadding=0 border=0>
+ <tr>
+ <td width=54 height=24 align=right background=/images/city_df301.gif valign=bottom><img src=/images/city_df302.gif
+border=0></td>
+ <td width=96 align=center class=setitem2 background=/images/city_df303.gif>
+<!--begin of sohu_news_subject_frag10-->
+<sohu_cms_include:sohu_news_subject_frag10>全部重庆新闻 </sohu_cms_include>
+<!--end of sohu_news_subject_frag10-->
+</td>
+ <td width=438 background=/images/city_df301.gif valign=bottom><img src=/images/city_df304.gif border=0></td>
+ </tr>
+<table width=560 cellspacing=0 cellpadding=0 border=0><tr><td height=20></td></tr><tr><td>
+<!--begin of sohu_news_subject_frag11-->
+<sohu_cms_include:sohu_news_subject_frag11><iframe src="http://news2.search.sohu.com/lns/html/21.htm" frameborder=0 height=1450 marginwidth=0 scrolling=no width=560></iframe> </sohu_cms_include>
+<!--end of sohu_news_subject_frag11-->
+</td></tr>
+<tr><td height=1 align=right>&nbsp;</td></tr>
+</table>
+</td>
+<td width=10></td>
+<td width=160 valign=top align=center background=/images/city_df203.gif>
+ <!------地方新闻-------->
+<!--begin of sohu_news_localnews_frag1-->
+<sohu_cms_include:sohu_news_localnews_frag1><TABLE cellSpacing=0 cellPadding=0 width=158 border=0>
+<TBODY>
+<TR>
+<TD class=setitem1 align=middle bgColor=#aaccff height=24><A class=black2 href="http://news.sohu.com/difang.shtml">地方新闻</A></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=158 border=0>
+<TBODY>
+<TR>
+<TD height=11></TD></TR>
+<TR>
+<TD style="FONT-WEIGHT: bold; TEXT-INDENT: 10px" bgColor=#e7f2fd height=20>华北： <SELECT onchange="javascript:window.open(this.value,'_blank','')" name=select> <OPTION value=# selected>华北　</OPTION> <OPTION value=http://news.sohu.com/beijing.shtml>北京</OPTION> <OPTION value=http://news.sohu.com/tianjin.shtml>天津</OPTION> <OPTION value=http://news.sohu.com/hebei.shtml>河北</OPTION> <OPTION value=http://news.sohu.com/shanxi.shtml>山西</OPTION> <OPTION value=http://news.sohu.com/neimenggu.shtml>内蒙古</OPTION></SELECT> </TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=158 border=0>
+<TBODY>
+<TR>
+<TD height=11></TD></TR>
+<TR>
+<TD style="FONT-WEIGHT: bold; TEXT-INDENT: 10px" bgColor=#e7f2fd height=20>东北： <SELECT onchange="javascript:window.open(this.value,'_blank','')" name=select> <OPTION value=# selected>东北　</OPTION> <OPTION value=http://news.sohu.com/liaoning.shtml>辽宁</OPTION> <OPTION value=http://news.sohu.com/jilin.shtml>吉林</OPTION> <OPTION value=http://news.sohu.com/heilongjiang.shtml>黑龙江</OPTION></SELECT> </TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=158 border=0>
+<TBODY>
+<TR>
+<TD height=11></TD></TR>
+<TR>
+<TD style="FONT-WEIGHT: bold; TEXT-INDENT: 10px" bgColor=#e7f2fd height=20>华东： <SELECT onchange="javascript:window.open(this.value,'_blank','')" name=select> <OPTION value=# selected>华东　</OPTION> <OPTION value=http://news.sohu.com/shanghai.shtml>上海</OPTION> <OPTION value=http://news.sohu.com/shandong.shtml>山东</OPTION> <OPTION value=http://news.sohu.com/anhui.shtml>安徽</OPTION> <OPTION value=http://news.sohu.com/jiangsu.shtml>江苏</OPTION> <OPTION value=http://news.sohu.com/zhejiang.shtml>浙江</OPTION> <OPTION value=http://news.sohu.com/jiangxi.shtml>江西</OPTION> <OPTION value=http://news.sohu.com/fujian.shtml>福建</OPTION> <OPTION value=http://news.sohu.com/taiwan.shtml>台湾</OPTION></SELECT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=158 border=0>
+<TBODY>
+<TR>
+<TD height=11></TD></TR>
+<TR>
+<TD style="FONT-WEIGHT: bold; TEXT-INDENT: 10px" bgColor=#e7f2fd height=20>中南： <SELECT onchange="javascript:window.open(this.value,'_blank','')" name=select> <OPTION value=# selected>中南　</OPTION> <OPTION value=http://news.sohu.com/henan.shtml>河南</OPTION> <OPTION value=http://news.sohu.com/hubei.shtml>湖北</OPTION> <OPTION value=http://news.sohu.com/hunan.shtml>湖南</OPTION> <OPTION value=http://news.sohu.com/guangdong.shtml>广东</OPTION> <OPTION value=http://news.sohu.com/guangxi.shtml>广西</OPTION> <OPTION value=http://news.sohu.com/hainan.shtml>海南</OPTION> <OPTION value=http://news.sohu.com/hongkong.shtml>香港</OPTION> <OPTION value=http://news.sohu.com/macau.shtml>澳门</OPTION></SELECT> </TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=158 border=0>
+<TBODY>
+<TR>
+<TD height=11></TD></TR>
+<TR>
+<TD style="FONT-WEIGHT: bold; TEXT-INDENT: 10px" bgColor=#e7f2fd height=20>西北： <SELECT onchange="javascript:window.open(this.value,'_blank','')" name=select> <OPTION value=# selected>西北　</OPTION> <OPTION value=http://news.sohu.com/xian.shtml>陕西</OPTION> <OPTION value=http://news.sohu.com/ningxia.shtml>宁夏</OPTION> <OPTION value=http://news.sohu.com/gansu.shtml>甘肃</OPTION> <OPTION value=http://news.sohu.com/qinghai.shtml>青海</OPTION> <OPTION value=http://news.sohu.com/xinjiang.shtml>新疆</OPTION></SELECT> </TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=158 border=0>
+<TBODY>
+<TR>
+<TD height=11></TD></TR>
+<TR>
+<TD style="FONT-WEIGHT: bold; TEXT-INDENT: 10px" bgColor=#e7f2fd height=20>西南： <SELECT onchange="javascript:window.open(this.value,'_blank','')" name=select> <OPTION value=# selected>西南　</OPTION> <OPTION value=http://news.sohu.com/chongqing.shtml>重庆</OPTION> <OPTION value=http://news.sohu.com/sichuan.shtml>四川</OPTION> <OPTION value=http://news.sohu.com/yunnan.shtml>云南</OPTION> <OPTION value=http://news.sohu.com/guizhou.shtml>贵州</OPTION> <OPTION value=http://news.sohu.com/xizang.shtml>西藏</OPTION></SELECT> </TD></TR></TBODY></TABLE> </sohu_cms_include>
+<!--end  of sohu_news_localnews_frag1-->
+ <!------地方媒体订阅-------->
+<!--begin of sohu_news_subject_frag13-->
+<sohu_cms_include:sohu_news_subject_frag13><table width=158 cellspacing=0 cellpadding=0 border=0>
+	<tr>
+    <td height=24 bgcolor=#AACCFF align=center class=setitem1>各地高校信息查询</td>
+  </tr>
+	</table>
+	<table width=146 cellspacing=0 cellpadding=0 border=0>
+	<tr><td height=12>
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr>
+          <td width="9%">·</td>
+          <td width="91%"><a href="http://learning.sohu.com/98/08/blank209510898.shtml" target="_blank">重庆高校信息</a></td>
+        </tr>
+        <tr>
+          <td width="9%">·</td>
+          <td width="91%"><a href="http://act1.campus.sohu.com/school/" target="_blank">大学城查询</a></td>
+        </tr>
+        <tr>
+          <td width="9%">·</td>
+          <td width="91%"><a href="http://club.sohu.com/campus/" target="_blank">校园论坛</a></td>
+        </tr>
+      </table>
+    </td></tr>
+	<tr><td style="color:#2521BF;line-height:19px"> 
+</td></tr>
+</table>
+		
+
+
+
+
+<table border=0 cellpadding=0 cellspacing=0 width=98% background=''>
+          <tr bgcolor="#CCCCCC" align="center"> 
+            <td height=23 align=center class=newstitle 
+
+bordercolor="#A3C8E6" 
+
+bgcolor="#A3C8E6"><font color=red><b>合作媒体</b></font></td>
+          </tr>
+        </table>
+        <table border=0 cellspacing=0 width=146 background=''>
+          <tr> 
+            <td height=8 colspan=2><img 
+
+src=http://news.sohu.com/images030610//c.gif width=1 
+
+height=3></td>
+          </tr>
+
+
+
+
+
+
+<TR align=middle>
+<TD><A href="http://www.cqqnb.com/" target=_blank><IMG 
+
+src="http://photo.sohu.com/15/45/Img212024515.gif" width=100 
+
+align=bottom 
+
+border=0></A><BR><BR></TD></TR>
+
+<TR align=middle>
+<TD><A href="http://www.cqcb.com/gb/newscenter/node_2.htm" target=_blank><IMG 
+
+src="http://photo.sohu.com/2004/07/02/99/Img220829975.gif" width=100 
+
+align=bottom 
+
+border=0></A><BR><BR></TD></TR>
+
+<TR align=middle>
+<TD><A href="http://www2.cqnews.net/cqrb/index.aspx" target=_blank><IMG 
+
+src="http://photo.sohu.com/2004/05/24/93/Img220239370.gif" width=100 
+
+align=bottom 
+
+border=0></A><BR><BR></TD></TR>
+
+<TR align=middle>
+<TD><A href="http://www.cqwb.com.cn/" target=_blank><IMG 
+
+src="http://photo.sohu.com/17/21/Img205962117.gif" width=100 
+
+align=bottom 
+
+border=0></A><BR><BR></TD></TR>
+
+
+<TR align=middle>
+<TD><A href="http://www.chinacqsb.com/" target=_blank><IMG 
+
+src="http://photo.sohu.com/2004/03/29/73/Img219647321.gif" width=100 
+
+align=bottom 
+
+border=0></A><BR><BR></TD></TR>
+<TBODY>
+<TR>
+<TD><MAP name=FPMap0><AREA shape=RECT target=_blank coords=9,127,66,147 href="http://news.sohu.com/6/0604/70/blank220347055.shtml"><AREA shape=RECT target=_blank coords=72,129,133,147 href="http://images.sohu.com/sol/toolbar/VSet/SohuToolBand.exe"><AREA shape=RECT target=_blank coords=8,152,65,171 href="http://news.sohu.com/toolbar/"><AREA shape=RECT target=_blank coords=74,155,126,171 href="http://news.sohu.com/6/0504/04/blank220300487.shtml"><AREA shape=RECT target=_blank coords=10,12,129,60 href="http://news.sohu.com/toolbar/"></MAP>
+<P align=left><IMG style="WIDTH: 147px; HEIGHT: 180px" height=180 src="http://photo.sohu.com/2004/07/05/64/Img220856491.jpg" width=140 useMap=#FPMap0 border=0></P></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=158 border=0>
+<TBODY>
+
+
+
+
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ </sohu_cms_include>
+<!--end of sohu_news_subject_frag13-->
+</td>
+</tr>
+<tr>
+<td height=1 bgcolor=#5988B8></td>
+<td></td>
+<td valign=top  bgcolor=#5988B8></td>
+</tr>
+</table>
+<SohuFooterCode>
+<br><br>
+<!--begin of sohu_news_copyright-->
+<sohu_cms_include:sohu_news_copyright><br>
+<script language="javascript" src="http://www.sohu.net/common/sohunettail_local.js"></script>
+<hr size="1" width="760" noshade>
+<table width=760 border=0 cellspacing=0 cellpadding=0>
+  <tr> 
+    <td align=center><a href=http://www.chinaren.com/  class="black" target=_blank>ChinaRen</a> - <a
+href=http://hr.sohu.com/hrm.html class="black" target=_blank>搜狐招聘</a> - <a
+href=http://add.sohu.com/ class="black" target=_blank>网站登录</a> - <a href=http://help.sohu.com/ class="black" target=_blank>帮助中心</a> 
+      - <a
+href="" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sohu.com');return false;" class="black" target=_blank>设置首页</a> - <a
+href=http://adinfo.sohu.com class="black" target=_blank>广告服务</a> - <a
+href=http://www.sohu.com/about/lianxi.htm class="black" target=_blank>联系方式</a> - <a
+href=http://www.sohu.com/about/privacy.html class="black" target=_blank>保护隐私权</a> - <a href="http://www.sohu.com/about/English" class="black" target=_blank>About SOHU</a> - <a href=http://www.sohu.com/about/  class="black" target=_blank>公司介绍</a><br>
+      <span class=eng>Copyright &copy; 2005 Sohu.com Inc. All rights reserved. 
+      搜狐公司 <a href=http://www.sohu.com/about/copyright.html target=_blank class=black>版权所有</a></span></td>
+  </tr>
+</table><p></p>
+<script language="JavaScript" src="http://nielsen.js.sohu.com/nnselect.js">
+</script>
+<noscript>
+<img src='http://ping.nnselect.com/ping.gif?c=119' height='1' width='1'>
+</noscript> </sohu_cms_include>
+<!--end of sohu_news_copyright-->
+</SohuFooterCode>
+</center>
+</body>
+</html>
+
+
+

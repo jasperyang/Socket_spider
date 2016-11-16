@@ -1,0 +1,316 @@
+HTTP/1.1 200 OK
+Date: Tue, 15 Nov 2016 07:20:24 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips
+Last-Modified: Wed, 28 Oct 2015 02:40:00 GMT
+Accept-Ranges: bytes
+Content-Length: 40121
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+
+
+<html>
+<head>
+<script src="http://www.sohu.com/sohuflash_1.js" type=text/javascript></script>
+<title>奇闻趣事-搜狐新闻</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<style type=text/css>
+.ui_top{color:#000000;font-size:12px;line-height:18px;}
+.ui_top a:link{color:#000000;text-decoration:none;}
+.ui_top a:visited{color:#000000;text-decoration:none;}
+.ui_top a:hover {color:#000000;text-decoration:underline;}
+
+.up1 {color:656565;line-height:18px;font-size:12px}
+.up1 td{color:#656565;line-height:18px;font-size:12px}
+.up1 A:link {color:#656565;text-decoration:none;line-height:18px;font-size:12px}
+.up1 A:Visited {color:#656565;text-decoration:none;}
+.up1 A:Hover {color:#656565;TEXT-DECORATION: underline;}
+
+td,body,input,select {font-size: 12px;color:#333333;}
+a:hover {color:#005EF9;text-decoration: underline;}
+
+
+.eng {font-size: 11px; font-family: arial,helvetica}
+.white {font-size: 12px;color: #FFFFFF;	text-decoration: none;}
+.treeline{font-size: 12px;color: #54DEFF;	text-decoration: none;}
+
+a.white:hover {color:#FFEFA5}
+
+.blue {	text-decoration: underline;color:#000099;line-height: 18px;}
+
+.finput {BORDER-RIGHT: 0px ridge;BORDER-TOP: 1px ridge #727272;	BORDER-LEFT: 1px ridge #727272;	BORDER-BOTTOM: 0px ridge;font-size: 12px;}
+.black {
+	color: #333333;
+	text-decoration: none;
+	line-height: 19px;
+	font-size: 12px;
+}
+.black2 {color: #333333;text-decoration: none;line-height: 15px;}
+.foxinput {BORDER-RIGHT: 1px ridge; BORDER-TOP: #ffffff 1px ridge; BORDER-LEFT: #ffffff 1px }
+
+.newstitle {
+	font-size: 14px;
+	color: #000000;
+	text-decoration: none;
+	line-height: 22px;
+}
+.gray {	font-size: 12px;line-height: 20px;color: #656565;text-decoration: none;}
+.newsblue1 {
+	font-size: 14px;
+	line-height: 21px;
+	color: #0F0CBF;
+}
+.newsblue2 {
+	font-size: 12px;
+	color: #002DF0;
+	text-decoration: none;
+}
+.newsblue3 {
+	font-size: 12px;
+	color: #0F0CBF;
+	line-height: 18px;
+
+}
+.newsblue4 {
+	font-size: 14px;
+	line-height: 23px;
+	color: #0F0CBF;
+}
+li {
+	margin-left: 10px;
+	list-style-type: square;
+	list-style-image: url(/nimages/cc_blue.gif);
+
+
+
+}
+.yellow1 {
+	font-size: 12px;
+	color: #FFD98F;
+}
+.newsblue5 {
+	color: #005ef9;
+	text-decoration: none;
+	line-height: 18px;
+
+}
+.newst1,a.newst1:hover {
+	color: #FEC34E;
+	text-decoration: none;
+}
+.newsred1,a.newsred1:hover {
+	color: #FF8D12;
+	text-decoration: none;
+}
+.newstop {color: #333333;text-decoration: none;line-height: 15px;}
+a.newstop:hover {color:#333333;text-decoration:  underline;}
+.newstop2 {color: #333333;text-decoration: none;line-height: 18px;}
+a.newstop2:hover {color:#333333;text-decoration:  underline;}
+.navigater {color: #333333;text-decoration: none;line-height: 19px;font-size: 12px;}
+a.blue:hover{color:#cc0000;}
+a.navigater:hover{color:#cc0000;}
+.news_img {border-color: #000000;}
+.newsblue0,a.newsblue0:visited {font-size: 14px;line-height: 21px;color: #0F0CBF;}
+a.newsblue1:visited,a.newsblue2:visited,a.newsblue3:visited,a.newsblue4:visited {color:#800080}
+.ui_nav1,a.ui_nav1:visited {color: #D91200;line-height:20px;text-decoration: none;}
+a.ui_nav1:hover{color: #D91200;text-decoration:underline;}
+
+.newsblue1 A:link{ 
+font-size: 14px;
+	line-height: 21px;
+	color: #0F0CBF;
+}
+.newsblue1 A:hover{ 
+color:#005ef9
+}
+
+.newsblue1 span{ 
+font-size:10px;color:gray
+}</style>
+
+<link href=/wimages/ui.css rel=stylesheet type=text/css>
+
+</head>
+<body topmargin=4 leftmargin=0>
+<center>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr valign=top>
+<td width=114 valign=top><TABLE cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR>
+<TD width=87><IMG height=22 src="http://images.sohu.com/uiue/sohu_logo/2005/sohu_logo2.gif" border=0></TD>
+<TD bgColor=#efebef><A href="http://news.sohu.com"><IMG height=22 src="http://images.sohu.com/uiue/sohu_logo/2006/news_logo2.gif" border=0></A></TD></TR></TBODY></TABLE></td>
+<td width=646 align=right class=ui_top valign=bottom bgcolor=#EFEBEF>
+<style type="text/css">.ui_top a{padding:0 2px 0 2px;}</style>
+	<table cellspacing=0 cellpadding=0 border=0>
+		<tr><td class=ui_top valign=bottom align=right><a href="http://www.sohu.com/">搜狐首页</a>-<a href="http://news.sohu.com/"><font color=#ff0000>新闻</font></a>-<a href="http://sports.sohu.com/">体育</a>-<a href="http://yule.sohu.com/">娱乐</a>-<a href="http://business.sohu.com/"><font color=#ff0000>财经</font></a>-<a href="http://it.sohu.com/">IT</a>-<a href="http://auto.sohu.com/">汽车</a>-<a href="http://house.sohu.com/">房产</a>-<a href="http://home.sohu.com/">家居</a>-<a href="http://women.sohu.com/">女人</a>-<a href="http://tv.sohu.com/">TV</a>-<a href="http://www.chinaren.com">ChinaRen</a>-<a href="http://login.mail.sohu.com/">邮件</a>-<a href="http://blog.sohu.com/">博客</a>-<a href="http://club.sohu.com/">BBS</a>-<a href="http://www.sogou.com">搜狗</font>&nbsp;</td></tr>
+	</table></td></tr>
+</table> 
+	
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr><td height=24 style="text-indent:7px">
+<sohuadcode></sohuadcode>
+</td>
+
+</tr>
+</table>
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=590 valign=top align=left>
+ <!------滚动疴铄-------->
+<table width="590" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td bgcolor="#333333"><img src="/images/cc.gif" width="1" height="1"></td>
+          </tr>
+          <tr> 
+            <td height="26" class=newstitle>
+            <a href=http://news.sohu.com/>新闻中心</a> &gt; <a href=http://news.sohu.com/shehuixinwen.shtml>社会新闻</a> &gt; <a href=http://news.sohu.com/1/0903/63/subject212846373.shtml>社会要闻</a> &gt; <a href=http://news.sohu.com/qiwen.shtml>奇闻趣事</a>
+			</td>
+          </tr>
+          <tr> 
+            <td bgcolor="#333333"><img src="/images/cc.gif" width="1" height="1"></td>
+          </tr>
+          <tr> 
+            <td height="10"><img src="/images/cc.gif" width="1" height="1"></td>
+          </tr>
+        </table>
+
+
+
+ <table width="100%" border="0" align="left">
+
+
+ <tr>
+ <td class=newsblue1> 
+  ·<a href=http://news.sohu.com/20070721/n251179324.shtml target=_blank>趣图：福州内河惊现特大胡子鲶</a><span>(07/21 19:17)</span><br>·<a href=http://news.sohu.com/20070719/n251143760.shtml target=_blank>南京出现第三者委托业务 调查情人夫妻感情 </a><span>(07/19 04:08)</span><br>·<a href=http://news.sohu.com/20070717/n251094872.shtml target=_blank>吉林珲春市一朝鲜族女子长发超过2.20米(组图)</a><span>(07/17 03:10)</span><br>·<a href=http://news.sohu.com/20070716/n251082126.shtml target=_blank>北京市民秀绝活 带眼儿的物件都能“唱歌”(图)</a><span>(07/16 14:13)</span><br>·<a href=http://news.sohu.com/20070716/n251067993.shtml target=_blank>一猫两狗崽共享母爱 狗妈妈努力保护三孩子(图)</a><span>(07/16 07:10)</span><br>·<a href=http://news.sohu.com/20070714/n251056057.shtml target=_blank>贵州一女孩得怪病 服药后全身发痒起红斑(图)</a><span>(07/14 16:33)</span><br>·<a href=http://news.sohu.com/20070713/n251032173.shtml target=_blank>古钱币展陈列辽金“秘戏钱” 为最早性教育(图)</a><span>(07/13 02:07)</span><br>·<a href=http://news.sohu.com/20070712/n251012749.shtml target=_blank>神奇小狗会唱歌 还是男低音(图)</a><span>(07/12 01:06)</span><br>·<a href=http://news.sohu.com/20070710/n250980749.shtml target=_blank>9岁袖珍女形如三月大婴儿 牙齿细小如米粒(图)</a><span>(07/10 10:00)</span><br>·<a href=http://news.sohu.com/20070709/n250988852.shtml target=_blank>新疆七旬翁身上可过电 2分钟烤熟一条活鱼(图)</a><span>(07/09 09:38)</span><br>·<a href=http://news.sohu.com/20070709/n250957439.shtml target=_blank>小猫疑遭老鼠报复 被追杀3夜遍体鳞伤(图)</a><span>(07/09 00:18)</span><br>·<a href=http://news.sohu.com/20070708/n250952520.shtml target=_blank>新疆奇人身上可过电 2分钟能烤熟活鱼(组图)</a><span>(07/08 09:48)</span><br>·<a href=http://news.sohu.com/20070707/n250944027.shtml target=_blank>河北省出生“袖珍”婴儿 出生时仅有700克(图)</a><span>(07/07 05:38)</span><br>·<a href=http://news.sohu.com/20070706/n250928629.shtml target=_blank>辽宁一残疾老人两眼视力0.1 摹刻千片甲骨(图)</a><span>(07/06 08:32)</span><br>·<a href=http://news.sohu.com/20070706/n250926525.shtml target=_blank>北京双胞胎哥俩中考分数也是“双胞胎”(图)</a><span>(07/06 02:21)</span><br>·<a href=http://news.sohu.com/20070704/n250899099.shtml target=_blank>梅花鹿产下龙凤胎 鹿兄妹出生1月寸步不离(图)</a><span>(07/04 10:26)</span><br>·<a href=http://news.sohu.com/20070704/n250895469.shtml target=_blank>河南农民造“篮球电视” 外形像篮球已申报专利</a><span>(07/04 08:54)</span><br>·<a href=http://news.sohu.com/20070703/n250882538.shtml target=_blank>香港大胃王10分钟吃掉12碗叉烧饭 再登冠军宝座</a><span>(07/03 11:21)</span><br>·<a href=http://news.sohu.com/20070702/n250863337.shtml target=_blank>广东一头初生牛犊长有两个头 两头均可进食(图)</a><span>(07/02 10:15)</span><br>·<a href=http://news.sohu.com/20070701/n250851925.shtml target=_blank>3公尺大蟒蛇钻进洗衣机内睡觉(图)</a><span>(07/01 11:12)</span><br>·<a href=http://news.sohu.com/20070628/n250803917.shtml target=_blank>世界第一高人新婚家具亮相 2.8米婚床令人咋舌</a><span>(06/28 07:24)</span><br>·<a href=http://news.sohu.com/20070628/n250802896.shtml target=_blank>探秘蚊子实验室：工作人员不得涂驱蚊用品(图)</a><span>(06/28 05:14)</span><br>·<a href=http://news.sohu.com/20070627/n250796714.shtml target=_blank>老汉面前落下46亿年陨石 相距仅2米远(图)</a><span>(06/27 15:46)</span><br>·<a href=http://news.sohu.com/20070626/n250761683.shtml target=_blank>巨型象牙雕刻杰作首次亮相 87位神仙神态各异</a><span>(06/26 03:11)</span><br>·<a href=http://news.sohu.com/20070624/n250735566.shtml target=_blank>未孕狗妈妈分泌出乳汁哺育猫女儿</a><span>(06/24 05:23)</span><br>·<a href=http://news.sohu.com/20070622/n250720965.shtml target=_blank>宠物蟒走失三天后自己回家</a><span>(06/22 14:59)</span><br>·<a href=http://news.sohu.com/20070621/n250688458.shtml target=_blank>厦门出现“无眼睛”儿童 身体力壮聪明异常(图)</a><span>(06/21 03:35)</span><br>·<a href=http://news.sohu.com/20070620/n250671206.shtml target=_blank>超级“象面人”广州求医 面部巨瘤长过肚脐(图)</a><span>(06/20 08:39)</span><br>·<a href=http://news.sohu.com/20070619/n250650814.shtml target=_blank>广州番禺“十大名鼻”用鼻子监控空气质量(图)</a><span>(06/19 08:42)</span><br>·<a href=http://news.sohu.com/20070619/n250650076.shtml target=_blank>端午节凌晨 新疆阿勒泰出现星月同辉奇观(组图)</a><span>(06/19 08:05)</span><br>·<a href=http://news.sohu.com/20070618/n250636560.shtml target=_blank>江西发现罕见“野生灵芝王” 高达90厘米(图)　</a><span>(06/18 11:48)</span><br>·<a href=http://news.sohu.com/20070617/n250621605.shtml target=_blank>河南郭庄千年楚墓流沙暗石防盗 博弈17伙盗墓贼</a><span>(06/17 16:02)</span><br>·<a href=http://news.sohu.com/20070615/n250579933.shtml target=_blank>七月婴儿食管短一截胃在胸腔 已做手术进行修补</a><span>(06/15 00:27)</span><br>·<a href=http://news.sohu.com/20070614/n250561323.shtml target=_blank>公羊也能每天产奶1斤 专家称是受激素刺激所致</a><span>(06/14 06:44)</span><br>·<a href=http://news.sohu.com/20070614/n250560330.shtml target=_blank>小猫头鹰跌落马路受伤 喜鹊深夜唤来人救命(图)</a><span>(06/14 04:29)</span><br>·<a href=http://news.sohu.com/20070612/n250519406.shtml target=_blank>广东封开发现奇异植物 酷似大虾有两眼突出(图)</a><span>(06/12 09:49)</span><br>·<a href=http://news.sohu.com/20070612/n250516741.shtml target=_blank>入屋盗窃嫌疑人被警察包围 情急之下拨110喊冤</a><span>(06/12 08:41)</span><br>·<a href=http://news.sohu.com/20070612/n250514086.shtml target=_blank>五十年前存下10元钱 现在本息共计多少没人知</a><span>(06/12 05:55)</span><br>·<a href=http://news.sohu.com/20070612/n250512927.shtml target=_blank>泰国“好色”缉毒犬遭解雇 常抱住女性腿不放</a><span>(06/12 02:41)</span><br>·<a href=http://news.sohu.com/20070609/n250482222.shtml target=_blank>江苏镇江农民种出600克重“超级大蒜”（图）</a><span>(06/09 20:36)</span><br>·<a href=http://news.sohu.com/20070607/n250434991.shtml target=_blank>女童患上怪病肚子又大又圆 十年不敢吃饱饭(图)</a><span>(06/07 07:51)</span><br>·<a href=http://news.sohu.com/20070607/n250432823.shtml target=_blank>社区里狗妈妈奶汁喂大流浪猫 狗仔猫仔一起玩 </a><span>(06/07 04:32)</span><br>·<a href=http://news.sohu.com/20070606/n250412039.shtml target=_blank>鼓浪屿上522岁榕树生重病 经园林专家抢救复活</a><span>(06/06 01:32)</span><br>·<a href=http://news.sohu.com/20070604/n250377518.shtml target=_blank>广东一头老黄牛背上长第三个牛角 长8厘米(图)</a><span>(06/04 09:11)</span><br>·<a href=http://news.sohu.com/20070603/n250368678.shtml target=_blank>广州一龄童眼瘤似脑袋 赴京检查后放弃治疗(图)</a><span>(06/03 12:44)</span><br>·<a href=http://news.sohu.com/20070601/n250339097.shtml target=_blank>沈阳八旬老妪肝上长瘤足球大 开刀后体重轻10斤</a><span>(06/01 06:59)</span><br>·<a href=http://news.sohu.com/20070601/n250338970.shtml target=_blank>重庆一武警战士得少林真传 可挥纸币断铅笔(图)</a><span>(06/01 06:37)</span><br>·<a href=http://news.sohu.com/20070531/n250324325.shtml target=_blank>图文：浙江嵊州发现联体壁虎</a><span>(05/31 09:57)</span><br>·<a href=http://news.sohu.com/20070531/n250318370.shtml target=_blank>重庆一男孩特异功能 手脚关节能反向折叠(图)</a><span>(05/31 07:27)</span><br>·<a href=http://news.sohu.com/20070531/n250317023.shtml target=_blank>重庆七旬阿婆圆周率背到五千位 退休前是会计</a><span>(05/31 03:58)</span><br>·<a href=http://news.sohu.com/20070530/n250296179.shtml target=_blank>蚂蚁打群架尸骨堆成山 专家称可能在争地盘(图)</a><span>(05/30 07:24)</span><br>·<a href=http://news.sohu.com/20070529/n250288363.shtml target=_blank>金毛狗听到“卖”字就咬主人衣服</a><span>(05/29 15:01)</span><br>·<a href=http://news.sohu.com/20070529/n250274940.shtml target=_blank>亿岁老石头浇水长白发 好像白发苍苍老人头(图)</a><span>(05/29 07:54)</span><br>·<a href=http://news.sohu.com/20070529/n250272411.shtml target=_blank>四川女孩全身50%皮肤烧伤 医生取猪皮移植(图)</a><span>(05/29 01:34)</span><br>·<a href=http://news.sohu.com/20070528/n250269879.shtml target=_blank>广东万绿湖屡现巨型淡水鱼 拟建水族馆宣传环保</a><span>(05/28 17:42)</span><br>·<a href=http://news.sohu.com/20070528/n250257827.shtml target=_blank>东莞一座大厦被惊雷炸飞一角 火球从楼顶滚落</a><span>(05/28 09:45)</span><br>·<a href=http://news.sohu.com/20070528/n250252153.shtml target=_blank>四川“山顶洞人”终下山 告别51年岩洞蜗居生活</a><span>(05/28 06:58)</span><br>·<a href=http://news.sohu.com/20070528/n250251949.shtml target=_blank>江西上饶发现3亿年前飞碟石(图)</a><span>(05/28 06:29)</span><br>·<a href=http://news.sohu.com/20070526/n250231305.shtml target=_blank>全国西甜瓜擂台赛：新“瓜王”重27.58公斤(图)</a><span>(05/26 01:35)</span><br>·<a href=http://news.sohu.com/20070525/n250221953.shtml target=_blank>温州一工地地下喷出水柱三米高 水停又冒无名火</a><span>(05/25 11:06)</span><br>·<a href=http://news.sohu.com/20070525/n250221569.shtml target=_blank>重庆举办技能大赛 一根头发刻139个繁体字(图)</a><span>(05/25 10:56)</span><br>·<a href=http://news.sohu.com/20070525/n250219861.shtml target=_blank>图文：精彩有趣的“抢包山比赛”</a><span>(05/25 10:06)</span><br>·<a href=http://news.sohu.com/20070525/n250211834.shtml target=_blank>吉林山间发现“悬棺” 主人身份之谜待解开(图)</a><span>(05/25 00:49)</span><br>·<a href=http://news.sohu.com/20070524/n250190092.shtml target=_blank>河北老人用雪糕棍粘成宝塔(图)</a><span>(05/24 03:34)</span><br>·<a href=http://news.sohu.com/20070521/n250130549.shtml target=_blank>采砂工人太阳穴被插入钢筋 消防员锯断钢筋救人</a><span>(05/21 09:34)</span><br>·<a href=http://news.sohu.com/20070521/n250129417.shtml target=_blank>广西梧州出生一个重达5.45公斤巨婴</a><span>(05/21 08:57)</span><br>·<a href=http://news.sohu.com/20070521/n250126738.shtml target=_blank>浙江女孩被大风刮下六楼 紧抓雨伞飘落菜地保命</a><span>(05/21 07:09)</span><br>·<a href=http://news.sohu.com/20070518/n250098894.shtml target=_blank>台湾一名女研究生捐卵赚外快 呼吸衰竭险些送命</a><span>(05/18 14:42)</span><br>·<a href=http://news.sohu.com/20070518/n250088053.shtml target=_blank>台北女子因好奇把笔塞入下体 疼痛难忍只好求医</a><span>(05/18 08:49)</span><br>·<a href=http://news.sohu.com/20070517/n250080374.shtml target=_blank>长沙暴雨引发地陷 地面张大口生吞活人(图)</a><span>(05/17 17:18)</span><br>·<a href=http://news.sohu.com/20070517/n250079047.shtml target=_blank>台北一只会飞的小猪 身心障碍者咖啡坊感动顾客</a><span>(05/17 16:09)</span><br>·<a href=http://news.sohu.com/20070517/n250063297.shtml target=_blank>女子隆胸后右胸比左胸大三倍 专家提醒慎重美容</a><span>(05/17 06:48)</span><br>·<a href=http://news.sohu.com/20070517/n250062156.shtml target=_blank>重庆巨舌男孩接受手术 其舌疑为世界上最长(图)</a><span>(05/17 03:25)</span><br>·<a href=http://news.sohu.com/20070516/n250053067.shtml target=_blank>两只猫“发威”把狗追出两条街 附近狗闻猫丧胆</a><span>(05/16 13:57)</span><br>·<a href=http://news.sohu.com/20070516/n250044511.shtml target=_blank>江西一男子夜入农田抓青蛙 误撞防野猪电网丧命</a><span>(05/16 09:25)</span><br>·<a href=http://news.sohu.com/20070516/n250043836.shtml target=_blank>产妇冒险顺产下11.4斤婴儿(图)</a><span>(05/16 09:12)</span><br>·<a href=http://news.sohu.com/20070515/n250030414.shtml target=_blank>隆兴寺千年古槐惊现“灵芝” 实为近亲树舌(图)</a><span>(05/15 13:54)</span><br>·<a href=http://news.sohu.com/20070515/n250019496.shtml target=_blank>陕西一只猫咪长“天使翅膀” 疑是基因突变(图)</a><span>(05/15 08:07)</span><br>·<a href=http://news.sohu.com/20070514/n250001281.shtml target=_blank>重庆“淑女狗”化妆一次4小时 花费上千元(图)</a><span>(05/14 10:05)</span><br>·<a href=http://news.sohu.com/20070514/n249998760.shtml target=_blank>武汉一女孩患怪病 轻微擦碰就手脚受损身上起泡</a><span>(05/14 09:15)</span><br>·<a href=http://news.sohu.com/20070512/n249982773.shtml target=_blank>河南宜阳上演人蜂大战 400万蜜蜂拥堵交通4小时</a><span>(05/12 17:57)</span><br>·<a href=http://news.sohu.com/20070512/n249982364.shtml target=_blank>河南一轿车栽下7米高桥 司机车内酣睡无恙(图)</a><span>(05/12 16:48)</span><br>·<a href=http://news.sohu.com/20070512/n249976232.shtml target=_blank>重庆一老板胸前挂手机外出引来雷电 遭雷击身亡</a><span>(05/12 02:44)</span><br>·<a href=http://news.sohu.com/20070512/n249976095.shtml target=_blank>中国已知存世最早课本现身山西 清乾隆十年成书</a><span>(05/12 01:41)</span><br>·<a href=http://news.sohu.com/20070511/n249955988.shtml target=_blank>四川都江堰井水味道刺鼻 一遇茶水变暗红色(图)</a><span>(05/11 07:26)</span><br>·<a href=http://news.sohu.com/20070510/n249941600.shtml target=_blank>宝鸡一处水泥地面突发烫 温度达60℃洒水冒热气</a><span>(05/10 11:24)</span><br>·<a href=http://news.sohu.com/20070510/n249936415.shtml target=_blank>徐州老太64年前不幸中枪 头部取出日军子弹(图)</a><span>(05/10 09:30)</span><br>·<a href=http://news.sohu.com/20070509/n249916894.shtml target=_blank>四川九旬老太无钱手术胎死腹中58年 肚子像篮球</a><span>(05/09 11:22)</span><br>·<a href=http://news.sohu.com/20070509/n249911437.shtml target=_blank>长沙母猪一胎生下两只阴阳猪 兼有两性特征(图)</a><span>(05/09 09:14)</span><br>·<a href=http://news.sohu.com/20070506/n249861003.shtml target=_blank>石家庄发现“人面蜘蛛” 全身浅绿五官俱全(图)</a><span>(05/06 03:14)</span><br>·<a href=http://news.sohu.com/20070503/n249842349.shtml target=_blank>渔民捕获一怪鱼 形似美国隐身战斗轰炸机(组图)</a><span>(05/03 18:04)</span><br>·<a href=http://news.sohu.com/20070503/n249842698.shtml target=_blank>组图：洋小丑亮相柳州公园 艺术表演诙谐幽默</a><span>(05/03 15:59)</span><br>·<a href=http://news.sohu.com/20070503/n249842635.shtml target=_blank>组图：北京新人酷爱汉服 婚礼采用传统结婚礼仪</a><span>(05/03 15:11)</span><br>·<a href=http://news.sohu.com/20070501/n249823004.shtml target=_blank>辽宁16岁男生“猝死”10分钟 奇迹般被救活(图)</a><span>(05/01 14:13)</span><br>·<a href=http://news.sohu.com/20070429/n249788119.shtml target=_blank>太空蔬菜水果神奇变异 黄花长出红色花瓣(组图)</a><span>(04/29 14:13)</span><br>·<a href=http://news.sohu.com/20070429/n249787719.shtml target=_blank>山东袖珍男婴皮肤薄得像保鲜膜 奇迹般存活(图)</a><span>(04/29 13:41)</span><br>·<a href=http://news.sohu.com/20070429/n249777061.shtml target=_blank>成都奇石博览会展出“白发”石 开价一千万(图)</a><span>(04/29 07:45)</span><br>·<a href=http://news.sohu.com/20070428/n249769741.shtml target=_blank>广东醉汉骑牛夜宿坟头 压死身下毒蛇本人无损伤</a><span>(04/28 16:21)</span><br>·<a href=http://news.sohu.com/20070428/n249763098.shtml target=_blank>重庆路人被高空坠下活猫砸晕 欲告全楼住户(图)</a><span>(04/28 11:36)</span><br>·<a href=http://news.sohu.com/20070428/n249757697.shtml target=_blank>深圳厨师现场表演刀工绝活 美女背上切肉丝(图)</a><span>(04/28 09:42)</span><br>·<a href=http://news.sohu.com/20070428/n249756222.shtml target=_blank>丈夫一条短信妻子收到102次 最短间隔时间仅1秒</a><span>(04/28 09:14)</span><br>·<a href=http://news.sohu.com/20070428/n249754651.shtml target=_blank>北京某域名服务器出故障 数万网站“时光倒流”</a><span>(04/28 08:23)</span><br>·<a href=http://news.sohu.com/20070426/n249712354.shtml target=_blank>台北教练姓“茆”字典查不到 生活不便拒绝改姓</a><span>(04/26 12:15)</span><br>·<a href=http://news.sohu.com/20070424/n249661629.shtml target=_blank>河南发现重4吨巨型密玉 包含4种颜色被誉为玉王</a><span>(04/24 15:27)</span><br>·<a href=http://news.sohu.com/20070424/n249654426.shtml target=_blank>男童身材矮小记忆超强 生长激素几为零每天打针</a><span>(04/24 11:12)</span><br>·<a href=http://news.sohu.com/20070424/n249645520.shtml target=_blank>广告布缠上11万伏高压线 抢修人员冒险清除(图)</a><span>(04/24 08:21)</span><br>·<a href=http://news.sohu.com/20070423/n249630505.shtml target=_blank>73岁老太激光穿耳洞频繁长瘤 缘为斑痕体质(图)</a><span>(04/23 14:16)</span><br>·<a href=http://news.sohu.com/20070423/n249627339.shtml target=_blank>一条热带鱼长两个头 专家疑卵细胞变异所致(图)</a><span>(04/23 12:00)</span><br>·<a href=http://news.sohu.com/20070423/n249623548.shtml target=_blank>青岛动物世界上演复仇战 五头野猪攻击狼崽(图)</a><span>(04/23 10:17)</span><br>·<a href=http://news.sohu.com/20070421/n249589798.shtml target=_blank>劫匪持劣质水果刀在车上抢劫 捅司机时刀把断裂</a><span>(04/21 05:58)</span><br>·<a href=http://news.sohu.com/20070421/n249587481.shtml target=_blank>喜鹊夫妇高压电线上亲热 导致4000户停电(组图)</a><span>(04/21 00:16)</span><br>·<a href=http://news.sohu.com/20070420/n249562027.shtml target=_blank>130只鸡一夜之间离奇死亡 罪魁祸首究竟是谁？</a><span>(04/20 02:56)</span><br>·<a href=http://news.sohu.com/20070419/n249546318.shtml target=_blank>南昌一村庄30年来20余人患癌 疾控部门介入调查</a><span>(04/19 10:38)</span><br>·<a href=http://news.sohu.com/20070419/n249535311.shtml target=_blank>福州动物园金钱豹征集狗奶妈 百余母狗PK(组图)</a><span>(04/19 03:37)</span><br>·<a href=http://news.sohu.com/20070419/n249533422.shtml target=_blank>母猪咬伤屠夫救待宰公猪续：网友配发前传故事</a><span>(04/19 00:53)</span><br>·<a href=http://news.sohu.com/20070418/n249525241.shtml target=_blank>长春一只海豹“越狱”成性 一年内两次成功出逃</a><span>(04/18 14:42)</span><br>·<a href=http://news.sohu.com/20070418/n249524543.shtml target=_blank>吉林一女子遇神秘红光后脖上现伤痕 疑遭遇UFO</a><span>(04/18 14:20)</span><br>·<a href=http://news.sohu.com/20070418/n249511737.shtml target=_blank>长沙10岁女孩从12楼坠下 砸中轿车奇迹生还(图)</a><span>(04/18 08:07)</span><br>·<a href=http://news.sohu.com/20070418/n249507453.shtml target=_blank>广州双胞胎考拉爬出育儿袋 五一与游客见面(图)</a><span>(04/18 02:24)</span><br>·<a href=http://news.sohu.com/20070417/n249499809.shtml target=_blank>江西泰和村民挖出罕见手形淮山 重达半公斤(图)</a><span>(04/17 14:44)</span><br>·<a href=http://news.sohu.com/20070417/n249490275.shtml target=_blank>婴儿多处畸形酷似外星人 屁股上长“尾巴”(图)</a><span>(04/17 09:47)</span><br>·<a href=http://news.sohu.com/20070417/n249485664.shtml target=_blank>浙江女子养发28年长4.3米 曾获吉尼斯冠军(图)</a><span>(04/17 08:12)</span><br>·<a href=http://news.sohu.com/20070417/n249480129.shtml target=_blank>昆明招聘会上一母亲陪儿子应聘 儿落选母被相中</a><span>(04/17 00:29)</span><br>·<a href=http://news.sohu.com/20070416/n249474023.shtml target=_blank>湖南长沙洛阳牡丹开展 百年牡丹王吸引眼球(图)</a><span>(04/16 14:56)</span><br>·<a href=http://news.sohu.com/20070416/n249472170.shtml target=_blank>石头长白发解密 专家证实为头盘虫附着石头所致</a><span>(04/16 14:02)</span><br>·<a href=http://news.sohu.com/20070415/n249446314.shtml target=_blank>沪老翁玩电脑没了心跳 通宵游戏心梗4小时挽回命</a><span>(04/15 14:58)</span><br>·<a href=http://news.sohu.com/20070415/n249443998.shtml target=_blank>四川西岭雪山野生猴群定时下山 成为宾馆座上客</a><span>(04/15 11:53)</span><br>·<a href=http://news.sohu.com/20070413/n249396620.shtml target=_blank>女子剔牙吞钢针藏腹30年 手术取出已成五段(图)</a><span>(04/13 01:44)</span><br>·<a href=http://news.sohu.com/20070412/n249395705.shtml target=_blank>大连市民收藏“海豚”玉石距今数亿年 值300万</a><span>(04/12 23:43)</span><br>·<a href=http://news.sohu.com/20070412/n249371152.shtml target=_blank>产仔母猫叼来老鼠当宝宝 六猫一鼠共处一室(图)</a><span>(04/12 05:09)</span><br>·<a href=http://news.sohu.com/20070411/n249344760.shtml target=_blank>“大脚女”右脚32厘米左脚30 渴望走出山村(图)</a><span>(04/11 06:04)</span><br>·<a href=http://news.sohu.com/20070411/n249343689.shtml target=_blank>兰州荷塘怪叫夜传四里历时1年多 原因尚未查明</a><span>(04/11 04:08)</span><br>·<a href=http://news.sohu.com/20070411/n249342474.shtml target=_blank>北京女子轻生跳下12楼 砸瘪小轿车幸运生还(图)</a><span>(04/11 02:25)</span><br>·<a href=http://news.sohu.com/20070411/n249342427.shtml target=_blank>濒危动物江豚妈妈又有喜 白鱀豚馆“全面戒备”</a><span>(04/11 02:17)</span><br>·<a href=http://news.sohu.com/20070410/n249316846.shtml target=_blank>另类车主悬挂“骷髅头”车饰吓坏路人 险遭罚款</a><span>(04/10 02:45)</span><br>·<a href=http://news.sohu.com/20070408/n249275746.shtml target=_blank>22岁男子心跳骤停150分钟 抢救6小时后奇迹复活</a><span>(04/08 02:07)</span><br>·<a href=http://news.sohu.com/20070407/n249273167.shtml target=_blank>数十个FBI围剿劫匪 “英雄特工”命丧同事枪口</a><span>(04/07 18:59)</span><br>·<a href=http://news.sohu.com/20070407/n249271729.shtml target=_blank>高一女生被批评后上课紧张 只要老师提问就放屁</a><span>(04/07 16:06)</span><br>·<a href=http://news.sohu.com/20070406/n249254688.shtml target=_blank>史上最牛拆迁工徒手爬20米危墙 为老板省钱(图)</a><span>(04/06 14:33)</span><br>·<a href=http://news.sohu.com/20070406/n249247286.shtml target=_blank>湖北多人报称发现不明飞行物 民警拍下UFO(图) </a><span>(04/06 10:32)</span><br>·<a href=http://news.sohu.com/20070406/n249244418.shtml target=_blank>《石头记》灵感源自“陨石”？ 专家称作秀(图)</a><span>(04/06 09:41)</span><br>·<a href=http://news.sohu.com/20070405/n249218525.shtml target=_blank>奇怪虫子咬死2条金鱼 动物学教授称没见过(图) </a><span>(04/05 09:52)</span><br>·<a href=http://news.sohu.com/20070404/n249184105.shtml target=_blank>主人夫妇不慎触电 肥猪勇“献身”救回两人性命</a><span>(04/04 07:55)</span><br>·<a href=http://news.sohu.com/20070403/n249175961.shtml target=_blank>世界最大种子抵上海参展 重10公斤长50厘米(图)</a><span>(04/03 16:33)</span><br>·<a href=http://news.sohu.com/20070403/n249164882.shtml target=_blank>吉林小伙学张飞练成绝活 可24小时不用眨眼睛</a><span>(04/03 10:36)</span><br>·<a href=http://news.sohu.com/20070403/n249151441.shtml target=_blank>广东湛江一条49公斤金钱猛鱼卖出58万天价(图)</a><span>(04/03 01:26)</span><br>·<a href=http://news.sohu.com/20070402/n249141786.shtml target=_blank>辽宁市民养出四腿鸡 商家出价千元欲买遭拒(图)</a><span>(04/02 14:19)</span><br>·<a href=http://news.sohu.com/20070402/n249127910.shtml target=_blank>河南小山村莫名起火百起 “怪火之谜”难解(图)</a><span>(04/02 08:30)</span><br>·<a href=http://news.sohu.com/20070401/n249116331.shtml target=_blank>市民养出小鸡四条腿 商家出千元欲卖被拒绝(图)</a><span>(04/01 11:41)</span><br>·<a href=http://news.sohu.com/20070330/n249084355.shtml target=_blank>福建石狮“牛”人用鼻子拖1480公斤重车(组图)</a><span>(03/30 10:31)</span><br>·<a href=http://news.sohu.com/20070330/n249082438.shtml target=_blank>罕见古代最大面值银元宝露面 单枚重达1.9公斤</a><span>(03/30 09:54)</span><br>·<a href=http://news.sohu.com/20070330/n249080473.shtml target=_blank>母鸡产巨蛋却被蛋憋死 专家称是基因变异所致</a><span>(03/30 09:19)</span><br>·<a href=http://news.sohu.com/20070330/n249074715.shtml target=_blank>湖南新晃发现神秘石蛋群 村民运回家中镇宅(图)</a><span>(03/30 05:47)</span><br>·<a href=http://news.sohu.com/20070330/n249074212.shtml target=_blank>浙江台州发现“镜面人” 50多岁男子内脏全长反</a><span>(03/30 04:39)</span><br>·<a href=http://news.sohu.com/20070329/n249057082.shtml target=_blank>河南一处收费站遭蜂群围攻 交通中断1小时(图)</a><span>(03/29 10:18)</span><br>·<a href=http://news.sohu.com/20070329/n249045898.shtml target=_blank>长春居民家鸡和野鸡相恋 后代生出蓝皮蛋(图)</a><span>(03/29 02:25)</span><br>·<a href=http://news.sohu.com/20070328/n249028331.shtml target=_blank>辽宁一女子煤块当零食吃 34年共吃下5000公斤煤</a><span>(03/28 09:32)</span><br>·<a href=http://news.sohu.com/20070327/n248999494.shtml target=_blank>贵州患者医院里“汪汪”叫 恐水怕风疑似狂犬病</a><span>(03/27 09:42)</span><br>·<a href=http://news.sohu.com/20070327/n248991022.shtml target=_blank>湖南长沙县发现变色青蛙 可随所处环境颜色改变</a><span>(03/27 03:33)</span><br>·<a href=http://news.sohu.com/20070327/n248989854.shtml target=_blank>广州将展估价超580万茶叶国宝 投保1999万(图)</a><span>(03/27 02:01)</span><br>·<a href=http://news.sohu.com/20070326/n248982035.shtml target=_blank>山东寿光发现明代男性干尸 保存完整犹存当年容</a><span>(03/26 15:08)</span><br>·<a href=http://news.sohu.com/20070326/n248979009.shtml target=_blank>你见过这些稀奇名字吗？(图)</a><span>(03/26 13:18)</span><br>·<a href=http://news.sohu.com/20070325/n248959997.shtml target=_blank>图文：勤劳的小狗惹人爱</a><span>(03/25 18:11)</span><br>·<a href=http://news.sohu.com/20070324/n248936440.shtml target=_blank>5岁男孩每天要吃100克干泥 嚼穿家中墙壁(组图)</a><span>(03/24 03:05)</span><br>·<a href=http://news.sohu.com/20070323/n248924203.shtml target=_blank>女子探亲途中晕倒“身亡” 火化前神奇“复活”</a><span>(03/23 10:52)</span><br>·<a href=http://news.sohu.com/20070323/n248913185.shtml target=_blank>郑州男子精神失常 每小时磕30个头半小时跪一次</a><span>(03/23 04:46)</span><br>·<a href=http://news.sohu.com/20070323/n248911317.shtml target=_blank>男子K歌1小时开始吐血 原是肺压过大致血管爆裂</a><span>(03/23 02:29)</span><br>·<a href=http://news.sohu.com/20070321/n248858957.shtml target=_blank>北京一保安勤练花样跳绳 盘腿跳1分钟52下(图)</a><span>(03/21 03:31)</span><br>·<a href=http://news.sohu.com/20070320/n248831779.shtml target=_blank>北京小猫会叫自己名字“阿贵” 声音像小孩(图)</a><span>(03/20 02:31)</span><br>·<a href=http://news.sohu.com/20070319/n248817465.shtml target=_blank>重庆一女孩患上“幻嗅”症　原是头部肿瘤作怪</a><span>(03/19 09:38)</span><br>·<a href=http://news.sohu.com/20070318/n248803755.shtml target=_blank>图文：华裔张祥盛创造奇迹 泰国虎与猪和睦共处</a><span>(03/18 19:05)</span><br>·<a href=http://news.sohu.com/20070316/n248759348.shtml target=_blank>150岁清代普洱首次“出宫省亲” 总价值240万元</a><span>(03/16 03:26)</span><br>·<a href=http://news.sohu.com/20070315/n248746991.shtml target=_blank>宝宝出生缺只手掌 产前3次B超均显示发育正常</a><span>(03/15 11:59)</span><br>·<a href=http://news.sohu.com/20070315/n248736888.shtml target=_blank>31岁男子头部长出30斤罕见巨瘤 被压得抬不起头</a><span>(03/15 08:26)</span><br>·<a href=http://news.sohu.com/20070315/n248732011.shtml target=_blank>水牛发狂连续撞伤4村民 警方出动特警将其击毙</a><span>(03/15 02:29)</span><br>·<a href=http://news.sohu.com/20070315/n248731853.shtml target=_blank>3岁男孩长出“大尾巴” 原是罕见神经系统畸形</a><span>(03/15 02:15)</span><br>·<a href=http://news.sohu.com/20070315/n248731804.shtml target=_blank>聪明鹩哥“自学成才” 可说长沙话和普通话(图)</a><span>(03/15 02:06)</span><br>·<a href=http://news.sohu.com/20070314/n248717481.shtml target=_blank>7龄男童具有特异功能 双眼能透视扑克麻将(图)</a><span>(03/14 10:45)</span><br>·<a href=http://news.sohu.com/20070314/n248704946.shtml target=_blank>猪妈妈收留3只被弃小老虎 与猪兄弟相处融洽(图)</a><span>(03/14 01:14)</span><br>·<a href=http://news.sohu.com/20070313/n248679243.shtml target=_blank>苏东坡裔孙坚持50年熟背诗词 总计字数超2万字</a><span>(03/13 01:56)</span><br>·<a href=http://news.sohu.com/20070313/n248678940.shtml target=_blank>男童患怪病浑身长满黑疙瘩 医生确诊是毛痣(图)</a><span>(03/13 01:33)</span><br>·<a href=http://news.sohu.com/20070310/n248635255.shtml target=_blank>湖南女子生育后变“黑妹” 求医多年查不出病因</a><span>(03/10 12:34)</span><br>·<a href=http://news.sohu.com/20070308/n248581268.shtml target=_blank>西安家猪生出双面猪宝宝 长两张嘴三只眼睛(图)</a><span>(03/08 09:04)</span><br>·<a href=http://news.sohu.com/20070308/n248580985.shtml target=_blank>深圳一女子患怪病17年 手指稍沾灰尘便会溃烂</a><span>(03/08 08:42)</span><br>·<a href=http://news.sohu.com/20070308/n248579545.shtml target=_blank>四川97岁老人小脚仅有13厘米 大脚趾搬成45度角</a><span>(03/08 07:56)</span><br>·<a href=http://news.sohu.com/20070308/n248576593.shtml target=_blank>白皙美女生完孩子变黑妹 求医五年不知变化原因</a><span>(03/08 04:00)</span><br>·<a href=http://news.sohu.com/20070308/n248574390.shtml target=_blank>男子被父母当女孩抚养29年 15岁学同龄女戴胸罩</a><span>(03/08 02:33)</span><br>·<a href=http://news.sohu.com/20070307/n248564670.shtml target=_blank>上海9个月大男婴患肝癌 手术难度较大正在进行</a><span>(03/07 15:07)</span><br>·<a href=http://news.sohu.com/20070307/n248557779.shtml target=_blank>福州奇人嗜吃活物 空手剥皮放血生吃活猪鸡蛇鱼</a><span>(03/07 08:58)</span><br>·<a href=http://news.sohu.com/20070307/n248545299.shtml target=_blank>探访医学院尸体解剖课：尸体前师生默哀三分钟</a><span>(03/07 01:43)</span><br>·<a href=http://news.sohu.com/20070307/n248545262.shtml target=_blank>帕金森症男子数次想自杀 脑袋植入电极获得康复</a><span>(03/07 01:28)</span><br>·<a href=http://news.sohu.com/20070307/n248545209.shtml target=_blank>八龄童每日定时皮痒持续半年 每夜固定痒三小时</a><span>(03/07 01:07)</span><br>·<a href=http://news.sohu.com/20070306/n248530511.shtml target=_blank>重庆出现长寿村 一个院子走出6位百岁老人(图)</a><span>(03/06 11:04)</span><br>·<a href=http://news.sohu.com/20070306/n248529214.shtml target=_blank>西安6旬老人26年喝掉7吨酒 1小时喝掉一瓶白酒</a><span>(03/06 10:37)</span><br>·<a href=http://news.sohu.com/20070306/n248524321.shtml target=_blank>成都八旬老人留须为治病 缕缕白须化解17年病痛</a><span>(03/06 08:14)</span><br>·<a href=http://news.sohu.com/20070305/n248506970.shtml target=_blank>情侣PK汤圆大胃王赛 两人5分钟吃下204汤圆(图)</a><span>(03/05 11:06)</span><br>·<a href=http://news.sohu.com/20070305/n248497010.shtml target=_blank>技术员全用废旧物品造空调 价格不超400元(图)</a><span>(03/05 01:35)</span><br>·<a href=http://news.sohu.com/20070225/n248339082.shtml target=_blank>台明星政界宠物经：主人念佛狗吃斋 宠物当小孩</a><span>(02/25 13:38)</span><br>·<a href=http://news.sohu.com/20070225/n248336875.shtml target=_blank>受伤穿山甲敲酒店玻璃求救 围观者称其颇通人性</a><span>(02/25 10:57)</span><br>·<a href=http://news.sohu.com/20070221/n248313455.shtml target=_blank>小猫春节暴食患口腔溃疡 小狗被鞭炮吓得失禁</a><span>(02/21 14:11)</span><br>
+
+</td>
+  </tr>
+  <tr>
+   </td>
+  </tr>
+  <tr><td>
+   	 
+  </td></tr>
+  <tr height=25><td align=right class=newsblue1>
+<table><tr><td nowrap><a href='/qiwen.shtml'>首页</a>&nbsp;<a href='#' onclick='javascript:if(!isIndex){go(curPage-1)};return false;'>上一页</a>&nbsp;<a href='#' onclick='javascript:go(curPage+1);return false;'>下一页</a>&nbsp;<a href='#' onclick='javascript:go(maxPage);return false;'>末页</a>&nbsp;
+<span id="pagingIndex"></span>&nbsp;转到<input name="pagenav" id="pagenav" type="text" size="2" onkeypress="javaScript:if(event.keyCode==13){go(this.value);}">页 <a href="#" onclick="javascript:go(document.getElementById('pagenav').value);return false;">Go</a>
+<script language="JavaScript">
+	var docUrl = document.location.href;
+	var maxPage = 3;
+	var curPage = 1;
+	var isIndex = false;
+	var end = docUrl.lastIndexOf("/");
+	if(end > 0){
+		var realDocUrl = docUrl.substring(end);
+		var lastToken = realDocUrl.lastIndexOf("_");
+		var lastSuffix = realDocUrl.lastIndexOf(".shtml");
+		if( lastToken>0 && lastSuffix >0 && lastSuffix > lastToken){
+			curPage = realDocUrl.substring(lastToken+1,lastSuffix);
+			curPage = maxPage-curPage+1;
+		}else{
+			isIndex = true;
+		}
+	}
+	if(isNaN(curPage)){
+		curPage = 1;
+	}
+	var index = "<span><b>"+curPage+"/"+maxPage+"</b></span>";
+	document.getElementById("pagingIndex").innerHTML=index;
+	function go(page){
+		try{
+		var baseUrl = '/qiwen';
+		var indexUrl = '/qiwen.shtml';
+		//var page = document.getElementById("pagenav").value;
+		var url = '';
+			if (page >0&&page <=maxPage){
+				page = maxPage - page+1;
+				if(page <= 0){
+					page = 1;
+					url = baseUrl+'_'+page+'.shtml';			
+				}else if(page >= maxPage){
+					url = indexUrl;
+				}else{
+					url = baseUrl+'_'+page+'.shtml';			
+				}
+				document.location.href=url;
+				return true;
+			}else{
+				return false;
+			}
+			}catch(e){
+				alert("Sorry:"+e);
+			}
+		return false;
+	}
+</script>
+</td></tr></table> 	 
+  </td></tr>
+
+</table>
+
+ 
+</td>
+<td width=10><br></td>
+<td width=160 valign=top align=center background=/wimages/bj02.gif>
+ 
+</td></tr>
+<tr><td colspan=2 height=5><img src=/wimages/c.gif width=1 height=1></td>
+</td>
+<td><img src=/wimages/di.gif border=0 width=160 height=5></td></tr>
+</table>
+<br>
+<!----------标准畈 开始 ------------>
+<table cellspacing=0 cellpadding=0 width=760 border=0 align=center>
+<tr><td align=center>
+<hr size=1>
+<a href="javascript:void(0)" onClick=this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sohu.com');return false;>设置首页</a>
+- <a href=http://pinyin.sogou.com/ target=_blank rel="nofollow">搜狗输入法</a>
+- <a href=http://pay.sohu.com/ target=_blank rel="nofollow">支付中心</a>
+- <a href=http://hr.sohu.com/ target=_blank rel="nofollow">搜狐招聘</a>
+- <a href=http://ad.sohu.com/ target=_blank rel="nofollow">广告服务</a>
+- <a href=http://sohucallcenter.blog.sohu.com/ target=_blank rel="nofollow">客服中心</a>
+- <a href=http://corp.sohu.com/s2006/contactus/ target=_blank rel="nofollow">联系方式</a>
+- <a href=http://www.sohu.com/about/privacy.html target=_blank rel="nofollow">保护隐私权</a>
+- <a href=http://investors.sohu.com/ target=_blank rel="nofollow">About SOHU</a>
+- <a href=http://corp.sohu.com/indexcn.shtml target=_blank rel="nofollow">公司介绍</a>
+- <a href=http://roll.sohu.com target=_blank>全部新闻</a>
+- <a href=http://blog.sohu.com/roll target=_blank>全部博文</a>
+</td></tr>
+<tr>
+<td align=middle height=20><font class=ui_engl>Copyright &copy; 2015 Sohu.com Inc. All Rights Reserved.</font> 搜狐公司 <a 
+href="http://corp.sohu.com/s2007/copyright/" target=_blank rel="nofollow">版权所有</a> 
+</td></tr>
+<tr>
+<td align=middle>搜狐不良信息举报邮箱：<a href="mailto:jubao@contact.sohu.com">jubao@contact.sohu.com</a></td></tr>
+</table>
+<SCRIPT language=JavaScript src="http://a1.itc.cn/pv/js/spv.1309051632.js"></SCRIPT>
+<script language="javascript" src="http://js.sohu.com/wrating20120726.js"></script>
+<script language="javascript">
+var  _wratingId = null;
+try{
+_wratingId = _getAcc();
+}catch(e){}
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript" src="http://sohu.wrating.com/a1.js"></scr'+'ipt>');
+}
+</script>
+<script language="javascript">
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript">');
+document.write('var vjAcc="'+_wratingId+'";');
+document.write('var wrUrl="http://sohu.wrating.com/";');
+document.write('try{vjTrack();}catch(e){}');
+document.write('</scr'+'ipt>');
+}
+</script>
+<!--SOHU:FOOT-->
+<!----------标准畈 结束 ------------>
+</center>
+</body>
+</html>
+<sohuadcode></sohuadcode>

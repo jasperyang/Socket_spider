@@ -1,0 +1,1834 @@
+HTTP/1.1 200 OK
+Date: Tue, 15 Nov 2016 07:20:24 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips
+Last-Modified: Wed, 28 Oct 2015 02:40:00 GMT
+Accept-Ranges: bytes
+Content-Length: 92270
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<title>军事新闻-搜狐新闻中心</title>
+<meta http-equiv=content-type content='text/html; charset=gb2312'>
+<base href="mil.news.sohu.com">
+<sohu_cms_include:subject_style><META HTTP-EQUIV="Refresh" CONTENT="0; URL=http://mil.news.sohu.com">
+<style>
+.junshi-1 {
+	line-height:20px;
+	text-align: left;
+	padding-right: 0px;
+	padding-left: 2px;
+}
+.junshi-1 A:link {
+	text-decoration:underline;
+	font-size: 13px;
+	color: #000000;
+}
+.junshi-1 A:Visited {
+	text-decoration:underline;
+	color: #660000;
+	font-size: 13px;
+}
+
+td,body,input,select {font-size: 12px;font-family:'宋体,verdana';color:#000000;line-height:18px}
+.ui_top{color:#000000;font-size:12px;line-height:18px;}
+.ui_top a:link{color:#000000;text-decoration:none;}
+.ui_top a:visited{color:#000000;text-decoration:none;}
+.ui_top a:hover {color:#000000;text-decoration:underline;}
+
+a:link{color: #000000;text-decoration: none;}
+a:visited{color: #663333;text-decoration: none;}
+a:hover {color: #000000;text-decoration: underline;}
+
+.black {color:#3C3C3C;line-height:18px;font-size:12px;}
+.black a:link{color: #3C3C3C;text-decoration:none;font-size:12px;}
+.black a:visited {color: #3C3C3C;text-decoration:none;font-size:12px;}
+.black a:hover{color:#3C3C3C;text-decoration:underline;font-size:12px;}
+
+.nav {font-size:12px;color:#FFFFFF;}
+.nav A:link {color:#FFFFFF;text-decoration:none;}
+.nav A:Visited {color:#FFFFFF;text-decoration:none;}
+.nav A:Hover {color:#FFFFFF;TEXT-DECORATION: underline;}
+/*以上不改*/
+.wz12_u {line-height:20px}
+.wz12_u A:link {text-decoration:underline;}
+.wz12_u A:Visited {text-decoration:underline;}
+.wz12_u A:Hover {TEXT-DECORATION: underline;}
+
+.wz12_n {line-height:20px}
+.wz12_n A:link {text-decoration:none;}
+.wz12_n A:Visited {text-decoration:none;}
+.wz12_n A:Hover {TEXT-DECORATION: underline;}
+
+.wz14_ffff {font-size:14px;color:#ffffff;}
+.wz14_ffff A:link {color:#ffffff;text-decoration:none;}
+.wz14_ffff A:Visited {color:#ffffff;text-decoration:none;}
+.wz14_ffff A:Hover {color:#ffffff;TEXT-DECORATION: underline;}
+.bt14_4820 {color:#482017;font-weight:bold;font-size:14px}
+
+
+.img1 {border:1px solid #999999}
+</style>
+ </sohu_cms_include>
+</head>
+<body leftmargin=0 topmargin=0 marginwidth=0 marginheight=0 bgcolor=#ffffff>
+<center>
+<img src=http://images.sohu.com/ccc.gif width=1 height=3><br>
+<sohu_cms_include:sohu_news_head_news><style type=text/css>
+.ui_top{color:#000000;font-size:12px;line-height:18px;}
+.ui_top a:link{color:#000000;text-decoration:none;}
+.ui_top a:visited{color:#000000;text-decoration:none;}
+.ui_top a:hover {color:#000000;text-decoration:underline;}
+
+.up1 {color:656565;line-height:18px;font-size:12px}
+.up1 td{color:#656565;line-height:18px;font-size:12px}
+.up1 A:link {color:#656565;text-decoration:none;line-height:18px;font-size:12px}
+.up1 A:Visited {color:#656565;text-decoration:none;}
+.up1 A:Hover {color:#656565;TEXT-DECORATION: underline;}
+</style>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=87><img src=http://images.sohu.com/uiue/sohu_logo/2005/sohu_logo2.gif height=22 border=0></td>
+<td bgcolor=#EFEBEF><a href=http://news.sohu.com><img src="http://images.sohu.com/uiue/sohu_logo/2005/news_logo2.gif" height="22" border="0"></a></td>
+<td align=right class=ui_top valign=bottom bgcolor=#EFEBEF><a href=http://www.sohu.com/>搜狐首页</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://news.sohu.com/>新闻</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://sports.sohu.com/>体育</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://yule.sohu.com/>娱乐</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://business.sohu.com/>财经</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://it.sohu.com/>IT</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://auto.sohu.com/>汽车</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://house.sohu.com/>房产</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://women.sohu.com/>女人</a><font style="font-size:4px"> </font><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://sms.sohu.com/>短信</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://mms.sohu.com/>彩信</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://alumni.sohu.com/ >校友录</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://login.mail.sohu.com/>邮件</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://store.sohu.com/>商城</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://club.sohu.com/>BBS</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://www.sogou.com/
+><font color=#ff0000>搜狗</font></a>&nbsp;</td></tr>
+<tr><td height=3 colspan=3><img src=http://images.sohu.com/ccc.gif width=1 height=1></td></tr>
+</table>
+<!--sohu_top:end--> </sohu_cms_include>
+<sohu_cms_include:sohu_news_banner><style>
+.setwhite{color: #ffffff}
+
+A.setwhite:link {font-size:12px;text-decoration: none; color: #ffffff} 
+
+A.setwhite:visited {font-size:12px;text-decoration: none; color: #ffffff} 
+
+A.setwhite:active {font-size:12px;text-decoration: none} 
+
+A.setwhite:hover {font-size:12px;text-decoration: underline; color: #ffffff}
+</style>
+<table width=760 border=0 cellpadding=0 cellspacing=1 bgcolor=#355F8C>
+	<tr><td bgcolor=#355F8C class=a01 align=center height=22>
+	<a href="http://news.sohu.com/guoneixinwen.shtml" class=setwhite target=_blank>国内</a> | 
+	<a href="http://news.sohu.com/guojixinwen.shtml" class=setwhite target=_blank>国际</a> | 
+	<a href="http://news.sohu.com/shehuixinwen.shtml" class=setwhite target=_blank>社会</a> | 
+	<a href="http://mil.news.sohu.com/" class=setwhite target=_blank>军事</a> | 
+	<a href="http://star.news.sohu.com/" class=setwhite target=_blank>评论</a> | 
+	<a href="http://news.sohu.com/difangxinweng.shtml" class=setwhite target=_blank>地方</a> | 
+	<a href="http://people.business.sohu.com/" class=setwhite target=_blank>人物</a> | 
+	<a href="http://club.sohu.com/more/fangtan/index.htm" class=setwhite target=_blank>嘉宾访谈</a> | 
+	<a href="http://media.news.sohu.com/" class=setwhite target=_blank>传媒地图</a> | 
+	<a href="http://news.sohu.com/1/0402/03/subject200480346.shtml" class=setwhite target=_blank>热点排行</a>  | 
+	<a href="http://index.news.sohu.com/zhuanti/zhuanti_index.php" class=setwhite target=_blank>专题</a> | 
+	<a href="http://club.news.sohu.com" class=setwhite target="_blank">百姓论坛</a> | 
+	<a href="http://pic.news.sohu.com" class=setwhite target="_blank">图吧</a> | 
+	<a href="http://news.sohu.com/news_scrollnews.shtml" class=setwhite target=_blank>滚动</a> 
+	</td></tr>
+</table><img src=http://images.sohu.com/ccc.gif width=1 height=3><br> </sohu_cms_include>
+<sohu_cms_include:sohu_news_subject_frag10><table width=760 border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td width=180 height=27><img src=http://photocdn.sohu.com/20050606/Img225838753.gif width=180 height=28></td>
+<td width=600 height="27" align=center background=http://photocdn.sohu.com/20050606/Img225838735.gif>
+  <table width=553 border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td width=22><img src=/junshiimages/js103.gif width=13 height=13></td><td width=57><a href="http://mil.news.sohu.com/taihai.shtml" class="setwhite" target=_blank>我军动态</a></td>
+<td width=22><img src=/junshiimages/js103.gif width=13 height=13></td><td width=57><a href="http://mil.news.sohu.com/1/0602/08/subject201430896.shtml" class="setwhite" target=_blank>台海风云</a></td>
+<td width=22><img src=/junshiimages/js103.gif width=13 height=13></td><td width=57><a href="http://mil.news.sohu.com/1/0703/78/subject211617877.shtml" class=setwhite  target=_blank>军事图集</a></td>
+
+<td width=22><img src=/junshiimages/js103.gif width=13 height=13></td><td width=57><a href="http://mil.news.sohu.com/wuqi.shtml" class="setwhite" target=_blank>外军新闻</a></td>
+<td width=22><img src=/junshiimages/js103.gif width=13 height=13></td><td width=57><a href="http://mil.news.sohu.com/1/0602/10/subject201431018.shtml" class="setwhite" target=_blank>装备快讯</a></td>
+<td width=22><img src=/junshiimages/js103.gif width=13 height=13></td><td width=57><a href="http://mil.news.sohu.com/junshilishi.shtml" class="setwhite" target=_blank>烽火内幕</a></td>
+
+<td width=22><img src=/junshiimages/js103.gif width=13 height=13></td><td width=57><a href="http://mil.news.sohu.com/s2004/junshipinglun.shtml" class="setwhite" target=_blank>评论分析</a></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+  <td height=5><img src="http://photocdn.sohu.com/20050606/Img225838759.gif" width="180" height="5"></td>
+  <td align=center></td>
+</tr>
+</table>
+ </sohu_cms_include>
+<!--banner st-->
+<sohu_cms_include:sohu_news_subject_maybe0><table border=0 cellspacing=0 cellpadding=0 width=760>
+<tr>
+<td width=190><img src=http://photocdn.sohu.com/20050606/Img225838982.gif width=222 height=84 border=0></td>
+<td><img src="http://photocdn.sohu.com/20050606/Img225838563.gif" width="538" height="84"></td>
+</tr></table>
+ </sohu_cms_include>
+<!--banner end-->
+<!--nav-->
+<sohu_cms_include:sohu_news_cs_1> </sohu_cms_include>
+
+<!--横切1 st-->
+<table border=0 cellspacing=0 cellpadding=0 width=760>
+<tr>
+<td width=1 bgcolor=#877B51></td>
+<td width=293 valign=top align=center bgcolor=#BCBA91>
+ <table border=0 cellspacing=0 cellpadding=0 width=293>
+ <tr><td height=7 width=293 background=/images/img0523/hq1_leftbg1.gif></td></tr>
+ </table>
+ <sohu_cms_include:sohu_news_subject_maybe2><table border=0 cellspacing=0 cellpadding=0 background=/images/img0523/btbg1.gif width=293>
+	<tr>
+	<td width=132><img src=/images/img0523/bt1.gif width=132 height=36></td>
+	<td align=right><img src=/images/img0523/bg1_rt.gif width=10 height=36></td>
+	</tr>
+	</table> </sohu_cms_include>
+ <table border=0 cellspacing=0 cellpadding=0 width=293>
+ <tr>
+ <td width=286 valign=top align=center background=/images/img0523/hq1_leftbg3.gif>
+  <sohu_cms_include:sohu_news_subject_maybe3><style>
+.jushi {font-size:18px;margin:0px;line-height: 120%;font-family:黑体}
+.jushi a:link{font-size:18px;color: #CC3300;text-decoration:none;line-height: 120%;font-family:"黑体"}
+.jushi a:visited {font-size:18px;color: #CC3300;text-decoration:none;line-height: 120%;font-family:"黑体"}
+.jushi a:hover{font-size:18px;color:#cc0000;text-decoration:none;line-height: 120%;font-family:黑体}
+</style>
+
+<table border=0 cellspacing=0 cellpadding=2 width=280 bgcolor=#F0F0F0>
+		<tr>
+		<td valign=top align=center>
+			<img src=http://images.sohu.com/ccc.gif width=1 height=8><br>
+			<TABLE cellSpacing=0 cellPadding=0 border=0 width=280>
+<TBODY>
+<TR>
+<TD class=jushi align=middle><A href="http://mil.news.sohu.com/20051020/n227253600.shtml" target=_blank >防威胁论陷阱 勿炒“中国天军”</A></TD></TR></TBODY></TABLE><img src=http://images.sohu.com/ccc.gif width=1 height=2><br>
+<table border=0 cellspacing=0 cellpadding=0 width=280 align=middle>
+<tr>
+<td valign=top class=wz12_n >　　我们可以看出，中国的成就引起了一些国家的不安，首先是美国、日本和韩国……[<a href="http://mil.news.sohu.com/20051020/n227253600.shtml" target=_blank>全文</a>][<a href="http://comment2.news.sohu.com/viewcomments.action?id=227253600" target=_blank>评</a>]
+</td></tr></table></td></tr>
+</table> </sohu_cms_include>
+  <img src=http://images.sohu.com/ccc.gif width=1 height=4><br>
+  <sohu_cms_include:sohu_news_subject_maybe><table border=0 cellspacing=0 cellpadding=0 width=280>
+		<tr>
+		<td width=4><img src=/upload/imagesaa/bt2.gif width=4 height=24></td><td width=276 background=/upload/imagesaa/btbg2.gif class=bt14_4820 style='padding-left:14px;padding-top:2px'>国内军情点击</td>
+		</tr>
+		</table> </sohu_cms_include>
+  <table border=0 cellspacing=0 cellpadding=0 width=280 bgcolor=#F0F0F0>
+  <tr>
+  <td valign=top align=center>
+   <img src=http://images.sohu.com/ccc.gif width=1 height=8><br>
+   <table border=0 cellspacing=0 cellpadding=0 width=280>
+   <tr>
+   <td valign=top class=junshi-1>
+   <sohu_cms_include:news_85_list>·<a href="http://mil.news.sohu.com/20051019/n227248437.shtml" target=_blank><font color=red>美媒:美担心中国用核弹回击美武装干涉台海</font></a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051019/n227244284.shtml" target=_blank><font color=red>中国军事专家:中国要发展飞船 不要航空母舰</font></a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051019/n227242013.shtml" target=_blank><font color=red>美高官：美国坚决反对台湾走上核武器险路</font></a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051020/n227255303.shtml" target=_blank>台向美购2艘“纪德”舰30日交舰 12月抵台</a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051020/n227255001.shtml" target=_blank>中国人民解放军物资采购门户网站于近日开通</a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051020/n227254651.shtml" target=_blank>曹刚川会见美防长 称中国今年军费302亿美元</a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051020/n227254527.shtml" target=_blank>日男子仿雅虎 制作“中国侵入冲绳”假新闻</a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051019/n227243545.shtml" target=_blank>媒体：我歼七E战机研发曾多次“化险为夷”</a><br> </sohu_cms_include>
+   </td>
+   </tr>
+   </table>
+   <img src=http://images.sohu.com/ccc.gif width=1 height=3><br>
+   <sohu_cms_include:subject_vl_left4><table border=0 cellspacing=0 cellpadding=0 width=265>
+			<tr>
+			<td width=144></td><td width=121 background=/images/img0523/morebg.gif height=18 align=right class=wz12_n style='line-height:16px;padding-top:3px'><a href="http://news.sohu.com/s2005/junshiguancha.shtml" target=_blank><font color=#990000>更多</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			</tr>
+			</table>
+			<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+   <img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+  </td>
+  </tr>
+  </table>
+  <img src=http://images.sohu.com/ccc.gif width=1 height=4><br>
+  <sohu_cms_include:sohu_news_subject_maybe><table border=0 cellspacing=0 cellpadding=0 width=280>
+		<tr>
+		<td width=4><img src=/upload/imagesaa/bt2.gif width=4 height=24></td><td width=276 background=/upload/imagesaa/btbg2.gif class=bt14_4820 style='padding-left:14px;padding-top:2px'>国际军情点击</td>
+		</tr>
+		</table> </sohu_cms_include>
+  <table border=0 cellspacing=0 cellpadding=0 width=280 bgcolor=#F0F0F0>
+  <tr>
+  <td valign=top align=center>
+   <img src=http://images.sohu.com/ccc.gif width=1 height=8><br>
+   <table border=0 cellspacing=0 cellpadding=0 width=280>
+   <tr>
+   <td valign=top class=junshi-1>
+   <sohu_cms_include:news_85_list>·<a href="http://mil.news.sohu.com/20051020/n227255198.shtml" target=_blank>美将启动JCM通用导弹AH-64直升机载试验(图)</a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051020/n227255145.shtml" target=_blank>美F35战机海外用户加装新型NSM反舰导弹(图)</a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051020/n227255069.shtml" target=_blank>美试验预期精度10米的127毫米制导炮弹(图)</a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051019/n227243104.shtml" target=_blank>俄报:美国研制第四代核武器作常规武器使用</a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051019/n227243076.shtml" target=_blank>印俄海军联合军事演习在印度东部沿海展开</a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051019/n227243020.shtml" target=_blank>日本装备最贵坦克 岛国热衷陆战武器引关注</a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051018/n227233627.shtml" target=_blank>首套安装SPY-1F雷达的宙斯盾系统进行海试</a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051018/n227233575.shtml" target=_blank>美军选择B-52用于电子战 压制敌方空中防御</a><br> </sohu_cms_include>
+   </td>
+   </tr>
+   </table>
+   <img src=http://images.sohu.com/ccc.gif width=1 height=3><br>
+   <sohu_cms_include:subject_vl_left4><table border=0 cellspacing=0 cellpadding=0 width=265>
+			<tr>
+			<td width=144></td><td width=121 background=/images/img0523/morebg.gif height=18 align=right class=wz12_n style='line-height:16px;padding-top:3px'><a href="http://news.sohu.com/s2005/junshiguonei.shtml" target=_blank><font color=#990000>更多</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			</tr>
+			</table>
+			<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+   <img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+  </td>
+  </tr>
+  </table>
+ </td>
+ <td width=7 background=/images/img0523/hq1_leftbg2.gif></td>
+ </tr>
+ </table>
+ <table border=0 cellspacing=0 cellpadding=0 width=293>
+ <tr><td><img src=/images/img0523/hq1_leftbot.gif width=293 height=17></td></tr>
+ </table>
+ <img src=http://images.sohu.com/ccc.gif width=1 height=3><br>
+ <sohu_cms_include:sohu_news_subject_maybe><table border=0 cellspacing=0 cellpadding=0 width=280 background=/upload/imagesaa//btbg4.gif>
+	<tr>
+	<td width=5><img src=/upload/imagesaa/bt4.gif width=5 height=24></td>
+	<td width=115 background=upload/imagesaa/bt5.gif align=center class=bt14_4820 style='padding-left:14px;padding-top:2px'>网友点兵</td>
+	<td width=7><img src=/upload/imagesaa/bt6.gif width=7 height=24></td>
+	<td width=153></td>
+	</tr>
+	</table> </sohu_cms_include>
+ <table border=0 cellspacing=0 cellpadding=0 width=280 bgcolor=#E2E5C5>
+ <tr>
+ <td valign=top align=center>
+  <img src=http://images.sohu.com/ccc.gif width=1 height=2><br>
+  <sohu_cms_include:subject_vl_left3><table border=0 cellspacing=0 cellpadding=0 background=/images/img0523/hq1_d3.gif width=272>
+		<tr>
+		<td width=4><img src=/images/img0523/hq1_d1.gif width=4 height=19></td>
+		<td align=center>
+			<table border=0 cellspacing=0 cellpadding=0>
+			<tr>
+			<td class=wz12_n style='line-height:16px;padding-top:3px'>
+			<b>军事论坛：</b> <a href="http://club.news.sohu.com/list-war_pics-0-0.html" target=_blank><font color=#CC0000><b>装备论坛</b></font></a>　<a href="http://club.news.sohu.com/list-shilin-0-0.html" target=_blank><font color=#CC0000><b>军情观察</b></font></a>　<a href="http://club.news.sohu.com/list-military-0-0.html" target=_blank><font color=#CC0000><b>军人之家</b></font></a>
+			</td>
+			</tr>
+			</table>
+		</td>
+		<td width=4><img src=/images/img0523/hq1_d2.gif width=4 height=19></td>
+		</tr>
+		</table>
+
+<table><tr><td height=3></td></tr></table> </sohu_cms_include>  
+  <table border=0 cellspacing=0 cellpadding=0 width=275>
+  <tr>
+  <td valign=top class=wz12_u>
+  <sohu_cms_include:news_75_notimelist>·<a href="/20051014/n227200363.shtml" target=_blank><A href=http://club.news.sohu.com/r-war_pics-313378-0-0-0.html target=_blank class=newsblue1>5款反舰弹谁称王？---曝光中国下一代反舰导弹</A></a><br>
+
+
+
+      ·<a href="/20051014/n227198790.shtml" target=_blank><A href=http://club.news.sohu.com/r-shilin-61125-0-2-0.html target=_blank class=newsblue1>网友原创：中国“太空军”让世界震惊</A></a><br>
+
+
+
+      ·<a href="/20051014/n227198542.shtml" target=_blank><A href=http://club.news.sohu.com/r-shilin-61127-0-0-0.html target=_blank class=newsblue1>网友：中华神盾与中国“近海防御”战略的变化</A></a><br>
+
+
+
+      ·<a href="/20051011/n227169291.shtml" target=_blank><A href=http://club.news.sohu.com/r-shilin-60249-0-1-0.html target=_blank class=newsblue1>网友：15架F117隐形战机撤出韩国折射激烈较量</A></a><br>
+
+
+
+      ·<a href="/20051011/n227168190.shtml" target=_blank><A href=http://club.news.sohu.com/r-shilin-60016-0-0-0.html target=_blank class=newsblue1>网友：中日间可能的战争模式——坐标点冲突！</A></a><br> </sohu_cms_include>
+  </td>
+  </tr>
+  </table>
+  <sohu_cms_include:subject_vl_left4><table border=0 cellspacing=0 cellpadding=0 width=265>
+		<tr><td align=right class=wz12_u><a href="http://news.sohu.com/s2005/wangyoudianbing.shtml" target=_blank><font color=#990000>更多...</font></a></td></tr>
+		</table> </sohu_cms_include>
+ </td>
+ </tr>
+ </table>
+ <img src=http://images.sohu.com/ccc.gif width=1 height=7><br>
+ <sohu_cms_include:sohu_news_subject_maybe><table border=0 cellspacing=0 cellpadding=0 width=280 background=/upload/imagesaa/btbg4.gif>
+	<tr>
+	<td width=5><img src=/upload/imagesaa/bt4.gif width=5 height=24></td>
+	<td width=115 background=/upload/imagesaa/bt5.gif align=center class=bt14_4820 style='padding-left:14px;padding-top:2px'>近日热点</td>
+	<td width=7><img src=/upload/imagesaa/bt6.gif width=7 height=24></td>
+	<td width=153></td>
+	</tr>
+	</table> </sohu_cms_include>
+ <table border=0 cellspacing=0 cellpadding=0 width=280 bgcolor=#E2E5C5>
+ <tr>
+ <td valign=top align=center>    
+  <table border=0 cellspacing=0 cellpadding=0 width=275>
+  <tr>
+  <td valign=top class=wz12_u>
+  <sohu_cms_include:news_75_notimelist>·<a href="http://mil.news.sohu.com/20051019/n227248437.shtml" target=_blank>美媒:美国担心中国会用核弹回击美武装干涉台海</a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051019/n227244284.shtml" target=_blank>中国军事专家：中国要发展飞船 不要航空母舰</a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051019/n227242013.shtml" target=_blank>美高官：美国坚决反对台湾走上核武器“险路”</a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051018/n227234596.shtml" target=_blank>北剑0510S演习开始 我军卫戍部队首次整师参演</a><br>
+
+
+
+      ·<a href="http://mil.news.sohu.com/20051013/n227189586.shtml" target=_blank>各国军方抢占太空制高点 我国应争取太空存在权</a><br> </sohu_cms_include>
+  </td>
+  </tr>
+  </table>
+  <sohu_cms_include:subject_vl_left4><table border=0 cellspacing=0 cellpadding=0 width=265>
+		<tr><td align=right class=wz12_u><a href="http://news.sohu.com/s2005/jinriredian.shtml" target=_blank><font color=#990000>更多...</font></a></td></tr>
+		</table> </sohu_cms_include>
+ </td>
+ </tr>
+ </table><img src=http://images.sohu.com/ccc.gif width=1 height=3><br>
+ <sohu_cms_include:sohu_news_subject_maybe5>   </sohu_cms_include> 
+ 
+
+</td>
+<td width=465 valign=top align=center>
+ <sohu_cms_include:sohu_news_subject_maybe9><table border=0 cellspacing=0 cellpadding=0 width=465 background=/images/img0523/hq1_rightbg1.gif>
+	<tr> <td><table border=0 cellspacing=0 cellpadding=0>
+			<tr>
+			<td class=wz12_n style='line-height:16px;padding-top:3px'>
+			<b>论坛：</b> <a href="http://club.news.sohu.com/list-war_pics-0-0.html" target=_blank><font color=#CC0000><b>装备论坛</b></font></a>　<a href="http://club.news.sohu.com/list-shilin-0-0.html" target=_blank><font color=#CC0000><b>军情观察</b></font></a>　<a href="http://club.news.sohu.com/list-military-0-0.html" target=_blank><font color=#CC0000><b>军人之家</b></font></a> <a href="http://bbs.cd.focus.cn/msglist/3091" target=_blank><font color=#CC0000><b>焦点社区</b></font></a>
+			</td>
+			</tr>
+			</table></td> 
+
+<td>　<a href="" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://mil.news.sohu.com/');return(false);" style="BEHAVIOR: url(#default#homepage)" class=black><font color=#CC3300><strong>设为首页</strong></font></a></td>
+	<td height=36 align=right>
+
+		<table border=0 cellspacing=0 cellpadding=0 width=95>
+		<tr>
+		<td><font color=#6C5504><script language="javascript">
+var now=new Date();
+var str=now.getYear()+"年"+(now.getMonth()+1)+"月"+now.getDate()+"日";
+document.write(str);
+</script></font></td>
+		</tr>
+		</table>
+	</td>
+	</tr>
+	</table> </sohu_cms_include>
+ <table border=0 cellspacing=0 cellpadding=0 width=465>
+ <tr>
+ <td valign=top align=center width=306 background=/images/img0523/hq1_rightbg2.gif>
+  <img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+              <sohu_cms_include:sohu_news_subject_maybe10><table border=0 cellspacing=0 cellpadding=0 width=289>
+		<tr>
+		<td><img src=/images/img0523/hq1_news1.gif width=289 height=15></td>
+		</tr>
+		</table>
+		<table border=0 cellspacing=0 cellpadding=0 background=/images/img0523/hq1_news2.gif width=289>
+		<tr>
+		<td valign=top align=center>
+			<img src=http://images.sohu.com/ccc.gif width=1 height=1><br>
+			<table border=0 cellspacing=0 cellpadding=0 width=250>
+			<tr><td> <a href="http://mil.news.sohu.com/20051020/n227253600.shtml" target=_blank><img src=http://photocdn.sohu.com/20051020/Img227255510.jpg width=250 height=192 border=0 alt=  外媒炒神六军事用途 中国要保持警惕 
+></a></td></tr>
+			</table>
+		</td>
+		</tr>
+		</table>
+		<table border=0 cellspacing=0 cellpadding=0 width=289 background=/images/img0523/hq1_news3.gif>
+		<tr><td width=60></td>
+		<td height=35 class=wz12_n style='padding-top:9px'><a href="http://mil.news.sohu.com/20051020/n227253600.shtml" target=_blank>外媒炒神六军事用途 中国要保持警惕</a>
+		</td>
+		</tr>
+		</table>
+		<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include> 
+  <table border=0 cellspacing=0 cellpadding=0 width=306>
+  <tr><td width=14></td>
+            <td width=283 valign=top align=center> <sohu_cms_include:sohu_news_subject_maybe11><table border=0 cellspacing=0 cellpadding=0 width=283 bgcolor=#F0F0F0>
+			<tr>
+			<td height=31>
+				<table border=0 cellspacing=0 cellpadding=0>
+				<td width=99 background=/upload/imagesaa/hq1_c2.gif><img src=/upload/imagesaa/hq1_c1.gif width=80 height=22></td>
+				<td width=65 class=bt14_4820 style='padding-top:2px;line-height:16px' background=/upload/imagesaa/hq1_b1.gif>军情观察</td>
+				<td align=center background=/upload/imagesaa/hq1_c3.gif width=113>
+				<select style='width:75px;'><option>往期回顾</option>
+<option value="http://news.sohu.com/s2005/zhimingwuqi1.shtml">第034期：二战十大致命武器(下)</option>
+<option value="http://news.sohu.com/s2005/erzhanwuqi.shtml">第033期：二战十大致命武器(上)</option>
+ <option value="http://news.sohu.com/s2005/qiantingzhan.shtml">第032期：二战中“血腥”的海底厮杀</option>
+ <option value="http://news.sohu.com/s2005/diezhan.shtml">第031期：二战中的“尔虞我诈”</option>
+            <option value="http://news.sohu.com/20050508/b225472842.shtml">第030期：“霸王行动”中的欺骗</option>
+            <option value="http://news.sohu.com/20050430/b225407375.shtml">第029期：俄罗斯现代级导弹驱逐舰</option>
+            <option value="http://news.sohu.com/20050428/b225386715.shtml">第028期：鹰眼—航母编队的第三只眼</option>
+            <option value="http://news.sohu.com/20050427/b225370195.shtml">第027期：关注我国歼七系列战机</option>
+            <option value="http://news.sohu.com/20050426/b225351492.shtml">第026期：经久不衰的图-95“熊”</option>
+            <option value="http://news.sohu.com/20050425/b225327091.shtml">第025期：基德舰 台军的“护身符”</option>
+            <option value="http://news.sohu.com/20050424/b225313477.shtml">第024期：空中“猛禽”：F-22战机</option>
+            <option value="http://news.sohu.com/20050422/b225287796.shtml">第023期：“幼狮”：“偷”来的战机</option>
+            <option value="http://news.sohu.com/20050420/b225271572.shtml">第022期：瑞典“鹰狮”战机</option>
+            <option value="http://news.sohu.com/20050419/b225254579.shtml">第021期：谁主沉浮 看我L-15“飞狮”</option>
+            <option value="http://news.sohu.com/20050419/b225238291.shtml">第020期：将推出舰载型的山鹰教练机</option>
+            <option value="http://news.sohu.com/20050415/b225204434.shtml">第019期：能对地对海的歼八-IIM战机</option>
+            <option value="http://news.sohu.com/20050414/b225187798.shtml">第018期：中国空军的新选择?</option>
+            <option value="http://news.sohu.com/20050412/b225153292.shtml">第017期：世界航母大比拼</option>
+            <option value="http://news.sohu.com/20050411/b225135000.shtml">第016期：传歼“阵风”大比拼</option>
+            <option value="http://news.sohu.com/20050410/b225115316.shtml">第015期：传将取代歼10的“阵风”</option>
+            <option value="http://news.sohu.com/20050407/b225078999.shtml">第014期：传歼10亮相北京南苑机场</option>
+            <option value="http://news.sohu.com/20050406/b225058176.shtml">第013期：战机密集编队，福兮祸兮? </option>
+            <option value="http://news.sohu.com/20050405/b225035335.shtml">第012期：歼轰7:看我怎么对付宙斯盾</option>
+            <option value="http://news.sohu.com/20050404/b225016788.shtml">第011期：歼轰7-中国最实际的选择</option>
+            <option value="http://news.sohu.com/20050331/b224960002.shtml">第010期：中国唯一战略轰炸机</option>
+            <option value="http://news.sohu.com/20050330/b224939203.shtml">第009期：令国外为之一震的宋级潜艇</option>
+            <option value="http://news.sohu.com/20050329/b224922100.shtml">第008期：关注中国的武“直-10”</option>
+            <option value="http://news.sohu.com/20050328/b224902721.shtml">第007期：吞蚀宇宙的黑洞—基洛级</option>
+            <option value="http://news.sohu.com/20050327/b224881938.shtml">第006期：鲜为人知的“护神”防弹衣</option>
+            <option value="http://news.sohu.com/20050325/b224848951.shtml">第005期：网上又现空警-2000猛图</option>
+            <option value="http://news.sohu.com/20050323/b224826955.shtml">第004期：网上流传的中国隐形导弹艇</option>
+            <option value="http://news.sohu.com/20050322/b224808850.shtml">第003期：中国“影子巡航导弹”</option>
+            <option value="http://news.sohu.com/20050321/b224788998.shtml">第002期：中国陆军新一代主战坦克</option>
+            <option value="http://news.sohu.com/20050320/b224771386.shtml">第001期：陆盾2000防空系统</option></select>
+				</td>
+				</table>
+			</td>
+			</tr>
+			</table>
+<img src=http://images.sohu.com/ccc.gif width=1 height=4><br> </sohu_cms_include>
+      <sohu_cms_include:subject_vl_left2><table border=0 cellspacing=0 cellpadding=0 width=285>
+<tr>
+<td width=5></td>
+<td width=82 valign=top>
+<a href="http://mil.news.sohu.com/s2005/rihaijun.shtml" target=_blank><img src=http://photocdn.sohu.com/20051019/Img227248195.jpg width=73 height=73 border=0 class=img1></a>
+			</td>
+
+<td width=195 valign=top class=wz12_u align=middle >
+<table><tr><td>
+　<a href="http://mil.news.sohu.com/s2005/rihaijun.shtml" target=_blank><font color=#cc0000><strong>日海上自卫队实力透析</strong></font></a></td></tr>
+
+<tr><td>　本期搜狐军情站搜集整理了一些中国这类武器的情况献给读者。</td></tr></table>
+</td></tr></table>
+			 </sohu_cms_include> 
+                   
+   <table border=0 cellspacing=0 cellpadding=0 width=296>
+   <tr>
+   <td valign=top class=wz12_u>
+   <sohu_cms_include:news_75_notimelist>·<a href="/20051020/n227254566.shtml" target=_blank>美新型战术微型无人机 可折叠放入背包手持放飞</a><br>
+
+
+
+      ·<a href="/20051020/n227254533.shtml" target=_blank>加拿大拟购买2艘两栖攻击舰 实现陆军远程运送</a><br>
+
+
+
+      ·<a href="/20051020/n227254522.shtml" target=_blank>美军事报告称中国不容忽视 应加强亚洲军事力量</a><br>
+
+
+
+      ·<a href="/20051019/n227244178.shtml" target=_blank>澳大利亚新护卫舰“图文巴”号正式服役(图)</a><br>
+
+
+
+      ·<a href="/20051019/n227242943.shtml" target=_blank>以色列保护者无人巡逻艇通过测试 不久将执勤</a><br> </sohu_cms_include>
+   </td>
+   </tr>
+   </table>
+   <img src=http://images.sohu.com/ccc.gif width=1 height=3><br>
+      <sohu_cms_include:sohu_news_subject_maybe12><table border=0 cellspacing=0 cellpadding=0 width=265>
+			<tr>
+			<td width=144></td><td width=121 background=/images/img0523/morebg.gif height=18 align=right class=wz12_n style='line-height:16px;padding-top:3px'><a href="http://news.sohu.com/s2005/junqingguancha.shtml" target=_blank><font color=#990000>更多</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			</tr>
+			</table>
+			<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+<table border=0 cellspacing=0 cellpadding=0 width=283 bgcolor=#F0F0F0>
+			<tr>
+			<td height=31>
+				<table border=0 cellspacing=0 cellpadding=0>
+				<td width=99 background=/upload/imagesaa/hq1_c2.gif><img src=/upload/imagesaa/hq1_c1.gif width=80 height=22></td>
+				<td width=65 class=bt14_4820 style='padding-top:2px;line-height:16px' background=/upload/imagesaa/hq1_b1.gif>图库最新</td>
+				<td align=center background=/upload/imagesaa/hq1_c3.gif width=113>
+				</td>
+				</table>
+			</td>
+			</tr>
+			</table>			<img src=http://images.sohu.com/ccc.gif width=1 height=8><br>
+<table border=0 cellspacing=0 cellpadding=0 width=280>
+<tr>
+<td width=7></td>
+<td width=280 valign=top class=wz12_u>
+
+·<a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=2005100807443571442.jpg" target=_blank>中国军队的智慧惊人续集</a> <a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=2005100807254397269.jpg" target=_blank>我舰载机空中垂直加油</a><br>
+
+·<a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=2005100807160039588.jpg" target="_blank">我军单兵全套防弹装具诞生</a> <a href=http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=2005100807381470134.jpg target=_blank>勇士越野吉普车露脸</a><br>
+
+
+·<a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=2005100807393782912.jpg" target=_blank>歼十02/08号战机最新图</a> <a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20051008073246146458.jpg" target=_blank>红旗61舰载防空弹装弹</a><br>
+
+·<a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=2005092807252775578.jpg" target=_blank>从座舱看飞豹有多厉害</a> <a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20050928085718153985.jpg" target=_blank>我军轰炸机总装车间</a><br>
+
+·<a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=2005092811303779769.jpg" target=_blank>中国军队装备神秘无人机</a> <a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20050928072823143892.jpg" target=_blank>漂亮！飞豹的圆PP</a><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+<table border=0 cellspacing=0 cellpadding=0 width=265>
+<tr>
+<td width=144></td><td width=121 background=/images/img0523/morebg.gif height=18 align=right class=wz12_n style='line-height:16px;padding-top:3px'><a href="http://product.news.sohu.com/ml/pictures_user.php?clc_id=018000000" target=_blank><font color=#990000>更多</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+</tr></table>
+			<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include> 
+                    <sohu_cms_include:sohu_news_subject_maybe13><table border=0 cellspacing=0 cellpadding=0 width=283 bgcolor=#F0F0F0>
+			<tr>
+			<td height=31>
+				<table border=0 cellspacing=0 cellpadding=0>
+				<td width=99 background=/upload/imagesaa/hq1_c2.gif><img src=/upload/imagesaa/hq1_c1.gif width=80 height=22></td>
+				<td width=65 class=bt14_4820 style='padding-top:2px;line-height:16px' background=/upload/imagesaa/hq1_b1.gif>你问我答</td>
+				<td align=center background=/upload/imagesaa/hq1_c3.gif width=113>
+				</td>
+				</table>
+			</td>
+			</tr>
+			</table><img src=http://images.sohu.com/ccc.gif width=1 height=10><br>
+			<table border=0 cellspacing=0 cellpadding=0 width=265>
+			<tr>
+			<td valign=top class=wz12_u>
+
+·<a href="http://mil.news.sohu.com/20050824/n226772713.shtml" target=_blank>什么叫传统战争，非传统战争，非对称战争？</a><br>
+
+·<a href="http://mil.news.sohu.com/20050714/n226308909.shtml
+" target=_blank>为什么不给航母设计一些防御和攻击装备呢？</a><br>
+·<a href="http://mil.news.sohu.com/20050714/n226308955.shtml" target=_blank>我国空军目前有没有装备歼-11战斗机？</a><br>
+
+
+
+			</td>
+			</tr>
+			</table>
+			<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+			<table border=0 cellspacing=0 cellpadding=0 width=265>
+			<tr>
+			<td width=144></td><td width=121 background=/images/img0523/morebg.gif height=18 align=right class=wz12_n style='line-height:16px;padding-top:3px'><a href="http://comment.news.sohu.com/comment/topic.jsp?id=225775487" target=_blank><font color=#990000>提问</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			</tr>
+			</table> </sohu_cms_include> </td>
+  <td width=9></td>
+  </tr>
+  </table>
+  
+ </td>
+ <td width=159 valign=top align=center bgcolor=#F0F0F0>
+  <sohu_cms_include:sohu_news_subject_maybe14>		<table border=0 cellspacing=0 cellpadding=0 width=150>
+		<tr>
+		<td valign=top class=wz12_u>
+		</td>
+		</tr>
+		</table>
+		<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+
+<table border=0 cellspacing=0 cellpadding=0 width=159 background=/upload/imagesaa/btbg3.gif>
+		<tr>
+		<td width=7 heigh=24><img src=/upload/imagesaa/bt7.gif width=7 height=24></td>
+		<td width=152 class=bt14_4820 style='padding-top:2px'> 国防知识报</td>
+		</tr>
+		</table>
+		<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+		<table width=160 border=1 cellpadding=5 cellspacing=2 bordercolor="#FFFFFF" bgcolor="#EFEFEF">
+		<tr bgcolor="#FFFFFF">
+		<td valign=top bgcolor="#EFEFEF">
+		  <div align="center"><a href="http://www.csonline.com.cn/newspaper/js/" target=_blank><img src=http://photocdn.sohu.com/20050601/Img225775815.gif width=73 height=91 border=0 class=img1></a>
+		    </div></td>
+		<td bgcolor="#EFEFEF" class=wz12_u>
+		<a href="http://www.csonline.com.cn/newspaper/js/a1/t20051009_389363.htm" target=_blank>《国防知识报》10月起将更名，再致读者信</a><br>
+		</td>
+		</tr>
+</table>
+		<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+		<table border=0 cellspacing=0 cellpadding=0 width=150>
+		<tr>
+		<td valign=top class=wz12_u>
+		</td>
+		</tr>
+		</table>
+		<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>  
+  <sohu_cms_include:sohu_news_subject_maybe15><table border=0 cellspacing=0 cellpadding=0 width=159 background=/upload/imagesaa/btbg3.gif>
+		<tr>
+		<td width=7 heigh=24><img src=/upload/imagesaa/bt7.gif width=7 height=24></td>
+		<td width=152 class=bt14_4820 style='padding-top:2px'> 航空世界</td>
+		</tr>
+		</table>
+		<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+		<table width=160 border=1 cellpadding=5 cellspacing=2 bordercolor="#FFFFFF">
+		<tr bgcolor="#efefef">
+		<td valign=top>
+		<a href="http://mil.news.sohu.com/s2005/hangkongshijie.shtml" target=_blank><img src=http://photocdn.sohu.com/20050811/Img226639774.jpg width=73 height=91 border=0 class=img1></a>
+		</td>
+		<td class=wz12_u>
+		<a href="http://mil.news.sohu.com/s2005/hangkongshijie.shtml" target=_blank>2005年八月号杂志目录</a><br>
+		</td>
+		</tr>
+</table>
+		<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+		<table border=0 cellspacing=0 cellpadding=0 width=150>
+		<tr>
+		<td valign=top class=wz12_u>
+
+
+
+
+
+		</td>
+		</tr>
+		</table>
+		<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+  <sohu_cms_include:sohu_news_subject_maybe16><table border=0 cellspacing=0 cellpadding=0 width=159 background=/upload/imagesaa/btbg3.gif>
+		<tr>
+		<td width=7 heigh=24><img src=/upload/imagesaa/bt7.gif width=7 height=24></td>
+		<td width=152 class=bt14_4820 style='padding-top:2px'><a href="http://product.news.sohu.com/ml/pictures.php?clc_id=012" target="_blank">装备热贴</a></td>
+		</tr>
+		</table>
+		<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+		<table width=160 border=1 cellpadding=5 cellspacing=2 bordercolor="#FFFFFF" bgcolor="#EFEFEF">
+
+		<tr bgcolor="#FFFFFF">
+		  <td valign=top bgcolor="#EFEFEF">
+
+
+<A href="http://club.news.sohu.com/read-war_pics-304860-0-1.html" target=_blank>杀手锏:比中子弹更有效</A> <BR>
+
+<A href="http://club.news.sohu.com/read-war_pics-304465-0-12.html" target=_blank>极其罕见的中国歼9战斗机</A> <BR>
+
+<A href="http://club.news.sohu.com/read-war_pics-301684-0-0.html" target=_blank>细看宙斯盾舰载武器</A><BR>
+
+
+<A href="http://club.news.sohu.com/read-war_pics-295853-0-17.html" target=_blank>航母和潜艇究竟谁怕谁？</A><BR>
+
+<A href="http://club.news.sohu.com/r-war_pics-307683-0-2-0.html" target=_blank><font color=#cc0000>欧陆猛兽VS美洲传奇酋长</font></A><BR>
+
+<A href="http://club.news.sohu.com/read-war_pics-302820-0-0.html" target=_blank>巴空军歼十战机3D图</A><BR>
+
+<A href="http://club.news.sohu.com/read-war_pics-299604-0-0.html" target=_blank>中国新飞豹A战机解密(图)</A><BR>
+
+
+<A href="http://club.news.sohu.com/read-war_pics-302031-0-0.html" target=_blank><font color=#cc0000>俄研制4种吓人的超级炸弹</font></A><BR>
+
+
+
+<A href="http://club.news.sohu.com/read-war_pics-302780-0-4.html" target=_blank>德国陆军豹2A6主战坦克</A> <BR>
+
+<A href="http://club.news.sohu.com/r-war_pics-307806-0-0-0.html" target=_blank>二炮DF31新型载车</A> <BR>
+
+<A href="http://club.news.sohu.com/read-war_pics-299279-0-0.html" target=_blank>中国新隐身导弹快艇解析</A> <BR>
+
+<A href="http://club.news.sohu.com/read-war_pics-295945-0-10.html" target=_blank>中国便携式防空导弹全览</A> <BR>
+
+<A href="http://club.news.sohu.com/r-war_pics-307819-0-0-0.html" target=_blank><font color=#cc0000>美刊报YJ-62与YJ-85</font></A><BR>
+
+
+</td>
+		  </tr>
+</table> </sohu_cms_include>
+  <sohu_cms_include:sohu_news_subject_maybe17><table border=0 cellspacing=0 cellpadding=0 width=159 background=/upload/imagesaa/btbg3.gif>
+		<tr>
+		<td width=7 heigh=24><img src=/upload/imagesaa/bt7.gif width=7 height=24></td>
+		<td width=152 class=bt14_4820 style='padding-top:2px'>&nbsp;搜狗搜索</td>
+		</tr>
+		</table>
+		<table border=0 cellspacing=0 cellpadding=0 width=159>
+		<tr>
+		<td bgcolor=#E2E5C5 height=41 align=center> 
+<table width=156 border=0 cellspacing=0 cellpadding=0 id=formTable1>
+	<tr height=30 align=center>
+	<form name="sogousearch" action="http://www.sogou.com/web" target="_blank">
+	<td><input type=text size=14 name="query"></td>
+	<td><input type=image src=/images/img0328/but01.gif></td>
+	</form>
+	</tr>
+	</table>
+	<!--table2-->
+	<table width=156 border=0 cellspacing=0 cellpadding=0 id=formTable2 style="display:none">
+	<tr height=30 align=center>
+	<form name=searchnews action="http://news.sogou.com/web" target="_blank">
+	<td><input type=text size=14 name="query"></td>
+	<td><input type=image src=/images/img0328/but01.gif></td>
+	</form>
+	</tr>
+	</table>
+	<!--table3-->
+	<table width=156 border=0 cellspacing=0 cellpadding=0 id=formTable3 style="display:none">
+	<tr height=30  align=center>
+	<form action="http://d.sogou.com/music" name=searchpic target=_blank>
+	<input name="class" value="1" type="hidden">
+	<td><input type=text size=14 name=query></td>
+	<td><input type=image src=/images/img0328/but01.gif></td>
+	</form>
+	</tr>
+	</table>
+	<!--table4-->
+	<table width=156 border=0 cellspacing=0 cellpadding=0 id=formTable4 style="display:none">
+	<tr height=30 bgcolor=#BDDBF7 align=center>
+	<form action="http://shopping.sogou.com/web" name=searchshop target=_blank>
+	<td><input type=text size=14 name=query></td>
+	<td><input type=image src=/images/img0328/but01.gif></td>
+	</form>
+	</tr>
+	</table>
+	<!--table5-->
+	<table width=156 border=0 cellspacing=0 cellpadding=0 id=formTable5 style="display:none">
+	<tr height=30 bgcolor=#BDDBF7 align=center>
+	<form action="http://b2b.sogou.com/web" name=searchb2b target=_blank>
+	<td><input type=text size=14 name=query></td>
+	<td><input type=image src=/images/img0328/but01.gif></td>
+	</form>
+	</tr>
+	</table>		
+
+	</td>
+		</tr>
+<tr><td>　搜狐军事值班电话：<br>　010-62726326</td></tr>
+		</table> </sohu_cms_include>
+ </td>
+ </tr>
+ </table>
+ <sohu_cms_include:sohu_news_subject_maybe18><table border=0 cellspacing=0 cellpadding=0 width=465>
+	<tr><td height=7 bgcolor=#F0F0F0 colspan=3></td></tr>
+	<tr>
+	<td width=14 bgcolor=#F0F0F0></td>
+	<td width=448 bgcolor=#ffffff align=center><img src=http://images.sohu.com/ccc.gif width=1 height=10><br>
+		<table border=0 cellspacing=0 cellpadding=0>
+		<tr>
+		<td width=280 class=wz12_u>
+
+·<a href="http://appl.eastday.com/channel/ezjingsai/fenmian.htm" target=_blank><font color=#DA2314>参加抗战知识竞赛 赢取"江南小延安"免费旅游</font></a><br>
+·<a href="http://mil.jschina.com.cn/kangri.htm" target=_blank><font color=#DA2314>[搜狐-鼎盛]：纪念抗战胜利60周年考察采风活动</font></a><br>
+
+
+		</td>
+<td width=20></td>
+		<td width=125>
+<table width=120 border=0 cellspacing=2 cellpadding=0>
+          <tr> 
+            <td><object width=120 height=60 classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"><param name="movie" value="http://images.sohu.com/cs/button/anta/120600407.swf?clickthru=http://61.135.131.68/9b4d99d3d06a7ad57ee966ada6cfe33c.php"><param name="wmode" value="opaque"><param name="quality" value="autohigh"><embed width=120 height=60 src="http://images.sohu.com/cs/button/anta/120600407.swf?clickthru=http://61.135.131.68/9b4d99d3d06a7ad57ee966ada6cfe33c.php" quality="autohigh" wmode="opaque" type="application/x-shockwave-flash" plugspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object></td></tr></table>
+		</td>
+		</tr>
+		</table><img src=http://images.sohu.com/ccc.gif width=1 height=10><br>
+	</td>
+	<td width=3 bgcolor=#F0F0F0></td>
+	</tr><tr><td height=7 bgcolor=#F0F0F0 colspan=3></td></tr>
+	</table> </sohu_cms_include>
+<sohu_cms_include:sohu_news_subject_maybe6>   </sohu_cms_include>
+</td>
+<td width=1 bgcolor=#877B51></td>
+</tr>
+<tr>
+<td width=1 bgcolor=#877B51></td>
+<td bgcolor=#BCBA91 colspan=2 height=6></td>
+<td width=1 bgcolor=#877B51></td>
+</tr>
+<tr><td colspan=4 bgcolor=#877b51></td></tr>
+</table>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+<!--横切1 end-->
+<!--横切2 st-->
+<sohu_cms_include:sohu_news_subject_maybe19>        
+<table><tr><td height=2> </td></tr></table>
+
+<table border=0 cellspacing=0 cellpadding=0 width=760 background=/images/img0523/hq2_3.gif>
+<tr><td width=26><img src=/images/img0523/hq2_1.gif width=5 height=24></td>
+<td width=200 class=bt14_4820 style='padding-top:3px'>图库最新</td>
+<td align=right><a href="http://mil.news.sohu.com/1/0703/78/subject211617877.shtml" target="_blank"><font color=#FFFFFF><strong>更多</strong></font></a></td>
+<td align=right><img src=/images/img0523/hq2_2.gif width=6 height=24></td>
+</tr>
+</table>
+<table border=0 cellspacing=1 cellpadding=0 width=760 bgcolor=#877B51>
+<tr>
+<td valign=top align=center bgcolor=#E8E8E8>
+	<table border=0 cellspacing=0 cellpadding=0 width=758 background=/images/img0523/hq2_5.gif>
+	<tr><td height=9><img src=/images/img0523/hq2_4.gif width=59 height=9></td></tr>
+	</table>
+	<table border=0 cellspacing=0 cellpadding=0>
+
+
+<tr>
+
+
+
+<td width=111 valign=top align=center>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td><a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20051010104552388374.jpg" target=_blank><img src=http://photocdn.sohu.com/20051010/Img227157997.jpg width=111 height=75 border=0 class=img1></a></td>
+</tr></table>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td class=wz12_u align=center> <a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20051010104552388374.jpg" target=_blank>两基洛从俄裝船回国</a> </td>
+</tr></table>
+</td>
+
+
+<td width=10></td>
+
+<td width=111 valign=top align=center>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td><a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=2005100807275390355.jpg" target=_blank><img src=http://photocdn.sohu.com/20051010/Img227157998.jpg width=111 height=75 border=0 class=img1></a></td>
+</tr>
+</table>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td class=wz12_u align=center > <a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=2005100807275390355.jpg" target=_blank>中国军方的射天狼
+</a></td>
+</tr></table>
+</td>
+
+<td width=10></td>
+
+
+<td width=111 valign=top align=center>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td><a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20051010103132251041.jpg" target=_blank><img src=http://photocdn.sohu.com/20051010/Img227157999.jpg width=111 height=75 border=0 class=img1></a></td>
+</tr></table>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td align=center class=wz12_u><a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20051010103132251041.jpg" target=_blank>中国海军885补给舰</a></td>
+</tr></table>
+</td>
+
+<td width=10></td>
+
+
+<td width=111 valign=top align=center>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td><a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=2005100911511140817.jpg" target=_blank><img src=http://photocdn.sohu.com/20051010/Img227158089.jpg width=111 height=75 border=0 class=img1></a></td>
+</tr></table>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr>
+  <td class=wz12_u align=center> <a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=2005100911511140817.jpg" target=_blank>SU27在成都开铆
+</a></td>
+</tr></table>
+</td>
+
+<td width=10></td>
+
+
+<td width=111 valign=top align=center>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td><a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20051010102753107574.jpg" target=_blank><img src=http://photocdn.sohu.com/20051010/Img227158001.jpg width=111 height=75 border=0 class=img1></a></td>
+</tr></table>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td class=wz12_u align=center> <a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20051010102753107574.jpg" target=_blank>中华神盾舰在北京</a></td>
+</tr></table>
+</td>
+
+
+
+<td width=10></td>
+
+
+<td width=111 valign=top align=center>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td><a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20051010102206262564.jpg" target=_blank><img src=http://photocdn.sohu.com/20051010/Img227158002.jpg width=111 height=75 border=0 class=img1></a></td>
+</tr></table>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td class=wz12_u align=center> <a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20051010102206262564.jpg" target=_blank>中国海军新潜模型 
+</a></td>
+</tr></table>
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td width=111 valign=top align=center>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td><a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000003000&par_id=2005092911403349436.jpg" target=_blank><img src=http://photocdn.sohu.com/20050929/Img227095002.jpg width=111 height=75 border=0 class=img1></a></td>
+</tr></table>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td class=wz12_u align=center> <a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000003000&par_id=2005092911403349436.jpg" target=_blank>中国军队藏坦克新招</a> </td>
+</tr></table>
+</td>
+
+
+<td width=10></td>
+
+<td width=111 valign=top align=center>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td><a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=2005092911395093499.jpg" target=_blank><img src=http://photocdn.sohu.com/20050929/Img227095003.jpg width=111 height=75 border=0 class=img1></a></td>
+</tr>
+</table>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td class=wz12_u align=center > <a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=2005092911395093499.jpg" target=_blank>枭龙战机超美图</a></td>
+</tr></table>
+</td>
+
+<td width=10></td>
+
+
+<td width=111 valign=top align=center>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td><a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20050929113650270849.jpg" target=_blank><img src=http://photocdn.sohu.com/20050929/Img227095004.jpg width=111 height=75 border=0 class=img1></a></td>
+</tr></table>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td align=center class=wz12_u><a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20050929113650270849.jpg" target=_blank>台风下拍中国战艇</a></td>
+</tr></table>
+</td>
+
+<td width=10></td>
+
+
+<td width=111 valign=top align=center>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td><a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20050928112937193487.jpg" target=_blank><img src=http://photocdn.sohu.com/20050929/Img227095005.jpg width=111 height=75 border=0 class=img1></a></td>
+</tr></table>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr>
+  <td class=wz12_u align=center> <a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20050928112937193487.jpg" target=_blank>官方公布隐身导弹艇</a></td>
+</tr></table>
+</td>
+
+<td width=10></td>
+
+
+<td width=111 valign=top align=center>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td><a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20050928085718153985.jpg" target=_blank><img src=http://photocdn.sohu.com/20050929/Img227095006.jpg width=111 height=75 border=0 class=img1></a></td>
+</tr></table>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td class=wz12_u align=center> <a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20050928085718153985.jpg" target=_blank>我军轰炸机总装车间</a></td>
+</tr></table>
+</td>
+
+
+
+<td width=10></td>
+
+
+<td width=111 valign=top align=center>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td><a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20050928115214121307.jpg" target=_blank><img src=http://photocdn.sohu.com/20050929/Img227095007.jpg width=111 height=75 border=0 class=img1></a></td>
+</tr></table>
+<table border=0 cellspacing=0 cellpadding=0 width=111>
+<tr><td class=wz12_u align=center> <a href="http://product.news.sohu.com/ml/pictures_list.php?clc_id=018000000000&par_id=20050928115214121307.jpg" target=_blank>登陆舰释放气垫艇</a></td>
+</tr></table>
+</td></tr>
+
+
+
+
+
+
+
+
+
+	</table>	
+</td>	
+</tr>
+</table>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+<table border=0 cellspacing=0 cellpadding=0 width=760>
+<tr><td colspan=6 height=3 bgcolor=#857D4F></td></tr>
+<tr>
+<td valign=top align=center width=163 background=/images/img0523/hq3_bg1.gif>
+ <img src=http://images.sohu.com/ccc.gif width=1 height=6><br>
+ <sohu_cms_include:star_news_10>			<table border=0 cellspacing=0 cellpadding=0 width=144 bgcolor=#877B51>
+	<tr>
+	<td align=center height=28><font color=#ffffff><b>军事资料库</b></font></td>
+	</tr>
+	<tr><td height=9 background=/images/img0523/hq2_5.gif><img src=/images/img0523/hq2_4.gif width=59 height=9></td></tr>
+	</table>
+
+
+	<table width="144" border="0" cellspacing="0" cellpadding="0" bgcolor=#EAEAEA>
+<script language="javascript">
+function GoTomil()
+{
+	window.open("http://product.news.sohu.com/ml/index.php","_self");
+			
+}
+</script>
+
+<form action="http://login.sohu.com/chkpwd_club.php" method="post" name="login">
+	<INPUT type=hidden  name=url value="http://product.news.sohu.com/ml/info.php?type=info" >
+      <tr>
+        <td width="55" height="30" align="right" class="white">用户名：</td>
+        <td><input name="cn"  type="text" size="8" style="background-color: #F3F3E9; 
+
+height:18; width:70;"></td>
+      </tr>
+      <tr>
+        <td width="55" height="30" align="right" class="white">密　码：</td>
+        <td><input name="pw" type="password" size="8" style="background-color: 
+
+#F3F3E9; height:18; width:70;"></td>
+      </tr>
+
+      <tr align="center">
+        <td height="30" colspan="2"><a href="http://act1.sohu.com/passport/reg_1.php?appid=A004&fromurl=http://product.news.sohu.com/ml/info.php?type=info">注册</a> <input type="submit" name="Submit" value="登陆"  
+
+style="background-color:#D8D5C4; height:20;">&nbsp;
+           <input  type="button" name="Submit" value="游客进入"  style="background-color:#D8D5C4;height:20; width:55" onClick="GoTomil()"></td>
+        </tr></form>
+    </table><img src=http://images.sohu.com/ccc.gif width=1 height=8><br>
+			 </sohu_cms_include> 
+        <sohu_cms_include:star_news_1>			<table width="144" border="0" cellspacing="0" cellpadding="0" bgcolor=#ffffff>
+ <form name="form1" method="post" > <tr>
+    <td height="30" align="center"><strong>资料库搜索</strong></td>
+  </tr>
+  <tr>
+    <td height="25" align="center"><input name="key" id="key" type="text" size="16"><input type="hidden" name="art_key" >
+	<input type="hidden" name="pic_keyword" >
+	</td>
+  </tr>
+  <tr>
+    <td height="22" align="center">按：<select name="stype" id="stype">
+  <option selected value="http://product.news.sohu.com/ml/pic_search.php" >图片</option>
+        <option  value="http://product.news.sohu.com/ml/article_search.php" >资料</option>
+      </select>
+<input type="submit" name="Submit" style="background-color:#D8D5C4;height:20; width:40" value="搜索" onClick="javascript:form1.action=stype.options[stype.selectedIndex].value;pic_keyword.value=key.value;art_key.value=key.value"><BR><BR></td>
+  </tr></form>
+</table><img src=http://images.sohu.com/ccc.gif width=1 height=8><br>
+<script src=http://product.news.sohu.com/ml/includes/pic.js>  </script>			 </sohu_cms_include> <sohu_cms_include:star_news_2>    </sohu_cms_include> 
+        <sohu_cms_include:star_news_3>    </sohu_cms_include>  
+        
+</td>
+<td valign=top align=center width=299>
+ <sohu_cms_include:star_news_5><table border=0 cellspacing=0 cellpadding=0 background=/images/img0523/hq4_3.gif width=299>
+	<tr>
+	<td width=112 background=/images/img0523/hq4_1.gif height=24 align=center><b><font color=#ffffff>军事文学</font></b></td>
+	<td width=8><img src=/images/img0523/hq4_2.gif width=8 height=24></td>
+	<td width=179></td>
+	</tr>
+	</table>
+	<table border=0 cellspacing=0 cellpadding=0 width=299 bgcolor=#BCBA91>
+	<tr>
+	<td valign=top align=center>
+		<img src=http://images.sohu.com/ccc.gif width=1 height=10><br>
+		<table border=0 cellspacing=0 cellpadding=0>
+		<tr>
+<td width=5></td>
+		<td width=90>
+			<table border=0 cellspacing=0 cellpadding=0 width=90>
+			<tr>
+<td><a href="http://book.sohu.com/s2005/junshi.shtml" target=_blank><img src=http://photocdn.sohu.com/20051018/Img227237729.gif width=88 height=108 border=0 class=img1></a></td></tr>
+			</table>
+		</td><td width=5></td>
+<td><table><tr><td align=center><strong><a href="http://book.sohu.com/s2005/junshi.shtml" target=_blank> <font color=#CC0000>优秀长篇军事作品展</font></a></strong></td></tr><tr><td>　　一些刻意压制，极力忘怀的经历一旦汹涌而来，就如子弹命中心脏，热血带着生命，呼啸而出。回忆击中了“小庄”，带着风声带着影子从我四周擦身而过...</td></tr></table></td>
+				
+		</tr>
+		</table>
+		<img src=http://images.sohu.com/ccc.gif width=1 height=6><br>
+		<table border=0 cellspacing=0 cellpadding=0 width=290>
+		<tr>
+		<td valign=top class=wz12_u>
+·<a href="http://club.news.sohu.com/r-military-403770-0-90-0.html" target=_blank>网友原创：我忽然有了好想谈恋爱的意念</a><br>
+
+·<a href="http://club.news.sohu.com/r-military-410528-0-23-0.html" target=_blank>网友原创：我和他的故事——爱已随风飘逝！</a><br>
+
+·<a href="http://club.news.sohu.com/r-military-407686-0-6-0.html" target=_blank>原创：如果当年我肯回头，如今我也是军嫂了！</a><br>
+
+·<a href="http://club.news.sohu.com/read-military-333704-0-6.html" target=_blank>军人论坛军事原创</a>　<a href="http://club.news.sohu.com/read-military-327343-0-356.html" target=_blank>原创：下辈子如果我还记得你</a><br>
+
+·<a href="http://club.news.sohu.com/read-shilin-5473-0-259.html" target=_blank>让人血脉贲张的<雪亮军刀></a> <a href="http://club.news.sohu.com/read-military-398964-0-1.html" target=_blank>全频带阻塞干扰中国版</a><br>
+
+·<a href="http://club.news.sohu.com/read-military-356905-0-207.html" target=_blank><font color=#CC0000>一个农村兵的情感独白</a> <a href="http://club.news.sohu.com/read-military-396578-0-3.html" target=_blank><font color=#CC0000>解放军青年军官的强军梦</font></a><br>
+
+·<a href="http://club.news.sohu.com/read-military-403414-0-10.html" target=_blank>军婚家庭，一个新婚家庭真实的温饱路线！(连载)</a><br>
+
+
+
+
+		</td>
+		</tr>
+		</table><img src=http://images.sohu.com/ccc.gif width=1 height=3><br>
+	</td>
+	</tr>
+	</table>
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+ <sohu_cms_include:star_news_6><table border=0 cellspacing=0 cellpadding=0 background=/images/img0523/hq4_3.gif width=299>
+	<tr>
+	<td width=112 background=/images/img0523/hq4_1.gif height=24 align=center><b><font color=#ffffff>国防园地</font></b></td>
+	<td width=8><img src=/images/img0523/hq4_2.gif width=8 height=24></td>
+	<td width=179></td>
+	</tr>
+	</table><img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+	<table border=0 cellspacing=0 cellpadding=0 width=285>
+			<tr>
+			<td width=82 valign=top>
+			<a href="http://mil.news.sohu.com/20050823/n226758851.shtml" target=_blank><img src=http://photocdn.sohu.com/20050823/Img226759197.jpg width=73 height=73 border=0 class=img1></a>
+			</td>
+			<td width=200 valign=top class=wz12_u>
+<a href="http://mil.news.sohu.com/20050823/n226758851.shtml" target=_blank><strong><font color=#cc0000>维族女军医和汉族连长的美丽爱情</font></strong></a><br>　在那个空气中弥漫着淡淡草香的清晨，维吾尔族女军医海力且姆-艾莎一脸甜蜜地讲述与英俊潇洒的汉族丈夫的爱情故事...
+
+
+
+			
+				<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+	
+</td>
+	</tr>
+	</table>
+				
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+ <sohu_cms_include:star_news_7><table border=0 cellspacing=0 cellpadding=0 background=/images/img0523/hq4_3.gif width=299>
+	<tr>
+	<td width=112 background=/images/img0523/hq4_1.gif height=24 align=center><b><font color=#ffffff>精彩视频</font></b></td>
+	<td width=8><img src=/images/img0523/hq4_2.gif width=8 height=24></td>
+	<td width=179></td>
+	</tr>
+	</table>
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+	<table border=0 cellspacing=0 cellpadding=0>
+	<tr>
+
+
+	
+
+
+
+
+<td width=8></td>
+
+
+
+
+
+<td width=8></td>
+
+
+
+			
+			
+			
+			
+	
+	</tr>
+	</table>
+
+<table border=0 cellspacing=0 cellpadding=0 width=280>
+
+			<tr>
+			<td width=140 valign=top class=wz12_u>
+·<a href="http://mil.news.sohu.com/20050803/n226550482.shtml" target=_blank>浪费子弹的美国兵</a><br>
+·<a href="http://mil.news.sohu.com/20050803/n226550319.shtml" target=_blank>日军的残暴罪行录象</a><br>
+·<a href="http://mil.news.sohu.com/20050803/n226550286.shtml" target=_blank>视频：网友作的坦克3D</a><br>
+·<a href="http://mil.news.sohu.com/20050609/n225884565.shtml" target=_blank>视频：罕见特种兵巷战</a><br>
+
+
+
+			</td>			<td width=140 valign=top class=wz12_u>
+·<a href="http://mil.news.sohu.com/20050803/n226550115.shtml" target=_blank>视频：打中了自己的脚</a><br>
+·<a href="http://mil.news.sohu.com/20050531/n225775376.shtml" target=_blank>视频：某国特种部队</a><br>
+·<a href="http://mil.news.sohu.com/20050803/n226549923.shtml" target=_blank><font color=red>视频：真实坦克大战</font></a><br>
+·<a href="http://mil.news.sohu.com/20050725/n226434943.shtml" target=_blank>美军与抵抗组织激战</a><br>
+
+
+
+			</td>
+			</tr>
+			</table>
+ </sohu_cms_include><sohu_cms_include:sohu_news_subject_maybe8><table border=0 cellspacing=0 cellpadding=0 width=275>
+	<tr><td align=right class=wz12_u><a href="http://news.sohu.com/s2005/junshishipin.shtml" target=_blank><font color=#990000>更多...</font></a></td></tr>
+	</table>
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+</td>
+<td width=3 bgcolor=#857D4F></td>
+<td width=7></td>
+<td width=287 valign=top align=center><img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+ <sohu_cms_include:sohu_news_subject_maybe><table border=0 cellspacing=0 cellpadding=0 background=/images/img0523/hq4_3.gif width=287>
+	<tr>
+	<td width=10 background=/images/img0523/hq4_1.gif><img src=/images/img0523/hq4_4.gif width=5 height=24></td>
+	<td width=108 background=/images/img0523/hq4_1.gif height=24 align=center><font color=#ffffff><b>评论分析</b></font></td>
+	<td width=8><img src=/images/img0523/hq4_2.gif width=8 height=24></td>
+	<td width=173></td>
+	</tr>
+	</table>
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+ <img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+ <table border=0 cellspacing=0 cellpadding=0 width=275>
+ <tr>
+ <td valign=top class=wz12_u>
+ <sohu_cms_include:news_75_notimelist>·<a href="/20051014/n227197781.shtml" target=_blank>美夸大我太空军事威胁 称要防备“太空珍珠港”</a><br>
+
+
+
+      ·<a href="/20051014/n227197100.shtml" target=_blank>美军：神舟标志中国洲际导弹可抗衡美防御系统</a><br>
+
+
+
+      ·<a href="/20051013/n227189586.shtml" target=_blank>各国军方抢占太空制高点 我国应争取太空存在权</a><br>
+
+
+
+      ·<a href="/20051011/n227167282.shtml" target=_blank>法女强人国防部长:中法军事合作不仅是漂亮言辞</a><br>
+
+
+
+      ·<a href="/20051010/n227155535.shtml" target=_blank>中国国防发展的五个困惑 “跨越”不是一蹴而就</a><br>
+
+
+
+      ·<a href="/20050929/n227095981.shtml" target=_blank>印度尼西亚军方为何对中国渔民出手这样狠？</a><br>
+
+
+
+      ·<a href="/20050929/n227094922.shtml" target=_blank>美国GMD地基中段防御系统的发展现状与前景(图)</a><br>
+
+
+
+      ·<a href="/20050929/n227091362.shtml" target=_blank>外媒:2010年美军不敢因台湾问题对中国大打出手</a><br> </sohu_cms_include>
+ </td>
+ </tr>
+ </table>
+ <sohu_cms_include:subject_vl_left4>  <table border=0 cellspacing=0 cellpadding=0 width=275>
+	<tr><td align=right class=wz12_u><a href="http://news.sohu.com/s2004/junshipinglun.shtml" target=_blank><font color=#990000>更多...</font></a></td></tr>
+	</table>
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_maybe><table border=0 cellspacing=0 cellpadding=0 background=/images/img0523/hq4_3.gif width=287>
+	<tr>
+	<td width=10 background=/images/img0523/hq4_1.gif><img src=/images/img0523/hq4_4.gif width=5 height=24></td>
+	<td width=108 background=/images/img0523/hq4_1.gif height=24 align=center><font color=#ffffff><b>装备快讯</b></font></td>
+	<td width=8><img src=/images/img0523/hq4_2.gif width=8 height=24></td>
+	<td width=173></td>
+	</tr>
+	</table>
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+ <img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+ <table border=0 cellspacing=0 cellpadding=0 width=275>
+ <tr>
+         <td valign=top class=wz12_u> <sohu_cms_include:news_75_notimelist>·<a href="/20051020/n227255198.shtml" target=_blank>美国将启动JCM通用导弹AH-64直升机载试验(图)</a><br>
+
+
+
+      ·<a href="/20051020/n227255145.shtml" target=_blank>美军F-35战机海外用户加装新型NSM反舰导弹(图)</a><br>
+
+
+
+      ·<a href="/20051020/n227255069.shtml" target=_blank>美国试验预期精度为10米的127毫米制导炮弹(图)</a><br>
+
+
+
+      ·<a href="/20051019/n227243104.shtml" target=_blank>俄报称美秘密研制第四代核武器作常规武器使用</a><br>
+
+
+
+      ·<a href="/20051018/n227233343.shtml" target=_blank>法媒体:韩国下一代作战坦克将于2010年亮相(图)</a><br>
+
+
+
+      ·<a href="/20051017/n227223601.shtml" target=_blank>洛-马已经完成陆军战术导弹系统可靠性试验(图)</a><br>
+
+
+
+      ·<a href="/20051014/n227199282.shtml" target=_blank>英国格里丰气垫船公司为瑞典制造新气垫艇(图)</a><br>
+
+
+
+      ·<a href="/20051013/n227188285.shtml" target=_blank>韩国军队将为K9式自行榴弹炮研制自动化供弹车</a><br> </sohu_cms_include></td>
+ </tr>
+ </table>
+ <sohu_cms_include:subject_vl_left4><table border=0 cellspacing=0 cellpadding=0 width=275>
+	<tr><td align=right class=wz12_u><a href="http://news.sohu.com/1/0602/10/subject201431018.shtml" target=_blank><font color=#990000>更多...</font></a></td></tr>
+	</table>
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_maybe><table border=0 cellspacing=0 cellpadding=0 background=/images/img0523/hq4_3.gif width=287>
+	<tr>
+	<td width=10 background=/images/img0523/hq4_1.gif><img src=/images/img0523/hq4_4.gif width=5 height=24></td>
+	<td width=108 background=/images/img0523/hq4_1.gif height=24 align=center><font color=#ffffff><b>峰火内幕</b></font></td>
+	<td width=8><img src=/images/img0523/hq4_2.gif width=8 height=24></td>
+	<td width=173></td>
+	</tr>
+	</table>
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+ <img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+ <table border=0 cellspacing=0 cellpadding=0 width=275>
+ <tr>
+ <td valign=top class=wz12_u>
+ <sohu_cms_include:news_75_notimelist>·<a href="/20051012/n227178713.shtml" target=_blank>媒体披露中国近代之耻：八国联军里的中国军团</a><br>
+
+
+
+      ·<a href="/20051011/n227169899.shtml" target=_blank>解密文件称驻韩美军曾在韩国部署数百枚核武器</a><br>
+
+
+
+      ·<a href="/20051009/n227149181.shtml" target=_blank>中国最早的核计划揭秘:蒋介石对原子弹动了念头</a><br>
+
+
+
+      ·<a href="/20050928/n227080766.shtml" target=_blank>解放军首次大规模授勋50周年 媒体披露授勋始末</a><br> </sohu_cms_include>
+ </td>
+ </tr>
+ </table>
+ <sohu_cms_include:subject_vl_left4><table border=0 cellspacing=0 cellpadding=0 width=275>
+	<tr><td align=right class=wz12_u><a href="http://news.sohu.com/junshilishi.shtml" target=_blank><font color=#990000>更多...</font></a></td></tr>
+	</table>
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+</td>
+<td width=1 bgcolor=#857D4F></td>
+</tr><tr><td colspan=6 height=2 bgcolor=#857D4F></td></tr>
+</table><img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+  <!--横切3 end-->
+  <!--横切4 st-->
+  <sohu_cms_include:star_news_8>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="http://photocdn.sohu.com/20050530/Img225758458.gif" width="760" height="105" border="0" usemap="#Map"></td>
+  </tr>
+</table>
+<map name="Map">
+  <area shape="rect" coords="2,44,245,105" href="http://news.sohu.com/s2005/kangrilaobing.shtml" target=_blank>
+  <area shape="rect" coords="257,43,504,117" href="http://news.sohu.com/s2005/kangzhanyiwu.shtml" target=_blank>
+  <area shape="rect" coords="515,44,758,137" href="http://news.sohu.com/s2005/mjkangri.shtml" target=_blank>
+</map>
+<table><tr><td heigt=2> </td></tr></table>
+ </sohu_cms_include> <sohu_cms_include:subject_vl_left7>  </sohu_cms_include>
+  <!--横切4 end-->
+  <!--横切5 st-->
+  <table border=0 cellspacing=0 cellpadding=0 width=760>
+<tr><td colspan=6 height=3 bgcolor=#857D4F></td></tr>
+<tr>
+<td valign=top align=center width=163 background=/images/img0523/hq3_bg1.gif>
+ <img src=http://images.sohu.com/ccc.gif width=1 height=6><br>
+ <sohu_cms_include:star_news_11><table border=0 cellspacing=0 cellpadding=0 width=144 bgcolor=#877B51>
+	<tr>
+	<td align=center height=28><font color=#ffffff><b>论坛热点</b></font></td>
+	</tr>
+	<tr><td height=9 background=/images/img0523/hq2_5.gif><img src=/images/img0523/hq2_4.gif width=59 height=9></td></tr>
+	</table>
+	<table border=0 cellspacing=0 cellpadding=0 width=144 bgcolor=#ffffff>
+	<tr>
+	<td valign=top align=center><img src=http://images.sohu.com/ccc.gif width=1 height=6><br>
+		<table border=0 cellspacing=0 cellpadding=0 width=125>
+		<tr>
+		<td><a href="http://club.news.sohu.com/newsmain.php?c=102&b=war_pics&a=297314" target=_blank><img src=http://photocdn.sohu.com/20050902/Img226852822.jpg width=123 height=90 border=0 class=img1></a></td>
+		</tr>
+<tr><td height=5></td></tr>
+<tr>
+		<td><a href="http://club.news.sohu.com/newsmain.php?c=102&b=war_pics&a=297114&c=102" target=_blank><img src=http://photocdn.sohu.com/20050902/Img226852823.jpg width=123 height=90 border=0 class=img1></a></td>
+		</tr>
+<tr><td height=5></td></tr>
+
+<tr>
+		<td><a href="http://club.news.sohu.com/newsmain.php?c=102&b=war_pics&a=295772" target=_blank><img src=http://photocdn.sohu.com/20050902/Img226852824.jpg width=123 height=90 border=0 class=img1></a></td>
+		</tr>
+
+<tr><td height=5></td></tr>
+
+<tr>
+			<td><a href="http://club.news.sohu.com/newsmain.php?c=102&b=war_pics&a=295318" target=_blank><img src=http://photocdn.sohu.com/20050902/Img226852825.jpg width=123 height=90 border=0 class=img1></a></td>
+		</tr>
+
+
+
+		</table>
+		<img src=http://images.sohu.com/ccc.gif width=1 height=8><br>
+		<table border=0 cellspacing=0 cellpadding=0 width=140>
+		<tr>
+		<td valign=top class=wz12_u>
+          <p>·<a href="http://club.news.sohu.com/newsmain.php?c=102&b=shilin&a=43677&c=102" target=_blank>中国主战潜艇15项第一</a><br>
+  ·<a href="http://club.news.sohu.com/newsmain.php?c=102&b=shilin&a=43698&c=102" target=_blank>海军呼之欲出抢控海岛</a><br>
+  ·<a href="http://club.news.sohu.com/newsmain.php?c=102&b=war_pics&a=296851&c=102" target=_blank>中国预警机发展史寻踪</a><br>
+  ·<a href="http://club.news.sohu.com/newsmain.php?c=102&b=war_pics&a=296526&c=102" target=_blank>[图]防空型导弹驱逐舰</a><br>
+  ·<a href="http://club.news.sohu.com/newsmain.php?c=102&b=shilin&a=43808&c=102" target=_blank>印度：中国为什么牛？</a><br>
+  ·<a href="http://club.news.sohu.com/newsmain.php?c=102&b=war_pics&a=296844" target=_blank>“基洛”级常规潜艇</a><br>
+  ·<a href="http://club.news.sohu.com/newsmain.php?c=102&b=war_pics&a=297198" target=_blank>航母上的弹射器面面观</a><br>
+  ·<a href="http://club.news.sohu.com/newsmain.php?c=102&b=shilin&a=44164" target=_blank>运十启动对我国的意义</a><br>
+  ·<a href="http://club.news.sohu.com/newsmain.php?c=102&b=shilin&a=44161" target=_blank>中、美空军到底谁更强</a><br>
+    <br>		
+          </p>          </td>
+		</tr>
+		</table><img src=http://images.sohu.com/ccc.gif width=1 height=8><br>
+	</td>
+	</tr>
+	</table> </sohu_cms_include>
+ <sohu_cms_include:star_news_12>  </sohu_cms_include><sohu_cms_include:sohu_news_subject_maybe7> </sohu_cms_include>
+</td>
+<td valign=top align=center width=299>
+ <sohu_cms_include:star_news_13><table border=0 cellspacing=0 cellpadding=0 background=/images/img0523/hq4_3.gif width=299>
+	<tr>
+	<td width=112 background=/images/img0523/hq4_1.gif height=24 align=center><b><font color=#ffffff>合作媒体专区</font></b></td>
+	<td width=8><img src=/images/img0523/hq4_2.gif width=8 height=24></td>
+	<td width=179></td>
+	</tr>
+	</table><img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+
+
+
+
+	<table border=0 cellspacing=0 cellpadding=0 width=290>
+	<tr>
+	
+	<td width=135 valign=top align=middle>
+		<table border=0 cellspacing=0 cellpadding=0 width=295>
+		<tr>
+		<td valign=top class=wz12_u>
+ [搜狐-鼎盛军事]：<a href="http://mil.jschina.com.cn/kangri.htm" target=_blank><font color=#cc0000>纪念抗战胜利60周年考察采风活动
+</font></a></td></tr>
+</table>
+	</td>
+	</tr>
+	</table>
+
+<table border=0 cellspacing=0 cellpadding=0 width=285>
+			<tr>
+			<td width=82 valign=top>
+			<a href="http://mil.news.sohu.com/20050817/n226702736.shtml" target=_blank><img src=http://photocdn.sohu.com/20050817/Img226702905.jpg width=73 height=73 border=0 class=img1></a>
+			</td>
+			<td width=185 valign=top class=wz12_u>
+<a href="http://mil.news.sohu.com/20050817/n226702736.shtml" target=_blank><strong><font color=#cc0000>网友制作的抗日战争电脑3D图</font></strong></a><br>　　电脑3D高手制作，刻画了抗日战争荡气回肠的一幕，让人又回到那个战火纷飞的年代...<br>
+
+
+			</td>
+			</tr>
+			</table>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+
+<table border=0 cellspacing=0 cellpadding=0 width=280>
+			<tr>
+			<td width=90 valign=top>
+			<a href="http://mil.news.sohu.com/20050817/n226702736.shtml" target=_blank><img src=http://photocdn.sohu.com/20050817/Img226702906.jpg width=90 height=60 border=0 class=img1></a>
+			</td>
+			<td width=90 valign=top>
+			<a href="http://mil.news.sohu.com/20050817/n226702736.shtml" target=_blank><img src=http://photocdn.sohu.com/20050817/Img226702907.jpg width=90 height=60 border=0 class=img1></a>
+			</td>
+<td width=90 valign=top>
+			<a href="http://mil.news.sohu.com/20050817/n226702736.shtml" target=_blank><img src=http://photocdn.sohu.com/20050817/Img226702908.jpg width=90 height=60 border=0 class=img1></a>
+			</td>
+			</tr> 
+</table>
+
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+
+<table border=0 cellspacing=0 cellpadding=0 width=280>
+			<tr>
+			<td width=88 valign=top>
+			<a href="http://www.chinamil.com.cn/" target=_blank><img src=http://photocdn.sohu.com/20050530/Img225752096.jpg width=88 height=31 border=0 class=img1></a>
+			</td>
+			<td width=88 valign=top>
+			<a href="http://www.xinhuanet.com/mil/index.htm" target=_blank><img src=http://photocdn.sohu.com/20050530/Img225752097.jpg width=88 height=31 border=0 class=img1></a>
+			</td>
+<td width=88 valign=top>
+			<a href="http://www.people.com.cn/GB/junshi/index.html" target=_blank><img src=http://photocdn.sohu.com/20050530/Img225752098.jpg width=88 height=31 border=0 class=img1></a>
+			</td>
+			</tr>
+<tr>
+<td width=88 valign=top>
+			<a href="http://mil.fjii.com/" target=_blank><img src=http://photocdn.sohu.com/20050530/Img225752094.jpg width=88 height=31 border=0 class=img1></a>
+			</td>
+
+			<td width=88 valign=top>
+			<a href="http://mil.qianlong.com/" target=_blank><img src=http://photocdn.sohu.com/20050530/Img225752093.jpg width=88 height=31 border=0 class=img1></a>
+			</td>
+			
+<td width=88 valign=top>
+			<a href="http://mil.eastday.com/" target=_blank><img src=http://photocdn.sohu.com/20050531/Img225766703.jpg width=88 height=31 border=0 class=img1></a>
+			</td>
+			</tr> 
+<tr>
+<td width=88 valign=top>
+			<a href="http://www.china.com.cn/chinese/junshi/36192.htm" target=_blank><img src=http://photocdn.sohu.com/20050606/Img225836978.jpg width=88 height=31 border=0 class=img1></a>
+			</td>
+
+			<td width=88 valign=top>
+			<a href="http://mil.jschina.com.cn/index.htm" target=_blank><img src=http://photocdn.sohu.com/20050606/Img225836989.gif width=88 height=31 border=0 class=img1></a>
+			</td>
+			
+<td width=88 valign=top>
+			<a href="http://www.huaxia.com/js/index.html" target=_blank><img src=http://photocdn.sohu.com/20050606/Img225836993.jpg width=88 height=31 border=0 class=img1></a>
+			</td>
+			</tr>
+</table> </sohu_cms_include>
+ <sohu_cms_include:star_news_14><table border=0 cellspacing=0 cellpadding=0 background=/images/img0523/hq4_3.gif width=299>
+	<tr>
+	<td width=112 background=/images/img0523/hq4_1.gif height=24 align=center><b><font color=#ffffff>军事游戏</font></b></td>
+	<td width=8><img src=/images/img0523/hq4_2.gif width=8 height=24></td>
+	<td width=179></td>
+	</tr>
+	</table><img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+	<table border=0 cellspacing=0 cellpadding=0 width=285>
+			<tr>
+			<td width=82 valign=top>
+			<a href="http://games.it.sohu.com/20050520/n225643517.shtml" target=_blank><img src=http://photocdn.sohu.com/20050613/Img225926832.jpg width=73 height=73 border=0 class=img1></a>
+			</td>
+			<td width=200 valign=top class=wz12_u>
+·<a href="http://games.it.sohu.com/20050527/n225725215.shtml" target=_blank>中国CS第一美女写真集(组图)</a><br>
+·<a href="http://games.it.sohu.com/20050606/n225834378.shtml" target=_blank>CIG2005高校电子竞技联赛圆满结束</a><br>
+·<a href="http://games.it.sohu.com/20050520/n225645688.shtml" target=_blank>CS、《半条命》等Valve游戏将停发</a><br>
+·<a href="http://games.it.sohu.com/20050527/n225728965.shtml" target=_blank>《盟军敢死队：打击力量》新讯</a><br>
+
+
+
+
+
+			</td>
+			</tr>
+			</table>
+				<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+					
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+ <sohu_cms_include:star_news_15><table border=0 cellspacing=0 cellpadding=0 background=/images/img0523/hq4_3.gif width=299>
+	<tr>
+	<td width=112 background=/images/img0523/hq4_1.gif height=24 align=center><b><font color=#ffffff>网友DIY</font></b></td>
+	<td width=8><img src=/images/img0523/hq4_2.gif width=8 height=24></td>
+	<td width=179></td>
+	</tr>
+	</table>
+
+	 <img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+	<table border=0 cellspacing=0 cellpadding=0 width=285>
+			<tr>
+			<td width=82 valign=top>
+			<a href="http://mil.news.sohu.com/20050722/n226403983.shtml" target=_blank><img src=http://photocdn.sohu.com/20050722/Img226404179.jpg width=73 height=73 border=0 class=img1></a>
+			</td>
+			<td width=185 valign=top class=wz12_u>
+<a href="http://mil.news.sohu.com/20050722/n226403983.shtml" target=_blank><strong><font color=#cc0000>风神——福克DrⅠ</font></strong></a><br>福克DrⅠ的航速慢，高空性能差。但不管怎么说，福克DrⅠ仍然是当时最杰出的战斗机<br>
+
+
+			</td>
+			</tr>
+			</table>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+
+<table border=0 cellspacing=0 cellpadding=0 width=280>
+			<tr>
+			<td width=90 valign=top>
+			<a href="http://mil.news.sohu.com/20050722/n226403983.shtml" target=_blank><img src=http://photocdn.sohu.com/20050722/Img226404188.jpg width=90 height=60 border=0 class=img1></a>
+			</td>
+			<td width=90 valign=top>
+			<a href="http://mil.news.sohu.com/20050722/n226403983.shtml" target=_blank><img src=http://photocdn.sohu.com/20050722/Img226404189.jpg width=90 height=60 border=0 class=img1></a>
+			</td>
+<td width=90 valign=top>
+			<a href="http://mil.news.sohu.com/20050722/n226403983.shtml" target=_blank><img src=http://photocdn.sohu.com/20050722/Img226404190.jpg width=90 height=60 border=0 class=img1></a>
+			</td>
+			</tr> 
+</table>
+				
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include><sohu_cms_include:star_news_4> </sohu_cms_include>
+</td>
+<td width=3 bgcolor=#857D4F></td>
+<td width=7></td>
+<td width=287 valign=top align=center><img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+ <sohu_cms_include:sohu_news_subject_maybe><table border=0 cellspacing=0 cellpadding=0 background=/images/img0523/hq4_3.gif width=287>
+	<tr>
+	<td width=10 background=/images/img0523/hq4_1.gif><img src=/images/img0523/hq4_4.gif width=5 height=24></td>
+	<td width=108 background=/images/img0523/hq4_1.gif height=24 align=center><font color=#ffffff><b>我军动态</b></font></td>
+	<td width=8><img src=/images/img0523/hq4_2.gif width=8 height=24></td>
+	<td width=173></td>
+	</tr>
+	</table>
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+ <table border=0 cellspacing=0 cellpadding=0 width=275>
+ <tr>
+ <td valign=top class=wz12_u>
+ <sohu_cms_include:news_75_notimelist>·<a href="/20051020/n227255001.shtml" target=_blank>中国人民解放军物资采购门户网站将于近日开通</a><br>
+
+
+
+      ·<a href="/20051020/n227254651.shtml" target=_blank>曹刚川会见美防长 称中国今年军费共302亿美元</a><br>
+
+
+
+      ·<a href="/20051020/n227254527.shtml" target=_blank>日本男子仿雅虎网 制作“中国侵入冲绳”假新闻</a><br>
+
+
+
+      ·<a href="/20051019/n227246310.shtml" target=_blank>台军中内讧毁前程 台军首位女将军成政治牺牲品</a><br>
+
+
+
+      ·<a href="/20051019/n227243545.shtml" target=_blank>媒体披露：我歼七E战机研发曾多次“化险为夷”</a><br>
+
+
+
+      ·<a href="/20051019/n227243318.shtml" target=_blank>中俄两国勘分边界内幕揭秘：理智看待现实问题</a><br>
+
+
+
+      ·<a href="/20051019/n227243226.shtml" target=_blank>中国轰炸机用重磅炸弹攻击目标扬威演兵场(图)</a><br>
+
+
+
+      ·<a href="/20051019/n227242954.shtml" target=_blank>中央军委为二炮某工程团记一等功庆功大会举行</a><br> </sohu_cms_include>
+ </td>
+ </tr>
+ </table>
+ <sohu_cms_include:subject_vl_left4><table border=0 cellspacing=0 cellpadding=0 width=275>
+	<tr><td align=right class=wz12_u><a href="http://news.sohu.com/taihai.shtml" target=_blank><font color=#990000>更多...</font></a></td></tr>
+	</table>
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_maybe><table border=0 cellspacing=0 cellpadding=0 background=/images/img0523/hq4_3.gif width=287>
+	<tr>
+	<td width=10 background=/images/img0523/hq4_1.gif><img src=/images/img0523/hq4_4.gif width=5 height=24></td>
+	<td width=108 background=/images/img0523/hq4_1.gif height=24 align=center><font color=#ffffff><b>外军新闻</b></font></td>
+	<td width=8><img src=/images/img0523/hq4_2.gif width=8 height=24></td>
+	<td width=173></td>
+	</tr>
+	</table>
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include> 
+ <table border=0 cellspacing=0 cellpadding=0 width=275>
+ <tr>
+ <td valign=top class=wz12_u>
+ <sohu_cms_include:news_75_notimelist>·<a href="/20051114/n227492593.shtml" target=_blank>俄加强与集安组织成员国军事合作 优惠价供武</a><br>
+
+
+
+      ·<a href="/20051110/n227456206.shtml" target=_blank>实现空间军事应用印度政府考虑成立太空司令部</a><br>
+
+
+
+      ·<a href="/20051107/n227420291.shtml" target=_blank>印美空军展开联合军演 7万名示威者基地外抗议</a><br>
+
+
+
+      ·<a href="/20051107/n227418389.shtml" target=_blank>美国印度空军开始举行12天联合军演 F-16会苏30</a><br>
+
+
+
+      ·<a href="/20051103/n227375623.shtml" target=_blank>美海军陆战队组建特种部队 加强全球范围反恐战</a><br>
+
+
+
+      ·<a href="/20051027/n227312194.shtml" target=_blank>印度拟向智利售ALH高级轻型直升机 约40亿卢比</a><br>
+
+
+
+      ·<a href="/20051022/n227278726.shtml" target=_blank>美媒体称小泉布什将磋商美最先进核航母常驻日</a><br>
+
+
+
+      ·<a href="/20051020/n227260731.shtml" target=_blank>苏丹拟从俄罗斯进口运输直升机 未宣布购买数量</a><br> </sohu_cms_include>
+ </td>
+ </tr>
+ </table>
+ <sohu_cms_include:subject_vl_left4><table border=0 cellspacing=0 cellpadding=0 width=275>
+	<tr><td align=right class=wz12_u><a href="http://news.sohu.com/wuqi.shtml" target=_blank><font color=#990000>更多...</font></a></td></tr>
+	</table>
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include><sohu_cms_include:sohu_news_subject_maybe><table border=0 cellspacing=0 cellpadding=0 background=/images/img0523/hq4_3.gif width=287>
+	<tr>
+	<td width=10 background=/images/img0523/hq4_1.gif><img src=/images/img0523/hq4_4.gif width=5 height=24></td>
+	<td width=108 background=/images/img0523/hq4_1.gif height=24 align=center><font color=#ffffff><b>台海风云</b></font></td>
+	<td width=8><img src=/images/img0523/hq4_2.gif width=8 height=24></td>
+	<td width=173></td>
+	</tr>
+	</table>
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+ <table border=0 cellspacing=0 cellpadding=0 width=275>
+ <tr>
+ <td valign=top class=wz12_u>
+ <sohu_cms_include:news_75_notimelist>·<a href="/20051020/n227255303.shtml" target=_blank>台向美购2艘“纪德”舰30日交舰 12月抵台(图)</a><br>
+
+
+
+      ·<a href="/20051019/n227242989.shtml" target=_blank>中国外交部:坚决反对美同台湾进行军事交流合作</a><br>
+
+
+
+      ·<a href="/20051019/n227242940.shtml" target=_blank>台当局妄图诬蔑神六为军事威胁 欲推军购案过关</a><br>
+
+
+
+      ·<a href="/20051019/n227242013.shtml" target=_blank>美高官：美国坚决反对台湾走上核武器“险路”</a><br>
+
+
+
+      ·<a href="/20051018/n227232632.shtml" target=_blank>军事专家全面解读台湾间谍卫星的“隐藏属性”</a><br>
+
+
+
+      ·<a href="/20051018/n227232440.shtml" target=_blank>美军队开始为武装介入台海冲突作军事准备(图)</a><br>
+
+
+
+      ·<a href="/20051014/n227200226.shtml" target=_blank>美台军事作战符号整合完毕 为介入台海必要基础</a><br>
+
+
+
+      ·<a href="/20051013/n227187613.shtml" target=_blank>台湾海军求购8艘潜艇 图谋偷袭大陆庞大油轮群</a><br> </sohu_cms_include>
+ </td>
+ </tr>
+ </table>
+ <sohu_cms_include:subject_vl_left4><table border=0 cellspacing=0 cellpadding=0 width=275>
+	<tr><td align=right class=wz12_u><a href="http://news.sohu.com/1/0602/08/subject201430896.shtml" target=_blank><font color=#990000>更多...</font></a></td></tr>
+	</table>
+	<img src=http://images.sohu.com/ccc.gif width=1 height=5><br> </sohu_cms_include>
+</td>
+<td width=1 bgcolor=#857D4F></td>
+</tr><tr><td colspan=6 height=2 bgcolor=#857D4F></td></tr>
+</table><img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+<sohu_cms_include:subject_vl_left1><table><tr><td><strong>友情链接 | <A class=newsblue1 href="http://military.china.com/" target=_blank>中华网军事</A> <A class=newsblue1 href="http://www.tiexue.net/" target=_blank>铁血军事</A> <A class=newsblue1 href="http://mil.jschina.com.cn/index.htm" target=_blank>鼎盛军事</A> <A class=newsblue1 href="http://www.armysky.com/" target=_blank>子陵网</A> <A class=newsblue1 href="http://junshi.xilu.com/" target=_blank>西陆军事社区</A> <A class=newsblue1 href="http://www.warchina.com/" target=_blank>亚东军事</A> <A class=newsblue1 href="http://www.guofangjiaoyu.com/ggg/index1.htm" target=_blank>国防在线</A> <A class=newsblue1 href="http://www.xinjunshi.com/" target=_blank>新军事</A> <A class=newsblue1 href="http://www.usa-mil.com/" target=_blank>美国军事</A> <A class=newsblue1 href="http://www.pla-info.com/" target=_blank>军队政工</A><br>　　　　　<A class=newsblue1 href="http://www.mil123.com/ " target=_blank>军事导航网</A> <A class=newsblue1 href="http://www.cjdby.com/" target=_blank>超级大本营</A> <A class=newsblue1 href="http://www.wpeu.net" target=_blank>兵器装备</A> <A class=newsblue1 href="http://news.nen.com.cn/72351163642544128/index.shtml" target=_blank>NEN军事</A>　<A class=newsblue1 href="http://www.junhun.cn" target=_blank>中国军魂网</A> <A class=newsblue1 href="http://www.1n0.net" target=_blank>猎讯军情网</A> <A class=newsblue1 href="http://www.junmeng.org/ " target=_blank>军盟网</A> <A class=newsblue1 href="http://www.zgjunshi.com" target=_blank>中国武器大全</A> <A class=newsblue1 href="http://www.milnews.com/" target=_blank>军事新闻网</A></strong></td></tr></table> </sohu_cms_include>
+<sohu_cms_include:sohu_news_copyright><br>
+<script language="javascript" src="http://www.sohu.net/common/sohunettail_local.js"></script>
+<hr size="1" width="760" noshade>
+<table width=760 border=0 cellspacing=0 cellpadding=0>
+  <tr> 
+    <td align=center><a href=http://www.chinaren.com/  class="black" target=_blank>ChinaRen</a> - <a
+href=http://hr.sohu.com/hrm.html class="black" target=_blank>搜狐招聘</a> - <a
+href=http://add.sohu.com/ class="black" target=_blank>网站登录</a> - <a href=http://help.sohu.com/ class="black" target=_blank>帮助中心</a> 
+      - <a
+href="" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sohu.com');return false;" class="black" target=_blank>设置首页</a> - <a
+href=http://adinfo.sohu.com class="black" target=_blank>广告服务</a> - <a
+href=http://www.sohu.com/about/lianxi.htm class="black" target=_blank>联系方式</a> - <a
+href=http://www.sohu.com/about/privacy.html class="black" target=_blank>保护隐私权</a> - <a href="http://www.sohu.com/about/English" class="black" target=_blank>About SOHU</a> - <a href=http://www.sohu.com/about/  class="black" target=_blank>公司介绍</a><br>
+      <span class=eng>Copyright &copy; 2005 Sohu.com Inc. All rights reserved. 
+      搜狐公司 <a href=http://www.sohu.com/about/copyright.html target=_blank class=black>版权所有</a></span></td>
+  </tr>
+</table><p></p>
+<script language="JavaScript" src="http://nielsen.js.sohu.com/nnselect.js">
+</script>
+<noscript>
+<img src='http://ping.nnselect.com/ping.gif?c=119' height='1' width='1'>
+</noscript> </sohu_cms_include>
+</center>
+</body>
+</html>

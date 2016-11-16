@@ -1,0 +1,768 @@
+HTTP/1.1 200 OK
+Date: Tue, 15 Nov 2016 07:20:25 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips
+Last-Modified: Wed, 28 Oct 2015 02:40:00 GMT
+Accept-Ranges: bytes
+Content-Length: 36246
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<title>信息时报专栏-搜狐新闻中心</title>
+<meta http-equiv=content-type content='text/html; charset=gb2312'>
+<sohu_cms_include:subject_style><style type=text/css>
+/*style7*/
+td,body,input,select {font-size: 12px;font-family:'宋体,arial';color:#333333;line-height:18px;}
+
+a.title1,a.title1:visited {color: #D70709;text-decoration:none;}
+a.title1:hover{text-decoration:underline;}
+
+.title1 a:link{color: #D70709;text-decoration:none;}
+.title1 a:visited {color: #D70709;text-decoration:none;}
+.title1 a:hover{text-decoration:underline;}
+
+.ui_nav1,a.ui_nav1:visited {color: #D91200;line-height:20px;text-decoration: none;}
+a.ui_nav1:hover{color: #D91200;text-decoration:underline;}
+
+
+.ui{font-size:12px;color:#333333}
+
+.navigater,a.navigater:visited {color: #D91200;line-height:20px;text-decoration: none;}
+a.navigater:hover{color: #D91200;text-decoration:underline;}
+
+.top_red {font-size: 12px; color:#D70709; text-decoration: none}
+a.top_red:hover {text-decoration:underline;}
+
+.topred,a.topred:visited {color: #D91200;line-height:20px;text-decoration: none;}
+a.topred:hover{color: #D91200;text-decoration:underline;}
+
+.tt1,a.tt1:visited {color: #D91200;line-height:20px;text-decoration: none;}
+a.tt1:hover{color: #D91200;text-decoration:underline;}
+
+.top {font-size: 12px;line-height: 20px;color: #000000;text-decoration: none;}
+
+.nav1 {color:#696969;line-height:18px;}
+.nav1 a:link{color: #696969;text-decoration:none;}
+.nav1 a:visited {color: #696969;text-decoration:none;}
+.nav1 a:hover{text-decoration:underline;}
+
+/*以上不变*/
+
+/*ad*/
+.ad1 td {color:#1072CF;line-height:18px;}
+.ad1 a:link{color: #696969;text-decoration:none;}
+.ad1 a:visited {color: #696969;text-decoration:none;}
+.ad1 a:hover{text-decoration:underline;}
+
+/*title1*/
+.block_title1 {background-image: url(http://images.sohu.com/uiue/zy/images/7block_title1.gif);background-repeat: no-repeat;}
+/*.block_title1{background-color:#9374E1;}*/
+.block_title1b {background-image: url(http://images.sohu.com/uiue/zy/images/7block_title1b.gif);background-repeat: no-repeat;
+/*background-color:#000000;*/
+font-size:16px;
+font-weight:bold;
+color:#0051B8;
+height:30px;}
+/*title2*/
+.block_title2 {background-image: url(http://images.sohu.com/uiue/zy/images/7block_title2.gif);background-repeat: no-repeat;background-color:#000000;}
+.block_title2b {background-image: url(http://images.sohu.com/uiue/zy/images/7block_title2b.gif);background-repeat: repeat-x;
+/*background-color:#000000;*/
+font-size:12px;
+color:#0051B8;
+font-weight:bold;
+height:24px;}
+/*title3*/
+.block_title3 {background-image: url(http://images.sohu.com/uiue/zy/images/7block_title3.gif);background-repeat: no-repeat;background-color:#000000;}
+.block_title3b {background-image: url(http://images.sohu.com/uiue/zy/images/7block_title3b.gif);background-repeat: repeat-x;
+/*background-color:#000000;*/
+font-size:12px;
+color:#0051B8;
+height:24px;}
+/*title4*/
+.block_title4 {background-image: url(http://images.sohu.com/uiue/zy/images/7block_title4.gif);background-repeat: no-repeat;background-color:#000000;}
+.block_title4b {background-image: url(http://images.sohu.com/uiue/zy/images/7block_title4b.gif);background-repeat: repeat-x;
+/*background-color:#000000;*/
+font-size:12px;
+color:#0051B8;
+height:24px;}
+
+
+/*left*/
+.lblock1 {background-image: url(http://images.sohu.com/uiue/zy/images/7ld01.gif)}
+.lblock1 td{line-height:18px;color: #000000}
+.lblock1 a:link{color: #696969;text-decoration:none;}
+.lblock1 a:visited {color: #696969;text-decoration:none;}
+.lblock1 a:hover{color: #cc0000;text-decoration:underline;}
+.lblock1 img{border:1px solid #ffffff;}
+.lblock1 div{padding:2px;color:#ffffff;}
+
+.lblock1b {background-color:#C3C3C3;}
+
+.lblock_title td{
+background-image: url(http://images.sohu.com/uiue/zy/images/7ld02.gif);
+text-align:center;
+height:24px;
+color:0051B8;}
+
+/*center*/
+.block1 td{color: #ffffff;}
+.block1 a:link{color: #ffffff;text-decoration:none;}
+.block1 a:visited {color: #ffffff;text-decoration:none;}
+.block1 a:hover{text-decoration:underline;}
+
+.block2 td{color: #363636;font-size:14px;line-height:20px;}
+.block2 a:link{color: #363636;text-decoration:underline;}
+.block2 a:visited {color: #363636;text-decoration:underline;}
+.block2 a:hover{color: #000000;text-decoration:underline;}
+
+.block3 {background-color:#E2E2E2;}
+.block3 {color:#4E4E4E;line-height:18px;}
+.block3 img{border:1px solid #4E4E4E;}
+.block3 div{padding:2px;color:#4E4E4E;}
+.block3 a:link{color: #4E4E4E;text-decoration:none;}
+.block3 a:visited {color: #4E4E4E;text-decoration:none;}
+.block3 a:hover{color: #4E4E4E;text-decoration:underline;}
+
+/*.block3b {background-color:#5E9ADC;}*/
+.block3b {color:#004AAE;line-height:18px;}
+.block3b td{color:#004AAE;line-height:18px;}
+.block3b img{border:1px solid #ffffff;}
+.block3b div{padding:2px;color:#004AAE;}
+.block3b a:link{color:#004AAE;text-decoration:none;}
+.block3b a:visited {color: #004AAE;text-decoration:none;}
+.block3b a:hover{color: #cc0000;text-decoration:underline;}
+
+.block4_title{
+color:#000000;
+font-size:16px;
+font-weight:bold;
+}
+.block4 td{color: #434343;line-height:18px;}
+.block4 a:link{color: #434343;text-decoration:none;}
+.block4 a:visited {color: #434343;text-decoration:none;}
+.block4 a:hover{text-decoration:underline;}
+
+.block5 img{border:1px solid #ffffff;}
+.block5 td{color: #434343;font-size:12px;line-height:20px;}
+.block5 a:link{font-size:14px;color: #434343;text-decoration:underline;}
+.block5 a:visited {font-size:14px;color: #434343;text-decoration:underline;}
+.block5 a:hover{font-size:14px;color: #000000;text-decoration:underline;}
+
+.block6 {background-color:#ECF7FF;}
+.block6 img{border:1px solid #ffffff;}
+.block6 td{color:#0051B8;line-height:18px;}
+.block6 a:link{color: #0051B8;text-decoration:none;}
+.block6 a:visited {color: #0051B8;text-decoration:none;}
+.block6 a:hover{text-decoration:underline;}
+
+.block7 td{color: #333333;line-height:18px;}
+.block7 a:link{color: #333333;text-decoration:none;}
+.block7 a:visited {color: #333333;text-decoration:none;}
+.block7 a:hover{text-decoration:underline;}
+
+.block8 td{color: #434343;font-size:14px;line-height:20px;}
+.block8 a:link{color: #434343;text-decoration:underline;}
+.block8 a:visited {color: #434343;text-decoration:underline;}
+.block8 a:hover{color: #000000;text-decoration:underline;}
+
+.block9 {background-attachment: fixed;background-image: url(http://images.sohu.com/uiue/zy/images/cd01.gif);background-repeat: repeat-x;}
+.block9 td{background-image: url(http://images.sohu.com/uiue/zy/images/cd02.gif);color:ffffff;height:24px;width:124px;text-align:center;}
+
+.block10 td{color: #434343;font-size:14px;line-height:20px;}
+.block10 a:link{color: #434343;text-decoration:underline;}
+.block10 a:visited {color: #434343;text-decoration:underline;}
+.block10 a:hover{color: #000000;text-decoration:underline;}
+
+.block11 td{color: #FBFCFD;background-color:#2A528B;}
+.block11 a:link{color: #FBFCFD;text-decoration:none;}
+.block11 a:visited {color: #FBFCFD;text-decoration:none;}
+.block11 a:hover{text-decoration:underline;}
+
+/*right*/
+.rblock {color: #000000;background-color:#EEEEEE;}
+.rblock a:link{color: #696969;text-decoration:none;}
+.rblock a:visited {color: #696969;text-decoration:none;}
+.rblock a:hover{color: #696969;text-decoration:underline;}
+.rblock img{border:1px solid #ffffff;}
+
+.rblock_title td{background-image: url(http://images.sohu.com/uiue/zy/images/7rd01.gif);background-repeat: no-repeat;text-align:center;height:24px;color:0051B8;}
+
+.rblock2 td {color:#000000;line-height:18px;}
+.rblock2 a:link{color: #696969;text-decoration:none;}
+.rblock2 a:visited {color: #696969;text-decoration:none;}
+.rblock a:hover{color: #696969;text-decoration:underline;}
+
+/*other*/
+.small_9{font-size:9px;color:#BEBEBE}
+.font14{font-size:14px;}
+td.font14{font-size:14px;}
+
+.img_white{border:1px solid #ffffff}
+
+.dz td{font-weight:bold;line-height:55px;}
+
+.list12 a:link{font-size:12px;color: #666666;text-decoration:underline;}
+.list12 a:visited {font-size:12px;color: #666666;text-decoration:underline;}
+.list12 a:hover{font-size:12px;color: #cc0000;text-decoration:underline;}
+ 
+ a.list12:link{font-size:12px;color: #666666;text-decoration:none;}
+ a.list12:visited {font-size:12px;color: #666666;text-decoration:none;}
+ a.list12:hover{font-size:12px;color: #cc0000;text-decoration:underline;}
+ 
+.list14 a:link{font-size:14px;color: #666666;text-decoration:underline;}
+.list14 a:visited {font-size:14px;color: #666666;text-decoration:underline;}
+.list14 a:hover{font-size:14px;color: #cc0000;text-decoration:underline;}
+ 
+ a.list14:link{font-size:14px;color: #666666;text-decoration:underline;}
+ a.list14:visited {font-size:14px;color: #666666;text-decoration:underline;}
+ a.list14:hover{font-size:14px;color: #cc0000;text-decoration:underline;}
+ 
+ a.red_12:link{font-size:12px;color: #cc0000;text-decoration:none;}
+ a.red_12:visited {font-size:12px;color: #cc0000;text-decoration:none;}
+ a.red_12:hover{font-size:12px;color: #cc0000;text-decoration:underline;}
+ 
+ a.white_12:link{font-size:12px;color: #ffffff;text-decoration:none;}
+ a.white_12:visited {font-size:12px;color: #ffffff;text-decoration:none;}
+ a.white_12:hover{font-size:12px;color: #ffffff;text-decoration:underline;}
+ 
+.cmore{color: #363636;font-size:12px;}
+.cmore a:link{color: #363636;text-decoration:none;font-size:12px;}
+.cmore a:visited {color: #363636;text-decoration:none;font-size:12px;}
+.cmore a:hover{color: #363636;text-decoration:underline;font-size:12px;}
+ a.cmore:link{color: #363636;text-decoration:none;font-size:12px;}
+ a.cmore:visited {color: #363636;text-decoration:none;font-size:12px;}
+ a.cmore:hover{color: #363636;text-decoration:underline;font-size:12px;}
+
+
+
+
+
+/*style7*/
+</style>
+			 </sohu_cms_include>
+</head>
+<body bgcolor=#ffffff leftmargin=0 topmargin=0 marginwidth=0 marginheight=0>
+<center><img src=http://images.sohu.com/ccc.gif width=1 height=5 border=0><br>
+<sohu_cms_include:sohu_news_head_news><style type=text/css>
+.ui_top{color:#000000;font-size:12px;line-height:18px;}
+.ui_top a:link{color:#000000;text-decoration:none;}
+.ui_top a:visited{color:#000000;text-decoration:none;}
+.ui_top a:hover {color:#000000;text-decoration:underline;}
+
+.up1 {color:656565;line-height:18px;font-size:12px}
+.up1 td{color:#656565;line-height:18px;font-size:12px}
+.up1 A:link {color:#656565;text-decoration:none;line-height:18px;font-size:12px}
+.up1 A:Visited {color:#656565;text-decoration:none;}
+.up1 A:Hover {color:#656565;TEXT-DECORATION: underline;}
+</style>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=87><img src=http://images.sohu.com/uiue/sohu_logo/2005/sohu_logo2.gif height=22 border=0></td>
+<td bgcolor=#EFEBEF><a href=http://news.sohu.com><img src="http://images.sohu.com/uiue/sohu_logo/2005/news_logo2.gif" height="22" border="0"></a></td>
+<td align=right class=ui_top valign=bottom bgcolor=#EFEBEF><a href=http://www.sohu.com/>搜狐首页</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://news.sohu.com/>新闻</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://sports.sohu.com/>体育</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://yule.sohu.com/>娱乐</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://business.sohu.com/>财经</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://it.sohu.com/>IT</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://auto.sohu.com/>汽车</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://house.sohu.com/>房产</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://women.sohu.com/>女人</a><font style="font-size:4px"> </font><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://sms.sohu.com/>短信</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://mms.sohu.com/>彩信</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://alumni.sohu.com/ >校友录</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://login.mail.sohu.com/>邮件</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://store.sohu.com/>商城</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://club.sohu.com/>BBS</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://www.sogou.com/
+><font color=#ff0000>搜狗</font></a>&nbsp;</td></tr>
+<tr><td height=3 colspan=3><img src=http://images.sohu.com/ccc.gif width=1 height=1></td></tr>
+</table>
+<!--sohu_top:end--> </sohu_cms_include>
+<img src=http://images.sohu.com/ccc.gif width=1 height=3><br>
+<!--top:end-->
+<div class=ad1>
+ <!--Ad1-->
+ <sohu_cms_include:cs_subject_tongyi_ad1> </sohu_cms_include>
+ <!--Ad1:end-->
+</div>
+<!--dd1-->
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr><td width=760 class=dz>
+ <!--flag-->
+ <sohu_cms_include:sohu_news_subject_frag1>
+
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="http://photo.sohu.com/20050321/Img224774733.jpg" width="760" height="150"></td>
+  </tr>
+</table>
+
+ </sohu_cms_include>
+ <!--flag-->
+</td></tr>
+</table>
+<!--dd1:end-->
+<!--bt-->
+<div class=block1>
+ <sohu_cms_include:sohu_news_subject_frag2> </sohu_cms_include>
+</div>
+<!--bt:end-->
+<!--1-->
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr valign=top>
+<td width=590>
+ <!--block_title1-->
+ <sohu_cms_include:sohu_news_subject_frag10> </sohu_cms_include>
+ <!--block_title1:end-->
+ <!--block_590-->
+<sohu_cms_include:sohu_news_subject_frag11> </sohu_cms_include>
+ <!--block_590:end-->
+ 
+ <table width=590 border=0 cellpadding=0 cellspacing=0>
+ <tr valign=top>
+ <td width=250 align=center class=block6>
+  <!--block6-->
+  <sohu_cms_include:sohu_news_subject_frag15>     <table width="99%"  border="0" cellpadding="0" cellspacing="4" bgcolor="#666666">
+        <tr>
+          <td width="16%" height="20"><div align="center" class="style1 style6"><span class="style11">⊕</span></div></td>
+          <td width="84%" bgcolor="#FFFFFF">
+              <div align="right">最新报头形象</div>
+            </td>
+        </tr>
+      </table>
+<br>
+<table width=99% cellspacing=0 cellpadding=0 border=0>
+<tr align=center>
+    <td><a href="http://photocdn.sohu.com/20051201/Img227634277.jpg" target="_blank" title="《信息时报》文章大全及汇总"><img src="http://photocdn.sohu.com/20051201/Img227634277.jpg" width=220 height="290" border=0 alt='信息时报文章大全及汇总'></a> 
+      <div>信息时报12月1日  推荐版面<br>
+        </div>
+</td>
+</tr>
+</table> </sohu_cms_include>
+  <!--block6:end-->
+  
+  
+ </td>
+ <td width=10><img src=http://images.sohu.com/ccc.gif width=1 height=1></td>
+ <td width=330 align=center>
+  <!--block5-->
+  <sohu_cms_include:sohu_news_subject_frag16> </sohu_cms_include>
+  <!--block5:end-->
+  
+  <!--lm:st-->
+  <!--block_title2-->
+  
+    
+  <table width=330 border=0 cellpadding=0 cellspacing=0>
+  <tr>
+  <td width=30 class=block_title2><br></td>
+  <td class=block_title2b>信息时报重要推荐</td></tr>
+  </table>
+  <!--block_title2:end-->
+  <img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+  
+  <div class=block2>
+  <table width=99% border=0 cellpadding=0 cellspacing=0>
+    <tr><td>
+ <sohu_cms_include:sohu_news_subject_maybe0>  </sohu_cms_include>
+    <sohu_cms_include:news_sublist_bytime_pure>·<a href="http://news.sohu.com/20051130/n227626780.shtml" target=_blank>广州新机场2期明年扩建 总投资90亿2010年完工</a><br>
+ 
+·<a href="http://news.sohu.com/20051120/n227544108.shtml" target=_blank>广东高校招聘会拉开帷幕 万名大学生挤爆招聘会</a><br>
+ 
+·<a href="http://news.sohu.com/20051120/n227544077.shtml" target=_blank>广东5名歹徒夜劫出租车 警方40分钟擒获嫌疑犯</a><br>
+ 
+·<a href="http://news.sohu.com/20051120/n227544072.shtml" target=_blank>七岁女童被校车碾死续：死者家属寻求律师援助</a><br>
+ 
+·<a href="http://news.sohu.com/20051118/n227528792.shtml" target=_blank>广东歹徒高速路扮警察截外地车 逼人喝迷药抢劫</a><br>
+ 
+·<a href="http://news.sohu.com/20051118/n227528582.shtml" target=_blank>女大学生为救患病姐姐 曾想以身相许有钱人(图)</a><br>
+ 
+·<a href="http://news.sohu.com/20051118/n227528553.shtml" target=_blank>同居女友提出分手 狠心男子将其双手齐腕砍断</a><br>
+ 
+·<a href="http://news.sohu.com/20051118/n227528527.shtml" target=_blank>女孩被校车碾死续：肇事司机将被上网追缉(图)</a><br>
+ 
+·<a href="http://news.sohu.com/20051105/n227397685.shtml" target=_blank>广州市人大要求提高街面见警率 对两抢一盗高压</a><br>
+ 
+·<a href="http://news.sohu.com/20051105/n227397647.shtml" target=_blank>广州试行刷卡坐火车 两趟广深线列车本月起实行</a><br>
+ 
+·<a href="http://news.sohu.com/20051105/n227397595.shtml" target=_blank>男子铁轨放石头想看火车有多重 损失达百万获刑</a><br>
+ 
+·<a href="http://news.sohu.com/20051104/n227388692.shtml" target=_blank>广东招募赴缅甸志愿者 原工资照发月贴200美元</a><br>
+ 
+·<a href="http://news.sohu.com/20051104/n227388092.shtml" target=_blank>广州地铁年底将添3条新线 可望今年内建成通车</a><br>
+ 
+·<a href="http://news.sohu.com/20051103/n227375649.shtml" target=_blank>广州要保护白云山水资源 捧一口水喝将罚款50元</a><br> </sohu_cms_include>
+    </td></tr>
+  <tr><td align=right class=cmore><a href="/1/0704/29/subject220862918.shtml" target=_blank>更多>></a></td></tr>
+  </table>
+  </div>
+  <img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+  <!--lm:end-->
+  
+  
+ </td></tr>
+ </table>
+ 
+</td>
+<td width=10><img src=http://images.sohu.com/ccc.gif width=1 height=1></td>
+<td width=160 align=center class=rblock>
+ <sohu_cms_include:cs_subject_tongyi_ad2> </sohu_cms_include>
+ <sohu_cms_include:cs_subject_tongyi_ad3> </sohu_cms_include>
+ 
+ <sohu_cms_include:sohu_news_subject_frag17><table width=160 border=0 cellpadding=0 cellspacing=0 class=rblock_title>
+	<tr><td>周 刊 推 荐</td></tr>
+	</table>
+<table width="99%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+    <td> ·《文化天下》：新锐文化视点，集读、赏、视于一体，逢周一出版。<br>
+·《她周刊》：女性时尚消费、名媛社交杂志，逢周三出版。<br>
+·《e周刊》：环球娱乐明星报道，逢周六出版。<br>
+·《星期7》：男人帮全天候消遣杂志，逢周日出版。<br>
+·《劲周刊》：专业体育分析，深度话题解读，逢周日出版。</td>
+  </tr>
+</table>
+ </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag19> </sohu_cms_include>
+ 
+</td></tr>
+</table>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+<!--590-2-->
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr valign=top>
+<td width=590>
+ <!--block_title3-->
+ <sohu_cms_include:sohu_news_subject_frag101> </sohu_cms_include> 
+ <!--lm1:end-->
+ <!--lm2-->
+ <!--block_title3-->
+ <sohu_cms_include:homepage_0803_frag24> <table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="http://photo.sohu.com/20050318/Img224740194.jpg" width="760" height="31"></td>
+  </tr>
+</table>
+
+<table width="760" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td width="7" rowspan="3"><img src="http://photo.sohu.com/20050318/Img224740195.gif" width="7"></td>
+    <td width="474" valign="top"><img src="http://photo.sohu.com/20050318/Img224740196.gif" width="474" height="11"></td>
+    <td width="17" rowspan="3"><img src="http://photo.sohu.com/20050318/Img224740198.gif" width="17" height="356"></td>
+    <td width="262"> </td>
+  </tr>
+  <tr>
+    <td><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="300" bgcolor="#CCCCCC"><div align="center"><img src="http://photo.sohu.com/20050319/Img224756532.jpg" width="474" height="307"></div></td>
+      </tr>
+    </table></td>
+    <td width="262"><div align="center">
+      <table width="100%" height="30"  border="0" cellpadding="0" cellspacing="4">
+        <tr>
+            <td class=font14><span class="style4">[《信息时报》简介]</span></td>
+        </tr>
+      </table>
+      <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td> </td>
+        </tr>
+      </table>
+      <table width="98%" height="237"  border="0" cellpadding="0" cellspacing="4">
+        <tr>
+            <td valign="top">　　《信息时报》是广州日报报业集团投入巨额资金打造的该报业集团又一份（也是唯一一份）重量级、综合性、城市性新锐日报。<br>信息时报》经过近四年的改片，深受读者喜爱，已成为广州在区销量最大的四开报，稳占广州报纸零售量第二位，截止2005年1月，日均发行量已达到133万份，其传阅人数与电子版读者，已达到500万人。<br>　　根据监测公司统计数字显示，《信息时报》及其电子版的读者仅仅在广州、东莞和佛山三地就覆盖了超过400万的人口。《信息时报》的500万读者遍布各阶层。尤其受到企业管理者、高级白领和私营企业主的认同。他们年轻有为，潮流触觉敏锐，对新事物接受力强，消费意欲旺盛，也成为广告客户推广、宣传商品的理想对象。<br>　　中国报坛，群雄逐鹿，此起彼伏。《信息时报》可以自信地说：中国报业将进入时报时代！新闻出位，资讯实用，我们记载民生，影响民生，融入民生的记忆。<br>　　年轻的时报一路前进...<a href="http://news.sohu.com/20050321/n224774922.shtml">全文</a></td>
+        </tr>
+      </table>
+    </div></td>
+  </tr>
+  <tr>
+    <td height="35" valign="middle" background="http://photo.sohu.com/20050318/Img224740199.gif">
+	  <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+      <tr>
+          <td width="43%"> </td>
+        <td width="57%">
+            <div align="center"> <b><a href="http://news.sohu.com/xinxishibao.shtml">信息时报专栏</a></b>　　改版近四周年精典版面回顾演绎</div>
+          </td>
+      </tr>
+    </table></td>
+    <td width="262" valign="bottom"><img src="http://photo.sohu.com/20050318/Img224740203.gif" width="249" height="35"></td>
+  </tr>
+</table>
+
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="http://photo.sohu.com/20050318/Img224740194.jpg" width="760" height="31"></td>
+  </tr>
+</table>
+
+
+
+
+<table width="760" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td width="463"><div align="center">
+      <table width="98%"  border="0" cellpadding="0" cellspacing="4" bgcolor="#666666">
+          <tr>
+            <td width="8%" height="20"><div align="center" class="style1"><span class="style11">⊕</span></div></td>
+            <td width="92%" bgcolor="#FFFFFF">
+              <div align="center">四次自身形象大投入宣传</div>
+            </td>
+          </tr>
+        </table></div>
+      <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td> </td>
+          </tr>
+        </table>
+      <table width="98%"  border="0" cellspacing="4" cellpadding="0">
+          <tr>
+            <td width="32%" rowspan="2"><div align="center"><a href="http://photo.sohu.com/20050321/Img224789465.jpg" target=_blank><img class=img width="200" height="155" src="http://photo.sohu.com/20050319/Img224756765.jpg" width=230></a></div><br> 
+     
+<div align="center" class="style5"><strong>2002年6月，信息时报冠名的广州至北京列车</strong></div>
+	 </tr>
+		
+			
+			 <tr>  <td width="32%" rowspan="2"><div align="center"><a href="http://photo.sohu.com/20050321/Img224789466.jpg" target=_blank><img class=img width="200" height="155" src="http://photo.sohu.com/20050319/Img224756823.jpg" width=230></a></div>
+			 <br> 
+     
+            <div align="center" class="style5"><strong>2003年1月 信息时报冠名的珠江日夜游游轮，是当时最豪华游轮</strong></div>
+			 
+			 </td>
+ </tr>
+
+	
+
+
+          
+        </table>
+
+
+  <table width="98%"  border="0" cellspacing="4" cellpadding="0">
+
+			<tr>
+            <td width="32%" rowspan="2"><div align="center"><a href="http://photo.sohu.com/20050321/Img224789467.jpg" target=_blank><img class=img width="200" height="155" src="http://photo.sohu.com/20050319/Img224756834.jpg" width=230></a></div>
+           <br> 
+     
+<div align="center" class="style5"><strong>2003年2月，信息时报冠名当时的广东雄鹰足球队参加足协比赛</strong></div></td></tr>
+					 	<tr>
+            <td width="32%" rowspan="2"><div align="center"><a href="http://photo.sohu.com/20050321/Img224789468.jpg" target=_blank><img class=img width="200" height="155" src="http://photo.sohu.com/20050321/Img224786905.jpg" width=230></a></div>
+                       <br> <div align="center" class="style5"><strong>信息时报自身形象宣传</strong></div></td></tr>   
+	 
+          
+        </table>
+		
+		
+    <div align="center"></div></td>
+    <td width="12" height="300"><table width="1" height="100%"  border="0" cellpadding="0" cellspacing="0" bgcolor="#666666">
+      <tr>
+        <td width="1" height="100%"></td>
+      </tr>
+    </table></td>
+    <td width="285" valign="top"><div align="center">
+      <table width="100%"  border="0" cellpadding="0" cellspacing="4" bgcolor="#666666">
+        <tr>
+          <td width="14%" height="20"><div align="center" class="style1"><span class="style11">⊕</span></div></td>
+          <td width="86%" bgcolor="#FFFFFF"><div align="center"><strong>信息时报-搜狐联合调查</strong></div></td>
+        </tr></table>
+<table width=99% border="0" cellspacing="0" cellpadding="0">
+<tr>
+    <td> 　<form name="f_survey" action="http://survey.it.sohu.com/manage/poll/poll.php" method="post" target="win_poll" onSubmit="WinOpen('')">
+<table width=98% border="1" cellspacing="0" cellpadding="0" align="center">
+<tr align="center">
+<td colspan="2" align="center">你对徐本禹到贫困地区小学支教怎么看？</td>
+</tr>
+<tr>
+<td colspan="2">1、你对徐本禹的这种做法怎么看？</td>
+</tr>
+<tr>
+<td colspan="2"><input type='radio' name='NC007553' value='1'>值得我们佩服，别人很难做到。</td>
+</tr>
+<tr>
+<td colspan="2"><input type='radio' name='NC007553' value='2'>值得尊敬，我也可以做到。</td>
+</tr>
+<tr>
+<td colspan="2"><input type='radio' name='NC007553' value='3'>令人难以理解。</td>
+</tr>
+<input type='hidden' name='problemid1' value='NC007553'>
+<input type='hidden' name='problem1' value='你对徐本禹的这种做法怎么看？'>
+<tr>
+<td colspan="2">2、如果有机会你是否会去支教？</td>
+</tr>
+<tr>
+<td colspan="2"><input type='radio' name='NC007554' value='1'>如果有机会我会去。</td>
+</tr>
+<tr>
+<td colspan="2"><input type='radio' name='NC007554' value='2'>不会去，太辛苦了。</td>
+</tr>
+<tr>
+<td colspan="2"><input type='radio' name='NC007554' value='3'>很难说。</td>
+</tr>
+<input type='hidden' name='problemid2' value='NC007554'>
+<input type='hidden' name='problem2' value='如果有机会你是否会去支教？'>
+<tr><td>
+<input type="hidden" name="classid" value="20050621NC07">
+<input type="hidden" name="image" value="red.gif">
+<input type="hidden" name="count" value="2">
+<input type="submit" name="poll" class="itm" value="投票">
+<input type="submit" name="poll" class="itm" value="查看">
+</td></tr>
+</table>
+</form>
+<SCRIPT language=JavaScript>var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }</SCRIPT>
+
+<form name="f_survey" action="http://survey.it.sohu.com/manage/poll/poll.php" method="post" target="win_poll" onSubmit="WinOpen('')">
+<table width=98% border="1" cellspacing="0" cellpadding="0" align="center">
+<tr align="center">
+<td colspan="2" align="center">你怎么看支教的困难</td>
+</tr>
+<tr>
+<td colspan="2">1、假如你也像徐本禹一样有支教的机会，你觉得会碰上的最大困难是什么？</td>
+</tr>
+<tr>
+<td colspan="2"><input type='radio' name='NC007591' value='1'>经济环境的困难</td>
+</tr>
+<tr>
+<td colspan="2"><input type='radio' name='NC007591' value='2'>精神生活的匮乏</td>
+</tr>
+<tr>
+<td colspan="2"><input type='radio' name='NC007591' value='3'>周围人的不理解</td>
+</tr>
+<tr>
+<td colspan="2"><input type='radio' name='NC007591' value='4'>以上都不是</td>
+</tr>
+<input type='hidden' name='problemid1' value='NC007591'>
+<input type='hidden' name='problem1' value='假如你也像徐本禹一样有支教的机会，你觉得会碰上的最大困难是什么？'>
+<tr><td>
+<input type="hidden" name="classid" value="20050621NC22">
+<input type="hidden" name="image" value="red.gif">
+<input type="hidden" name="count" value="1">
+<input type="submit" name="poll" class="itm" value="投票">
+<input type="submit" name="poll" class="itm" value="查看">
+</td></tr>
+</table>
+</form>
+<SCRIPT language=JavaScript>var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }</SCRIPT>
+</td>
+  </tr>
+</table>  
+  
+</td></tr></table></td>
+ 
+ 
+<table width="760" height="30" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td background="http://photo.sohu.com/20050318/Img224740194.jpg" >　　　　<strong></strong></td>
+  </tr>
+</table>
+ </sohu_cms_include> 
+ <!--lm2:end-->
+  
+</td>
+<td width=10><img src=http://images.sohu.com/ccc.gif width=1 height=1></td>
+<td width=160 align=center class=rblock>
+ <sohu_cms_include:homepage_0803_frag26> </sohu_cms_include>
+</td></tr>
+<tr><td colspan=3 height=5><img src=http://images.sohu.com/ccc.gif width=1 height=1></td></tr>
+</table>
+<!--3-->
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr valign=top>
+<td width=160 align=center class=lblock1>
+ 
+ <sohu_cms_include:homepage_0803_frag28>    </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag20> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag5> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag6> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag7> </sohu_cms_include>
+ 
+</td>
+<td width=10><img src=http://images.sohu.com/ccc.gif width=1 height=1></td>
+<td width=420>
+<sohu_cms_include:sohu_news_subject_frag12> </sohu_cms_include>
+ 
+    
+ <!--block_title4-->
+ <table width=420 border=0 cellpadding=0 cellspacing=0>
+ <tr>
+ <td width=100 class=block_title4><br></td>
+ <td class=block_title4b>信息时报其它新闻</td></tr>
+ </table>
+ <!--block_title4:end-->
+ 
+ <sohu_cms_include:sohu_news_subject_maybe1> </sohu_cms_include>
+ 
+ <br>
+ <div class=block10>
+ <table width=99% border=0 cellpadding=0 cellspacing=0>
+  <tr><td>
+  <sohu_cms_include:news_sublist_bytime_time_pure>·<a href="/20051130/n227632465.shtml" target=_blank>明年30万大学生广东“抢饭碗”</a><span>(11/30 16:38)</span><br>
+·<a href="/20051130/n227632474.shtml" target=_blank>重点大学：读研、进外企成主流</a><span>(11/30 16:37)</span><br>
+·<a href="/20051130/n227632478.shtml" target=_blank>假体填充 目前最合理的隆胸方式</a><span>(11/30 16:36)</span><br>
+·<a href="/20051130/n227632477.shtml" target=_blank>多数三甲医院也不开展注射隆胸</a><span>(11/30 16:36)</span><br>
+·<a href="/20051130/n227632479.shtml" target=_blank>女人丰胸，男人有话说</a><span>(11/30 16:35)</span><br>
+·<a href="/20051130/n227632459.shtml" target=_blank>假体填充 目前最合理的隆胸方式</a><span>(11/30 16:35)</span><br>
+·<a href="/20051130/n227632476.shtml" target=_blank>她们因隆胸而红</a><span>(11/30 16:34)</span><br>
+·<a href="/20051130/n227632460.shtml" target=_blank>女人丰胸，男人有话说</a><span>(11/30 16:34)</span><br>
+·<a href="/20051130/n227632475.shtml" target=_blank>钻石世家独家打造·浪漫桂冠聚焦顶模</a><span>(11/30 16:33)</span><br>
+·<a href="/20051130/n227632462.shtml" target=_blank>建厂：高标准和实际需求同行</a><span>(11/30 16:32)</span><br>
+·<a href="/20051130/n227632461.shtml" target=_blank>山清水秀柏美行　内容详见C4版</a><span>(11/30 16:32)</span><br>
+·<a href="/20051130/n227632480.shtml" target=_blank>眩目的缤纷时空奇妙的科技世界</a><span>(11/30 16:31)</span><br>
+·<a href="/20051130/n227632464.shtml" target=_blank>顶模桂冠极尽奢华　详见C08</a><span>(11/30 16:30)</span><br>
+·<a href="/20051130/n227632463.shtml" target=_blank>高调VS低调</a><span>(11/30 16:30)</span><br>
+·<a href="/20051130/n227632469.shtml" target=_blank>创设增加权证继续下跌</a><span>(11/30 16:29)</span><br>
+·<a href="/20051130/n227632470.shtml" target=_blank>向周梅森致敬</a><span>(11/30 16:29)</span><br>
+·<a href="/20051130/n227632471.shtml" target=_blank>上证所颁发“新一代交易系统先锋会员”</a><span>(11/30 16:29)</span><br>
+·<a href="/20051130/n227632472.shtml" target=_blank>工行有可能明年发A股</a><span>(11/30 16:29)</span><br>
+·<a href="/20051130/n227632473.shtml" target=_blank>李荣融：规范央企行使控股权</a><span>(11/30 16:29)</span><br>
+·<a href="/20051130/n227632468.shtml" target=_blank>深交所发布权证上市规则</a><span>(11/30 16:29)</span><br> </sohu_cms_include>
+  </td></tr>
+  <tr><td align=right class=cmore><a href="/1/0704/28/subject220862853.shtml" target=_blank>更多>></a></td></tr>
+ </table>
+ </div>
+ 
+ 
+ 
+ 
+</td>
+<td width=10><img src=http://images.sohu.com/ccc.gif width=1 height=1></td>
+<td width=160 class=rblock align=center>
+ <sohu_cms_include:sohu_news_subject_frag8>    </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag9> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag1105_1> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag1105_2> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag1105_3> </sohu_cms_include>
+</td></tr>
+<tr>
+<td class=lblock1b><img src=http://images.sohu.com/ccc.gif width=1></td>
+<td><img src=http://images.sohu.com/ccc.gif width=1></td>
+<td><img src=http://images.sohu.com/ccc.gif width=1></td>
+</tr>
+</table>
+<!--bd-->
+<sohu_cms_include:sohu_news_subject_frag21> </sohu_cms_include>
+<!--bd:end-->
+<!--copyright-->
+<sohu_cms_include:sohu_news_copyright><br>
+<script language="javascript" src="http://www.sohu.net/common/sohunettail_local.js"></script>
+<hr size="1" width="760" noshade>
+<table width=760 border=0 cellspacing=0 cellpadding=0>
+  <tr> 
+    <td align=center><a href=http://www.chinaren.com/  class="black" target=_blank>ChinaRen</a> - <a
+href=http://hr.sohu.com/hrm.html class="black" target=_blank>搜狐招聘</a> - <a
+href=http://add.sohu.com/ class="black" target=_blank>网站登录</a> - <a href=http://help.sohu.com/ class="black" target=_blank>帮助中心</a> 
+      - <a
+href="" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sohu.com');return false;" class="black" target=_blank>设置首页</a> - <a
+href=http://adinfo.sohu.com class="black" target=_blank>广告服务</a> - <a
+href=http://www.sohu.com/about/lianxi.htm class="black" target=_blank>联系方式</a> - <a
+href=http://www.sohu.com/about/privacy.html class="black" target=_blank>保护隐私权</a> - <a href="http://www.sohu.com/about/English" class="black" target=_blank>About SOHU</a> - <a href=http://www.sohu.com/about/  class="black" target=_blank>公司介绍</a><br>
+      <span class=eng>Copyright &copy; 2005 Sohu.com Inc. All rights reserved. 
+      搜狐公司 <a href=http://www.sohu.com/about/copyright.html target=_blank class=black>版权所有</a></span></td>
+  </tr>
+</table><p></p>
+<script language="JavaScript" src="http://nielsen.js.sohu.com/nnselect.js">
+</script>
+<noscript>
+<img src='http://ping.nnselect.com/ping.gif?c=119' height='1' width='1'>
+</noscript> </sohu_cms_include>
+</center>
+</body>
+</html>
+
+
+

@@ -1,0 +1,1270 @@
+HTTP/1.1 200 OK
+Date: Tue, 15 Nov 2016 07:20:24 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips
+Last-Modified: Wed, 28 Oct 2015 02:40:00 GMT
+Accept-Ranges: bytes
+Content-Length: 55680
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<title>地方新闻-订-搜狐新闻中心</title>
+<meta http-equiv=content-type content='text/html; charset=gb2312'>
+<sohu_cms_include:subject_style>  <style type=text/css>
+
+td,body,input,select {font-size: 12px;font-family:'宋体,arial';color:#333333;line-height:18px;}
+.top_red {font-size: 12px; color:#D70709; text-decoration: none}
+
+
+a.b:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.b:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.b:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a.b:active {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+</style> </sohu_cms_include>
+</head>
+<body bgcolor=#ffffff leftmargin=0 topmargin=0 marginwidth=0 marginheight=0>
+<center><img src=http://images.sohu.com/ccc.gif width=1 height=5 border=0><br>
+<sohu_cms_include:yule_article_head><style type=text/css>
+.ui_top{color:#000000;font-size:12px;line-height:18px;}
+.ui_top a:link{color:#000000;text-decoration:none;}
+.ui_top a:visited{color:#000000;text-decoration:none;}
+.ui_top a:hover {color:#000000;text-decoration:underline;}
+
+.up1 {color:656565;line-height:18px;font-size:12px}
+.up1 td{color:#656565;line-height:18px;font-size:12px}
+.up1 A:link {color:#656565;text-decoration:none;line-height:18px;font-size:12px}
+.up1 A:Visited {color:#656565;text-decoration:none;}
+.up1 A:Hover {color:#656565;TEXT-DECORATION: underline;}
+</style>
+<script language="JavaScript">
+function setCookie(name,value,expiry,path,domain,secure){
+var nameString = name + "=" + value;
+var expiryString = (expiry == null) ? "" : " ;expires = "+ expiry.toGMTString();
+var pathString = (path == null) ? "" : " ;path = "+ path;
+var domainString = (path == null) ? "" : " ;domain = "+ domain;
+var secureString = (secure) ?";secure" :"";
+document.cookie = nameString + expiryString + pathString + domainString + secureString;
+}
+
+function getCookie (name) {
+var CookieFound = false;
+var start = 0;
+var end = 0;
+var CookieString = document.cookie;
+var i = 0;
+
+while (i <= CookieString.length) {
+start = i ;
+end = start + name.length;
+if (CookieString.substring(start, end) == name){
+CookieFound = true;
+break; 
+}
+i++;
+}
+
+if (CookieFound){
+start = end + 1;
+end = CookieString.indexOf(";",start);
+if (end < start)
+end = CookieString.length;
+return unescape(CookieString.substring(start, end));
+}
+return "";
+}
+
+function deleteCookie(name){
+var expires = new Date();
+expires.setTime (expires.getTime() - 1);
+
+setCookie( name , "Delete Cookie", expires,null,null,false);
+} 
+</script>
+<script type="text/javascript">
+	<!--
+	function cookit() {
+	exDate = new Date
+	exDate.setMonth(exDate.getMonth()+9)
+		if( confirm('您需要定制"'+cookit.arguments[0]+'"的地方新闻吗?')){				
+			    setCookie("address",cookit.arguments[0],exDate); 
+
+		}
+        window.open(cookit.arguments[1]); 	
+	}
+	-->
+	</script> </sohu_cms_include>
+</head>
+<body bgcolor=#ffffff leftmargin=0 topmargin=0 marginwidth=0 marginheight=0>
+<center><img src=http://images.sohu.com/ccc.gif width=1 height=5 border=0><br>
+<sohu_cms_include:sohu_news_head_news><style type=text/css>
+.ui_top{color:#000000;font-size:12px;line-height:18px;}
+.ui_top a:link{color:#000000;text-decoration:none;}
+.ui_top a:visited{color:#000000;text-decoration:none;}
+.ui_top a:hover {color:#000000;text-decoration:underline;}
+
+.up1 {color:656565;line-height:18px;font-size:12px}
+.up1 td{color:#656565;line-height:18px;font-size:12px}
+.up1 A:link {color:#656565;text-decoration:none;line-height:18px;font-size:12px}
+.up1 A:Visited {color:#656565;text-decoration:none;}
+.up1 A:Hover {color:#656565;TEXT-DECORATION: underline;}
+</style>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=87><img src=http://images.sohu.com/uiue/sohu_logo/2005/sohu_logo2.gif height=22 border=0></td>
+<td bgcolor=#EFEBEF><a href=http://news.sohu.com><img src="http://images.sohu.com/uiue/sohu_logo/2005/news_logo2.gif" height="22" border="0"></a></td>
+<td align=right class=ui_top valign=bottom bgcolor=#EFEBEF><a href=http://www.sohu.com/>搜狐首页</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://news.sohu.com/>新闻</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://sports.sohu.com/>体育</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://yule.sohu.com/>娱乐</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://business.sohu.com/>财经</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://it.sohu.com/>IT</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://auto.sohu.com/>汽车</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://house.sohu.com/>房产</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://women.sohu.com/>女人</a><font style="font-size:4px"> </font><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://sms.sohu.com/>短信</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://mms.sohu.com/>彩信</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://alumni.sohu.com/ >校友录</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://login.mail.sohu.com/>邮件</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://store.sohu.com/>商城</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://club.sohu.com/>BBS</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://www.sogou.com/
+><font color=#ff0000>搜狗</font></a>&nbsp;</td></tr>
+<tr><td height=3 colspan=3><img src=http://images.sohu.com/ccc.gif width=1 height=1></td></tr>
+</table>
+<!--sohu_top:end--> </sohu_cms_include>
+<img src=http://images.sohu.com/ccc.gif width=1 height=3><br>
+<!--top:end-->
+<div class=ad1>
+ <!--Ad1-->
+ <sohu_cms_include:cs_subject_tongyi_ad1>   </sohu_cms_include>
+ <!--Ad1:end-->
+</div>
+<!--dd1-->
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr><td width=760 class=dz>
+ <!--flag-->
+ <sohu_cms_include:sohu_news_subject_frag1><style type="text/css">
+<!--
+.style1 {font-size: 14px}
+.style2 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+}
+.style4 {font-size: 14px; color: #FFFFFF; }
+.style5 {font-size: 12px}
+-->
+</style>
+<script language="JavaScript">
+function setCookie(name,value,expiry,path,domain,secure){
+var nameString = name + "=" + value;
+var expiryString = (expiry == null) ? "" : " ;expires = "+ expiry.toGMTString();
+var pathString = (path == null) ? "" : " ;path = "+ path;
+var domainString = (path == null) ? "" : " ;domain = "+ domain;
+var secureString = (secure) ?";secure" :"";
+document.cookie = nameString + expiryString + pathString + domainString + secureString;
+}
+
+function getCookie (name) {
+var CookieFound = false;
+var start = 0;
+var end = 0;
+var CookieString = document.cookie;
+var i = 0;
+
+while (i <= CookieString.length) {
+start = i ;
+end = start + name.length;
+if (CookieString.substring(start, end) == name){
+CookieFound = true;
+break; 
+}
+i++;
+}
+
+if (CookieFound){
+start = end + 1;
+end = CookieString.indexOf(";",start);
+if (end < start)
+end = CookieString.length;
+return unescape(CookieString.substring(start, end));
+}
+return "";
+}
+
+function deleteCookie(name){
+var expires = new Date();
+expires.setTime (expires.getTime() - 1);
+
+setCookie( name , "Delete Cookie", expires,null,null,false);
+} 
+</script>
+<script type="text/javascript">
+	<!--
+	function cookit() {
+	exDate = new Date
+	exDate.setMonth(exDate.getMonth()+9)
+		if( confirm('您需要定制"'+cookit.arguments[0]+'"的地方新闻吗?')){				
+			    setCookie("address",cookit.arguments[0],exDate);
+                 window.location.href= cookit.arguments[1];
+		}			
+	}
+	-->
+	</script>
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="http://photo.sohu.com/20050329/Img224909862.jpg" width="760" height="39" alt=""></td>
+  </tr>
+</table>
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="http://photo.sohu.com/20050329/Img224909868.jpg" width="760" height="123" alt=""></td>
+  </tr>
+</table>
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td  width="760" height="30" background="http://photo.sohu.com/20050329/Img224909876.jpg"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="7%"> </td>
+        <td width="15%"><span class="style4">天气预报</span></td>
+        <td width="78%"> </td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="168"  height="251" align="center" valign="top" background="http://photo.sohu.com/20050329/Img224909887.jpg"><IFRAME marginWidth=0 marginHeight=0 src="http://weather.news.sohu.com/htm/forecast_index.htm" frameBorder=0 width=144 scrolling=no height=190></IFRAME></td>
+    <td width="13" rowspan="2"><img src="http://photo.sohu.com/20050329/Img224909902.jpg" width="13" height="543" alt=""></td>
+    <td width="570" rowspan="2" valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td> </td>
+      </tr>
+    </table>
+      <table width="100%"  border="0" cellspacing="4" cellpadding="0">
+        <tr>
+          <td colspan="3"><span class="style1">　　</span><span class="style2">点击所在地定制您需要的新闻<BR></span></td>
+        </tr>
+        <tr>
+          <td width="11%"> </td>
+          <td width="80%"><span class="style5">　　在定制完毕以后，您再次登陆搜狐新闻中心时，在国内新闻头条里将自动显示您所定制的地方新闻。</span></td>
+
+          <td width="9%"> </td>
+        </tr>
+        <tr align="center">
+          <td colspan="3">
+<MAP name=Map> 
+    <AREA shape=RECT  coords=404,54,454,68 href="javascript:cookit('黑龙江','http://news.sohu.com/heilongjiang.shtml')">
+    <AREA shape=RECT  coords=410,85,441,98 href="javascript:cookit('吉林','http://news.sohu.com/jilin.shtml')">
+    <AREA shape=RECT  coords=392,106,424,120 href="javascript:cookit('辽宁','http://news.sohu.com/liaoning.shtml')">
+    <AREA shape=RECT  coords=356,101,389,115 href="javascript:cookit('北京','http://news.sohu.com/beijing.shtml')">
+    <AREA shape=RECT  coords=290,116,340,131 href="javascript:cookit('内蒙古','http://news.sohu.com/neimenggu.shtml')">
+    <AREA shape=RECT  coords=248,119,281,136 href="javascript:cookit('甘肃','http://news.sohu.com/gansu.shtml')">
+    <AREA shape=RECT  coords=173,107,208,121 href="javascript:cookit('新疆','http://news.sohu.com/xinjiang.shtml')">
+    <AREA shape=RECT  coords=237,147,270,163 href="javascript:cookit('青海','http://news.sohu.com/qinghai.shtml')">
+    <AREA shape=RECT  coords=281,144,315,158 href="javascript:cookit('宁夏','http://news.sohu.com/ningxia.shtml')">
+    <AREA shape=RECT  coords=353,129,388,142 href="javascript:cookit('河北','http://news.sohu.com/hebei.shtml')">
+    <AREA shape=RECT  coords=391,129,422,143 href="javascript:cookit('天津','http://news.sohu.com/tianjin.shtml')">
+    <AREA shape=RECT  coords=334,144,366,159 href="javascript:cookit('山西','http://news.sohu.com/shanxi.shtml')">
+    <AREA shape=RECT  coords=371,144,405,158 href="javascript:cookit('山东','http://news.sohu.com/shandong.shtml')">
+    <AREA shape=RECT  coords=309,166,341,178 href="javascript:cookit('陕西','http://news.sohu.com/xian.shtml')">
+    <AREA shape=RECT  coords=347,163,379,178 href="javascript:cookit('河南','http://news.sohu.com/henan.shtml')">
+    <AREA shape=RECT  coords=383,163,416,177 href="javascript:cookit('江苏','http://news.sohu.com/jiangsu.shtml')">
+    <AREA shape=RECT  coords=181,180,213,196 href="javascript:cookit('西藏','http://news.sohu.com/xizang.shtml')">
+    <AREA shape=RECT  coords=269,182,302,199 href="javascript:cookit('四川','http://news.sohu.com/sichuan.shtml')">
+    <AREA shape=RECT  coords=333,189,367,202 href="javascript:cookit('湖北','http://news.sohu.com/hubei.shtml')">
+    <AREA shape=RECT  coords=372,181,407,197 href="javascript:cookit('安徽','http://news.sohu.com/anhui.shtml')">
+    <AREA shape=RECT  coords=409,182,441,196 href="javascript:cookit('上海','http://news.sohu.com/shanghai.shtml')">
+    <AREA shape=RECT  coords=298,201,329,216 href="javascript:cookit('重庆','http://news.sohu.com/chongqing.shtml')">
+    <AREA shape=RECT  coords=361,205,394,220 href="javascript:cookit('江西','http://news.sohu.com/jiangxi.shtml')">
+    <AREA shape=RECT  coords=400,200,432,217 href="javascript:cookit('浙江','http://news.sohu.com/zhejiang.shtml')">
+    <AREA shape=RECT  coords=294,223,327,237 href="javascript:cookit('贵州','http://news.sohu.com/guizhou.shtml')">
+    <AREA shape=RECT  coords=329,222,362,237 href="javascript:cookit('湖南','http://news.sohu.com/hunan.shtml')">
+    <AREA shape=RECT  coords=378,224,410,239 href="javascript:cookit('福建','http://news.sohu.com/fujian.shtml')">
+    <AREA shape=RECT  coords=256,239,288,254 href="javascript:cookit('云南','http://news.sohu.com/yunnan.shtml')">
+    <AREA shape=RECT  coords=306,246,339,262 href="javascript:cookit('广西','http://news.sohu.com/guangxi.shtml')">
+    <AREA shape=RECT  coords=343,252,376,267 href="javascript:cookit('广东','http://news.sohu.com/guangdong.shtml')">
+    <AREA shape=RECT  coords=377,262,410,278 href="javascript:cookit('香港','http://news.sohu.com/hongkong.shtml')">
+    <AREA shape=RECT  coords=416,237,450,252 href="javascript:cookit('台湾','http://news.sohu.com/taiwan.shtml')">
+    <AREA shape=RECT  coords=303,283,336,298 href="javascript:cookit('海南','http://news.sohu.com/hainan.shtml')">
+    <AREA shape=RECT  coords=344,269,376,283 href="javascript:cookit('澳门','http://news.sohu.com/macau.shtml')">
+  </MAP>
+            <TABLE cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR>
+              <TD vAlign=top align=middle><IMG src="http://photo.sohu.com/20050329/Img224910121.jpg" useMap=#Map border=0 width="516" height="435"></TD>
+            </TR>
+<TR>
+<TD height=8></TD></TR></TBODY></TABLE>
+
+
+          </td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><img src=http://photo.sohu.com/20050329/Img224909844.jpg width="573" height="12"></td>
+        </tr>
+      </table></td>
+    <td width="6" rowspan="2"><img src="http://photo.sohu.com/20050329/Img224910354.jpg" width="6" height="543"></td>
+  </tr>
+  <tr>
+    <td width="168" height="292" align="center" valign="top" background=http://photo.sohu.com/20050329/Img224909843.jpg><table width="98%"  border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="32%" height=35> </td>
+        <td width="68%"><span class="style4">短信订阅</span></td>
+      </tr>
+	        <tr>
+        <td width="32%" height=5></td>
+        <td width="68%"></td>
+      </tr>
+      <tr align="center">
+        <td colspan="2"><TABLE cellSpacing=1 cellPadding=0 width=154 bgColor=#ffffff border=0>
+<FORM name=book onsubmit="return fastbook_with_mms(this);" action="" method=post><INPUT type=hidden name=comefrom> <INPUT type=hidden value=1 name=me> 
+<TBODY>
+<TR>
+<TD width=68 bgColor=#d9eafb height=26><INPUT type=checkbox value=22 name=recv><A class=newsbluesms style="FONT-SIZE: 9pt" href="http://sms.sohu.com/book/book.php?id=22" target=_blank>焦点新闻</A> </TD>
+<TD class=newsbluesms align=middle width=73 bgColor=#d9eafb><INPUT type=checkbox value=180 name=recv><A class=newsbluesms style="FONT-SIZE: 9pt" href="http://sms.sohu.com/book/book.php?id=180" target=_blank>闪电新闻</A></TD></TR>
+<TR>
+<TD class=newsblue2 align=middle width=68 bgColor=#d9eafb height=26><INPUT type=checkbox value=110 name=recv><A class=newsbluesms style="FONT-SIZE: 9pt" href="http://sms.sohu.com/book/book.php?id=110" target=_blank>情趣笑话</A></TD>
+<TD class=newsbluesms align=middle width=73 bgColor=#d9eafb><INPUT type=checkbox value=23 name=recv><A class=newsbluesms style="FONT-SIZE: 9pt" href="http://sms.sohu.com/book/book.php?id=23" target=_blank>社会新闻</A></TD></TR>
+<TR>
+<TD class=newsblue2 align=middle width=68 bgColor=#d9eafb height=26><INPUT type=checkbox value=77 name=recv><A class=newsbluesms style="FONT-SIZE: 9pt" href="http://sms.sohu.com/book/book.php?id=77" target=_blank>体育新闻</A></TD>
+<TD class=newsbluesms align=middle width=73 bgColor=#d9eafb><INPUT type=submit value=订阅></TD></TR>
+<TR>
+<TD align=middle bgColor=#d9eafb colSpan=3 height=23><A class=newsbluesms href="http://sms.sohu.com/book/" target=_blank>更多短信订阅..>></A></TD></TR>
+<TR>
+<TD align=middle bgColor=#d9eafb colSpan=3 height=23><A class=newsbluesms href="http://sms.sohu.com/mo/mo.php" target=_blank>点播短信</A> <A class=newsbluesms href="http://sms.sohu.com/help/index2.php" target=_blank>帮助信息</A></TD></TR></FORM></TBODY></TABLE></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+ </sohu_cms_include>
+ <!--flag-->
+</td></tr>
+</table>
+<!--dd1:end-->
+<!--bt-->
+<div class=block1>
+ <sohu_cms_include:sohu_news_subject_frag2><table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src=http://photo.sohu.com/20050329/Img224909845.jpg width="760" height="32" alt=""></td>
+  </tr>
+</table>
+
+<table width="760" border="0" cellspacing="2" cellpadding="0">
+  <tr>
+    <td width="377"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+          <div align="center"><A href="http://news.sohu.com/beijing.shtml" target=_blank><font color=white>北京</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050722/n226401997.shtml"  target=_blank >北京人口超1170万 市人大建议提高进京学历门槛</a><br>
+
+<a href="http://news.sohu.com/20050722/n226401817.shtml"  target=_blank >北京市今日将有中雨 周日开始新一轮的桑拿天气</a><br>
+
+</td><td><a href="javascript:cookit('北京','http://news.sohu.com/beijing.shtml')" alt="定制北京地方新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td width="377" align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/tianjin.shtml" target=_blank><font color=white>天津</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050712/n226276301.shtml"  target=_blank >天津已辟蓄滞洪区十三处 总面积占全市四分之一</a><br>
+
+<a href="http://news.sohu.com/20050629/n226121344.shtml"  target=_blank >天津昨夜狂风暴雨 连续降水成为进入主汛期信号</a><br>
+
+</td><td><a href="javascript:cookit('天津','http://news.sohu.com/tianjin.shtml')" alt="定制天津新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/hebei.shtml" target=_blank><font color=white>河北</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050720/n226385274.shtml"  target=_blank >河北定州绳油村土地不再征用 当地村民表示拥护</a><br>
+
+<a href="http://news.sohu.com/20050712/n226274916.shtml"  target=_blank >张家口市委书记刘永瑞：张家口要永远开放(图)</a><br>
+
+</td><td><a href="javascript:cookit('河北','http://news.sohu.com/hebei.shtml')" alt="定制河北地方新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/shanxi.shtml" target=_blank><font color=white>山西</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050627/n226091153.shtml"  target=_blank >日本推行“毒化政策” 曾诱逼山西20万民众吸毒</a><br>
+
+<a href="http://news.sohu.com/20050627/n226089143.shtml"  target=_blank >山西动刀改革医疗价格 CT核磁共振平均降30%</a><br>
+
+</td><td><a href="javascript:cookit('山西','http://news.sohu.com/shanxi.shtml')" alt="定制山西新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/neimenggu.shtml" target=_blank><font color=white>内蒙古</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050707/n226218246.shtml"  target=_blank >包头200大学生拒领毕业证 称学校对其学历耍骗</a><br>
+
+<a href="http://news.sohu.com/20050701/n226147081.shtml"  target=_blank >内蒙古74名小学生腮腺炎疫苗反应 家长质疑诊断</a><br>
+
+</td><td><a href="javascript:cookit('内蒙古','http://news.sohu.com/neimenggu.shtml')" alt="定制内蒙古新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/liaoning.shtml" target=_blank><font color=white>辽宁</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050722/n226401776.shtml"  target=_blank >抚顺将撤销廉政专用账户 收礼金署名直接交纪委</a><br>
+
+<a href="http://news.sohu.com/20050712/n226271510.shtml"  target=_blank >沈阳一吨氨气泄漏爆炸 多人受伤数百人连夜疏散</a><br>
+
+</td><td><a href="javascript:cookit('辽宁','http://news.sohu.com/liaoning.shtml')" alt="定制辽宁新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/jilin.shtml" target=_blank><font color=white>吉林</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050722/n226401726.shtml"  target=_blank >长春居民楼爆炸威力相当于2公斤TNT炸药(组图)</a><br>
+
+<a href="http://news.sohu.com/20050629/n226117870.shtml"  target=_blank >吉林白城又现日侵华罪证 中国劳工建造日伪机场</a><br>
+
+</td><td><a href="javascript:cookit('吉林','http://news.sohu.com/jilin.shtml')" alt="定制吉林新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/heilongjiang.shtml" target=_blank><font color=white>黑龙江</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050722/n226402127.shtml"  target=_blank >黑龙江强制婚检仅有四项必检 其余各项仍是自愿</a><br>
+
+<a href="http://news.sohu.com/20050630/n226134676.shtml"  target=_blank >哈尔滨各地未来几天多雨 部分区县可能出现冰雹</a><br>
+
+</td><td><a href="javascript:cookit('黑龙江','http://news.sohu.com/heilongjiang.shtml')" alt="定制黑龙江新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="760" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td height=1 bgcolor="#330099"></td>
+  </tr>
+</table>
+<table width="760" border="0" cellspacing="2" cellpadding="0">
+  <tr>
+    <td width="377"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/shanghai.shtml" target=_blank><font color=white>上海</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050721/n226401347.shtml"  target=_blank >上海一25吨液化气槽车翻车 50户居民紧急疏散</a><br>
+
+<a href="http://news.sohu.com/20050712/n226275119.shtml"  target=_blank >上海为节约能源精打细算 新建住宅要求节能50％</a><br>
+
+</td><td><a href="javascript:cookit('上海','http://news.sohu.com/shanghai.shtml')" alt="定制上海新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td width="377" align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/shandong.shtml" target=_blank><font color=white>山东</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050721/n226387050.shtml"  target=_blank >山东拟投资14亿元续建京杭大运河 已报批发改委</a><br>
+
+<a href="http://news.sohu.com/20050629/n226117813.shtml"  target=_blank >山东枣庄修“政府上班大道” 宽102米占地千亩</a><br>
+
+</td><td><a href="javascript:cookit('山东','http://news.sohu.com/shandong.shtml')" alt="定制山东新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/anhui.shtml" target=_blank><font color=white>安徽</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050722/n226403079.shtml"  target=_blank >安徽昨天发生3次地震 专家称属于正常地壳运动</a><br>
+
+<a href="http://news.sohu.com/20050712/n226272388.shtml"  target=_blank >安徽泗县“疫苗事件”续：住院学生已全部出院</a><br>
+
+</td><td><a href="javascript:cookit('安徽','http://news.sohu.com/anhui.shtml')" alt="定制安徽新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/zhejiang.shtml" target=_blank><font color=white>浙江</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050712/n226274190.shtml"  target=_blank >杭州考察干部生活社交圈 包括夫妻关系家庭收入</a><br>
+
+<a href="http://news.sohu.com/20050712/n226271877.shtml"  target=_blank >浙江十类纺织品首次配额出炉 企业感叹杯水车薪</a><br>
+
+</td><td><a href="javascript:cookit('浙江','http://news.sohu.com/zhejiang.shtml')" alt="定制浙江新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/fujian.shtml" target=_blank><font color=white>福建</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050721/n226386933.shtml"  target=_blank >福建医保费用居高不下 医保卡竟成为百货消费卡</a><br>
+
+<a href="http://news.sohu.com/20050630/n226135063.shtml"  target=_blank >福建洪水过后土地难以复耕 村民口粮出现危机</a><br>
+
+</td><td><a href="javascript:cookit('福建','http://news.sohu.com/fujian.shtml')" alt="定制福建新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/jiangxi.shtml" target=_blank><font color=white>江西</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050629/n226117999.shtml"  target=_blank >江西省60多个县级交警大队10年未增加警力编制</a><br>
+
+<a href="http://news.sohu.com/20050623/n226048249.shtml"  target=_blank >江西出台新规定 党政机关领导干预办案将受严惩</a><br>
+
+</td><td><a href="javascript:cookit('江西','http://news.sohu.com/jiangxi.shtml')" alt="定制江西新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/henan.shtml" target=_blank><font color=white>河南</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050712/n226271434.shtml"  target=_blank >河南洪河防汛形势严峻 民政厅下拨600万救助金</a><br>
+
+<a href="http://news.sohu.com/20050630/n226135363.shtml"  target=_blank >郑州从7月1日起企业职工养老保险实行市级统筹</a><br>
+
+</td><td><a href="javascript:cookit('河南','http://news.sohu.com/henan.shtml')" alt="定制河南新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/hubei.shtml" target=_blank><font color=white>湖北</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050721/n226401094.shtml"  target=_blank >湖北全力处理崇阳弃矿矿坑崩塌事故的善后工作</a><br>
+
+<a href="http://news.sohu.com/20050712/n226274601.shtml"  target=_blank >湖北阳新翻船事故造成1死1伤 初步认定违规操作</a><br>
+
+</td><td><a href="javascript:cookit('湖北','http://news.sohu.com/hubei.shtml')" alt="定制湖北新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="760" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td height=1 bgcolor="#330099"></td>
+  </tr>
+</table>
+<table width="760" border="0" cellspacing="2" cellpadding="0">
+  <tr>
+    <td width="377"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/hunan.shtml" target=_blank><font color=white>湖南</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050721/n226400663.shtml"  target=_blank >长沙出租车价格听证：起步价3元 等待费谁付？</a><br>
+
+<a href="http://news.sohu.com/20050712/n226273044.shtml"  target=_blank >湖南高速公路两月发生55起交通事故 致34人死亡</a><br>
+
+</td><td><a href="javascript:cookit('湖南','http://news.sohu.com/hunan.shtml')" alt="定制湖南新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td width="377" align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/guangdong.shtml" target=_blank><font color=white>广东</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050722/n226402137.shtml"  target=_blank >广州站暑运期间骗子频频假装艾滋病人诈骗抢劫</a><br>
+
+<a href="http://news.sohu.com/20050722/n226401838.shtml"  target=_blank >广州地铁工地发生塌方 附近两楼房倾斜墙体开裂</a><br>
+
+</td><td><a href="javascript:cookit('广东','http://news.sohu.com/guangdong.shtml')" alt="定制广东新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/guangxi.shtml" target=_blank><font color=white>广西</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050701/n226147629.shtml"  target=_blank >广西马山村民被淹20天无人过问 村庄陷绝境(图)</a><br>
+
+<a href="http://news.sohu.com/20050630/n226134998.shtml"  target=_blank >南宁机场一飞机尾冒浓烟航班延误 19名乘客索赔</a><br>
+
+</td><td><a href="javascript:cookit('广西','http://news.sohu.com/guangxi.shtml')" alt="定制广西新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/jiangsu.shtml" target=_blank><font color=white>江苏</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050712/n226274532.shtml"  target=_blank >日本老兵东史郎病危 南京大屠杀纪念馆发慰问信</a><br>
+
+<a href="http://news.sohu.com/20050712/n226272413.shtml"  target=_blank >降雨量达到71.3毫米 南京昨日首发黄色暴雨警报</a><br>
+
+</td><td><a href="javascript:cookit('江苏','http://news.sohu.com/jiangsu.shtml')" alt="定制江苏新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/chongqing.shtml" target=_blank><font color=white>重庆</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050701/n226147488.shtml"  target=_blank >重庆奉节矿难导致5死 矿主欲私了瞒报实情出逃</a><br>
+
+<a href="http://news.sohu.com/20050628/n226104135.shtml"  target=_blank >重庆市抓获公安部A级嫌犯 破获海南三亚8年悬案</a><br>
+
+</td><td><a href="javascript:cookit('重庆','http://news.sohu.com/chongqing.shtml')" alt="定制重庆新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/sichuan.shtml" target=_blank><font color=white>四川</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050712/n226272738.shtml"  target=_blank >四川达州连续两年洪灾 为何连续两个百年不遇？</a><br>
+
+<a href="http://news.sohu.com/20050629/n226118903.shtml"  target=_blank >香港学生成都街道办上班 称比想象先进很多(图)</a><br>
+
+</td><td><a href="javascript:cookit('四川','http://news.sohu.com/sichuan.shtml')" alt="定制四川新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/guizhou.shtml" target=_blank><font color=white>贵州</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050629/n226120893.shtml"  target=_blank >贵州新疆通报高考作弊事件 72名涉案人员受处理</a><br>
+
+<a href="http://news.sohu.com/20050627/n226090022.shtml"  target=_blank >贵州高考舞弊续：师生联手作弊流水线 成绩无效</a><br>
+
+</td><td><a href="javascript:cookit('贵州','http://news.sohu.com/guizhou.shtml')" alt="定制贵州新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/yunnan.shtml" target=_blank><font color=white>云南</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050721/n226401111.shtml"  target=_blank >中科院院士专家“科技老区行”活动在云南展开</a><br>
+
+<a href="http://news.sohu.com/20050624/n226064111.shtml"  target=_blank >云南三名警察涉嫌刑讯逼供 一审被判刑18个月</a><br>
+
+</td><td><a href="javascript:cookit('云南','http://news.sohu.com/yunnan.shtml')" alt="定制云南新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="760" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td height=1 bgcolor="#330099"></td>
+  </tr>
+</table>
+<table width="760" border="0" cellspacing="2" cellpadding="0">
+  <tr>
+    <td width="377"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/xizang.shtml" target=_blank><font color=white>西藏</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050623/n226062404.shtml"  target=_blank >西藏两类产品首次获得国家原产地标记注册证书</a><br>
+
+<a href="http://news.sohu.com/20050608/n225857602.shtml"  target=_blank >西藏登山队昨日抵达成都 向成都山友表示感谢</a><br>
+
+</td><td><a href="javascript:cookit('西藏','http://news.sohu.com/xizang.shtml')" alt="定制西藏新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td width="377" align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/xian.shtml" target=_blank><font color=white>陕西</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050712/n226272709.shtml"  target=_blank >陕西榆林炒卖煤矿成风 倒卖煤矿一月净赚3000万</a><br>
+
+<a href="http://news.sohu.com/20050629/n226118739.shtml"  target=_blank >陕西出台规定：擅自拆除历史民居 最高可罚十万</a><br>
+
+</td><td><a href="javascript:cookit('陕西','http://news.sohu.com/xian.shtml')" alt="定制陕西新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/gansu.shtml" target=_blank><font color=white>甘肃</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050722/n226402547.shtml"  target=_blank >兰州居民楼液化气瓶爆炸 百户窗玻璃被震碎(图)</a><br>
+
+<a href="http://news.sohu.com/20050701/n226147513.shtml"  target=_blank >兰州医疗服务价改方案今执行 住院费计入不计出</a><br>
+
+</td><td><a href="javascript:cookit('甘肃','http://news.sohu.com/gansu.shtml')" alt="定制甘肃新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/qinghai.shtml" target=_blank><font color=white>青海</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050722/n226402480.shtml"  target=_blank >青海西宁一小区居民家中发生爆炸造成一死四伤</a><br>
+
+<a href="http://news.sohu.com/20050614/n225942492.shtml"  target=_blank >青海防禽流感向人间扩散 全面捕杀疫区周边家禽</a><br>
+
+</td><td><a href="javascript:cookit('青海','http://news.sohu.com/qinghai.shtml')" alt="定制青海新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/ningxia.shtml" target=_blank><font color=white>宁夏</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050721/n226398156.shtml"  target=_blank >宁夏一国企女经理涉嫌贪污 潜逃国外6年终落网</a><br>
+
+<a href="http://news.sohu.com/20050721/n226387442.shtml"  target=_blank >宁夏石嘴山造湖事件背后折射政府官员政绩饥渴</a><br>
+
+</td><td><a href="javascript:cookit('宁夏','http://news.sohu.com/ningxia.shtml')" alt="定制宁夏新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/xinjiang.shtml" target=_blank><font color=white>新疆</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050712/n226272367.shtml"  target=_blank >新疆阜康煤难66人死亡 存在无证生产等违规行为</a><br>
+
+<a href="http://news.sohu.com/20050624/n226068016.shtml"  target=_blank >新疆军区某通信部队保障部队高寒地区作战通信</a><br>
+
+</td><td><a href="javascript:cookit('新疆','http://news.sohu.com/xinjiang.shtml')" alt="定制新疆新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/hongkong.shtml" target=_blank><font color=white>香港</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050721/n226393322.shtml"  target=_blank >香港昨晚发生5500次雷击 导致九龙新界多处停电</a><br>
+
+<a href="http://news.sohu.com/20050721/n226389641.shtml"  target=_blank >香港欢迎标普提高港外币评级 稳定财政扩阔税基</a><br>
+
+</td><td><a href="javascript:cookit('香港','http://news.sohu.com/hongkong.shtml')" alt="定制香港新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/macau.shtml" target=_blank><font color=white>澳门</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050721/n226389892.shtml"  target=_blank >澳门遗失《选民证》者不影响立法会选举投票权</a><br>
+
+<a href="http://news.sohu.com/20050622/n226035826.shtml"  target=_blank >为和统会庆生 海外交流协会将率杂技团赴澳演出</a><br>
+
+</td><td><a href="javascript:cookit('澳门','http://news.sohu.com/macau.shtml')" alt="定制澳门新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+  </tr>
+    <tr>
+    <td><table width="98%" height=40 border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+              <div align="center"><A href="http://news.sohu.com/taiwan.shtml" target=_blank><font color=white>台湾</font></a></div>
+        </div></td> 
+		<td width="3%" rowspan="2"><div align="center"></div></td>       
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050721/n226396851.shtml"  target=_blank >国民党17全会将选中常委及委员 王马阵营齐关注</a><br>
+
+<a href="http://news.sohu.com/20050721/n226396849.shtml"  target=_blank >“台联党”称李登辉盼与王金平合组一本土政党</a><br>
+
+</td><td><a href="javascript:cookit('台湾','http://news.sohu.com/taiwan.shtml')" alt="定制台湾新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></a></a></td>
+      </tr>
+    </table></td>
+    <td align="right"><table width="98%" height=40 border="0" cellspacing="2" cellpadding="0">
+      <tr>
+        <td width="6%" bgcolor="0A5EAD"><div align="center" class="style4">
+            <div align="center"><A href="http://news.sohu.com/hainan.shtml" target=_blank><font color=white>海南</font></a></div>
+        </div></td>
+        <td width="3%" rowspan="2"><div align="center"></div></td>
+        <td width="77%">
+
+
+
+
+
+
+
+<a href="http://news.sohu.com/20050712/n226272246.shtml"  target=_blank >海南一小学校长给女生写情书 带其看黄色录像</a><br>
+
+<a href="http://news.sohu.com/20050629/n226121027.shtml"  target=_blank >海南修订高招报考条件 防高考移民规定引发争议</a><br>
+
+</td>
+        <td><a href="javascript:cookit('海南','http://news.sohu.com/hainan.shtml')" alt="定制海南新闻" /><img border="0" src="http://photo.sohu.com/20050329/Img224914118.jpg" width="50" height="26"></td>
+      </tr>
+    </table> </td>
+    </tr>
+</table>
+ </sohu_cms_include>
+</div>
+<!--bt:end-->
+<!--1-->
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr valign=top>
+<td width=590>
+ <!--block_title1-->
+ <sohu_cms_include:sohu_news_subject_frag10> </sohu_cms_include>
+ <!--block_title1:end-->
+ <!--block_590-->
+<sohu_cms_include:sohu_news_subject_frag11> </sohu_cms_include>
+ <!--block_590:end-->
+ 
+ <table width=590 border=0 cellpadding=0 cellspacing=0>
+ <tr valign=top>
+ <td width=250 align=center class=block6>
+  <!--block6-->
+  <sohu_cms_include:sohu_news_subject_frag15> </sohu_cms_include>
+  <!--block6:end-->
+  
+  
+ </td>
+ <td width=10><img src=http://images.sohu.com/ccc.gif width=1 height=1></td>
+ <td width=330 align=center>
+  <!--block5-->
+  <sohu_cms_include:sohu_news_subject_frag16> </sohu_cms_include>
+  <!--block5:end-->
+  
+  <!--lm:st-->
+  <!--block_title2-->
+  
+    
+  
+ </td></tr>
+ </table>
+ 
+</td>
+<td width=10><img src=http://images.sohu.com/ccc.gif width=1 height=1></td>
+<td width=160 align=center class=rblock>
+ <sohu_cms_include:cs_subject_tongyi_ad2> </sohu_cms_include>
+ <sohu_cms_include:cs_subject_tongyi_ad3> </sohu_cms_include>
+ 
+ <sohu_cms_include:sohu_news_subject_frag17> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag19> </sohu_cms_include>
+ 
+</td></tr>
+</table>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+<!--590-2-->
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr valign=top>
+<td width=590>
+ <!--block_title3-->
+ <sohu_cms_include:sohu_news_subject_frag101> </sohu_cms_include> 
+ <!--lm1:end-->
+ <!--lm2-->
+ <!--block_title3-->
+ <sohu_cms_include:homepage_0803_frag24> </sohu_cms_include> 
+ <!--lm2:end-->
+  
+</td>
+<td width=10><img src=http://images.sohu.com/ccc.gif width=1 height=1></td>
+<td width=160 align=center class=rblock>
+ <sohu_cms_include:homepage_0803_frag26> </sohu_cms_include>
+</td></tr>
+<tr><td colspan=3 height=5><img src=http://images.sohu.com/ccc.gif width=1 height=1></td></tr>
+</table>
+<!--3-->
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr valign=top>
+<td width=160 align=center class=lblock1>
+ 
+ <sohu_cms_include:homepage_0803_frag28> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag20> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag5> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag6> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag7> </sohu_cms_include>
+ 
+</td>
+<td width=10><img src=http://images.sohu.com/ccc.gif width=1 height=1></td>
+<td width=420>
+<sohu_cms_include:sohu_news_subject_frag12> </sohu_cms_include>
+ 
+    
+ 
+ 
+ 
+</td>
+<td width=10><img src=http://images.sohu.com/ccc.gif width=1 height=1></td>
+<td width=160 class=rblock align=center>
+ <sohu_cms_include:sohu_news_subject_frag8> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag9> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag1105_1> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag1105_2> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag1105_3> </sohu_cms_include>
+</td></tr>
+<tr>
+<td class=lblock1b><img src=http://images.sohu.com/ccc.gif width=1></td>
+<td><img src=http://images.sohu.com/ccc.gif width=1></td>
+<td><img src=http://images.sohu.com/ccc.gif width=1></td>
+</tr>
+</table>
+<!--bd-->
+<sohu_cms_include:sohu_news_subject_frag21> </sohu_cms_include>
+<!--bd:end-->
+<!--copyright-->
+<sohu_cms_include:sohu_news_copyright><br>
+<script language="javascript" src="http://www.sohu.net/common/sohunettail_local.js"></script>
+<hr size="1" width="760" noshade>
+<table width=760 border=0 cellspacing=0 cellpadding=0>
+  <tr> 
+    <td align=center><a href=http://www.chinaren.com/  class="black" target=_blank>ChinaRen</a> - <a
+href=http://hr.sohu.com/hrm.html class="black" target=_blank>搜狐招聘</a> - <a
+href=http://add.sohu.com/ class="black" target=_blank>网站登录</a> - <a href=http://help.sohu.com/ class="black" target=_blank>帮助中心</a> 
+      - <a
+href="" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sohu.com');return false;" class="black" target=_blank>设置首页</a> - <a
+href=http://adinfo.sohu.com class="black" target=_blank>广告服务</a> - <a
+href=http://www.sohu.com/about/lianxi.htm class="black" target=_blank>联系方式</a> - <a
+href=http://www.sohu.com/about/privacy.html class="black" target=_blank>保护隐私权</a> - <a href="http://www.sohu.com/about/English" class="black" target=_blank>About SOHU</a> - <a href=http://www.sohu.com/about/  class="black" target=_blank>公司介绍</a><br>
+      <span class=eng>Copyright &copy; 2005 Sohu.com Inc. All rights reserved. 
+      搜狐公司 <a href=http://www.sohu.com/about/copyright.html target=_blank class=black>版权所有</a></span></td>
+  </tr>
+</table><p></p>
+<script language="JavaScript" src="http://nielsen.js.sohu.com/nnselect.js">
+</script>
+<noscript>
+<img src='http://ping.nnselect.com/ping.gif?c=119' height='1' width='1'>
+</noscript> </sohu_cms_include>
+</center>
+</body>
+</html>
+
+
+

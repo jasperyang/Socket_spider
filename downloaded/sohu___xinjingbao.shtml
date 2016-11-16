@@ -1,0 +1,406 @@
+HTTP/1.1 200 OK
+Date: Tue, 15 Nov 2016 07:20:25 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips
+Last-Modified: Wed, 28 Oct 2015 02:40:00 GMT
+Accept-Ranges: bytes
+Content-Length: 19999
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<title>新京报-核心报道-搜狐新闻中心</title>
+<meta http-equiv=content-type content='text/html; charset=gb2312'>
+<sohu_cms_include:subject_style><link href=http://images.sohu.com/uiue/zy/style1.css rel=stylesheet type=text/css> </sohu_cms_include>
+</head>
+<body bgcolor=#ffffff leftmargin=0 topmargin=0 marginwidth=0 marginheight=0>
+<center><img src=http://images.sohu.com/ccc.gif width=1 height=5 border=0><br>
+<sohu_cms_include:sohu_news_head_news><style type=text/css>
+.ui_top{color:#000000;font-size:12px;line-height:18px;}
+.ui_top a:link{color:#000000;text-decoration:none;}
+.ui_top a:visited{color:#000000;text-decoration:none;}
+.ui_top a:hover {color:#000000;text-decoration:underline;}
+
+.up1 {color:656565;line-height:18px;font-size:12px}
+.up1 td{color:#656565;line-height:18px;font-size:12px}
+.up1 A:link {color:#656565;text-decoration:none;line-height:18px;font-size:12px}
+.up1 A:Visited {color:#656565;text-decoration:none;}
+.up1 A:Hover {color:#656565;TEXT-DECORATION: underline;}
+</style>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=87><img src=http://images.sohu.com/uiue/sohu_logo/2005/sohu_logo2.gif height=22 border=0></td>
+<td bgcolor=#EFEBEF><a href=http://news.sohu.com><img src="http://images.sohu.com/uiue/sohu_logo/2005/news_logo2.gif" height="22" border="0"></a></td>
+<td align=right class=ui_top valign=bottom bgcolor=#EFEBEF><a href=http://www.sohu.com/>搜狐首页</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://news.sohu.com/>新闻</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://sports.sohu.com/>体育</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://yule.sohu.com/>娱乐</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://business.sohu.com/>财经</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://it.sohu.com/>IT</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://auto.sohu.com/>汽车</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://house.sohu.com/>房产</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://women.sohu.com/>女人</a><font style="font-size:4px"> </font><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://sms.sohu.com/>短信</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://mms.sohu.com/>彩信</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://alumni.sohu.com/ >校友录</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://login.mail.sohu.com/>邮件</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://store.sohu.com/>商城</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://club.sohu.com/>BBS</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://www.sogou.com/
+><font color=#ff0000>搜狗</font></a>&nbsp;</td></tr>
+<tr><td height=3 colspan=3><img src=http://images.sohu.com/ccc.gif width=1 height=1></td></tr>
+</table>
+<!--sohu_top:end--> </sohu_cms_include>
+<img src=http://images.sohu.com/ccc.gif width=1 height=3><br>
+<!--top:end-->
+<div class=ad1>
+ <!--Ad1-->
+ <sohu_cms_include:cs_subject_tongyi_ad1> </sohu_cms_include>
+ <!--Ad1:end-->
+</div>
+<!--dd1-->
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr><td width=760 class=dz>
+ <!--flag-->
+ <sohu_cms_include:sohu_news_subject_frag1><table width=99% border=0 cellpadding=0 cellspacing=0>
+  <tr> 
+    <td height=105 align="center"><a href=http://news.sohu.com/1/0504/52/subject220075254.shtml target=blank><img src="http://photo.sohu.com/2004/05/11/83/Img220088374.jpg" width=760 height=105 alt=新京报-核心报道 border=0></a></td>
+  </tr>
+</table> </sohu_cms_include>
+ <!--flag-->
+</td></tr>
+</table>
+<!--dd1:end-->
+<!--bt-->
+<div class=block1>
+ <sohu_cms_include:sohu_news_subject_frag2> </sohu_cms_include>
+</div>
+<!--bt:end-->
+<!--1-->
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr valign=top>
+<td width=590>
+ <!--block_title1-->
+ <sohu_cms_include:sohu_news_subject_frag10> </sohu_cms_include>
+ <!--block_title1:end-->
+ <!--block_590-->
+<sohu_cms_include:sohu_news_subject_frag11> </sohu_cms_include>
+ <!--block_590:end-->
+ 
+ <table width=590 border=0 cellpadding=0 cellspacing=0>
+ <tr valign=top>
+ <td width=250 align=center class=block6>
+  <!--block6-->
+  <sohu_cms_include:sohu_news_subject_frag15><br>
+<table width=99% cellspacing=0 cellpadding=0 border=0>
+<tr align=center>
+<td><a href="http://news.sohu.com/20050620/n226001836.shtml" target=_blank><img src="http://photocdn.sohu.com/20050620/Img226011805.jpg" alt=河南农民自费调查暴力征税 border=0></a>
+<div><a href="http://news.sohu.com/20050620/n226001836.shtml" target=_blank>河南农民自费调查暴力征税</a></a></div>
+</td>
+</tr>
+</table>
+
+ </sohu_cms_include>
+  <!--block6:end-->
+  
+  
+ </td>
+ <td width=10><img src=http://images.sohu.com/ccc.gif width=1 height=1></td>
+ <td width=330 align=center>
+  <!--block5-->
+  <sohu_cms_include:sohu_news_subject_frag16><div class=block4>
+<TABLE cellSpacing=0 cellPadding=0 width="99%" border=0>
+<TBODY>
+<TR>
+<TD class=block4_title height=35  align="center"><a href=http://news.sohu.com/20050620/n226001836.shtml
+ target=_blank>河南农民自费调查暴力征税 出名后当村官</a></TD></TR>
+
+<tr><td>　　52岁，河南省宜阳县高村乡一名普通农民。因为自费调查宜阳县、乡、村三级干部暴力征收农业税，他被称为“中国最著名农民之一”……[<a href="http://news.sohu.com/20050620/n226001836.shtml" target="_blank">全文</a>][<a href="http://comment.news.sohu.com/comment/topic.jsp?id=223805373" target="_blank">评论</a>] </td></tr>
+</table></div>
+
+<div class=block4>
+<TABLE cellSpacing=0 cellPadding=0 width="99%" border=0>
+<TBODY>
+<TR>
+<TD class=block4_title height=35  align="center"><a href=http://news.sohu.com/20050617/n225975669.shtml  target=_blank>中外差距是在于看重人还是机器</a></TD></TR>
+
+<tr><td>　　一位“海归”教师在其《一个“海归”的困惑》中所描述的现状：“局外人绝对不会相信，我们自己也羞于启齿，中国美术最高高等学府的基本工资居然只有可怜的1300元人民币，加上课酬，也不过总共在2500元徘徊，没有住房分配，我的合同上的住房补贴一项是70元。”……[<a href="http://news.sohu.com/20050617/n225975669.shtml" target="_blank">全文</a>][<a href="http://comment.news.sohu.com/comment/topic.jsp?id=223786595" target="_blank">发表评论</a>] </td></tr>
+</table></div>
+
+
+<div class=block4>
+<TABLE cellSpacing=0 cellPadding=0 width="99%" border=0>
+<TBODY>
+<TR>
+<TD class=block4_title height=35  align="center"><a href=http://news.sohu.com/20050618/n225989605.shtml
+ target=_blank>攒医药费让儿子将来活下去
+</a></TD></TR>
+
+<tr><td>　　透过一把挂在桌子上的酒瓶起子，孙敬同笑着说起17年来的经历。发须花白的他说只要一闭眼，脑子里就全是医院……[<a href="http://news.sohu.com/20050618/n225989605.shtml" target="_blank">全文</a>][<a href="http://comment.news.sohu.com/comment/topic.jsp?id=223767069" target="_blank">发表评论</a>] </td></tr>
+</table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ </sohu_cms_include>
+  <!--block5:end-->
+  
+  <!--lm:st-->
+  <!--block_title2-->
+  
+    
+  
+ </td></tr>
+ </table>
+ 
+</td>
+<td width=10><img src=http://images.sohu.com/ccc.gif width=1 height=1></td>
+<td width=160 align=center class=rblock>
+ <sohu_cms_include:cs_subject_tongyi_ad2> </sohu_cms_include>
+ <sohu_cms_include:cs_subject_tongyi_ad3> </sohu_cms_include>
+ 
+ <sohu_cms_include:sohu_news_subject_frag17><TABLE class=rblock_title cellSpacing=0 cellPadding=0 width=160 border=0>
+<TBODY>
+<TR>
+<TD><B>新京报-核心报道介绍</B></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=2 width="99%" border=0>
+<TBODY>
+<TR>
+<TD><marquee direction="up" onmouseover="this.stop()" onmouseout="this.start()" scrollDelay=350 height=200>
+<LI>“核心报道（对话）”为《新京报》品牌栏目，创办至今，已刊发《衡阳大火之后反思消防体制》、《杨新海特大系列杀人案调查》、《哈尔滨宝马车撞人案调查》、《京冀拒马河水权之争》、《河南千余艾滋病患者停药之困》、《回望吕日周长治之治》、《嘉禾拆迁引发姐妹同日离婚》等一系列在全国引起重大反响的独家首发报道。<BR>
+<LI>塑造《新京报》主流时政大报，赋予日报更多的可能性，为“核心报道（对话）”开设目的，它将关照当下中国的一切变化，在新闻的深度掘进上发出自己独特的声音。</li><BR><LI>“法治与人文”为栏目宗旨，立志推进中国的法治建设、政治文明及社会进步；报道风格以客观公正、平实扎实、稳健理性见长，拒绝炒作，拒绝媚俗和媚上，迥异各地报纸的“特稿”及呆板的宣传通讯。</li><BR></TD></TR></TBODY></TABLE>
+ </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag19> </sohu_cms_include>
+ 
+</td></tr>
+</table>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+<!--590-2-->
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr valign=top>
+<td width=590>
+ <!--block_title3-->
+ <sohu_cms_include:sohu_news_subject_frag101> </sohu_cms_include> 
+ <!--lm1:end-->
+ <!--lm2-->
+ <!--block_title3-->
+ <sohu_cms_include:homepage_0803_frag24> </sohu_cms_include> 
+ <!--lm2:end-->
+  
+</td>
+<td width=10><img src=http://images.sohu.com/ccc.gif width=1 height=1></td>
+<td width=160 align=center class=rblock>
+ <sohu_cms_include:homepage_0803_frag26> </sohu_cms_include>
+</td></tr>
+<tr><td colspan=3 height=5><img src=http://images.sohu.com/ccc.gif width=1 height=1></td></tr>
+</table>
+<!--3-->
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr valign=top>
+<td width=160 align=center class=lblock1>
+ 
+ <sohu_cms_include:homepage_0803_frag28><TABLE class=rblock_title cellSpacing=0 cellPadding=0 width=160 border=0>
+<TBODY>
+<TR>
+<TD><B>欢迎提供线索</B></TD></TR></TBODY></TABLE>
+<table>
+<tbody>
+<tr><td>
+<LI>采用后进行评奖，奖金至少百元，最高万元。<BR><STRONG><FONT color=#ff0000>专用报料信箱</FONT></STRONG>：<br><A href="mailto:xjbhxbd@vip.sohu.net">新京报核心报道报料信箱</A><BR><FONT color=#ff0000><STRONG>报料电话</STRONG></FONT>：<BR>010-96096333(市话收费)<BR><FONT color=#ff0000><STRONG>短信报料</STRONG></FONT>：<BR>移动用户发送至8168000333，联通用户发送至9168000333</LI></TD></TR></TBODY></TABLE>
+
+ </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag20>   </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag5> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag6> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag7> </sohu_cms_include>
+ 
+</td>
+<td width=10><img src=http://images.sohu.com/ccc.gif width=1 height=1></td>
+<td width=420>
+<sohu_cms_include:sohu_news_subject_frag12> </sohu_cms_include>
+ 
+    
+ <!--block_title4-->
+ <table width=420 border=0 cellpadding=0 cellspacing=0>
+ <tr>
+ <td width=100 class=block_title4><br></td>
+ <td class=block_title4b>更多新闻</td></tr>
+ </table>
+ <!--block_title4:end-->
+ 
+ <sohu_cms_include:sohu_news_subject_maybe0> </sohu_cms_include>
+ 
+ <br>
+ <div class=block10>
+ <table width=99% border=0 cellpadding=0 cellspacing=0>
+  <tr><td>
+  <sohu_cms_include:news_sublist_bytime_time_pure>·<a href="/20051125/n227589828.shtml" target=_blank>安徽两例人禽流感传染源成谜1(组图)</a><span>(11/25 05:06)</span><br>
+·<a href="/20051123/n227569646.shtml" target=_blank>前国新办主任执掌人大新闻学院 要培养新闻官</a><span>(11/23 03:34)</span><br>
+·<a href="http://news.sohu.com/20051122/n227559017.shtml" target=_blank>国务院立法升级禽流感上报制度(图)</a><span>(11/22 03:14)</span><br>
+·<a href="http://news.sohu.com/20051121/n227549088.shtml" target=_blank>重庆首例艾滋病患最后十年：一度神奇康复(图)</a><span>(11/21 01:42)</span><br>
+·<a href="/20051117/n227517265.shtml" target=_blank>(对话)学校办不好我死都死不了(图)</a><span>(11/17 00:52)</span><br>
+·<a href="/20051115/n227493686.shtml" target=_blank>辽宁禽流感疫区首例发热患者的15天(组图)</a><span>(11/15 01:56)</span><br>
+·<a href="/20051114/n227481990.shtml" target=_blank>天津滨海有望成改革试验区 中央不给钱也能发展</a><span>(11/14 00:05)</span><br>
+·<a href="/20051102/n227363727.shtml" target=_blank>(对话)“主持性节目我为女性张目”(图)</a><span>(11/02 03:16)</span><br>
+·<a href="/20051101/n227352609.shtml" target=_blank>陶行知故里的平民学校</a><span>(11/01 03:01)</span><br>
+·<a href="/20051024/n227285505.shtml" target=_blank>合肥市委书记孙金龙铁腕拆违建 58栋别墅无人领</a><span>(10/24 01:46)</span><br>
+·<a href="/20051014/n227195673.shtml" target=_blank>十一五：共富诉求由整套制度推动(图)</a><span>(10/14 02:42)</span><br>
+·<a href="/20051012/n227173874.shtml" target=_blank>(对话)民工门诊，我净亏30多万？(组图)</a><span>(10/12 03:14)</span><br>
+·<a href="/20051012/n227173864.shtml" target=_blank>“开民工门诊，我净亏30多万”(组图)</a><span>(10/12 03:12)</span><br>
+·<a href="/20051010/n227153335.shtml" target=_blank>400种国外生物入侵 疯狂繁殖严重危害生态(图)</a><span>(10/10 01:58)</span><br>
+·<a href="/20050909/n226906381.shtml" target=_blank>中国30万千万富翁成私人飞机潜在消费群(组图)</a><span>(09/09 02:03)</span><br>
+·<a href="/20050905/n226864256.shtml" target=_blank>密云铁矿石盗卖路线图</a><span>(09/05 02:44)</span><br>
+·<a href="/20050831/n226826685.shtml" target=_blank>三万元兜售“院士”头衔事件调查(组图)</a><span>(08/31 03:11)</span><br>
+·<a href="/20050824/n226767761.shtml" target=_blank>政府豁免巨亿规费 江苏高校卖地偿债(图)</a><span>(08/24 09:36)</span><br>
+·<a href="/20050815/n226669921.shtml" target=_blank>1945·8·15这一天(组图)</a><span>(08/15 02:11)</span><br>
+·<a href="/20050806/n226580005.shtml" target=_blank>(对话)“孩子，爸爸对不起你了”(组图)</a><span>(08/06 01:57)</span><br>
+·<a href="/20050729/n226486174.shtml" target=_blank>京津风沙源10万亩湖区干涸 盐碱治理紧迫(组图)</a><span>(07/29 01:06)</span><br>
+·<a href="/20050728/n226471875.shtml" target=_blank>龙胆泻肝丸成分可能导致尿毒症 举证倒置谁负责</a><span>(07/28 01:25)</span><br>
+·<a href="/20050722/n226402653.shtml" target=_blank>(对话)我告状 好比下雨要打伞(组图)</a><span>(07/22 04:26)</span><br>
+·<a href="/20050714/n226312400.shtml" target=_blank>白鱀豚淇淇三年祭(组图)</a><span>(07/14 17:46)</span><br>
+·<a href="/20050702/n226161723.shtml" target=_blank>八年告倒贪官，我很自豪(图)</a><span>(07/02 05:37)</span><br>
+·<a href="/20050630/n226133925.shtml" target=_blank>歌手丛飞：三百万助学累倒爱心天梯(组图)</a><span>(06/30 06:13)</span><br>
+·<a href="/20050629/n226118166.shtml" target=_blank>高金素梅：北京考学不想张扬(图)</a><span>(06/29 07:04)</span><br>
+·<a href="/20050629/n226118139.shtml" target=_blank>湖南郴州清剿“红顶煤老板”三月纪实(组图)</a><span>(06/29 07:04)</span><br>
+·<a href="/20050618/n225989605.shtml" target=_blank>(对话)攒医药费让儿子将来活下去(图)</a><span>(06/18 03:56)</span><br>
+·<a href="/20050617/n225975669.shtml" target=_blank>对话海归教师：中外差距是在于看重人还是机器</a><span>(06/17 03:42)</span><br> </sohu_cms_include>
+  </td></tr>
+  <tr><td align=right class=cmore><a href="/1/0504/52/subject220075299.shtml" target=_blank>更多>></a></td></tr>
+ </table>
+ </div>
+ 
+ 
+ 
+ 
+</td>
+<td width=10><img src=http://images.sohu.com/ccc.gif width=1 height=1></td>
+<td width=160 class=rblock align=center>
+ <sohu_cms_include:sohu_news_subject_frag8><table width=160 border=0 cellpadding=0 cellspacing=0 class=rblock_title>
+	<tr><td>相关专题</td></tr>
+	</table>
+<TABLE cellSpacing=５ cellPadding=0 width=163 border=0>
+<TBODY>
+<TR>
+<TD class=itm vAlign=top width=173>
+<DIV align=center>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR align=middle>
+<TD></TD></TR>
+<TR align=middle>
+<TD></TD></TR>
+<TR align=middle>
+<TD></TD></TR>
+
+
+
+
+
+<TR align=middle>
+<TD><A href="http://news.sohu.com/1/0404/68/subject219886863.shtml" target=_blank><IMG src="http://photo.sohu.com/2004/05/11/90/Img220089041.jpg"  align=bottom border=0></A></TD></TR>
+<TR align=middle>
+<TD height=1><A href="http://news.sohu.com/1/0404/68/subject219886863.shtml" target=_blank class=newsblue3>安徽阜阳毒奶粉</A></TD></TR>
+
+
+<TR align=middle>
+<TD><A href="http://news.sohu.com/1/0204/31/subject219083149.shtml" target=_blank><IMG src="http://photo.sohu.com/2004/04/16/78/Img219857887.jpg" width=140 align=bottom border=0></A></TD></TR>
+<TR align=middle>
+<TD height=20><A class=newsblue3 href="http://news.sohu.com/1/0204/31/subject219083149.shtml" target=_blank>吉林中百商厦特大火灾</A></TD></TR>
+
+
+
+
+</TBODY></TABLE></DIV></TD></TR></TBODY></TABLE>
+
+<TABLE cellSpacing=５ cellPadding=0 width=163 border=0>
+<TBODY>
+<TR>
+<TD class=itm vAlign=top>
+<DIV align=center>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR align=middle>
+<TD></TD></TR>
+<TR align=middle>
+<TD></TD></TR>
+<TR align=middle>
+<TD></TD></TR>
+
+<TR align=middle>
+<TD><A href="
+http://news.sohu.com/1/0404/38/subject220003800.shtml" target=_blank><IMG src="http://photo.sohu.com/2004/05/11/89/Img220088998.jpg"  align=bottom border=0></A></TD></TR>
+<TR align=middle>
+<TD height=1><A href="
+http://news.sohu.com/1/0404/38/subject220003800.shtml" target=_blank class=newsblue3>陕西假宝马彩票案</A></TD></TR>
+
+<TR align=middle>
+<TD><A href="http://news.sohu.com/1/0404/62/subject219996237.shtml" target=_blank><IMG src="http://photo.sohu.com/2004/05/11/07/Img220090769.jpg" width=140 align=bottom border=0></A></TD></TR>
+<TR align=middle>
+<TD height=20><A class=newsblue3 href="http://news.sohu.com/1/0404/62/subject219996237.shtml" target=_blank>湖南女教师裸死校舍</A></TD></TR></TBODY></TABLE></DIV></TD></TR>
+</TBODY></TABLE> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag9> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag1105_1> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag1105_2> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag1105_3> </sohu_cms_include>
+</td></tr>
+<tr>
+<td class=lblock1b><img src=http://images.sohu.com/ccc.gif width=1></td>
+<td><img src=http://images.sohu.com/ccc.gif width=1></td>
+<td><img src=http://images.sohu.com/ccc.gif width=1></td>
+</tr>
+</table>
+<!--bd-->
+<sohu_cms_include:sohu_news_subject_frag21> </sohu_cms_include>
+<!--bd:end-->
+<!--copyright-->
+<sohu_cms_include:sohu_news_copyright><br>
+<script language="javascript" src="http://www.sohu.net/common/sohunettail_local.js"></script>
+<hr size="1" width="760" noshade>
+<table width=760 border=0 cellspacing=0 cellpadding=0>
+  <tr> 
+    <td align=center><a href=http://www.chinaren.com/  class="black" target=_blank>ChinaRen</a> - <a
+href=http://hr.sohu.com/hrm.html class="black" target=_blank>搜狐招聘</a> - <a
+href=http://add.sohu.com/ class="black" target=_blank>网站登录</a> - <a href=http://help.sohu.com/ class="black" target=_blank>帮助中心</a> 
+      - <a
+href="" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sohu.com');return false;" class="black" target=_blank>设置首页</a> - <a
+href=http://adinfo.sohu.com class="black" target=_blank>广告服务</a> - <a
+href=http://www.sohu.com/about/lianxi.htm class="black" target=_blank>联系方式</a> - <a
+href=http://www.sohu.com/about/privacy.html class="black" target=_blank>保护隐私权</a> - <a href="http://www.sohu.com/about/English" class="black" target=_blank>About SOHU</a> - <a href=http://www.sohu.com/about/  class="black" target=_blank>公司介绍</a><br>
+      <span class=eng>Copyright &copy; 2005 Sohu.com Inc. All rights reserved. 
+      搜狐公司 <a href=http://www.sohu.com/about/copyright.html target=_blank class=black>版权所有</a></span></td>
+  </tr>
+</table><p></p>
+<script language="JavaScript" src="http://nielsen.js.sohu.com/nnselect.js">
+</script>
+<noscript>
+<img src='http://ping.nnselect.com/ping.gif?c=119' height='1' width='1'>
+</noscript> </sohu_cms_include>
+</center>
+</body>
+</html>
+
+
+

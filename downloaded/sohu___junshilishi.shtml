@@ -1,0 +1,569 @@
+HTTP/1.1 200 OK
+Date: Tue, 15 Nov 2016 07:20:24 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips
+Last-Modified: Wed, 28 Oct 2015 02:40:00 GMT
+Accept-Ranges: bytes
+Content-Length: 43402
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<title><a name='烽火岁月'>烽火岁月</a>-搜狐新闻中心</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" produce by:BP>
+<LINK href=/wimages/ui.css rel=stylesheet type=text/css>
+<sohu_cms_include:subject_style> </sohu_cms_include>
+</head>
+<body topmargin=4 leftmargin=0>
+<center>
+<!---------------标准头 开始 ------------->
+<sohu_cms_include:sohu_news_head_news><style type=text/css>
+.ui_top{color:#000000;font-size:12px;line-height:18px;}
+.ui_top a:link{color:#000000;text-decoration:none;}
+.ui_top a:visited{color:#000000;text-decoration:none;}
+.ui_top a:hover {color:#000000;text-decoration:underline;}
+
+.up1 {color:656565;line-height:18px;font-size:12px}
+.up1 td{color:#656565;line-height:18px;font-size:12px}
+.up1 A:link {color:#656565;text-decoration:none;line-height:18px;font-size:12px}
+.up1 A:Visited {color:#656565;text-decoration:none;}
+.up1 A:Hover {color:#656565;TEXT-DECORATION: underline;}
+</style>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=87><img src=http://images.sohu.com/uiue/sohu_logo/2005/sohu_logo2.gif height=22 border=0></td>
+<td bgcolor=#EFEBEF><a href=http://news.sohu.com><img src="http://images.sohu.com/uiue/sohu_logo/2005/news_logo2.gif" height="22" border="0"></a></td>
+<td align=right class=ui_top valign=bottom bgcolor=#EFEBEF><a href=http://www.sohu.com/>搜狐首页</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://news.sohu.com/>新闻</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://sports.sohu.com/>体育</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://yule.sohu.com/>娱乐</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://business.sohu.com/>财经</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://it.sohu.com/>IT</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://auto.sohu.com/>汽车</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://house.sohu.com/>房产</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://women.sohu.com/>女人</a><font style="font-size:4px"> </font><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://sms.sohu.com/>短信</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://mms.sohu.com/>彩信</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://alumni.sohu.com/ >校友录</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://login.mail.sohu.com/>邮件</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://store.sohu.com/>商城</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://club.sohu.com/>BBS</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://www.sogou.com/
+><font color=#ff0000>搜狗</font></a>&nbsp;</td></tr>
+<tr><td height=3 colspan=3><img src=http://images.sohu.com/ccc.gif width=1 height=1></td></tr>
+</table>
+<!--sohu_top:end--> </sohu_cms_include>
+<sohu_cms_include:sohu_news_banner><style>
+.setwhite{color: #ffffff}
+
+A.setwhite:link {font-size:12px;text-decoration: none; color: #ffffff} 
+
+A.setwhite:visited {font-size:12px;text-decoration: none; color: #ffffff} 
+
+A.setwhite:active {font-size:12px;text-decoration: none} 
+
+A.setwhite:hover {font-size:12px;text-decoration: underline; color: #ffffff}
+</style>
+<table width=760 border=0 cellpadding=0 cellspacing=1 bgcolor=#355F8C>
+	<tr><td bgcolor=#355F8C class=a01 align=center height=22>
+	<a href="http://news.sohu.com/guoneixinwen.shtml" class=setwhite target=_blank>国内</a> | 
+	<a href="http://news.sohu.com/guojixinwen.shtml" class=setwhite target=_blank>国际</a> | 
+	<a href="http://news.sohu.com/shehuixinwen.shtml" class=setwhite target=_blank>社会</a> | 
+	<a href="http://mil.news.sohu.com/" class=setwhite target=_blank>军事</a> | 
+	<a href="http://star.news.sohu.com/" class=setwhite target=_blank>评论</a> | 
+	<a href="http://news.sohu.com/difangxinweng.shtml" class=setwhite target=_blank>地方</a> | 
+	<a href="http://people.business.sohu.com/" class=setwhite target=_blank>人物</a> | 
+	<a href="http://club.sohu.com/more/fangtan/index.htm" class=setwhite target=_blank>嘉宾访谈</a> | 
+	<a href="http://media.news.sohu.com/" class=setwhite target=_blank>传媒地图</a> | 
+	<a href="http://news.sohu.com/1/0402/03/subject200480346.shtml" class=setwhite target=_blank>热点排行</a>  | 
+	<a href="http://index.news.sohu.com/zhuanti/zhuanti_index.php" class=setwhite target=_blank>专题</a> | 
+	<a href="http://club.news.sohu.com" class=setwhite target="_blank">百姓论坛</a> | 
+	<a href="http://pic.news.sohu.com" class=setwhite target="_blank">图吧</a> | 
+	<a href="http://news.sohu.com/news_scrollnews.shtml" class=setwhite target=_blank>滚动</a> 
+	</td></tr>
+</table><img src=http://images.sohu.com/ccc.gif width=1 height=3><br> </sohu_cms_include>
+<!---------------标准头 结束 ------------->
+<!---------------第1横切 开始 ------------->
+<sohu_cms_include:sohu_news_subject_ad2> </sohu_cms_include>
+<!---------------第2横切 开始 ------------->
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr><td height=24 style="text-indent:7px">
+<sohu_cms_include:articlehead><!-- include virtual="frag [articlehead] is disable... " --></sohu_cms_include>
+</td></tr>
+</table>
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=590 valign=top align=left>
+ <!------滚动新闻-------->
+ <table width=590 border=0 cellpadding=0 cellspacing=0>
+ <tr><td colspan=5 height=1 bgcolor=#00468C><img src=/wimages/c.gif width=1 height=1></td></tr>
+ <tr><td colspan=5 height=4 bgcolor=#E1F1F7><img src=/wimages/c.gif width=1 height=1></td></tr>
+ <tr>
+ <td width=1 bgcolor=#E1F1F7><img src=/wimages/c.gif width=1 height=1></td>
+ <td width=199 height=26 bgcolor=#E1F1F7 valign=top align=center><sohu_cms_include:sohu_news_subject_frag1> </sohu_cms_include></td>
+ <td width=13><img src=/wimages/cnews103.gif width=13 height=26></td>
+ <td width=376 align=center valign=top><br></td>
+ <td width=1 bgcolor=#E1F1F7><img src=/wimages/c.gif width=1 height=1></td>
+ </tr> 
+ <tr><td colspan=5 height=1 bgcolor=#E1F1F7><img src=/wimages/c.gif width=1 height=1></td></tr>
+ </table><br>
+ <table width=590 border=0 cellpadding=0 cellspacing=0>
+ <tr><td height=24 bgcolor=#00468C align=center style="color:#ffffff;font-size:14px;line-height:24px"><a name='烽火岁月'>烽火岁月</a></td></tr>
+ </table>
+ <img src=/wimages/c.gif width=1 height=2><br>
+ <img src=/wimages/c.gif width=1 height=12><br>
+ <!--------新闻列表---------->
+ <sohu_cms_include:column_list><li><a href="/20051120/n227548437.shtml"  class=newsblue1 target=_blank>军营忆旧：李老兵与枪口朝下</a><font size=1 color=gray>(11/20 20:55)</font></li>
+
+<li><a href="/20051120/n227546387.shtml"  class=newsblue1 target=_blank>上甘岭战役中的战斗英雄━━孙占元</a><font size=1 color=gray>(11/20 10:44)</font></li>
+
+<li><a href="/20051012/n227178713.shtml"  class=newsblue1 target=_blank>媒体披露中国近代之耻：八国联军里的中国军团</a><font size=1 color=gray>(10/12 11:21)</font></li>
+
+<li><a href="/20051012/n227173837.shtml"  class=newsblue1 target=_blank>揭秘解放军攻占总统府 战士举枪打老蒋画像(图)</a><font size=1 color=gray>(10/12 03:22)</font></li>
+
+<li><a href="/20051011/n227169899.shtml"  class=newsblue1 target=_blank>解密文件称驻韩美军曾在韩国部署数百枚核武器</a><font size=1 color=gray>(10/11 14:23)</font></li>
+
+<li><a href="/20051009/n227149181.shtml"  class=newsblue1 target=_blank>中国最早的核计划揭秘:蒋介石对原子弹动了念头</a><font size=1 color=gray>(10/09 10:19)</font></li>
+
+<li><a href="/20050928/n227080766.shtml"  class=newsblue1 target=_blank>解放军首次大规模授勋50周年 媒体披露授勋始末</a><font size=1 color=gray>(09/28 10:00)</font></li>
+
+<li><a href="/20050927/n227066935.shtml"  class=newsblue1 target=_blank>中国航空强国梦难圆 何日能自己造出“大飞机”</a><font size=1 color=gray>(09/27 09:05)</font></li>
+
+<li><a href="/20050926/n227060085.shtml"  class=newsblue1 target=_blank>重提中共历史第一大案：陈独秀是由谁定的罪</a><font size=1 color=gray>(09/26 09:25)</font></li>
+
+<li><a href="/20050921/n227018981.shtml"  class=newsblue1 target=_blank>俄将军揭秘原苏联如何精心准备对美实施核反击</a><font size=1 color=gray>(09/21 11:37)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050920/n227009673.shtml"  class=newsblue1 target=_blank>日媒披露：花季日本女孩如何成为抗日联军队员</a><font size=1 color=gray>(09/20 13:59)</font></li>
+
+<li><a href="/20050919/n226994594.shtml"  class=newsblue1 target=_blank>不该忘记的历史：抗日战争中的新四军女战俘们</a><font size=1 color=gray>(09/19 09:13)</font></li>
+
+<li><a href="/20050919/n226994134.shtml"  class=newsblue1 target=_blank>日本女大学生：战争中的伟大中国母亲奶大了我</a><font size=1 color=gray>(09/19 08:41)</font></li>
+
+<li><a href="/20050915/n226968463.shtml"  class=newsblue1 target=_blank>周恩来夜会5名台湾保钓勇士 回避林彪出逃问题</a><font size=1 color=gray>(09/15 14:18)</font></li>
+
+<li><a href="/20050915/n226967290.shtml"  class=newsblue1 target=_blank>德国U-505潜艇被俘时鲜为人知的秘密(图)</a><font size=1 color=gray>(09/15 11:27)</font></li>
+
+<li><a href="/20050915/n226966776.shtml"  class=newsblue1 target=_blank>许世友越战前“喝酒选将” 打下谅山不想撤兵</a><font size=1 color=gray>(09/15 10:54)</font></li>
+
+<li><a href="/20050914/n226958952.shtml"  class=newsblue1 target=_blank>军史一页：美“林肯总统”号大型运兵船罹难记</a><font size=1 color=gray>(09/14 15:51)</font></li>
+
+<li><a href="/20050914/n226958938.shtml"  class=newsblue1 target=_blank>史海钩沉：纳粹、囚犯领军美苏太空军备竞赛</a><font size=1 color=gray>(09/14 15:50)</font></li>
+
+<li><a href="/20050914/n226958619.shtml"  class=newsblue1 target=_blank>史海回眸：美国太平洋舰队与中国的历史恩怨</a><font size=1 color=gray>(09/14 15:24)</font></li>
+
+<li><a href="/20050912/n226933635.shtml"  class=newsblue1 target=_blank>二战中的闪击战:以尽可能短的时间“折叠”空间</a><font size=1 color=gray>(09/12 09:32)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050908/n226902993.shtml"  class=newsblue1 target=_blank>中国两型先进战斗机中途下马始末 经验值得借鉴</a><font size=1 color=gray>(09/08 14:10)</font></li>
+
+<li><a href="/20050908/n226901120.shtml"  class=newsblue1 target=_blank>追忆中国唯一外籍将军的传奇经历 越南少将洪水</a><font size=1 color=gray>(09/08 11:00)</font></li>
+
+<li><a href="/20050907/n226892131.shtml"  class=newsblue1 target=_blank>史海回眸：冷战时期中国曾五次遭受核打击威胁</a><font size=1 color=gray>(09/07 14:07)</font></li>
+
+<li><a href="/20050907/n226888046.shtml"  class=newsblue1 target=_blank>国民党23名女战俘成“慰安妇” 遭日军摧残(图)</a><font size=1 color=gray>(09/07 09:14)</font></li>
+
+<li><a href="/20050906/n226882156.shtml"  class=newsblue1 target=_blank>二战情报解密:纳粹秘密制造巧克力炸弹实施袭击</a><font size=1 color=gray>(09/06 15:49)</font></li>
+
+<li><a href="/20050906/n226881815.shtml"  class=newsblue1 target=_blank>八路军的杀手锏：只有一门炮的山炮连</a><font size=1 color=gray>(09/06 15:20)</font></li>
+
+<li><a href="/20050905/n226870995.shtml"  class=newsblue1 target=_blank>中国首次出书全面披露二战时期美国援华空军史料</a><font size=1 color=gray>(09/05 14:29)</font></li>
+
+<li><a href="/20050905/n226868428.shtml"  class=newsblue1 target=_blank>新中国成立后解放军曾与21国部队交战 战绩一览</a><font size=1 color=gray>(09/05 10:43)</font></li>
+
+<li><a href="/20050902/n226851016.shtml"  class=newsblue1 target=_blank>越南人擅长用母狗做“色情间谍”智斗美国军犬</a><font size=1 color=gray>(09/02 10:35)</font></li>
+
+<li><a href="/20050902/n226850084.shtml"  class=newsblue1 target=_blank>日本投降签字仪式为何选在“密苏里”舰上举行</a><font size=1 color=gray>(09/02 09:45)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050831/n226831961.shtml"  class=newsblue1 target=_blank>侵华急先锋 日本王牌部队“关东军”败亡始末</a><font size=1 color=gray>(08/31 11:19)</font></li>
+
+<li><a href="/20050831/n226831462.shtml"  class=newsblue1 target=_blank>老兵追忆：新六军空降南京 受降书振奋全城(图)</a><font size=1 color=gray>(08/31 10:56)</font></li>
+
+<li><a href="/20050831/n226831455.shtml"  class=newsblue1 target=_blank>正义的审判--沈阳和太原1956年审判日战犯回顾</a><font size=1 color=gray>(08/31 10:55)</font></li>
+
+<li><a href="/20050830/n226823870.shtml"  class=newsblue1 target=_blank>美国介入西藏叛乱内幕：达赖放录音劝降叛军</a><font size=1 color=gray>(08/30 16:18)</font></li>
+
+<li><a href="/20050830/n226819167.shtml"  class=newsblue1 target=_blank>抗战：两百余万中国民兵劳武结合保卫家园</a><font size=1 color=gray>(08/30 09:40)</font></li>
+
+<li><a href="/20050830/n226819542.shtml"  class=newsblue1 target=_blank>难忘抗战：抗战胜利前夕的葛根庙起义(图)</a><font size=1 color=gray>(08/30 07:54)</font></li>
+
+<li><a href="/20050830/n226819545.shtml"  class=newsblue1 target=_blank>抗战英烈 高永祥：抗战英雄血洒横山(图)</a><font size=1 color=gray>(08/30 07:54)</font></li>
+
+<li><a href="/20050830/n226819590.shtml"  class=newsblue1 target=_blank>抗日英雄谱 方振武：收复察哈尔的总司令(图)</a><font size=1 color=gray>(08/30 07:51)</font></li>
+
+<li><a href="/20050829/n226809981.shtml"  class=newsblue1 target=_blank>美官曾警告肯尼迪：勿保印度以免对中国打核战</a><font size=1 color=gray>(08/29 09:23)</font></li>
+
+<li><a href="/20050829/n226809816.shtml"  class=newsblue1 target=_blank>中国抗战地位不容质疑 国际名人评说中国抗战</a><font size=1 color=gray>(08/29 08:48)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050829/n226809538.shtml"  class=newsblue1 target=_blank>日右翼最后阵地 麦克阿瑟曾想毁掉靖国神社(图)</a><font size=1 color=gray>(08/29 08:02)</font></li>
+
+<li><a href="/20050829/n226809520.shtml"  class=newsblue1 target=_blank>珍贵抗战史料蒙尘台湾 揭蒋介石坚守南京之谜</a><font size=1 color=gray>(08/29 07:59)</font></li>
+
+<li><a href="/20050825/n226780915.shtml"  class=newsblue1 target=_blank>八路军老军医：我们帮日本兵恢复“人性”(图)</a><font size=1 color=gray>(08/25 10:30)</font></li>
+
+<li><a href="/20050825/n226777998.shtml"  class=newsblue1 target=_blank>鲜为人知的“东方奥斯维辛集中营”</a><font size=1 color=gray>(08/25 07:35)</font></li>
+
+<li><a href="/20050823/n226762051.shtml"  class=newsblue1 target=_blank>抗美援朝志愿军老兵北京军事博物馆寻坦克(图)</a><font size=1 color=gray>(08/23 16:15)</font></li>
+
+<li><a href="/20050823/n226760625.shtml"  class=newsblue1 target=_blank>媒体披露新中国首次实施军衔制若干历史细节</a><font size=1 color=gray>(08/23 14:19)</font></li>
+
+<li><a href="/20050823/n226758981.shtml"  class=newsblue1 target=_blank>美“拉加尔托”潜艇神秘失踪泰国湾之谜(图)</a><font size=1 color=gray>(08/23 11:09)</font></li>
+
+<li><a href="/20050823/n226758318.shtml"  class=newsblue1 target=_blank>五台山僧侣抗日传奇：小和尚1把铜勺智救八路军</a><font size=1 color=gray>(08/23 10:45)</font></li>
+
+<li><a href="/20050823/n226757449.shtml"  class=newsblue1 target=_blank>青山有幸埋忠骨 “马鞍山”从此更名“抗日山”</a><font size=1 color=gray>(08/23 10:07)</font></li>
+
+<li><a href="/20050823/n226756523.shtml"  class=newsblue1 target=_blank>媒体披露 毛泽东曾吟诗批评某将领“争衔”(图)</a><font size=1 color=gray>(08/23 09:11)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050823/n226758198.shtml"  class=newsblue1 target=_blank>抗日英雄谱 符竹庭：“打出八路军的威风”(图)</a><font size=1 color=gray>(08/23 06:59)</font></li>
+
+<li><a href="/20050823/n226758838.shtml"  class=newsblue1 target=_blank>抗战经典战例：铜锣径伏击战(图)</a><font size=1 color=gray>(08/23 06:50)</font></li>
+
+<li><a href="/20050823/n226758840.shtml"  class=newsblue1 target=_blank>抗战英烈 王光宇：一箭双雕扬威(图)</a><font size=1 color=gray>(08/23 06:50)</font></li>
+
+<li><a href="/20050822/n226758842.shtml"  class=newsblue1 target=_blank>从香江到浦江:浦东抗日游击队支队长朱亚民(图)</a><font size=1 color=gray>(08/22 19:58)</font></li>
+
+<li><a href="/20050822/n226746275.shtml"  class=newsblue1 target=_blank>俄军事专家撰文:我们曾在同一片土地上并肩作战</a><font size=1 color=gray>(08/22 10:52)</font></li>
+
+<li><a href="/20050822/n226749769.shtml"  class=newsblue1 target=_blank>以色列老人武大卫重走长征路感怀(组图)</a><font size=1 color=gray>(08/22 07:33)</font></li>
+
+<li><a href="/20050822/n226749774.shtml"  class=newsblue1 target=_blank>抗日英雄谱 杨勇：枪林弹雨毙日寇(图)</a><font size=1 color=gray>(08/22 07:33)</font></li>
+
+<li><a href="/20050822/n226749806.shtml"  class=newsblue1 target=_blank>圣忠法师：走上抗日战场的出家人(图)</a><font size=1 color=gray>(08/22 07:25)</font></li>
+
+<li><a href="/20050822/n226749808.shtml"  class=newsblue1 target=_blank>抗战英烈 刘傻子：机智勇敢打敌寇(图)</a><font size=1 color=gray>(08/22 07:25)</font></li>
+
+<li><a href="/20050822/n226749810.shtml"  class=newsblue1 target=_blank>抗战经典战例：韦岗战斗(图)</a><font size=1 color=gray>(08/22 07:25)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050821/n226745106.shtml"  class=newsblue1 target=_blank>图文：英国纪念二战太平洋战争胜利60周年(1)</a><font size=1 color=gray>(08/21 22:52)</font></li>
+
+<li><a href="/20050821/n226745108.shtml"  class=newsblue1 target=_blank>图文：英国纪念二战太平洋战争胜利60周年(2)</a><font size=1 color=gray>(08/21 22:51)</font></li>
+
+<li><a href="/20050821/n226745111.shtml"  class=newsblue1 target=_blank>图文：英国纪念二战太平洋战争胜利60周年(3)</a><font size=1 color=gray>(08/21 22:50)</font></li>
+
+<li><a href="/20050821/n226745113.shtml"  class=newsblue1 target=_blank>图文：英国纪念二战太平洋战争胜利60周年(4)</a><font size=1 color=gray>(08/21 22:50)</font></li>
+
+<li><a href="/20050819/n226722731.shtml"  class=newsblue1 target=_blank>抗战随想：盛世警钟的启示</a><font size=1 color=gray>(08/19 06:51)</font></li>
+
+<li><a href="/20050819/n226722733.shtml"  class=newsblue1 target=_blank>抗战经典战例：桂南会战(图)</a><font size=1 color=gray>(08/19 06:51)</font></li>
+
+<li><a href="/20050819/n226722738.shtml"  class=newsblue1 target=_blank>抗战英烈 叶成焕：身先士卒一虎将</a><font size=1 color=gray>(08/19 06:51)</font></li>
+
+<li><a href="/20050819/n226722739.shtml"  class=newsblue1 target=_blank>难忘抗战：智取马坊据点(图)</a><font size=1 color=gray>(08/19 06:51)</font></li>
+
+<li><a href="/20050818/n226716452.shtml"  class=newsblue1 target=_blank>图文：“中国战区中苏美空军联合抗日史实展”在京开幕</a><font size=1 color=gray>(08/18 16:59)</font></li>
+
+<li><a href="/20050818/n226716409.shtml"  class=newsblue1 target=_blank>图文：美国老兵滇西缅怀二战历史(1)</a><font size=1 color=gray>(08/18 15:07)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050818/n226716411.shtml"  class=newsblue1 target=_blank>图文：美国老兵滇西缅怀二战历史(2)</a><font size=1 color=gray>(08/18 15:07)</font></li>
+
+<li><a href="/20050818/n226716413.shtml"  class=newsblue1 target=_blank>图文：美国老兵滇西缅怀二战历史(3)</a><font size=1 color=gray>(08/18 15:06)</font></li>
+
+<li><a href="/20050818/n226716415.shtml"  class=newsblue1 target=_blank>图文：美国老兵滇西缅怀二战历史(4)</a><font size=1 color=gray>(08/18 15:06)</font></li>
+
+<li><a href="/20050818/n226716417.shtml"  class=newsblue1 target=_blank>图文：美国老兵滇西缅怀二战历史(5)</a><font size=1 color=gray>(08/18 15:05)</font></li>
+
+<li><a href="/20050818/n226716420.shtml"  class=newsblue1 target=_blank>［抗战胜利·文物背后的故事］潘家峪复仇团使用的大刀和手榴弹</a><font size=1 color=gray>(08/18 14:57)</font></li>
+
+<li><a href="/20050818/n226716423.shtml"  class=newsblue1 target=_blank>图文：潘家峪复仇团使用的大刀和手榴弹</a><font size=1 color=gray>(08/18 14:57)</font></li>
+
+<li><a href="/20050818/n226716425.shtml"  class=newsblue1 target=_blank>图文：中华民族一将才--朱程(1)</a><font size=1 color=gray>(08/18 14:55)</font></li>
+
+<li><a href="/20050818/n226716427.shtml"  class=newsblue1 target=_blank>图文：中华民族一将才--朱程(2)</a><font size=1 color=gray>(08/18 14:55)</font></li>
+
+<li><a href="/20050818/n226711347.shtml"  class=newsblue1 target=_blank>美国第一种远程巡航导弹离奇失踪之谜(图)</a><font size=1 color=gray>(08/18 10:08)</font></li>
+
+<li><a href="/20050818/n226711219.shtml"  class=newsblue1 target=_blank>日学者发现731部队研制细菌武器新证据</a><font size=1 color=gray>(08/18 07:14)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050818/n226711220.shtml"  class=newsblue1 target=_blank>马海德：闪烁着国际共产主义战士的灿烂光辉</a><font size=1 color=gray>(08/18 07:14)</font></li>
+
+<li><a href="/20050818/n226711238.shtml"  class=newsblue1 target=_blank>抗战英烈 张森林：地道战中显身手(图)</a><font size=1 color=gray>(08/18 07:09)</font></li>
+
+<li><a href="/20050818/n226711242.shtml"  class=newsblue1 target=_blank>难忘抗战 难忘的“大生产运动”(图)</a><font size=1 color=gray>(08/18 07:09)</font></li>
+
+<li><a href="/20050818/n226711245.shtml"  class=newsblue1 target=_blank>蹋访抗战遗址：最是深情忆黄崖</a><font size=1 color=gray>(08/18 07:09)</font></li>
+
+<li><a href="/20050818/n226711246.shtml"  class=newsblue1 target=_blank>抗战随想：“多出点劳力也是抗战”</a><font size=1 color=gray>(08/18 07:09)</font></li>
+
+<li><a href="/20050818/n226711244.shtml"  class=newsblue1 target=_blank>抗战经典战例：徐州会战</a><font size=1 color=gray>(08/18 07:09)</font></li>
+
+<li><a href="/20050817/n226702736.shtml"  class=newsblue1 target=_blank>组图：网友制作的抗日战争场景电脑3D图</a><font size=1 color=gray>(08/17 14:52)</font></li>
+
+<li><a href="/20050816/n226702096.shtml"  class=newsblue1 target=_blank>“毒气岛”：揭秘日军毒气生产大本营(组图)</a><font size=1 color=gray>(08/16 20:26)</font></li>
+
+<li><a href="/20050816/n226702106.shtml"  class=newsblue1 target=_blank>仕途坎坷的“飞虎将军”陈纳德(图)</a><font size=1 color=gray>(08/16 20:26)</font></li>
+
+<li><a href="/20050816/n226690258.shtml"  class=newsblue1 target=_blank>追忆新四军抗日第一仗：蒋家河口完胜日寇</a><font size=1 color=gray>(08/16 14:46)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050816/n226686071.shtml"  class=newsblue1 target=_blank>抗战经典战例：陈庄战斗(图)</a><font size=1 color=gray>(08/16 07:13)</font></li>
+
+<li><a href="/20050816/n226686074.shtml"  class=newsblue1 target=_blank>抗战英烈 孟庆山：创建冀中根据地(图)</a><font size=1 color=gray>(08/16 07:13)</font></li>
+
+<li><a href="/20050816/n226686078.shtml"  class=newsblue1 target=_blank>难忘抗战：难忘冀东抗日大暴动(图)</a><font size=1 color=gray>(08/16 07:13)</font></li>
+
+<li><a href="/20050816/n226688153.shtml"  class=newsblue1 target=_blank>抗日英雄谱 杨成武：烽火狼烟铁骨铮(图)</a><font size=1 color=gray>(08/16 07:10)</font></li>
+
+<li><a href="/20050816/n226688150.shtml"  class=newsblue1 target=_blank>抗日英雄谱 谭政：文韬武略建功勋(图)</a><font size=1 color=gray>(08/16 07:10)</font></li>
+
+<li><a href="/20050815/n226677448.shtml"  class=newsblue1 target=_blank>何应钦为何“半起身”接下日本投降书揭秘(图)</a><font size=1 color=gray>(08/15 14:06)</font></li>
+
+<li><a href="/20050815/n226673391.shtml"  class=newsblue1 target=_blank>庄严使命：向日军据点下达投降通牒(图)</a><font size=1 color=gray>(08/15 07:26)</font></li>
+
+<li><a href="/20050815/n226673393.shtml"  class=newsblue1 target=_blank>晋西北抗日根据地1940年夏季反“扫荡”(图)</a><font size=1 color=gray>(08/15 07:26)</font></li>
+
+<li><a href="/20050815/n226673397.shtml"  class=newsblue1 target=_blank>“8·15”，鬼子投降那一天(组图)</a><font size=1 color=gray>(08/15 07:26)</font></li>
+
+<li><a href="/20050815/n226673395.shtml"  class=newsblue1 target=_blank>李树茂：墓里逃生的“骑兵英雄”(图)</a><font size=1 color=gray>(08/15 07:26)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050812/n226650125.shtml"  class=newsblue1 target=_blank>二战台籍日军解历史谜团 神风特攻队赴死前喊妈</a><font size=1 color=gray>(08/12 09:45)</font></li>
+
+<li><a href="/20050812/n226649110.shtml"  class=newsblue1 target=_blank>抗战经典战例：浙赣会战(图)</a><font size=1 color=gray>(08/12 07:36)</font></li>
+
+<li><a href="/20050812/n226649112.shtml"  class=newsblue1 target=_blank>抗战英烈 安顺花：宁死不屈女军工</a><font size=1 color=gray>(08/12 07:36)</font></li>
+
+<li><a href="/20050812/n226649113.shtml"  class=newsblue1 target=_blank>难忘抗战：我亲历的西安事变(图)</a><font size=1 color=gray>(08/12 07:36)</font></li>
+
+<li><a href="/20050812/n226649116.shtml"  class=newsblue1 target=_blank>直面“食人魔窟”—访731部队遗址有感</a><font size=1 color=gray>(08/12 07:36)</font></li>
+
+<li><a href="/20050812/n226649199.shtml"  class=newsblue1 target=_blank>抗日英雄谱 黄克诚：戎马倥偬赫赫战功(图)</a><font size=1 color=gray>(08/12 07:33)</font></li>
+
+<li><a href="/20050811/n226649170.shtml"  class=newsblue1 target=_blank>难忘抗战：尖刀插入敌胸膛(图)</a><font size=1 color=gray>(08/11 16:59)</font></li>
+
+<li><a href="/20050811/n226649172.shtml"  class=newsblue1 target=_blank>抗战经典战例：昆仑关战役(图)</a><font size=1 color=gray>(08/11 16:59)</font></li>
+
+<li><a href="/20050811/n226649174.shtml"  class=newsblue1 target=_blank>抗战英烈 袁鸿化：平原游击杀敌寇(图)</a><font size=1 color=gray>(08/11 16:59)</font></li>
+
+<li><a href="/20050811/n226635895.shtml"  class=newsblue1 target=_blank>抗日英雄谱 路易·艾黎：中国人民的忠实朋友(图)</a><font size=1 color=gray>(08/11 07:13)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050810/n226635898.shtml"  class=newsblue1 target=_blank>“12·13-侵华日军南京大屠杀史实展”在京开展(组图)</a><font size=1 color=gray>(08/10 17:20)</font></li>
+
+<li><a href="/20050810/n226627038.shtml"  class=newsblue1 target=_blank>探秘:投向日本的原子弹是美给苏联的“贺礼”</a><font size=1 color=gray>(08/10 14:55)</font></li>
+
+<li><a href="/20050810/n226626964.shtml"  class=newsblue1 target=_blank>二战中日本最精锐的17个师团的最后结局</a><font size=1 color=gray>(08/10 14:50)</font></li>
+
+<li><a href="/20050810/n226626158.shtml"  class=newsblue1 target=_blank>难忘抗战：与柯棣华一起工作的日子(图)</a><font size=1 color=gray>(08/10 07:05)</font></li>
+
+<li><a href="/20050810/n226626160.shtml"  class=newsblue1 target=_blank>抗战英烈 张寒晖：唱响抗战之歌(图)</a><font size=1 color=gray>(08/10 07:05)</font></li>
+
+<li><a href="/20050810/n226626164.shtml"  class=newsblue1 target=_blank>抗战经典战例：解放重镇山海关(图)</a><font size=1 color=gray>(08/10 07:05)</font></li>
+
+<li><a href="/20050809/n226625990.shtml"  class=newsblue1 target=_blank>侵华日军细菌战至少残害27万名以上中国人</a><font size=1 color=gray>(08/09 23:44)</font></li>
+
+<li><a href="/20050809/n226626112.shtml"  class=newsblue1 target=_blank>历史揭秘：谁打响了海湾战争第一枪？(组图)</a><font size=1 color=gray>(08/09 23:30)</font></li>
+
+<li><a href="/20050809/n226614205.shtml"  class=newsblue1 target=_blank>毛泽东与延安日本战俘学校：亲自为学校命名</a><font size=1 color=gray>(08/09 14:46)</font></li>
+
+<li><a href="/20050808/n226598006.shtml"  class=newsblue1 target=_blank>抗战英烈 刘黑仔：潜龙出海战东江(图)</a><font size=1 color=gray>(08/08 07:38)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050808/n226598008.shtml"  class=newsblue1 target=_blank>新四军老战士讲述活捉鬼子兵的故事(图)</a><font size=1 color=gray>(08/08 07:38)</font></li>
+
+<li><a href="/20050808/n226598017.shtml"  class=newsblue1 target=_blank>经典战例：北岳区1943年秋冬反“扫荡”(图)</a><font size=1 color=gray>(08/08 07:38)</font></li>
+
+<li><a href="/20050808/n226598100.shtml"  class=newsblue1 target=_blank>收复缅北要地密支那的中国著名抗日将领(图)</a><font size=1 color=gray>(08/08 07:35)</font></li>
+
+<li><a href="/20050807/n226598102.shtml"  class=newsblue1 target=_blank>抗日英雄谱 薛岳指挥长沙会战的抗日将军(图)</a><font size=1 color=gray>(08/07 17:46)</font></li>
+
+<li><a href="/20050807/n226587103.shtml"  class=newsblue1 target=_blank>东北抗联抗日英雄赵尚志将军头颅发现始末(图)</a><font size=1 color=gray>(08/07 01:30)</font></li>
+
+<li><a href="/20050806/n226579874.shtml"  class=newsblue1 target=_blank>南京发现陈香梅与飞虎队将军陈纳德蜜月照(图)</a><font size=1 color=gray>(08/06 01:27)</font></li>
+
+<li><a href="/20050805/n226570911.shtml"  class=newsblue1 target=_blank>谜雾笼罩日军731部队 遗址下到底有何秘密(图)</a><font size=1 color=gray>(08/05 07:53)</font></li>
+
+<li><a href="/20050804/n226563894.shtml"  class=newsblue1 target=_blank>侵华日军战地记录再现张自忠将军殉国细节</a><font size=1 color=gray>(08/04 15:54)</font></li>
+
+<li><a href="/20050804/n226557054.shtml"  class=newsblue1 target=_blank>战争史上的奇观——百团大战亲历者的回忆</a><font size=1 color=gray>(08/04 08:28)</font></li>
+
+<li><a href="/20050803/n226550455.shtml"  class=newsblue1 target=_blank>英国老兵：日本虐俘行径令人作呕 卑鄙可耻(图)</a><font size=1 color=gray>(08/03 15:46)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050803/n226547137.shtml"  class=newsblue1 target=_blank>抗战：痛歼日军第33师团 中国远征军威名远扬</a><font size=1 color=gray>(08/03 11:21)</font></li>
+
+<li><a href="/20050803/n226547116.shtml"  class=newsblue1 target=_blank>中国远征军老战士：在异国土地上抗击日寇(图)</a><font size=1 color=gray>(08/03 11:20)</font></li>
+
+<li><a href="/20050803/n226547135.shtml"  class=newsblue1 target=_blank>德报认为当年杜鲁门决定投原子弹意在对付苏联</a><font size=1 color=gray>(08/03 10:46)</font></li>
+
+<li><a href="/20050802/n226529268.shtml"  class=newsblue1 target=_blank>数十万苏军突然占领捷克：揭秘“布拉格之春”</a><font size=1 color=gray>(08/02 08:34)</font></li>
+
+<li><a href="/20050802/n226527856.shtml"  class=newsblue1 target=_blank>美国各地华侨华人多种形式纪念抗战胜利60周年</a><font size=1 color=gray>(08/02 06:05)</font></li>
+
+<li><a href="/20050801/n226524904.shtml"  class=newsblue1 target=_blank>前苏联祖母级间谍令英国军情五处名声扫地</a><font size=1 color=gray>(08/01 18:12)</font></li>
+
+<li><a href="/20050801/n226517568.shtml"  class=newsblue1 target=_blank>军史回眸：我们游击队是这样成长壮大的(附图)</a><font size=1 color=gray>(08/01 10:04)</font></li>
+
+<li><a href="/20050801/n226517508.shtml"  class=newsblue1 target=_blank>老八路回忆抗战：曾亲手杀死当汉奸的姐夫(图)</a><font size=1 color=gray>(08/01 10:02)</font></li>
+
+<li><a href="/20050801/n226517438.shtml"  class=newsblue1 target=_blank>秘闻:令英国军情五处名声扫地的“剑桥第六杰”</a><font size=1 color=gray>(08/01 09:59)</font></li>
+
+<li><a href="/20050801/n226517392.shtml"  class=newsblue1 target=_blank>二战钩沉：美军第22陆战团攻打马绍尔群岛(图)</a><font size=1 color=gray>(08/01 09:58)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050801/n226513617.shtml"  class=newsblue1 target=_blank>湖南省南岳忠烈祠将举行抗战民族忠烈公祭大典</a><font size=1 color=gray>(08/01 05:33)</font></li>
+
+<li><a href="/20050727/n226461249.shtml"  class=newsblue1 target=_blank>美国人眼中的朱德总司令：他是永远的红军之父</a><font size=1 color=gray>(07/27 09:27)</font></li>
+
+<li><a href="/20050726/n226452619.shtml"  class=newsblue1 target=_blank>世界第一批原子弹用加拿大“垃圾”制造？(图)</a><font size=1 color=gray>(07/26 14:48)</font></li>
+
+<li><a href="/20050726/n226448583.shtml"  class=newsblue1 target=_blank>84岁女八路忆抗战：很多女战友被日寇逼得自杀</a><font size=1 color=gray>(07/26 10:21)</font></li>
+
+<li><a href="/20050725/n226432830.shtml"  class=newsblue1 target=_blank>1943年美国曾想把琉球交给中国 蒋介石错过机会</a><font size=1 color=gray>(07/25 09:14)</font></li>
+
+<li><a href="/20050722/n226405637.shtml"  class=newsblue1 target=_blank>鲜血换来的教训：俄特种部队血战车臣纪实(图)</a><font size=1 color=gray>(07/22 09:28)</font></li>
+
+<li><a href="/20050722/n226405137.shtml"  class=newsblue1 target=_blank>“不灭日寇心不平”：中国百姓歌声忆抗战胜利</a><font size=1 color=gray>(07/22 08:55)</font></li>
+
+<li><a href="/20050722/n226405059.shtml"  class=newsblue1 target=_blank>献血浇铸的友谊：中国人民搭成人墙掩护美国兵</a><font size=1 color=gray>(07/22 08:50)</font></li>
+
+<li><a href="/20050721/n226394437.shtml"  class=newsblue1 target=_blank>招抚日本尽破海盗 忆郑和船队六百年盛事辉煌</a><font size=1 color=gray>(07/21 12:20)</font></li>
+
+<li><a href="/20050721/n226390691.shtml"  class=newsblue1 target=_blank>“铁道游击队”曾有日籍队员 扮演抗日重要角色</a><font size=1 color=gray>(07/21 09:56)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050720/n226374103.shtml"  class=newsblue1 target=_blank>八路军打破日军不可战胜神话</a><font size=1 color=gray>(07/20 09:25)</font></li>
+
+<li><a href="/20050719/n226364465.shtml"  class=newsblue1 target=_blank>抗战胜利60周年纪念日临近 关注中国抗战老兵</a><font size=1 color=gray>(07/19 13:35)</font></li>
+
+<li><a href="/20050716/n226332866.shtml"  class=newsblue1 target=_blank>抗战老飞行员下月聚北京 主办方全球发放邀请函</a><font size=1 color=gray>(07/16 15:19)</font></li>
+
+<li><a href="/20050715/n226317652.shtml"  class=newsblue1 target=_blank>抗日展览震撼驻华外交官 讲抗战史中国义不容辞</a><font size=1 color=gray>(07/15 08:54)</font></li>
+
+<li><a href="/20050714/n226309582.shtml"  class=newsblue1 target=_blank>抗联老兵九年生死无间道：日军内为我党探情报</a><font size=1 color=gray>(07/14 14:44)</font></li>
+
+<li><a href="/20050714/n226309281.shtml"  class=newsblue1 target=_blank>东北抗日联军坚持游击战争达14年 毙敌18.37万</a><font size=1 color=gray>(07/14 14:24)</font></li>
+
+<li><a href="/20050714/n226306586.shtml"  class=newsblue1 target=_blank>富强的中国必须拥抱海洋 中国曾长期是海上强国</a><font size=1 color=gray>(07/14 11:07)</font></li>
+
+<li><a href="/20050714/n226306515.shtml"  class=newsblue1 target=_blank>钩沉：蒋介石亲自引见毛泽东黄埔军校演讲(图)</a><font size=1 color=gray>(07/14 11:02)</font></li>
+
+<li><a href="/20050714/n226302138.shtml"  class=newsblue1 target=_blank>战士祝继光回顾“碧潼俘虏营运动大会”(图)</a><font size=1 color=gray>(07/14 07:45)</font></li>
+
+<li><a href="/20050713/n226293879.shtml"  class=newsblue1 target=_blank>二战期间美国军中女神辞世 曾是军中万人迷(图)</a><font size=1 color=gray>(07/13 12:42)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050712/n226282790.shtml"  class=newsblue1 target=_blank>重庆发现特务用钢笔型手枪 可在十米内杀人(图)</a><font size=1 color=gray>(07/12 17:31)</font></li>
+
+<li><a href="/20050712/n226280998.shtml"  class=newsblue1 target=_blank>日间谍精确绘出汉中要图 日寇侵华战争又一罪证</a><font size=1 color=gray>(07/12 14:59)</font></li>
+
+<li><a href="/20050712/n226280072.shtml"  class=newsblue1 target=_blank>印巴战争：32岁少校30秒4次击落印度战斗机(图)</a><font size=1 color=gray>(07/12 13:26)</font></li>
+
+<li><a href="/20050712/n226275126.shtml"  class=newsblue1 target=_blank>日本文部大臣大放厥词 竟称“慰安妇”应感自豪</a><font size=1 color=gray>(07/12 09:19)</font></li>
+
+<li><a href="/20050712/n226274524.shtml"  class=newsblue1 target=_blank>新四军老战士回忆巢湖游击队：女队员惨遭割乳</a><font size=1 color=gray>(07/12 08:43)</font></li>
+
+<li><a href="/20050711/n226261106.shtml"  class=newsblue1 target=_blank>揭开中国慰安妇真相：遭强奸后还被压成畸形人</a><font size=1 color=gray>(07/11 09:31)</font></li>
+
+<li><a href="/20050710/n226256636.shtml"  class=newsblue1 target=_blank>太原举行纪念抗战胜利60周年晚会</a><font size=1 color=gray>(07/10 21:26)</font></li>
+
+<li><a href="/20050710/n226256633.shtml"  class=newsblue1 target=_blank>声、影、乐结合 首都舞台将再现抗战经典名篇</a><font size=1 color=gray>(07/10 21:20)</font></li>
+
+<li><a href="/20050709/n226250295.shtml"  class=newsblue1 target=_blank>走进陌生且神秘的中国原核试验基地：新疆马兰</a><font size=1 color=gray>(07/09 16:32)</font></li>
+
+<li><a href="/20050708/n226235728.shtml"  class=newsblue1 target=_blank>反法西斯擎天一柱 如何正确评价二战中国地位？</a><font size=1 color=gray>(07/08 09:05)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050707/n226224143.shtml"  class=newsblue1 target=_blank>日本侵华意图400年不绝 中国发奋图强以史为鉴</a><font size=1 color=gray>(07/07 11:25)</font></li>
+
+<li><a href="/20050707/n226219909.shtml"  class=newsblue1 target=_blank>卢沟桥上的怒吼</a><font size=1 color=gray>(07/07 09:02)</font></li>
+
+<li><a href="/20050706/n226211798.shtml"  class=newsblue1 target=_blank>残杀手段250多种 日本给中国造成伤害无法计算</a><font size=1 color=gray>(07/06 14:07)</font></li>
+
+<li><a href="/20050706/n226211728.shtml"  class=newsblue1 target=_blank>民族危亡中的呐喊 “大刀向鬼子头上砍去”来历</a><font size=1 color=gray>(07/06 14:03)</font></li>
+
+<li><a href="/20050705/n226190591.shtml"  class=newsblue1 target=_blank>犯人吃肉管教吃窝头：日战犯在中国受感化实录</a><font size=1 color=gray>(07/05 08:34)</font></li>
+
+<li><a href="/20050701/n226153160.shtml"  class=newsblue1 target=_blank>英军携核武器参加马岛战争 核弹打击目标是苏军</a><font size=1 color=gray>(07/01 10:54)</font></li>
+
+<li><a href="/20050630/n226142403.shtml"  class=newsblue1 target=_blank>苏联特工佐尔格30年代在中国的传奇故事(图)</a><font size=1 color=gray>(06/30 15:11)</font></li>
+
+<li><a href="/20050630/n226140612.shtml"  class=newsblue1 target=_blank>抗日战地行：铁道游击队 一支特殊的抗日武装</a><font size=1 color=gray>(06/30 13:39)</font></li>
+
+<li><a href="/20050630/n226140588.shtml"  class=newsblue1 target=_blank>抗日战地行:铁道游击队从日军手中探囊“借”物</a><font size=1 color=gray>(06/30 13:38)</font></li>
+
+<li><a href="/20050630/n226140473.shtml"  class=newsblue1 target=_blank>长篇特写：难忘抗战——情系23座坟茔(附图)</a><font size=1 color=gray>(06/30 13:33)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050629/n226117998.shtml"  class=newsblue1 target=_blank>历史学家披露马岛之战内幕 英航母曾携核武参战</a><font size=1 color=gray>(06/29 05:58)</font></li>
+
+<li><a href="/20050628/n226114030.shtml"  class=newsblue1 target=_blank>毛泽东与中国人民解放军炮兵部队创建始末(图)</a><font size=1 color=gray>(06/28 15:08)</font></li>
+
+<li><a href="/20050628/n226111867.shtml"  class=newsblue1 target=_blank>史海钩沉:美军曾在朝鲜战场施酷刑虐待我军战俘</a><font size=1 color=gray>(06/28 13:50)</font></li>
+
+<li><a href="/20050628/n226111770.shtml"  class=newsblue1 target=_blank>被日掳走儿童幸存者披露 日军想让他们去开飞机</a><font size=1 color=gray>(06/28 13:44)</font></li>
+
+<li><a href="/20050628/n226107933.shtml"  class=newsblue1 target=_blank>秘史曝光：智利空军曾经秘密参与马岛之战</a><font size=1 color=gray>(06/28 10:08)</font></li>
+
+<li><a href="/20050627/n226092777.shtml"  class=newsblue1 target=_blank>我国发射新型潜射战略导弹 美日瞩目中国阻吓力</a><font size=1 color=gray>(06/27 10:17)</font></li>
+
+<li><a href="/20050623/n226051925.shtml"  class=newsblue1 target=_blank>敬畏强者思乡心切 日本兵为何惧怕徐向前？</a><font size=1 color=gray>(06/23 09:31)</font></li>
+
+<li><a href="/20050623/n226050113.shtml"  class=newsblue1 target=_blank>印巴海拔最高战场对峙 大量士兵出师未捷已冻死</a><font size=1 color=gray>(06/23 07:33)</font></li>
+
+<li><a href="/20050621/n226030352.shtml"  class=newsblue1 target=_blank>难忘抗战：我参军就是为把鬼子赶走</a><font size=1 color=gray>(06/21 18:45)</font></li>
+
+<li><a href="/20050621/n226030294.shtml"  class=newsblue1 target=_blank>抗战英烈 李林：我们的女英雄</a><font size=1 color=gray>(06/21 18:38)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20050621/n226028483.shtml"  class=newsblue1 target=_blank>史海回眸：抗日时期中国军民营救美国飞行员</a><font size=1 color=gray>(06/21 16:11)</font></li>
+
+<li><a href="/20050621/n226028426.shtml"  class=newsblue1 target=_blank>史海回眸：我空军击毙侵华日军空军师团长(图)</a><font size=1 color=gray>(06/21 16:08)</font></li>
+
+<li><a href="/20050621/n226026082.shtml"  class=newsblue1 target=_blank>地道战女民兵队长原型探访:30名民兵击退千余敌</a><font size=1 color=gray>(06/21 13:43)</font></li>
+
+<li><a href="/20050621/n226025917.shtml"  class=newsblue1 target=_blank>岩龙：一人击毙越军56名的解放军孤胆英雄(图)</a><font size=1 color=gray>(06/21 13:31)</font></li>
+
+<li><a href="/20050621/n226022976.shtml"  class=newsblue1 target=_blank>鹰飞九天傲长空 我空军某王牌部队的昨天与今天</a><font size=1 color=gray>(06/21 10:31)</font></li>
+
+<li><a href="/20050620/n226008363.shtml"  class=newsblue1 target=_blank>中国“枭龙”战机明年可能赴巴黎航展参展(图)</a><font size=1 color=gray>(06/20 10:37)</font></li>
+
+<li><a href="/20050617/n225978280.shtml"  class=newsblue1 target=_blank>三次遭拒 蒋介石为何没能派军队参加朝鲜战争?</a><font size=1 color=gray>(06/17 08:50)</font></li>
+
+<li><a href="/20050614/n225931162.shtml"  class=newsblue1 target=_blank>毛泽东善用时机：中苏“原子弹外交”秘闻(图)</a><font size=1 color=gray>(06/14 08:46)</font></li>
+
+<li><a href="/20050613/n225920206.shtml"  class=newsblue1 target=_blank>新四军抗战密闻录：中日间首度黄海遭遇战</a><font size=1 color=gray>(06/13 11:08)</font></li>
+
+<li><a href="/20050613/n225920023.shtml"  class=newsblue1 target=_blank>中国研制原子弹内幕：苏联扮演什么角色？</a><font size=1 color=gray>(06/13 11:03)</font></li> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag2> </sohu_cms_include>
+</td>
+<td width=10><br></td>
+<td width=160 valign=top align=center background=/wimages/bj02.gif>
+ 
+ 
+ <sohu_cms_include:sohu_news_subject_frag11> </sohu_cms_include>
+</td></tr>
+<tr><td colspan=2 height=5><img src=/wimages/c.gif width=1 height=1></td>
+<td><img src=/wimages/di.gif border=0 width=160 height=5></td></tr>
+</table>
+<br>
+<!----------标准尾 开始 ------------>
+<sohu_cms_include:sohu_news_copyright><br>
+<script language="javascript" src="http://www.sohu.net/common/sohunettail_local.js"></script>
+<hr size="1" width="760" noshade>
+<table width=760 border=0 cellspacing=0 cellpadding=0>
+  <tr> 
+    <td align=center><a href=http://www.chinaren.com/  class="black" target=_blank>ChinaRen</a> - <a
+href=http://hr.sohu.com/hrm.html class="black" target=_blank>搜狐招聘</a> - <a
+href=http://add.sohu.com/ class="black" target=_blank>网站登录</a> - <a href=http://help.sohu.com/ class="black" target=_blank>帮助中心</a> 
+      - <a
+href="" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sohu.com');return false;" class="black" target=_blank>设置首页</a> - <a
+href=http://adinfo.sohu.com class="black" target=_blank>广告服务</a> - <a
+href=http://www.sohu.com/about/lianxi.htm class="black" target=_blank>联系方式</a> - <a
+href=http://www.sohu.com/about/privacy.html class="black" target=_blank>保护隐私权</a> - <a href="http://www.sohu.com/about/English" class="black" target=_blank>About SOHU</a> - <a href=http://www.sohu.com/about/  class="black" target=_blank>公司介绍</a><br>
+      <span class=eng>Copyright &copy; 2005 Sohu.com Inc. All rights reserved. 
+      搜狐公司 <a href=http://www.sohu.com/about/copyright.html target=_blank class=black>版权所有</a></span></td>
+  </tr>
+</table><p></p>
+<script language="JavaScript" src="http://nielsen.js.sohu.com/nnselect.js">
+</script>
+<noscript>
+<img src='http://ping.nnselect.com/ping.gif?c=119' height='1' width='1'>
+</noscript> </sohu_cms_include>
+<!----------标准尾 结束 ------------>
+</center>
+</body>
+</html>
+

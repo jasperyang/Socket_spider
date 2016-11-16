@@ -1,0 +1,770 @@
+HTTP/1.1 200 OK
+Date: Tue, 15 Nov 2016 07:20:25 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips
+Last-Modified: Wed, 28 Oct 2015 02:40:00 GMT
+Accept-Ranges: bytes
+Content-Length: 51483
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+
+
+<html><head>
+<meta http-equiv=content-type content="text/html; charset=GBK">
+<meta name="description" content="新闻视频中心" />
+<meta name="keywords" content="视频,国内视频,国际视频,社会视频" />
+<meta name="robots" content="all" />
+<script src="http://www.sohu.com/sohuflash_1.js" type=text/javascript></script>
+<title>新闻视频中心-搜狐新闻</title>
+<style type=text/css>
+td,input,select {font-size:12px;color:#000000;}
+
+.top{color:#5C5C5C;font-size:12px;line-height:18px;}
+.top a:link{color:#5C5C5C;text-decoration:none;}
+.top a:visited{color:#5C5C5C;text-decoration:none;}
+.top a:hover {color:#5C5C5C;text-decoration:underline;}
+
+.center01{color:#ffffff;font-size:12px;line-height:20px;} 
+.center01 a:link{color:#ffffff;text-decoration:none;} 
+.center01 a:visited{color:#ffffff;text-decoration:none;} 
+.center01 a:hover {color:#ffffff;text-decoration:underline;} 
+.tbbg1 {background:#f7f7f7}
+.tbbg2 {background:url(http://news.sohu.com/upload/img05xxxx/bg1.gif);}
+.borderStyle1 {background-color:#103040}
+.borderStyle2 {background-color:#C8C8C8}
+.tbbg3 {background:url(http://news.sohu.com/upload/img05xxxx/bg3.gif)}
+.tabbg1 {background:url(http://news.sohu.com/upload/img05xxxx/bg4.gif)}
+.botbg {background:url(http://news.sohu.com/upload/img05xxxx/botbg.gif) no-repeat bottom}
+.tabbg2 {background:#f1f1f1}
+.tbbg4 {background:url(http://news.sohu.com/upload/img05xxxx/rbg1.gif)}
+.wz12_E5E5 {font:12px/20px;color:#E5E5E5}
+.wz12_E5E5 a:link,.wz12_E5E5 a:visited{color:#E5E5E5;text-decoration:none}
+.wz12_E5E5 a:hover {color:#E5E5E5;text-decoration:underline}
+.size14 {font-size:14px}
+.bold {font-weight:bold}
+.a1 {font-size:18px;color:#00D6FF;font-family:"黑体";font-weight:bold}
+.img1{border:#ffffff 1px solid;}
+.wz12_ffff {font:12px/20px;color:#ffffff}
+.wz12_ffff a:link,.wz12_ffff a:visited{color:#ffffff;text-decoration:none}
+.wz12_ffff a:hover {color:#ffffff;text-decoration:underline}
+.a2 {color: #5C5C5C;text-decoration: none;}
+</style>
+</head>
+<style></style>
+</head>
+<body title="" bgColor=#5c5c5c leftMargin=0 topMargin=0 marginheight="0" marginwidth="0">
+<div align="center"><img height=2 src="http://images.sohu.com/ccc.gif" width=1><br>
+  <table cellSpacing=0 cellPadding=0 width=949 border=0>
+    <tbody>
+      <tr bgColor=#e8e8e8>
+        <td class=top><!--新闻频道统一标识 请勿改动-->
+
+<div style="float:left;"><a href="http://www.sohu.com/" target="_blank"><IMG height=22 
+src="http://images.sohu.com/uiue/sohu_logo/2005/sohu_logo2.gif" border=0></a><A href="http://news.sohu.com"><IMG height=22 
+src="http://images.sohu.com/uiue/sohu_logo/2006/news_logo2.gif" 
+border=0 ></A></div>
+
+<!--新闻频道统一标识 非UE，频道人员不得修改！！end--></td>
+    <td class=top  vAlign=bottom align=right><style type="text/css">.ui_top a{padding:0 2px 0 2px;}</style>
+	<table cellspacing=0 cellpadding=0 border=0>
+		<tr><td class=ui_top valign=bottom align=right><a href="http://www.sohu.com/">搜狐首页</a>-<a href="http://news.sohu.com/"><font color=#ff0000>新闻</font></a>-<a href="http://sports.sohu.com/">体育</a>-<a href="http://yule.sohu.com/">娱乐</a>-<a href="http://business.sohu.com/"><font color=#ff0000>财经</font></a>-<a href="http://it.sohu.com/">IT</a>-<a href="http://auto.sohu.com/">汽车</a>-<a href="http://house.sohu.com/">房产</a>-<a href="http://home.sohu.com/">家居</a>-<a href="http://women.sohu.com/">女人</a>-<a href="http://tv.sohu.com/">TV</a>-<a href="http://www.chinaren.com">ChinaRen</a>-<a href="http://login.mail.sohu.com/">邮件</a>-<a href="http://blog.sohu.com/">博客</a>-<a href="http://club.sohu.com/">BBS</a>-<a href="http://www.sogou.com">搜狗</font>&nbsp;</td></tr>
+	</table></td></tr>
+      <tr>
+    <td colSpan=3 height=3><img height=1 src="./images/ccc.gif" width=1></td></tr></tbody>
+  </table>
+  <img height=1 src="http://images.sohu.com/ccc.gif" width=1><br>
+  <table cellSpacing=0 cellPadding=0 width=949 background=http://news.sohu.com/upload/img05xxxx/news1_1.gif border=0>
+    <tbody>
+      <tr>
+        <td width=146 height=76></td>
+    <td width=803><TABLE cellSpacing=0 cellPadding=0 width=949 
+background=新闻视频汇总-搜狐新闻.files/news1_1.gif border=0>
+  <TBODY>
+  <TR>
+    <TD width=146 height=76></TD>
+    <TD>
+      <TABLE cellSpacing=0 cellPadding=0 width=949 
+      background=新闻视频汇总-搜狐新闻.files/Img227547563.gif border=0>
+        <TBODY>
+        <TR>
+          <TD width=803 height="76">
+            <TABLE width=803 border=0 cellPadding=0 cellSpacing=0>
+              <TBODY>
+              <TR>
+                <TD colSpan=8 height=28></TD></TR>
+              <TR>
+                <TD width=150 height=48><A 
+                  href="http://news.sohu.com/s2005/s226931954.shtml" 
+                  target=_blank><IMG height=48 
+                  src="http://photocdn.sohu.com/20051211/Img227675685.gif" width=150 
+                  border=0></A></TD>
+                <TD width=75><A 
+                  href="http://news.sohu.com/s2005/s226945307.shtml" 
+                  target=_blank><IMG height=48 
+                  src="http://photocdn.sohu.com/20051211/Img227675686.gif" width=92 
+                border=0></A></TD>
+                <TD width=92><A 
+                  href="http://news.sohu.com/s2005/s227550859.shtml" 
+                  target=_blank><IMG height=48 
+                  src="http://photocdn.sohu.com/20051211/Img227675687.gif" width=92 
+                border=0></A></TD>
+                <TD width=94><A 
+                  href="http://news.sohu.com/s2005/s226945485.shtml" 
+                  target=_blank><IMG height=48 
+                  src="http://photocdn.sohu.com/20051211/Img227675688.gif" width=94 
+                border=0></A></TD>
+                <TD width=93><img height=48 
+                  src="http://photocdn.sohu.com/20051211/Img227675689.gif" width=115 
+              border=0></TD>
+                <TD width=89>&nbsp;</TD>
+                <TD width=95>&nbsp;</TD>
+                <TD width=115>&nbsp;</TD>
+              </TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></td></tr></tbody>
+  </table>
+  <img height=1 src="http://images.sohu.com/ccc.gif" width=1><br>
+</div>
+<div align="center"></div>
+<div align="center">
+  <table class=tbbg2 cellSpacing=0 cellPadding=0 border=0>
+    <tbody>
+      <tr vAlign=top align=middle>
+        <td width=2></td>
+    <td class=tbbg1 width=519>
+      <table cellSpacing=0 cellPadding=0 width=519 border=0>
+        <tbody>
+          <tr>
+          <td class=borderStyle1 height=2></td></tr></tbody></table><img height=6 src="http://images.sohu.com/ccc.gif" width=1><img height=5 src="http://images.sohu.com/ccc.gif" width=1><br>
+      <table cellSpacing=1 cellPadding=0 width=502 bgColor=#FFFFFF border=0>
+        <tbody>
+          <tr align=middle>
+            <td>
+              <table cellSpacing=0 cellPadding=0 width=500 border=0>
+                <tbody>
+                  <tr>
+                  <td height=290><SCRIPT> 
+<!-- 
+var playinitpic = 'http://photocdn.sohu.com/20060705/Img244103574.jpg ';         //播放区域初始化图片 
+var serviceconnpic = 'http://images.sol.sohu.com/aoyun2008/jixiangwu/jixiangwuconn.jpg';        //服务连接提示图片 
+
+var playbtnstr = '<a href=# onClick="return play();"><img id="playbtn" name="playbtn" src="http://photocdn.sohu.com/20051120/Img227547548.gif" width=43 height=42 border=0 onmouseover="this.src=\'http://photocdn.sohu.com/20051120/Img227547548.gif\'" onmouseout="this.src=\'http://photocdn.sohu.com/20051120/Img227547548.gif\'" alt="开始播放"></a>';
+
+var pausebtnstr = '<a href=# onClick="return pause();"><img id="pausebtn" name="pausebtn" src="http://photocdn.sohu.com/20051120/Img227547592.gif" width=43 height=42 border=0 onmouseover="this.src=\'http://photocdn.sohu.com/20051120/Img227547592.gif\'" onmouseout="this.src=\'http://photocdn.sohu.com/20051120/Img227547592.gif\'" alt="暂停播放"></a>';
+--> 
+</SCRIPT>
+<script src="http://tv.net9.org/activex.js"></script>
+<script src="http://images.sol.sohu.com/sohubb/bbplayer2/bbactivex.js"></script>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+var playerLocation = "http://www.bb.sohu.com/newsCenter/dongfang.html";
+//-->
+</SCRIPT>
+
+<table border=0 cellspacing=0 cellpadding=0 width=502> 
+        <tr> 
+        <td width=393 height=58><a href></a></td>
+
+        <td width=109 align=right><a href="http://www.bb.sohu.com/" target="_blank"><img src=http://photocdn.sohu.com/20051120/Img227547512.gif width="107" height="47" alt="国内视频,国际视频,社会视频" border="0"></a></td>
+
+        </tr> 
+        </table> 
+        <img src=http://images.sohu.com/ccc.gif width=1 height=5><br> 
+        
+        <table width=502 border=0 cellpadding=0 cellspacing=01 bgcolor=#000000> 
+        <tr align=center><td> 
+                <table width=500 border=0 cellpadding=0 cellspacing=0> 
+                <tr><td height=360> 
+					<div id="mediaplayer" style="z-index:1;display:none">
+					<iframe id="playerframe" src="" width="500" height="375" frameborder="0" scrolling="no"></iframe>
+					</div>
+					<div id="vmask" sytle="z-index: 2;">
+					<a href="#" onClick="return showIFrame();">
+					<SCRIPT LANGUAGE="JavaScript">
+					<!--
+					document.write( '<img border="0" id="windowpic" align=middle src="' + playinitpic + '" width="500" height="375" alt="国内视频,国际视频,社会视频">' );
+					//-->
+					</SCRIPT>
+					</a>
+					</div>
+                </td></tr> 
+                </table> 
+                <table width=500 border=0 cellpadding=0 cellspacing=0> 
+                <tr bgcolor=#000000><td height=24 width=436 class=center01 id="enginestatus">新闻频道直播间</td> 
+                <!--<td width=64 align=right class=center01 id="timerid">00:00:00</td>--></tr> 
+                </table> 
+        </td></tr> 
+        </table>
+		<img src=http://images.sohu.com/ccc.gif width=1 height=1><br> 
+        
+        <table border=0 cellspacing=1 cellpadding=0 width=502 class=borderStyle2> 
+        <tr><td height=20 class=tbbg3 align=right style='padding-top:2px'> 
+                <table border=0 cellspacing=0 cellpadding=0 width=500> 
+                <tr><td> 
+                <marquee scrollAmount=2 width=500 onMouseOut=start() onMouseOver=stop()><font color="#252422">本次直播使用P2P技术，第一次使用的用户请耐心等待软件下载和安装。
+
+点击“播放”按钮后，请耐心等待数据缓冲，完成后将自动播放。</font></marquee> 
+                </td></tr> 
+                </table> 
+        </td></tr> 
+        </table>        
+        <table border=0 cellspacing=0 cellpadding=0 width=502 class=tabbg1> 
+        <tr><td valign=top align=center> 
+                <table border=0 cellspacing=0 cellpadding=0 width=502> 
+                <tr> 
+                <td width=47 align=right height=42><a href=# onClick="return stop();"><img src=http://photocdn.sohu.com/20051120/Img227547551.gif width="34" height="42" alt="停止播放" border="0"></a></td><td width="48" id="playorpause">
+
+                <a href="" onClick="return showIFrame();"><img src=http://photocdn.sohu.com/20051120/Img227547548.gif width="42" height="42" alt="开始播放" border="0" onmouseover="this.src='http://photocdn.sohu.com/20051120/Img227547548.gif'" onmouseout="this.src='http://photocdn.sohu.com/20051120/Img227547548.gif'"></a></td>                
+		  <td width=300 valign=center align=center>电视直播频道: &nbsp;&nbsp;<a href=# onClick="return showIFrame()" title="点击直播观看"><font color="black">东方卫视</font></a>&nbsp;&nbsp;&nbsp;&nbsp;
+		  <!--<a href=# onclick="return false;" title="点击直播观看">
+		  <font color="black">新闻娱乐频道</font></a>-->
+		  <!--<a href=# onClick="return setCh('xwylpd')" title="点击直播观看">
+		  <font color="black">新闻娱乐频道</font></a>--> (<a href=http://news.sohu.com/s2005/9802/s240959834.shtml target="_blank" ><font color="black">节目单</font></a>)</td>
+                <td width=107 align=right><a href="#" onClick="return false;"><img src=http://photocdn.sohu.com/20051120/Img227547549.gif width="39" height="21" alt="全屏播放" border="0"></a>&nbsp;&nbsp;<a href="http://d.sogou.com/myfav.so" target=_blank><img src=http://photocdn.sohu.com/20051120/Img227547552.gif width="49" height="21" alt="音乐盒" border="0"></a></td>                  
+
+                </tr> 
+                </table> 
+        </td></tr> 
+        </table></td></tr></tbody></table>
+    <table cellSpacing=0 cellPadding=0 width=500 border=0>
+      <tbody>
+        <tr align=middle bgColor=#555555>
+          <td></td></tr></tbody></table>
+    <table cellSpacing=0 cellPadding=0 width=500 border=0>
+      <tbody>
+        <tr bgColor=#FFFFFF>
+          <td class=center01 width=436 height=24></td>
+    <td class=center01 align=right width=64></td></tr></tbody></table></td></tr></tbody></table><img height=1 src="http://images.sohu.com/ccc.gif" width=1>
+      <table class=tabbg1 cellSpacing=0 cellPadding=0 width=502 border=0>
+        <tbody>
+          <tr>
+        <td vAlign=top align=middle></td></tr></tbody></table></td>
+    <td width=2></td>
+    <td class=botbg width=425>
+      <table cellSpacing=0 cellPadding=0 width=425 border=0>
+        <tbody>
+          <tr>
+          <td class=borderStyle1 height=2></td></tr></tbody></table>
+    <table cellSpacing=0 cellPadding=0 width=424 border=0>
+      <tbody>
+        <tr>
+          <td class=tabbg2 height=16></td></tr></tbody></table>
+    <table cellSpacing=0 cellPadding=0 width=406 border=0>
+      <tbody>
+        <tr>
+          <td class=tbbg4 height=26></td></tr></tbody></table>
+    <table cellSpacing=0 cellPadding=0 width=377 border=0>
+      <tbody>
+        <tr>
+          <td class="wz12_E5E5 size14 bold">今日焦点新闻</td></tr></tbody></table><img height=3 src="http://images.sohu.com/ccc.gif" width=1><br>
+      <table cellSpacing=0 cellPadding=0 width=377 border=0>
+        <tbody>
+          <tr>
+          <td background=http://news.sohu.com/upload/img05xxxx/line.gif height=1></td></tr></tbody></table><img height=6 src="http://images.sohu.com/ccc.gif" width=1><br><table width=377 border=0 cellpadding=0 cellspacing=0>
+	<tr bgcolor=#1683BC><td width=6 height=22><img src=http://news.sohu.com/upload/img05xxxx/news2_2.gif width=6 height=22></td>
+	<td width=342 class=center01>&nbsp;最新视频点播</td>
+	<td width=29><img src=http://news.sohu.com/upload/img05xxxx/news2_3.gif width=29 height=22></td></tr>
+	</table><img height=1 src="http://images.sohu.com/ccc.gif" width=1><br>
+      <table cellSpacing=0 cellPadding=0 width=377 border=0>
+        <tbody>
+          <tr align=middle bgColor=#636162>
+            <td><img height=6 src="http://images.sohu.com/ccc.gif" width=1><br>
+              <table cellSpacing=0 cellPadding=0 width=361 border=0>
+                <tbody>
+                  <tr align=middle>
+                    <td width=147><table width=147 border=0 cellpadding=0 cellspacing=0>
+            <tr align=center>
+              <td width=147><a href="http://news.sohu.com/20060606/n243593229.shtml" target="_blank"><img src="http://photocdn.sohu.com/20060606/Img243593604.jpg" alt="三峡三期RCC围堰爆破成功 "width=142 height=159 border=0 class=img1></a></td>
+            </tr>
+          </table></td>
+    <td width=214><table width=196 border=0 cellpadding=0 cellspacing=0>
+			<tr>
+			  <td ><div align="center"><a href="http://news.sohu.com/20060606/n243593229.shtml" target="_blank" class="a1">三峡围堰爆破成功</a></div></td>
+			</tr>
+			</table><img height=15 src="http://images.sohu.com/ccc.gif" width=1><br>
+      <table cellSpacing=0 cellPadding=0 width=214 border=0>
+        <tbody>
+          <tr>
+            <td width=18></td>
+    <td class=center01 width=196><table width=185 border=0 cellpadding=0 cellspacing=0>
+			<tr><td width=198 class="center01">　　三峡三期围堰爆破拆除总指挥、中国长江三峡工程开发总公司总经理李永安宣布，三峡三期RCC围堰爆破拆除成功，指挥部响起雷鸣般的掌声。 </td>
+			</tr>
+			</table></td></tr></tbody></table></td></tr></tbody></table><img height=20 src="http://images.sohu.com/ccc.gif" width=1><br><table width=377 border=0 cellpadding=0 cellspacing=0>
+	<tr bgcolor=#1683BC><td width=6 height=22><img src=http://news.sohu.com/upload/img05xxxx/news2_2.gif width=6 height=22></td>
+	<td width=342 class=center01>&nbsp;今日推荐</td>
+	<td width=29><img src=http://news.sohu.com/upload/img05xxxx/news2_3.gif width=29 height=22></td></tr>
+	</table>
+
+<table width="0" height="1" border="0">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<table width=377 border=0 cellpadding=0 cellspacing=0>
+            <tr valign=top>
+              <td width=188 class=center01> 
+
+·<a href="http://news.sohu.com/20060228/n242050208.shtml" target="_blank">阿富汗监狱暴动 最少35人伤亡</a><br>
+·<a href="http://news.sohu.com/20060227/n242046488.shtml" target="_blank">泰国反他信集会现场发生爆炸</a><br>
+·<a href="http://news.sohu.com/20060227/n242046508.shtml" target="_blank">菲律宾海军陆战队司令被解职</a><br>
+·<A href="http://news.sohu.com/20060216/n241850740.shtml" target="_blank">中国工程师在巴基斯坦遇害</A></td>
+              <td class=center01>	
+·<a href="http://news.sohu.com/20060228/n242051603.shtml" target="_blank">阿扁宣布终止“国统会”</a><br>
+·<a href="http://news.sohu.com/20060228/n242051055.shtml" target="_blank">昆明闹事车祸肇事司机被刑拘</a><br>
+·<a href="http://news.sohu.com/20060228/n242051040.shtml" target="_blank">神七08年飞天 实现太空漫游</a><br>
+·<a href="http://news.sohu.com/20060217/n241883211.shtml" target="_blank">吉林发生一氧化碳集体中毒事件</a></td>
+            </tr>
+</table><img height=15 src="http://images.sohu.com/ccc.gif" width=1><br></td></tr></tbody></table><img height=21 src="http://images.sohu.com/ccc.gif" width=1><br>
+      <table cellSpacing=0 cellPadding=0 width=406 border=0>
+        <tbody>
+          <tr>
+            <td width=20></td>
+    <td width=375><table width="12" border="0" align="left">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<table width=377 border=0 cellpadding=0 cellspacing=0>
+	<tr bgcolor=#1683BC><td width=6 height=22><img src=http://news.sohu.com/upload/img05xxxx/news2_2.gif width=6 height=22></td>
+	<td width=342 class=center01>&nbsp;精彩回放</td>
+	<td width=29><img src=http://news.sohu.com/upload/img05xxxx/news2_3.gif width=29 height=22></td></tr>
+</table>
+
+<table width="0" height="1" border="0">
+  <tr>
+    <td></td>
+  </tr>
+</table><table width=406 border=0 cellpadding=0 cellspacing=0>
+    <tr>
+      <td width=20></td>
+      <td width=375>
+        <table width=375 border=0 cellpadding=0 cellspacing=0>
+          <tr valign=top>
+            <td class=center01 width=188> ·<a href="http://2008.sohu.com/s2005/4641/s240678064.shtml" target="_blank">北京奥组委与搜狐共签合作协议</a> <br>
+              ·<a href="http://news.sohu.com/s2005/9384/s227217542.shtml" target="_blank">“神舟六号”载人航天飞船回顾</a> <br>
+              ·<a href="http://news.sohu.com/20051025/n227301957.shtml" target="_blank">台湾光复六十周年大会隆重举行</a> </td>
+            <td width=187 class=center01> ·<a href="http://news.sohu.com/20050509/n225484943.shtml" target="_blank">俄纪念卫国战争60周年庆典</a> <br>
+              ·<a href="http://news.sohu.com/s2005/lundunshipin.shtml" target="_blank">伦敦遭受6宗连环恐怖自杀袭击</a><br>
+              ·<a href="http://news.sohu.com/20050726/n226456662.shtml" target="_blank">“发现号”航天飞机发射成功 </a></td>
+          </tr>
+      </table></td>
+      <td width=11></td>
+    </tr>
+  </table>
+</td>
+    <td width=11></td></tr></tbody></table><img height=10 src="http://images.sohu.com/ccc.gif" width=1><br></td>
+    <td width=2></td></tr>
+      <tr>
+    <td class=borderstyle1 colSpan=5 height=2></td></tr></tbody>
+  </table>
+  <img height=5 src="http://images.sohu.com/ccc.gif" width=1><br>
+</div>
+<sohuadcode></sohuadcode>
+<div align="center"><img height=5 src="http://images.sohu.com/ccc.gif" width=1><br>
+  <table cellSpacing=0 cellPadding=0 width=949 border=0>
+    <tbody>
+      <tr align=right>
+        <td>
+          <table cellSpacing=0 cellPadding=0 width=944 border=0>
+            <tbody>
+              <tr vAlign=top align=middle>
+                <td width=389 bgColor=#ffffff>
+                  <table cellSpacing=0 cellPadding=0 width=389 border=0>
+                    <tbody>
+                      <tr>
+                  <td height=35><img height=35 src="http://news.sohu.com/upload/img05xxxx/news5_1.gif" width=389></td></tr></tbody></table><img height=23 src="http://images.sohu.com/ccc.gif" width=1><br>
+                  <table cellSpacing=0 cellPadding=0 width=389 border=0>
+                    <tbody>
+                      <tr vAlign=top align=middle bgColor=#ffffff>
+                        <td width=175 rowspan="2">
+                          <table cellSpacing=0 cellPadding=0 width=150 border=0>
+                            <tbody>
+                              <tr>
+                        <td align=middle bgColor=#848484 height=200><table width=150 border=0 cellpadding=0 cellspacing=0>
+			<tr><td height=200 bgcolor=#848484 align=center><a href="http://news.sohu.com/20060228/n242050208.shtml" target="_blank"><img src="http://photocdn.sohu.com/20060228/Img227778894.jpg" alt="阿富汗监狱暴动 5人死亡30人受伤" width=140 height=190 border=0></a></td>
+			</tr>
+			</table></td></tr></tbody></table><img height=15 src="http://images.sohu.com/ccc.gif" width=1><br><table width=170 border=0 cellpadding=0 cellspacing=0>
+                    <tr>
+                      <td class="size14 bold" align=center><font color=#5C5C5C><a href="http://news.sohu.com/20060228/n242050208.shtml" target="_blank" class="a2">阿富汗监狱发生暴动</a></font></td>
+                    </tr>
+                </table></td>
+    <td width=214 class=top align="left">·<a href=http://news.sohu.com/20110206/n279229079.shtml target=_blank>视频：实拍外国男子花式弹钢琴姿势不拘一格</a><br>·<a href=http://news.sohu.com/20110206/n279226925.shtml target=_blank>视频：美国：威廉王子婚礼漫画将出版 </a><br>·<a href=http://news.sohu.com/20110206/n279226616.shtml target=_blank>视频：美国真实悬疑凶杀案本月21日登上荧幕</a><br>·<a href=http://news.sohu.com/20110205/n279222066.shtml target=_blank>视频：暴风雪袭美国 全力清理积雪交通逐步恢复</a><br>·<a href=http://news.sohu.com/20110205/n279221988.shtml target=_blank>视频：巴西东北部大规模停电 范围广波及8个州</a><br>·<a href=http://news.sohu.com/20110205/n279221952.shtml target=_blank>视频：国际油价大幅下跌 美经济复苏前景堪忧</a><br>·<a href=http://news.sohu.com/20110205/n279220399.shtml target=_blank>视频：土耳其安卡拉一工厂爆炸 至少33人伤亡</a><br>·<a href=http://news.sohu.com/20110205/n279220389.shtml target=_blank>视频：澳洲飓风过境 日本孕妇在避难中心产女婴</a><br>·<a href=http://news.sohu.com/20110205/n279220313.shtml target=_blank>视频：尼泊尔共产党主席卡纳尔当选新一任总理</a><br>·<a href=http://news.sohu.com/20101023/n276303546.shtml target=_blank>视频：美国撞月发现月球不止有水 还有二氧化碳</a><br>·<a href=http://news.sohu.com/20101023/n276300910.shtml target=_blank>视频：秘鲁首都遗址出土四具木乃伊 距今已千年</a><br>·<a href=http://news.sohu.com/20090606/n264373802.shtml target=_blank>视频：大臣接连辞职 英国首相布朗宣布重组内阁</a><br>·<a href=http://news.sohu.com/20090219/n262343537.shtml target=_blank>视频：菲律宾欲将南沙划入版图 中国政府抗议</a><br>·<a href=http://news.sohu.com/20090219/n262335680.shtml target=_blank>视频：希拉里访问印尼 旨在向伊斯兰世界示好</a><br></td></tr>
+                      <tr vAlign=top align=middle bgColor=#ffffff>
+                        <td class=top align="left"><div align="right"><a href="http://news.sohu.com/s2005/s226945307.shtml" target="_blank">>>更多</a></div></td>
+                      </tr>
+                  </tbody></table></td>
+    <td width=2></td>
+    <td width=393 bgColor=#ffffff>
+      <table cellSpacing=0 cellPadding=0 width=393 border=0>
+        <tbody>
+          <tr>
+            <td height=35><img height=35 src="http://news.sohu.com/upload/img05xxxx/news4_2.gif" width=393></td></tr></tbody></table><img height=23 src="http://images.sohu.com/ccc.gif" width=1><br>
+      <table cellSpacing=0 cellPadding=0 width=393 border=0>
+        <tbody>
+          <tr vAlign=top align=middle bgColor=#ffffff>
+            <td width=183 rowspan="2">
+              <table cellSpacing=0 cellPadding=0 width=150 border=0>
+                <tbody>
+                  <tr>
+                    <td align=middle bgColor=#848484 height=200><table width=150 border=0 cellpadding=0 cellspacing=0>
+			<tr><td height=200 bgcolor=#848484 align=center><a href="http://news.sohu.com/20060509/n243153265.shtml" target="_blank"><img src="http://photocdn.sohu.com/20060509/Img243153825.jpg" alt="河南巩义发生幼儿园纵火案 3幼儿死亡14人受伤" width=140 height=190 border=0></a></td>
+			</tr>
+			</table></td></tr></tbody></table><img height=15 src="http://images.sohu.com/ccc.gif" width=1><br><table width=170 border=0 cellpadding=0 cellspacing=0>
+                    <tr>
+                      <td class="size14 bold" align=center><font color=#5C5C5C><a href="http://news.sohu.com/20060509/n243153265.shtml" target="_blank" class="a2">河南巩义发生幼儿园<br>纵火案 3死14伤</a></font></td>
+                    </tr>
+                </table></td>
+    <td width=210 class=top align="left">·<a href=http://news.sohu.com/20120228/n336150623.shtml target=_blank>视频：南方传媒集团赴京报道全国“两会”</a><br>·<a href=http://news.sohu.com/20110206/n279226569.shtml target=_blank>视频：北方8省干旱持续 农业部启动二级响应</a><br>·<a href=http://news.sohu.com/20110205/n279222062.shtml target=_blank>视频：台湾环保面包店投资千万 处处有玄机</a><br>·<a href=http://news.sohu.com/20110205/n279221984.shtml target=_blank>视频：北京提高安保等级 启用直升机保安全</a><br>·<a href=http://news.sohu.com/20110205/n279221982.shtml target=_blank>视频：福建邵武一客车意外坠河 致十人死亡</a><br>·<a href=http://news.sohu.com/20110204/n279215925.shtml target=_blank>视频：尼泊尔供电短缺 主播“点灯”播新闻</a><br>·<a href=http://news.sohu.com/20110204/n279215890.shtml target=_blank>视频：世界最大最新3D画亮相成都 效果极其逼真</a><br>·<a href=http://news.sohu.com/20101023/n276315823.shtml target=_blank>视频：记者暗拍安徽亳州市场出售硫磺熏制药材</a><br>·<a href=http://news.sohu.com/20101023/n276305651.shtml target=_blank>视频：少林特警护航亚运 练就飞针穿玻璃绝活</a><br>·<a href=http://news.sohu.com/20101023/n276305013.shtml target=_blank>视频：乐业天坑发现史前人类遗迹 距今五六千年</a><br>·<a href=http://news.sohu.com/20101023/n276303479.shtml target=_blank>视频：央企9月利份润1119亿元 创下年内新高</a><br>·<a href=http://news.sohu.com/20101023/n276303364.shtml target=_blank>视频：华西村否认参与昆明虚假楼案 将配合调查</a><br>·<a href=http://news.sohu.com/20101023/n276303232.shtml target=_blank>视频：人社部:退休年龄政策调整将听取公众意见</a><br>·<a href=http://news.sohu.com/20101023/n276299587.shtml target=_blank>视频：国企高管养老金一年超过130万元</a><br></td></tr>
+          <tr vAlign=top align=middle bgColor=#ffffff>
+            <td class=top align="left"><div align="right"><a href="http://news.sohu.com/s2005/s226931954.shtml" target="_blank">>>更多</a></div></td>
+          </tr>
+        </tbody></table></td>
+    <td width=160 bgColor=#c3c3c3>
+      <table cellSpacing=0 cellPadding=0 width=160 border=0>
+        <tbody>
+          <tr>
+    <td style="PADDING-LEFT: 10px" bgColor=#969696 height=35><table width=160 border=0 cellpadding=0 cellspacing=0>
+		<tr><td height=35 bgcolor=#969696 style=padding-left:10px><img src=http://photocdn.sohu.com/20051208/Img240915027.gif width=111 height=24></td></tr>
+		</table></td></tr></tbody></table><img height=32 src="http://images.sohu.com/ccc.gif" width=1><br><table width=150 border=0 cellpadding=0 cellspacing=0>
+		
+		<tr><td width=19 height=20 align=center class=top>1.</td>
+		<td class=top><a href="http://news.sohu.com/20051231/n241228197.shtml" target="_blank">济南发生口蹄疫疫情</a></td>
+		</tr>
+		
+		<tr><td width=19 height=20 align=center bgcolor="#E9E7E7" class=top>2.</td>
+		  <td bgcolor="#E9E7E7" class=top><a href="http://news.sohu.com/20051231/n241227286.shtml" target="_blank">江泽民曾庆红送别汪老</a></td>
+		</tr>
+		
+		<tr><td width=19 height=20 align=center class=top>3.</td>
+		  <td class=top><a href="http://news.sohu.com/20051230/n241209309.shtml" target="_blank">农业税条例06年废止</a></td>
+		</tr>
+		
+		
+		<tr><td width=19 height=20 align=center bgcolor="#E9E7E7" class=top>4.</td>
+		  <td bgcolor="#E9E7E7" class=top><a href="http://news.sohu.com/20051229/n241187926.shtml" target="_blank">大陆赠台大熊猫将亮相</a><a href="http://news.sohu.com/20051221/n241068265.shtml" target="_blank"></a></td>
+		</tr>
+		
+		
+		<tr><td width=19 height=20 align=center class=top>5.</td>
+		  <td class=top><a href="http://news.sohu.com/20051230/n241206105.shtml" target="_blank">福建发生人感染禽流感</a></td>
+		</tr>
+		
+		
+		<tr><td width=19 height=20 align=center bgcolor="#E9E7E7" class=top>6.</td>
+		  <td bgcolor="#E9E7E7" class=top><a href="http://news.sohu.com/20051229/n241189803.shtml" target="_blank">珠海供水形式严峻</a></td>
+		</tr>
+		
+		
+		<tr><td width=19 height=20 align=center class=top>7.</td>
+		  <td class=top><a href="http://news.sohu.com/20051222/n241089415.shtml" target="_blank">专家&quot;会诊&quot;北江水污染</a></td>
+		</tr>
+		
+		<tr><td width=19 height=20 align=center bgcolor="#E9E7E7" class=top>8.</td>
+		  <td bgcolor="#E9E7E7" class=top><a href="http://news.sohu.com/20051221/n241068265.shtml" target="_blank">杭州商业区发生火灾</a></td>
+		</tr>
+		
+		<tr><td width=19 height=20 align=center class=top>9.</td>
+		  <td class=top><a href="http://news.sohu.com/20051221/n241068260.shtml" target="_blank">山东烟台再遭暴雪袭击</a></td>
+		</tr>
+		
+		<tr><td width=19 height=20 align=center bgcolor="#E9E7E7" class=top>10.</td>
+		  <td bgcolor="#E9E7E7" class=top><a href="http://news.sohu.com/20051221/n241068088.shtml" target="_blank">广东北江发生镉污染</a></td>
+		</tr>
+</table>
+<img height=15 src="http://images.sohu.com/ccc.gif" width=1><br> </td></tr></tbody></table></td></tr></tbody>
+  </table>
+  <img height=8 src="http://images.sohu.com/ccc.gif" width=1><br>
+  <table cellSpacing=0 cellPadding=0 width=949 border=0>
+    <tbody>
+      <tr align=right>
+        <td>
+          <table cellSpacing=0 cellPadding=0 width=944 border=0>
+            <tbody>
+              <tr vAlign=top align=middle>
+                <td width=389 bgColor=#ffffff>
+                  <table cellSpacing=0 cellPadding=0 width=389 border=0>
+                    <tbody>
+                      <tr>
+                  <td height=35><img height=35 src="http://news.sohu.com/upload/img05xxxx/news4_1.gif" width=389></td></tr></tbody></table><img height=23 src="http://images.sohu.com/ccc.gif" width=1><br>
+                  <table cellSpacing=0 cellPadding=0 width=389 border=0>
+                    <tbody>
+
+                      <tr vAlign=top align=middle bgColor=#ffffff>
+                        <td width=175 rowspan="2">
+                          <table cellSpacing=0 cellPadding=0 width=150 border=0>
+                            <tbody>
+                              <tr>
+                        <td align=middle bgColor=#848484 height=200><table width=150 border=0 cellpadding=0 cellspacing=0>
+                  <tr>
+                    <td height=200 bgcolor=#848484 align=center><a href="http://news.sohu.com/20051121/n227558014.shtml" target="_blank"><img src=http://photocdn.sohu.com/20051125/Img227596635.jpg width=140 height=190 border=0></a></td>
+                  </tr>
+                </table></td></tr></tbody></table><img height=15 src="http://images.sohu.com/ccc.gif" width=1><br><table width=170 border=0 cellpadding=0 cellspacing=0>
+                    <tr>
+                      <td class="size14 bold" align=center><a href="http://news.sohu.com/20051121/n227558014.shtml" target="_blank" class="a2">妻子怒泼丈夫硫酸</a></td>
+                    </tr>
+                    <tr>
+                      <td class=top></td>
+                    </tr>
+                </table></td>
+    <td width=214  align="left" class=top>·<a href=http://news.sohu.com/20060529/n243459842.shtml target=_blank>母亲施毒手 六岁女孩体无完肤</a><br>·<a href=http://news.sohu.com/20051121/n227558015.shtml target=_blank>自我中心者的人生末路(1)</a><br>·<a href=http://news.sohu.com/20051121/n227558014.shtml target=_blank>只为3000元,妻子怒泼丈夫硫酸(1)</a><br>·<a href=http://news.sohu.com/20051121/n227558013.shtml target=_blank>网络迷案 有苦难言(1)</a><br>·<a href=http://news.sohu.com/20051121/n227558012.shtml target=_blank>谁盗用了我的证件？(1)</a><br>·<a href=http://news.sohu.com/20051121/n227558011.shtml target=_blank>如此母子情深要不得！(1)</a><br>·<a href=http://news.sohu.com/20051121/n227558010.shtml target=_blank>离婚了,我的房子在哪里？</a><br>·<a href=http://news.sohu.com/20051121/n227558006.shtml target=_blank>可疑的处方单(1)</a><br>·<a href=http://news.sohu.com/20051121/n227558004.shtml target=_blank>她勒死了自己的儿子(1)</a><br>·<a href=http://news.sohu.com/20051121/n227558001.shtml target=_blank>孩子逃夜之后(1)</a><br>·<a href=http://news.sohu.com/20051121/n227557939.shtml target=_blank>菜农魂断鱼塘</a><br>·<a href=http://news.sohu.com/20051121/n227557938.shtml target=_blank>不愿离开医院的病人(1)</a><br>·<a href=http://news.sohu.com/20051121/n227557937.shtml target=_blank>鱼缸之谜(1)</a><br></td></tr>
+                      <tr vAlign=top align=middle bgColor=#ffffff>
+                        <td  align="left" class=top><div align="right"><a href="http://news.sohu.com/s2005/s227550859.shtml" target="_blank">>>更多</a></div></td>
+                      </tr>
+                  </tbody></table></td>
+    <td width=2></td>
+    <td width=393 bgColor=#ffffff>
+      <table cellSpacing=0 cellPadding=0 width=393 border=0>
+        <tbody>
+          <tr>
+            <td height=35><img height=36 src="http://news.sohu.com/upload/img05xxxx/news6_2.gif" width=393></td></tr></tbody></table><img height=23 src="http://images.sohu.com/ccc.gif" width=1><br>
+      <table cellSpacing=0 cellPadding=0 width=393 border=0>
+        <tbody>
+          <tr vAlign=top align=middle bgColor=#ffffff>
+            <td width=183 rowspan="2">
+              <table cellSpacing=0 cellPadding=0 width=150 border=0>
+                <tbody>
+                  <tr>
+                    <td align=middle bgColor=#848484 height=200><table width=150 border=0 cellpadding=0 cellspacing=0>
+              <tr>
+                <td height=200 bgcolor=#848484 align=center><a href="http://mil.news.sohu.com/20060429/n243069817.shtml" target="_blank"><img src=http://photocdn.sohu.com/20060429/Img243070239.jpg width=140 height=190 border=0 alt="国内视频,国际视频,社会视频"></a></td>
+              </tr>
+            </table></td></tr></tbody></table><img height=15 src="http://images.sohu.com/ccc.gif" width=1><br><table width=170 border=0 cellpadding=0 cellspacing=0>
+  <tr>
+    <td class="size14 bold" align=center><font color=#5C5C5C><a href="http://mil.news.sohu.com/20060429/n243069817.shtml" target="_blank" class="a2">枭龙04架首飞成功 
+</a></font> </td>
+  </tr>
+</table></td>
+    <td width=210 align="left" class=top>·<a href=http://mil.news.sohu.com/20070830/n251859912.shtml target=_blank>视频：纳粹大屠犹(下)</a><br>·<a href=http://mil.news.sohu.com/20070830/n251860004.shtml target=_blank>视频：纳粹大屠犹(上).wmv</a><br>·<a href=http://mil.news.sohu.com/20070821/n251692884.shtml target=_blank>视频：漫漫寻宝途-寻找纳粹珍宝(下)</a><br>·<a href=http://mil.news.sohu.com/20070821/n251692835.shtml target=_blank>视频：漫漫寻宝途-寻找纳粹珍宝(上)</a><br>·<a href=http://mil.news.sohu.com/20070821/n251692778.shtml target=_blank>视频：血洗金陵-南京大屠杀纪实(下)</a><br>·<a href=http://mil.news.sohu.com/20070821/n251692714.shtml target=_blank>视频：血洗金陵-南京大屠杀纪实(上)</a><br>·<a href=http://news.sohu.com/20070807/n251447845.shtml target=_blank>视频：和平使命军演进行首次实兵合练</a><br>·<a href=http://news.sohu.com/20070806/n251431969.shtml target=_blank>视频：为什么卢沟桥事变揭开中日战争的序幕</a><br>·<a href=http://news.sohu.com/20070806/n251428023.shtml target=_blank>视频：“和平使命—2007” 军演背景</a><br>·<a href=http://news.sohu.com/20070806/n251426967.shtml target=_blank>视频：和平使命军演中方陆空战斗群开始训练</a><br>·<a href=http://news.sohu.com/20070802/n251369616.shtml target=_blank>视频：江泽民同志参观国防和军队建设成就展</a><br>·<a href=http://news.sohu.com/20070801/n251363240.shtml target=_blank>视频：军博领导畅谈大型军事成就展(下)</a><br>·<a href=http://news.sohu.com/20070801/n251363184.shtml target=_blank>视频：军博领导畅谈大型军事成就展(上)</a><br>·<a href=http://news.sohu.com/20070801/n251359454.shtml target=_blank>视频：18岁八路军战士用步枪打飞机</a><br></td></tr>
+          <tr vAlign=top align=middle bgColor=#ffffff>
+            <td align="left" class=top><div align="right"><a href="http://news.sohu.com/s2005/s226945485.shtml" target="_blank">&gt;&gt;更多</a></div></td>
+          </tr>
+        </tbody></table></td>
+    <td width=160 bgColor=#c3c3c3>
+      <table cellSpacing=0 cellPadding=0 width=160 border=0>
+        <tbody>
+          <tr>
+    <td style="PADDING-LEFT: 10px" bgColor=#969696 height=35><table width=160 border=0 cellpadding=0 cellspacing=0>
+		<tr><td height=35 bgcolor=#969696 style=padding-left:10px><img src=http://photocdn.sohu.com/20051208/Img240915028.gif width=111 height=24></td></tr>
+		</table></td></tr></tbody></table><img height=32 src="http://images.sohu.com/ccc.gif" width=1><br><table width=150 border=0 cellpadding=0 cellspacing=0>
+		<tr><td width=20 height=20 align=center class=top>1.</td>
+		<td width=120 class=top><a href="http://news.sohu.com/20051222/n241089338.shtml" target="_blank" class="a3">肯尼亚可能爆发禽流感</a></td>
+		</tr>
+		<tr bgcolor=#E9E7E7><td height=19 align=center class=top>2.</td>
+		  <td width=120 class=top><a href="http://mil.news.sohu.com/20051221/n241066623.shtml" target="_blank" class="a3">狂飙突起(第一期)</a></td>
+		</tr>
+		<tr><td height=20 align=center class=top>3.</td>
+		  <td width=120 class=top><a href="http://news.sohu.com/20051214/n240974118.shtml" target="_blank" class="a3">洪都L15研制概况(1)</a></td>
+		</tr>
+		<tr bgcolor=#E9E7E7><td height=19 align=center bgcolor="#E9E7E7" class=top>4.</td>
+		  <td class=top><a href=http://news.sohu.com/20051215/n240978141.shtml target="_blank">伊拉克举行议会大选</a></td>
+		</tr>
+		<tr><td height=20 align=center class=top>5.</td>
+		  <td class=top><a href="http://news.sohu.com/20050601/n225789877.shtml" target="_blank" class="a3">俄罗斯S-300防空系统</a></td>
+		</tr>
+		<tr bgcolor=#E9E7E7><td height=19 align=center bgcolor="#E9E7E7" class=top>6.</td>
+		  <td class=top><a href="http://news.sohu.com/20051215/n240978637.shtml" target="_blank" class="a3">德外长批评伊总统言论</a></td>
+		</tr>
+		<tr><td height=20 align=center class=top>7.</td>
+		  <td class=top><a href="http://news.sohu.com/20051214/n240974131.shtml" target="_blank" class="a3">洪都L15研制概况(2)</a></td>
+		</tr>
+		<tr bgcolor=#E9E7E7><td height=19 align=center bgcolor="#E9E7E7" class=top>8.</td>
+		  <td class=top><a href="http://news.sohu.com/20050601/n225789849.shtml" target="_blank" class="a3">米格-29飞行精彩片断</a></td>
+		</tr>
+		<tr><td height=20 align=center class=top>9.</td>
+		  <td class=top><a href=http://news.sohu.com/20050609/n225884754.shtml target="_blank">超强对地攻击力</a></td>
+		</tr>
+		<tr bgcolor=#E9E7E7><td height=19 align=center bgcolor="#E9E7E7" class=top>10.</td>
+		  <td class=top><a href="http://news.sohu.com/20050803/n226549923.shtml" target="_blank" class="a3">真实坦克大战</a></td>
+		</tr>
+		</table>
+<img height=15 src="http://images.sohu.com/ccc.gif" width=1><br></td></tr></tbody></table></td></tr></tbody>
+  </table>
+  <img height=8 src="http://images.sohu.com/ccc.gif" width=1><img height=8 src="http://images.sohu.com/ccc.gif" width=1><br>
+  <img height=5 src="http://images.sohu.com/ccc.gif" width=1><br>
+  <table cellSpacing=0 cellPadding=0 width=949 border=0>
+    <tbody>
+      <tr align=right>
+        <td><table border=0 cellspacing=0 cellpadding=0 width=949><tr valign=top align=center><td width=5></td><td width=276 bgcolor=#FFFFFF>
+<img src=http://images.sohu.com/ccc.gif width=1 height=3><br>
+<table border=0 cellspacing=0 cellpadding=0 width=270>
+<tr><td width=92><img src="http://images.sol.sohu.com/itv/bbimg/1425.gif" width="92" height="35" alt="国内视频,国际视频,社会视频" border="0"></td>
+<td align=right background=http://photocdn.sohu.com/ImgFrag/20051208/1002035151316857151.gif class=wz12_E5E5 style='padding-right:9px;padding-top:6px'><a href=http://yule.sohu.com/s2005/review.shtml target=_blank><font color=#717C0E>更多&gt;&gt;</font></a></td>
+</tr>
+</table>
+<img src=http://images.sohu.com/ccc.gif width=1 height=13><br>
+<table border=0 cellspacing=0 cellpadding=0 width=250>
+<tr valign=top>
+<td width=250 class=top style='line-height:24px'>
+
+·<a href=http://yule.sohu.com/20060413/n242795121.shtml target=_blank>林俊杰做客谈恋情 自爆曾被男性歌迷摸胸</a><br>
+·<a href=http://yule.sohu.com/20060413/n242792645.shtml target=_blank>尹相杰做客谈“脾气” 新歌大玩说唱风格</a><br>
+·<a href=http://yule.sohu.com/20060413/n242787590.shtml target=_blank>游鸿明分享驻唱趣事：唱歌唱到自己睡着</a><br>
+·<a href=http://yule.sohu.com/20060412/n242771281.shtml target=_blank>宋祖德炮轰娱乐圈：我已经做好死的准备</a><br>
+·<a href=http://yule.sohu.com/20060412/n242767233.shtml target=_blank>翁红谈及离婚泪洒 要依靠舞台剧再创辉煌</a><br>
+·<a href=http://yule.sohu.com/20060410/n242730157.shtml target=_blank>刘耕宏：无法接受“断臂山”角色</a><br>
+·<a href=http://yule.sohu.com/20060407/n242687391.shtml target=_blank>安又琪回应偷拍事件 承认李宇春比自己红</a><br>
+·<a href=http://yule.sohu.com/20060405/n242653808.shtml target=_blank>斯琴高娃分享甜蜜爱情 新戏将演“海盗”</a><br>
+·<a href=http://yule.sohu.com/20060405/n242649254.shtml target=_blank>张敬轩艰苦从艺路：一张唱片只卖8千张</a><br>
+·<a href=http://yule.sohu.com/20060404/n242634324.shtml target=_blank>田华杜磊在校间曾引领校园时尚</a><br>
+
+</td>
+</tr>
+</table>
+<img src=http://images.sohu.com/ccc.gif width=1 height=15><br></td><td width=2></td><td width=506 bgcolor=#FFFFFF>
+<img src=http://images.sohu.com/ccc.gif width=1 height=3><br>
+<table border=0 cellspacing=0 cellpadding=0 width=500>
+<tr><td width=92><img src="http://images.sol.sohu.com/itv/bbimg/1131.gif" width="95" height="35" alt="国内视频,国际视频,社会视频" border="0"></td>
+<td align=right background=http://photocdn.sohu.com/ImgFrag/20051208/1002035151316857151.gif class=wz12_E5E5 style='padding-right:9px;padding-top:6px'><a href=http://yule.bb.sohu.com target=_blank class="wz12_E5E5"><font color=#717C0E>更多&gt;&gt;</font></a></td>
+</tr>
+</table>
+<img src=http://images.sohu.com/ccc.gif width=1 height=11><br>
+<table border=0 cellspacing=0 cellpadding=0 width=480>
+<tr valign=top>
+<td width=190>
+<table border=0 cellspacing=0 cellpadding=1 bgcolor=#868781>
+<tr><td><a href=http://images.sol.sohu.com/itv/bbimg/1424.jpg target=_blank><img src="http://images.sol.sohu.com/itv/bbimg/1424.jpg" width="170" height="200" border="0" alt="国内视频,国际视频,社会视频"></a></td></tr>
+</table>
+<img src=http://images.sohu.com/ccc.gif width=1 height=13><br>
+<table border=0 cellspacing=0 cellpadding=0 width=175>
+<tr><td align=center class='wz12_E5E5' style='line-height:22px'><a href=http://images.sol.sohu.com/itv/bbimg/1424.jpg target=_blank><font color=#5C5C5C>容祖儿珍贵小提琴常伴身边</font></a></td></tr>
+</table>
+</td>
+<td width=290>
+<table border=0 cellspacing=0 cellpadding=0 width=280>
+<tr><td valign=top class=top style='line-height:24px'>
+<a href=http://yule.sohu.com/20060419/n242887986.shtml target=_blank>视频：陈豪和绯闻情侣廖碧儿合作走秀有默契</a><br>
+<a href=http://yule.sohu.com/20060418/n242864259.shtml target=_blank>视频：剧组给成龙惊喜 生日派对现场热闹非凡</a><br>
+<a href=http://yule.sohu.com/20060418/n242864058.shtml target=_blank>视频：母亲节将至大S演徐妈妈做母亲节的礼物</a><br>
+<a href=http://yule.sohu.com/20060417/n242848450.shtml target=_blank>视频：音乐之父陶喆惊奇之旅演唱会火爆现场</a><br>
+<a href=http://yule.sohu.com/20060417/n242848347.shtml target=_blank>视频：莫文蔚首场签唱会在台北举行为圆六年梦 </a><br>
+<a href=http://yule.sohu.com/20060414/n242813386.shtml target=_blank>视频：关芝琳陈亦迅面对狗仔队亦是束手无策</a><br>
+<a href=http://yule.sohu.com/20060414/n242813119.shtml target=_blank>视频：莫文蔚首次在台湾担任爱盲活动代言人</a><br>
+<a href="http://yule.sohu.com/20060220/n227767205.shtml" target=_blank>视频：周丽淇与叶世荣 女高男矮合唱</a><br>
+<a href="http://yule.sohu.com/20060220/n227767202.shtml" target=_blank>视频：刘嘉玲自嘲没有走天桥条件</a><br>
+<a href="http://yule.sohu.com/20060220/n227767195.shtml" target=_blank>视频：唱片公司周年盛会 众星云集</a><br>
+</td></tr>
+</table>
+</td>
+</tr>
+</table></td><td width=160 bgcolor=#D3D3D3>
+<table border=0 cellspacing=0 cellpadding=0 width=160 background=http://photocdn.sohu.com/ImgFrag/20051208/1002035201316857153.gif>
+<tr><td height=38 width=19></td><td valign=bottom><b>火爆论坛</b></td></tr>
+</table>
+<img src=http://images.sohu.com/ccc.gif width=1 height=13><br>
+<table border=0 cellspacing=0 cellpadding=0 width=140>
+<tr><td valign=top class=top style='line-height:24px'>
+<a href=http://club.yule.sohu.com/r-zaixian-98228-0-0-0.html target=_blank>王菲不经意的搞笑瞬间</a><br>
+<a href=http://club.yule.sohu.com/r-zaixian-98070-0-34-0.html target=_blank>[贴图]风度翩翩梁家辉</a><br>
+<a href=http://club.yule.sohu.com/r-zaixian-97802-0-70-0.html target=_blank>山口百惠：天使的诱惑</a><br>
+<a href=http://club.yule.sohu.com/r-zaixian-98193-0-0-0.html target=_blank>[图]美女主播王怡仁写真</a><br>
+<a href=http://club.yule.sohu.com/r-zaixian-98206-0-9-0.html target=_blank>[图]中国娱乐圈十类女人</a><br>
+<a href=http://club.yule.sohu.com/r-zaixian-98217-0-9-0.html target=_blank>不老的神话 四十岁女星</a><br>
+<a href=http://club.yule.sohu.com/r-zaixian-98226-0-0-0.html target=_blank>明星糜烂夜生活终极探秘</a><br>
+<a href=http://club.yule.sohu.com/r-zaixian-96141-0-3-0.html target=_blank>女星超逗可爱表情</a><br>
+<a href=http://club.yule.sohu.com/r-zaixian-95633-0-20-0.html target=_blank>大S最新写真曝光</a><br>
+<a href=http://club.yule.sohu.com/r-zaixian-74163-0-104-0.html target=_blank>你会和哪一个明星结婚</a><br>
+</td></tr>
+</table></td></tr></table>
+          <table cellSpacing=0 cellPadding=0 width=944 border=0>
+            <tbody>
+              <tr align=middle bgColor=#a0a0a0>
+    <td><table width=949 border=0 cellpadding=0 cellspacing=0>
+<tr align=right><td>
+	<table width=944 border=0 cellpadding=0 cellspacing=0 background=http://news.sohu.com/upload/img05xxxx/news7_1.gif>
+	<tr><td height=19 width=41></td>
+	<td width=125 background=http://news.sohu.com/upload/img05xxxx/news7_2.gif align=center><img src=http://images.sohu.com/ccc.gif width=1 height=5><br><b>合作伙伴</b></td>
+	<td width=778></td></tr>
+	</table>
+	<table width=944 border=0 cellpadding=0 cellspacing=0>
+	<tr align=center bgcolor=#A0A0A0><td><img src=http://images.sohu.com/ccc.gif width=1 height=29><br>
+		<table width=732 border=0 cellpadding=0 cellspacing=0>
+		<tr valign=top><td width=152>
+			<table width=120 border=0 cellpadding=0 cellspacing=0>
+			<tr><td height=60><img src=http://photocdn.sohu.com/20050801/Img226521366.gif width=120 height=60 border=0></td>
+			</tr>
+			</table>
+		</td>
+		<td width=152>
+			<table width=120 border=0 cellpadding=0 cellspacing=0>
+			<tr><td height=60><img src=http://photocdn.sohu.com/20050801/Img226521379.gif width=120 height=60 border=0></td>
+			</tr>
+			</table>
+		</td>
+		<td width=152>
+			<table width=120 border=0 cellpadding=0 cellspacing=0>
+			<tr><td height=60><img src=http://photocdn.sohu.com/20050801/Img226521400.gif width=120 height=60 border=0></td>
+			</tr>
+			</table>
+		</td>
+		<td width=152>
+			<table width=120 border=0 cellpadding=0 cellspacing=0>
+			<tr><td height=60><img src=http://images.sol.sohu.com/sohubb/music/newimg/emi.jpg width=120 height=60 border=0></td>
+			</tr>
+			</table>
+		</td>
+		<td width=120>
+			<table width=120 border=0 cellpadding=0 cellspacing=0>
+			<tr><td height=60><img src=http://images.sol.sohu.com/sohubb/js/ttzx.jpg width=120 height=60 border=0></td>
+			</tr>
+			</table>
+		</td></tr>
+		</table><img src=http://images.sohu.com/ccc.gif width=1 height=21><br>
+	</td></tr>
+	</table>
+</td></tr>
+</table></td></tr></tbody></table></td></tr></tbody>
+  </table>
+</div>
+<div align="center"><table cellspacing=0 cellpadding=0 width=760 border=0 align=center>
+<tr><td align=center>
+<hr size=1>
+<a href="javascript:void(0)" onClick=this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sohu.com');return false;>设置首页</a>
+- <a href=http://pinyin.sogou.com/ target=_blank rel="nofollow">搜狗输入法</a>
+- <a href=http://pay.sohu.com/ target=_blank rel="nofollow">支付中心</a>
+- <a href=http://hr.sohu.com/ target=_blank rel="nofollow">搜狐招聘</a>
+- <a href=http://ad.sohu.com/ target=_blank rel="nofollow">广告服务</a>
+- <a href=http://sohucallcenter.blog.sohu.com/ target=_blank rel="nofollow">客服中心</a>
+- <a href=http://corp.sohu.com/s2006/contactus/ target=_blank rel="nofollow">联系方式</a>
+- <a href=http://www.sohu.com/about/privacy.html target=_blank rel="nofollow">保护隐私权</a>
+- <a href=http://investors.sohu.com/ target=_blank rel="nofollow">About SOHU</a>
+- <a href=http://corp.sohu.com/indexcn.shtml target=_blank rel="nofollow">公司介绍</a>
+- <a href=http://roll.sohu.com target=_blank>全部新闻</a>
+- <a href=http://blog.sohu.com/roll target=_blank>全部博文</a>
+</td></tr>
+<tr>
+<td align=middle height=20><font class=ui_engl>Copyright &copy; 2015 Sohu.com Inc. All Rights Reserved.</font> 搜狐公司 <a 
+href="http://corp.sohu.com/s2007/copyright/" target=_blank rel="nofollow">版权所有</a> 
+</td></tr>
+<tr>
+<td align=middle>搜狐不良信息举报邮箱：<a href="mailto:jubao@contact.sohu.com">jubao@contact.sohu.com</a></td></tr>
+</table>
+<SCRIPT language=JavaScript src="http://a1.itc.cn/pv/js/spv.1309051632.js"></SCRIPT>
+<script language="javascript" src="http://js.sohu.com/wrating20120726.js"></script>
+<script language="javascript">
+var  _wratingId = null;
+try{
+_wratingId = _getAcc();
+}catch(e){}
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript" src="http://sohu.wrating.com/a1.js"></scr'+'ipt>');
+}
+</script>
+<script language="javascript">
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript">');
+document.write('var vjAcc="'+_wratingId+'";');
+document.write('var wrUrl="http://sohu.wrating.com/";');
+document.write('try{vjTrack();}catch(e){}');
+document.write('</scr'+'ipt>');
+}
+</script>
+<!--SOHU:FOOT--></div>
+<div id=qiwen_list_body_1 style="VISIBILITY: hidden">&nbsp;</div>
+<div id=qiwen_list_body_2 style="VISIBILITY: hidden">&nbsp;</div>
+<div id=dv_list_body_1 style="VISIBILITY: hidden"></div>
+<div id=dv_list_body_2 style="VISIBILITY: hidden"></div><sohuadcode></sohuadcode>
+<div align="center">
+  
+</div>
+</html>

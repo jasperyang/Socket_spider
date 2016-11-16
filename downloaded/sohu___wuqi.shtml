@@ -1,0 +1,569 @@
+HTTP/1.1 200 OK
+Date: Tue, 15 Nov 2016 07:20:25 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips
+Last-Modified: Wed, 28 Oct 2015 02:40:00 GMT
+Accept-Ranges: bytes
+Content-Length: 43719
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<title><a name='外军新闻'>外军新闻</a>-搜狐新闻中心</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" produce by:BP>
+<LINK href=/wimages/ui.css rel=stylesheet type=text/css>
+<sohu_cms_include:subject_style> </sohu_cms_include>
+</head>
+<body topmargin=4 leftmargin=0>
+<center>
+<!---------------标准头 开始 ------------->
+<sohu_cms_include:sohu_news_head_news><style type=text/css>
+.ui_top{color:#000000;font-size:12px;line-height:18px;}
+.ui_top a:link{color:#000000;text-decoration:none;}
+.ui_top a:visited{color:#000000;text-decoration:none;}
+.ui_top a:hover {color:#000000;text-decoration:underline;}
+
+.up1 {color:656565;line-height:18px;font-size:12px}
+.up1 td{color:#656565;line-height:18px;font-size:12px}
+.up1 A:link {color:#656565;text-decoration:none;line-height:18px;font-size:12px}
+.up1 A:Visited {color:#656565;text-decoration:none;}
+.up1 A:Hover {color:#656565;TEXT-DECORATION: underline;}
+</style>
+<img src=http://images.sohu.com/ccc.gif width=1 height=5><br>
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=87><img src=http://images.sohu.com/uiue/sohu_logo/2005/sohu_logo2.gif height=22 border=0></td>
+<td bgcolor=#EFEBEF><a href=http://news.sohu.com><img src="http://images.sohu.com/uiue/sohu_logo/2005/news_logo2.gif" height="22" border="0"></a></td>
+<td align=right class=ui_top valign=bottom bgcolor=#EFEBEF><a href=http://www.sohu.com/>搜狐首页</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://news.sohu.com/>新闻</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://sports.sohu.com/>体育</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://yule.sohu.com/>娱乐</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://business.sohu.com/>财经</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://it.sohu.com/>IT</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://auto.sohu.com/>汽车</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://house.sohu.com/>房产</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://women.sohu.com/>女人</a><font style="font-size:4px"> </font><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://sms.sohu.com/>短信</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://mms.sohu.com/>彩信</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://alumni.sohu.com/ >校友录</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://login.mail.sohu.com/>邮件</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://store.sohu.com/>商城</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://club.sohu.com/>BBS</a><font style="font-size:4px"> </font>-<font style="font-size:4px"> </font><a href=http://www.sogou.com/
+><font color=#ff0000>搜狗</font></a>&nbsp;</td></tr>
+<tr><td height=3 colspan=3><img src=http://images.sohu.com/ccc.gif width=1 height=1></td></tr>
+</table>
+<!--sohu_top:end--> </sohu_cms_include>
+<sohu_cms_include:sohu_news_banner><style>
+.setwhite{color: #ffffff}
+
+A.setwhite:link {font-size:12px;text-decoration: none; color: #ffffff} 
+
+A.setwhite:visited {font-size:12px;text-decoration: none; color: #ffffff} 
+
+A.setwhite:active {font-size:12px;text-decoration: none} 
+
+A.setwhite:hover {font-size:12px;text-decoration: underline; color: #ffffff}
+</style>
+<table width=760 border=0 cellpadding=0 cellspacing=1 bgcolor=#355F8C>
+	<tr><td bgcolor=#355F8C class=a01 align=center height=22>
+	<a href="http://news.sohu.com/guoneixinwen.shtml" class=setwhite target=_blank>国内</a> | 
+	<a href="http://news.sohu.com/guojixinwen.shtml" class=setwhite target=_blank>国际</a> | 
+	<a href="http://news.sohu.com/shehuixinwen.shtml" class=setwhite target=_blank>社会</a> | 
+	<a href="http://mil.news.sohu.com/" class=setwhite target=_blank>军事</a> | 
+	<a href="http://star.news.sohu.com/" class=setwhite target=_blank>评论</a> | 
+	<a href="http://news.sohu.com/difangxinweng.shtml" class=setwhite target=_blank>地方</a> | 
+	<a href="http://people.business.sohu.com/" class=setwhite target=_blank>人物</a> | 
+	<a href="http://club.sohu.com/more/fangtan/index.htm" class=setwhite target=_blank>嘉宾访谈</a> | 
+	<a href="http://media.news.sohu.com/" class=setwhite target=_blank>传媒地图</a> | 
+	<a href="http://news.sohu.com/1/0402/03/subject200480346.shtml" class=setwhite target=_blank>热点排行</a>  | 
+	<a href="http://index.news.sohu.com/zhuanti/zhuanti_index.php" class=setwhite target=_blank>专题</a> | 
+	<a href="http://club.news.sohu.com" class=setwhite target="_blank">百姓论坛</a> | 
+	<a href="http://pic.news.sohu.com" class=setwhite target="_blank">图吧</a> | 
+	<a href="http://news.sohu.com/news_scrollnews.shtml" class=setwhite target=_blank>滚动</a> 
+	</td></tr>
+</table><img src=http://images.sohu.com/ccc.gif width=1 height=3><br> </sohu_cms_include>
+<!---------------标准头 结束 ------------->
+<!---------------第1横切 开始 ------------->
+<sohu_cms_include:sohu_news_subject_ad2> </sohu_cms_include>
+<!---------------第2横切 开始 ------------->
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr><td height=24 style="text-indent:7px">
+<sohu_cms_include:articlehead><!-- include virtual="frag [articlehead] is disable... " --></sohu_cms_include>
+</td></tr>
+</table>
+<table width=760 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=590 valign=top align=left>
+ <!------滚动新闻-------->
+ <table width=590 border=0 cellpadding=0 cellspacing=0>
+ <tr><td colspan=5 height=1 bgcolor=#00468C><img src=/wimages/c.gif width=1 height=1></td></tr>
+ <tr><td colspan=5 height=4 bgcolor=#E1F1F7><img src=/wimages/c.gif width=1 height=1></td></tr>
+ <tr>
+ <td width=1 bgcolor=#E1F1F7><img src=/wimages/c.gif width=1 height=1></td>
+ <td width=199 height=26 bgcolor=#E1F1F7 valign=top align=center><sohu_cms_include:sohu_news_subject_frag1> </sohu_cms_include></td>
+ <td width=13><img src=/wimages/cnews103.gif width=13 height=26></td>
+ <td width=376 align=center valign=top><br></td>
+ <td width=1 bgcolor=#E1F1F7><img src=/wimages/c.gif width=1 height=1></td>
+ </tr> 
+ <tr><td colspan=5 height=1 bgcolor=#E1F1F7><img src=/wimages/c.gif width=1 height=1></td></tr>
+ </table><br>
+ <table width=590 border=0 cellpadding=0 cellspacing=0>
+ <tr><td height=24 bgcolor=#00468C align=center style="color:#ffffff;font-size:14px;line-height:24px"><a name='外军新闻'>外军新闻</a></td></tr>
+ </table>
+ <img src=/wimages/c.gif width=1 height=2><br>
+ <img src=/wimages/c.gif width=1 height=12><br>
+ <!--------新闻列表---------->
+ <sohu_cms_include:column_list><li><a href="/20051130/n227633434.shtml"  class=newsblue1 target=_blank>日本决定明年发射火箭将一颗观测卫星送入太空</a><font size=1 color=gray>(11/30 19:58)</font></li>
+
+<li><a href="/20051130/n227632994.shtml"  class=newsblue1 target=_blank>印度成功试射布拉莫斯巡航导弹 射程达300公里</a><font size=1 color=gray>(11/30 18:15)</font></li>
+
+<li><a href="/20051130/n227632817.shtml"  class=newsblue1 target=_blank>美F-16战隼歼击机军演不敌苏-30MKI战斗机(图)</a><font size=1 color=gray>(11/30 17:29)</font></li>
+
+<li><a href="/20051129/n227624855.shtml"  class=newsblue1 target=_blank>俄成功试射白杨洲际弹道导弹 老旧武器寿命延长</a><font size=1 color=gray>(11/29 18:50)</font></li>
+
+<li><a href="/20051127/n227606116.shtml"  class=newsblue1 target=_blank>日本突破“核武禁区” 核原料储量赶超美国(图)</a><font size=1 color=gray>(11/27 11:26)</font></li>
+
+<li><a href="/20051124/n227587309.shtml"  class=newsblue1 target=_blank>以色列装甲巴士亮相法国国际军警设备展(组图)</a><font size=1 color=gray>(11/24 17:17)</font></li>
+
+<li><a href="/20051121/n227554834.shtml"  class=newsblue1 target=_blank>美印军演F-16斗苏-30 美试图了解中国苏制战机</a><font size=1 color=gray>(11/21 12:23)</font></li>
+
+<li><a href="/20051120/n227548384.shtml"  class=newsblue1 target=_blank>保美两国有关军事基地谈判有望明春前结束</a><font size=1 color=gray>(11/20 20:01)</font></li>
+
+<li><a href="/20051120/n227548172.shtml"  class=newsblue1 target=_blank>加强亚太军事存在 美敲定“华盛顿”号核航母驻日</a><font size=1 color=gray>(11/20 17:11)</font></li>
+
+<li><a href="/20051120/n227547628.shtml"  class=newsblue1 target=_blank>加强亚太军事存在 美华盛顿号核航母将驻日(图)</a><font size=1 color=gray>(11/20 15:06)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051120/n227547437.shtml"  class=newsblue1 target=_blank>驻伊美军司令递交撤军计划 待拉姆斯菲尔德批准</a><font size=1 color=gray>(11/20 14:36)</font></li>
+
+<li><a href="/20051120/n227546256.shtml"  class=newsblue1 target=_blank>英军派遣特种侦察团(SRR)的一个中队前往阿富汗</a><font size=1 color=gray>(11/20 10:16)</font></li>
+
+<li><a href="/20051120/n227545783.shtml"  class=newsblue1 target=_blank>美国国会否决从伊撤军？ 布什表示将继续战斗(组图)</a><font size=1 color=gray>(11/20 09:49)</font></li>
+
+<li><a href="/20051120/n227545323.shtml"  class=newsblue1 target=_blank>2008年“华盛顿”驻日 美国选择航母颇费心思(图)</a><font size=1 color=gray>(11/20 09:06)</font></li>
+
+<li><a href="/20051119/n227539469.shtml"  class=newsblue1 target=_blank>美官员透露：军方选定华盛顿号核航母常驻日本</a><font size=1 color=gray>(11/19 07:47)</font></li>
+
+<li><a href="/20051116/n227516737.shtml"  class=newsblue1 target=_blank>全球最后一批米格-15战斗机在阿尔巴尼亚退役</a><font size=1 color=gray>(11/16 20:00)</font></li>
+
+<li><a href="/20051116/n227516738.shtml"  class=newsblue1 target=_blank>俄印推进军事技术合作　涉及总金额达200亿美元</a><font size=1 color=gray>(11/16 19:55)</font></li>
+
+<li><a href="/20051116/n227516739.shtml"  class=newsblue1 target=_blank>更新武备白俄罗斯2006年军费开支将增长26%</a><font size=1 color=gray>(11/16 19:51)</font></li>
+
+<li><a href="/20051116/n227516740.shtml"  class=newsblue1 target=_blank>美印“对抗印度”军演F-16与苏-30巅峰对决</a><font size=1 color=gray>(11/16 19:35)</font></li>
+
+<li><a href="/20051114/n227492593.shtml"  class=newsblue1 target=_blank>俄加强与集安组织成员国军事合作 优惠价供武</a><font size=1 color=gray>(11/14 14:49)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051111/n227468706.shtml"  class=newsblue1 target=_blank>加强俄以合作俄罗斯计划从以色列购买无人机</a><font size=1 color=gray>(11/11 22:54)</font></li>
+
+<li><a href="/20051111/n227468707.shtml"  class=newsblue1 target=_blank>俄罗斯将从2006年起停止向阿富汗提供无偿军援</a><font size=1 color=gray>(11/11 22:50)</font></li>
+
+<li><a href="/20051110/n227456206.shtml"  class=newsblue1 target=_blank>实现空间军事应用印度政府考虑成立太空司令部</a><font size=1 color=gray>(11/10 21:08)</font></li>
+
+<li><a href="/20051110/n227456207.shtml"  class=newsblue1 target=_blank>军演搭桥印度海军积极拓展在太平洋的活动范围</a><font size=1 color=gray>(11/10 21:03)</font></li>
+
+<li><a href="/20051110/n227456200.shtml"  class=newsblue1 target=_blank>红外传感器提升伊炸弹杀伤力 五角大楼寝食难安</a><font size=1 color=gray>(11/10 21:01)</font></li>
+
+<li><a href="/20051110/n227456152.shtml"  class=newsblue1 target=_blank>瑞典以色列公司获邀参加印军第4轮火炮采购试验</a><font size=1 color=gray>(11/10 20:59)</font></li>
+
+<li><a href="/20051110/n227454742.shtml"  class=newsblue1 target=_blank>美军推出非致命激光枪</a><font size=1 color=gray>(11/10 15:58)</font></li>
+
+<li><a href="/20051109/n227443406.shtml"  class=newsblue1 target=_blank>美披露全年情报经费五角大楼大扩间谍网</a><font size=1 color=gray>(11/09 23:01)</font></li>
+
+<li><a href="/20051107/n227420291.shtml"  class=newsblue1 target=_blank>印美空军展开联合军演 7万名示威者基地外抗议</a><font size=1 color=gray>(11/07 23:46)</font></li>
+
+<li><a href="/20051107/n227419695.shtml"  class=newsblue1 target=_blank>中国轻武器靶场试验鉴定能力获得新突破</a><font size=1 color=gray>(11/07 19:58)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051107/n227418389.shtml"  class=newsblue1 target=_blank>美国印度空军开始举行12天联合军演 F-16会苏30</a><font size=1 color=gray>(11/07 15:55)</font></li>
+
+<li><a href="/20051105/n227400336.shtml"  class=newsblue1 target=_blank>以研发出无人侦察艇 可用激光击中50公里内目标</a><font size=1 color=gray>(11/05 10:31)</font></li>
+
+<li><a href="/20051105/n227399127.shtml"  class=newsblue1 target=_blank>日美军事合作动态解析(图)</a><font size=1 color=gray>(11/05 08:48)</font></li>
+
+<li><a href="/20051105/n227399129.shtml"  class=newsblue1 target=_blank>日美军事合作纪事(图)</a><font size=1 color=gray>(11/05 08:45)</font></li>
+
+<li><a href="/20051104/n227397448.shtml"  class=newsblue1 target=_blank>日美两国在移转协议后举行首次共同战斗机训练</a><font size=1 color=gray>(11/04 23:21)</font></li>
+
+<li><a href="/20051104/n227397273.shtml"  class=newsblue1 target=_blank>美国研制的首架无人攻击直升机已完成实战测试</a><font size=1 color=gray>(11/04 21:12)</font></li>
+
+<li><a href="/20051104/n227396848.shtml"  class=newsblue1 target=_blank>美印空军7日联合演习 抗议者将组织大规模示威</a><font size=1 color=gray>(11/04 18:06)</font></li>
+
+<li><a href="/20051103/n227387578.shtml"  class=newsblue1 target=_blank>俄明年国防采购支出增长30% 研发新导弹成重点</a><font size=1 color=gray>(11/03 22:43)</font></li>
+
+<li><a href="/20051103/n227387491.shtml"  class=newsblue1 target=_blank>俄试射新式白杨-M导弹 能撕破美国反导防御系统</a><font size=1 color=gray>(11/03 22:08)</font></li>
+
+<li><a href="/20051103/n227386756.shtml"  class=newsblue1 target=_blank>哈萨克斯坦大幅增加军费 欲打造现代化武装力量</a><font size=1 color=gray>(11/03 18:39)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051103/n227375623.shtml"  class=newsblue1 target=_blank>美海军陆战队组建特种部队 加强全球范围反恐战</a><font size=1 color=gray>(11/03 02:04)</font></li>
+
+<li><a href="/20051102/n227364128.shtml"  class=newsblue1 target=_blank>俄罗斯成功试射一枚“白杨”系列洲际弹道导弹</a><font size=1 color=gray>(11/02 03:56)</font></li>
+
+<li><a href="/20051101/n227361587.shtml"  class=newsblue1 target=_blank>日自卫队藏7项世界第一 重视军事人才素质(图)</a><font size=1 color=gray>(11/01 17:09)</font></li>
+
+<li><a href="/20051101/n227361368.shtml"  class=newsblue1 target=_blank>俄空降兵部队将在一年内装备多种新型武器系统</a><font size=1 color=gray>(11/01 16:57)</font></li>
+
+<li><a href="/20051101/n227352984.shtml"  class=newsblue1 target=_blank>俄罗斯国防部长称明年将举行多国反恐军事演习</a><font size=1 color=gray>(11/01 03:24)</font></li>
+
+<li><a href="/20051101/n227352434.shtml"  class=newsblue1 target=_blank>美军接装首批XM26模块式霰弹枪附件系统(图)</a><font size=1 color=gray>(11/01 01:40)</font></li>
+
+<li><a href="/20051101/n227352578.shtml"  class=newsblue1 target=_blank>美军接装首批XM26模块式霰弹枪附件系统(图)</a><font size=1 color=gray>(11/01 01:18)</font></li>
+
+<li><a href="/20051031/n227351863.shtml"  class=newsblue1 target=_blank>英国防部欲卖秘密地下城 尘封44年可防核武攻击</a><font size=1 color=gray>(10/31 22:02)</font></li>
+
+<li><a href="/20051031/n227351565.shtml"  class=newsblue1 target=_blank>北约将投资2900万欧元 改造立陶宛境内空军基地</a><font size=1 color=gray>(10/31 19:28)</font></li>
+
+<li><a href="/20051031/n227342706.shtml"  class=newsblue1 target=_blank>美最强核航母2008年首驻日本 窥台海一举想三得</a><font size=1 color=gray>(10/31 01:28)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051031/n227342709.shtml"  class=newsblue1 target=_blank>日美军事合作拟扩展全球 制衡中国是潜台词(图)</a><font size=1 color=gray>(10/31 01:25)</font></li>
+
+<li><a href="/20051028/n227330166.shtml"  class=newsblue1 target=_blank>日本秘密建造轻型航母 欲重新迈向军事大国(图)</a><font size=1 color=gray>(10/28 17:20)</font></li>
+
+<li><a href="/20051028/n227329993.shtml"  class=newsblue1 target=_blank>日美军事中期报告曝光 双方将加大联合行动力度</a><font size=1 color=gray>(10/28 17:07)</font></li>
+
+<li><a href="/20051028/n227330528.shtml"  class=newsblue1 target=_blank>美日突破无核三原则达成协议 核航母将常驻日本</a><font size=1 color=gray>(10/28 16:29)</font></li>
+
+<li><a href="/20051028/n227327553.shtml"  class=newsblue1 target=_blank>美国海军宣布将在日本部署核动力航母</a><font size=1 color=gray>(10/28 12:22)</font></li>
+
+<li><a href="/20051027/n227320879.shtml"  class=newsblue1 target=_blank>美国政府表示放弃2006年度钻地核弹的研究预算</a><font size=1 color=gray>(10/27 18:41)</font></li>
+
+<li><a href="/20051027/n227312194.shtml"  class=newsblue1 target=_blank>印度拟向智利售ALH高级轻型直升机 约40亿卢比</a><font size=1 color=gray>(10/27 00:29)</font></li>
+
+<li><a href="/20051026/n227311277.shtml"  class=newsblue1 target=_blank>美放弃钻地核弹计划 集中研制同功能地堡终结者</a><font size=1 color=gray>(10/26 19:36)</font></li>
+
+<li><a href="/20051026/n227310758.shtml"  class=newsblue1 target=_blank>美将向日提供MD新型预警雷达 共享雷达所获情报</a><font size=1 color=gray>(10/26 16:43)</font></li>
+
+<li><a href="/20051026/n227310761.shtml"  class=newsblue1 target=_blank>专家认为美国防工业正在丧失武器设计能力(图)</a><font size=1 color=gray>(10/26 16:40)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051026/n227309518.shtml"  class=newsblue1 target=_blank>五千美军明年进驻东欧</a><font size=1 color=gray>(10/26 14:08)</font></li>
+
+<li><a href="/20051025/n227302991.shtml"  class=newsblue1 target=_blank>美布什号航母常驻日本 遏制中国发展航母(组图)</a><font size=1 color=gray>(10/25 18:45)</font></li>
+
+<li><a href="/20051025/n227301154.shtml"  class=newsblue1 target=_blank>印度海军“辛都科什”号柴电潜艇完成改进工作(图)</a><font size=1 color=gray>(10/25 13:09)</font></li>
+
+<li><a href="/20051025/n227297511.shtml"  class=newsblue1 target=_blank>法印两国海军2006年将举行联合海上演习</a><font size=1 color=gray>(10/25 08:39)</font></li>
+
+<li><a href="/20051022/n227278726.shtml"  class=newsblue1 target=_blank>美媒体称小泉布什将磋商美最先进核航母常驻日</a><font size=1 color=gray>(10/22 18:23)</font></li>
+
+<li><a href="/20051021/n227272731.shtml"  class=newsblue1 target=_blank>法国空军计划购买两架俄制苏-26运动型飞机(图)</a><font size=1 color=gray>(10/21 19:19)</font></li>
+
+<li><a href="/20051021/n227269037.shtml"  class=newsblue1 target=_blank>美国阻止以色列向委内瑞拉出售战机军事技术</a><font size=1 color=gray>(10/21 11:42)</font></li>
+
+<li><a href="/20051020/n227261329.shtml"  class=newsblue1 target=_blank>美国未来战斗系统计划选择Ⅰ类无人机</a><font size=1 color=gray>(10/20 18:35)</font></li>
+
+<li><a href="/20051020/n227260731.shtml"  class=newsblue1 target=_blank>苏丹拟从俄罗斯进口运输直升机 未宣布购买数量</a><font size=1 color=gray>(10/20 16:55)</font></li>
+
+<li><a href="/20051020/n227260548.shtml"  class=newsblue1 target=_blank>俄再次成功试射一枚洲际弹道导弹 命中预定目标</a><font size=1 color=gray>(10/20 16:51)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051020/n227260383.shtml"  class=newsblue1 target=_blank>EADS公司将为法国防部建造2颗早期预警微型卫星</a><font size=1 color=gray>(10/20 16:50)</font></li>
+
+<li><a href="/20051020/n227260385.shtml"  class=newsblue1 target=_blank>俄和白俄成功测试“莫什卡尔人”超小型无人机</a><font size=1 color=gray>(10/20 16:31)</font></li>
+
+<li><a href="/20051020/n227260389.shtml"  class=newsblue1 target=_blank>俄罗斯将对今年8月份遇险的深海潜水器进行改进</a><font size=1 color=gray>(10/20 16:21)</font></li>
+
+<li><a href="/20051019/n227250942.shtml"  class=newsblue1 target=_blank>德海军新增两艘世界最先进潜艇 潜艇数量达11艘</a><font size=1 color=gray>(10/19 23:55)</font></li>
+
+<li><a href="/20051019/n227250837.shtml"  class=newsblue1 target=_blank>俄罗斯与白俄罗斯明年举行大规模联合军事演习</a><font size=1 color=gray>(10/19 23:22)</font></li>
+
+<li><a href="/20051019/n227250788.shtml"  class=newsblue1 target=_blank>俄军将在2015年之前列装新一代指挥和通讯系统</a><font size=1 color=gray>(10/19 23:14)</font></li>
+
+<li><a href="/20051019/n227250789.shtml"  class=newsblue1 target=_blank>俄空军司令证实空军将从2006年起装备苏-34战机</a><font size=1 color=gray>(10/19 23:09)</font></li>
+
+<li><a href="/20051019/n227243076.shtml"  class=newsblue1 target=_blank>印俄两国海军联合军事演习在印度东部沿海展开</a><font size=1 color=gray>(10/19 09:10)</font></li>
+
+<li><a href="/20051019/n227243020.shtml"  class=newsblue1 target=_blank>日本装备最昂贵坦克 岛国热衷陆战武器引发关注</a><font size=1 color=gray>(10/19 09:06)</font></li>
+
+<li><a href="/20051018/n227238985.shtml"  class=newsblue1 target=_blank>印俄联合军演在印度东部沿海展开 进入第二阶段</a><font size=1 color=gray>(10/18 21:59)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051018/n227236072.shtml"  class=newsblue1 target=_blank>揭秘保卫华盛顿的美空军121中队</a><font size=1 color=gray>(10/18 14:39)</font></li>
+
+<li><a href="/20051018/n227233792.shtml"  class=newsblue1 target=_blank>法国国防预算连续四年增长 航母成最大采购项目</a><font size=1 color=gray>(10/18 10:14)</font></li>
+
+<li><a href="/20051018/n227233795.shtml"  class=newsblue1 target=_blank>两艘最新212型常规潜艇同时加盟德国海军</a><font size=1 color=gray>(10/18 10:13)</font></li>
+
+<li><a href="/20051018/n227233627.shtml"  class=newsblue1 target=_blank>首套安装SPY-1F雷达的“宙斯盾”系统进行海试</a><font size=1 color=gray>(10/18 10:11)</font></li>
+
+<li><a href="/20051018/n227233575.shtml"  class=newsblue1 target=_blank>美军选择B-52用于电子战 压制敌方空中防御</a><font size=1 color=gray>(10/18 10:09)</font></li>
+
+<li><a href="/20051018/n227233540.shtml"  class=newsblue1 target=_blank>诺斯罗普·格鲁曼公司推进动能拦截弹研制</a><font size=1 color=gray>(10/18 10:06)</font></li>
+
+<li><a href="/20051018/n227233483.shtml"  class=newsblue1 target=_blank>2010年韩国将部署装备先进武器的下代主战坦克</a><font size=1 color=gray>(10/18 10:03)</font></li>
+
+<li><a href="/20051018/n227233224.shtml"  class=newsblue1 target=_blank>德国陆军计划订购81辆Bv206S全地形军用车(图)</a><font size=1 color=gray>(10/18 09:59)</font></li>
+
+<li><a href="/20051018/n227233624.shtml"  class=newsblue1 target=_blank>俄第1防空军将装备S-400新型导弹防御系统(图)</a><font size=1 color=gray>(10/18 09:40)</font></li>
+
+<li><a href="/20051018/n227232903.shtml"  class=newsblue1 target=_blank>普京强调俄罗斯武器出口必须符合国际市场需求</a><font size=1 color=gray>(10/18 09:35)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051018/n227233219.shtml"  class=newsblue1 target=_blank>俄罗斯不打算在印度洋建立海军基地</a><font size=1 color=gray>(10/18 09:34)</font></li>
+
+<li><a href="/20051018/n227233103.shtml"  class=newsblue1 target=_blank>雷神将为“台风”战机提供抗干扰GPS天线系统(图)</a><font size=1 color=gray>(10/18 09:11)</font></li>
+
+<li><a href="/20051018/n227232878.shtml"  class=newsblue1 target=_blank>俄罗斯希望同印度签署保护军事知识产权的协议</a><font size=1 color=gray>(10/18 09:06)</font></li>
+
+<li><a href="/20051018/n227232513.shtml"  class=newsblue1 target=_blank>美称巴基斯坦空军计划购80架美制F-16战机(图)</a><font size=1 color=gray>(10/18 09:02)</font></li>
+
+<li><a href="/20051018/n227232681.shtml"  class=newsblue1 target=_blank>俄罗斯研制数种先进导弹寻的头</a><font size=1 color=gray>(10/18 08:50)</font></li>
+
+<li><a href="/20051018/n227232095.shtml"  class=newsblue1 target=_blank>第六届汉城航展今日开幕 200余家公司将参展</a><font size=1 color=gray>(10/18 08:24)</font></li>
+
+<li><a href="/20051018/n227232092.shtml"  class=newsblue1 target=_blank>美可能阻止西班牙向委内瑞拉出售C-295运输机</a><font size=1 color=gray>(10/18 08:16)</font></li>
+
+<li><a href="/20051018/n227231961.shtml"  class=newsblue1 target=_blank>希腊军火进口居世界第三 五年花了53亿美元</a><font size=1 color=gray>(10/18 08:10)</font></li>
+
+<li><a href="/20051018/n227231694.shtml"  class=newsblue1 target=_blank>美设计新型军用运输机 预计2020年前后投入使用</a><font size=1 color=gray>(10/18 08:06)</font></li>
+
+<li><a href="/20051018/n227230494.shtml"  class=newsblue1 target=_blank>美国专家警告美国当局称不能减少在亚洲的军力</a><font size=1 color=gray>(10/18 00:01)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051017/n227227732.shtml"  class=newsblue1 target=_blank>俄国防部长观看印俄军演时险遭空投吉普车压身</a><font size=1 color=gray>(10/17 20:36)</font></li>
+
+<li><a href="/20051017/n227227916.shtml"  class=newsblue1 target=_blank>美国将着手新型核研究 低成本且无需进行核试验</a><font size=1 color=gray>(10/17 20:10)</font></li>
+
+<li><a href="/20051017/n227226152.shtml"  class=newsblue1 target=_blank>俄印联合军演开始 俄不否认未来中俄印军演可能</a><font size=1 color=gray>(10/17 16:03)</font></li>
+
+<li><a href="/20051017/n227225637.shtml"  class=newsblue1 target=_blank>澳大利亚举行最大规模反恐演习</a><font size=1 color=gray>(10/17 15:15)</font></li>
+
+<li><a href="/20051017/n227225549.shtml"  class=newsblue1 target=_blank>澳大利亚举行最大规模反恐演习</a><font size=1 color=gray>(10/17 15:02)</font></li>
+
+<li><a href="/20051017/n227225251.shtml"  class=newsblue1 target=_blank>巴基斯坦空军将采购80架F-16战机(组图)</a><font size=1 color=gray>(10/17 14:20)</font></li>
+
+<li><a href="/20051017/n227225067.shtml"  class=newsblue1 target=_blank>印报：印俄军演出事故 俄国防部长险些遭殃</a><font size=1 color=gray>(10/17 13:50)</font></li>
+
+<li><a href="/20051017/n227225082.shtml"  class=newsblue1 target=_blank>印报：印俄军演出事故 俄国防部长险些遭殃</a><font size=1 color=gray>(10/17 13:47)</font></li>
+
+<li><a href="/20051017/n227224796.shtml"  class=newsblue1 target=_blank>俄外长称中亚是俄影响范围 要求美军事基地撤出</a><font size=1 color=gray>(10/17 12:53)</font></li>
+
+<li><a href="/20051017/n227223891.shtml"  class=newsblue1 target=_blank>2架英空军鹞式战机在驻阿美军基地遭火箭弹袭击</a><font size=1 color=gray>(10/17 11:18)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051017/n227223704.shtml"  class=newsblue1 target=_blank>俄罗斯军事专家抵达加沙培训巴勒斯坦安全部队</a><font size=1 color=gray>(10/17 11:03)</font></li>
+
+<li><a href="/20051017/n227223355.shtml"  class=newsblue1 target=_blank>BAE系统公司开始为美海军LPD-17舰进行舾装(图)</a><font size=1 color=gray>(10/17 10:48)</font></li>
+
+<li><a href="/20051017/n227222874.shtml"  class=newsblue1 target=_blank>巴基斯坦将采购多达80架F-16“战隼”战斗机</a><font size=1 color=gray>(10/17 10:13)</font></li>
+
+<li><a href="/20051017/n227222875.shtml"  class=newsblue1 target=_blank>德国122和123级护卫舰将进行作战系统改造</a><font size=1 color=gray>(10/17 10:11)</font></li>
+
+<li><a href="/20051017/n227222878.shtml"  class=newsblue1 target=_blank>西班牙空军为战机装备KEPD350远距防区外导弹</a><font size=1 color=gray>(10/17 10:09)</font></li>
+
+<li><a href="/20051017/n227222877.shtml"  class=newsblue1 target=_blank>美海军最后一艘“斯普鲁恩斯”级驱逐舰退役</a><font size=1 color=gray>(10/17 10:08)</font></li>
+
+<li><a href="/20051017/n227222879.shtml"  class=newsblue1 target=_blank>英国成功测试潜艇上“三叉戟”导弹的发射</a><font size=1 color=gray>(10/17 10:07)</font></li>
+
+<li><a href="/20051017/n227222880.shtml"  class=newsblue1 target=_blank>英国45型新型驱逐舰首舰“勇敢”号即将下水</a><font size=1 color=gray>(10/17 10:06)</font></li>
+
+<li><a href="/20051017/n227220809.shtml"  class=newsblue1 target=_blank>哈萨克斯坦2006年军费将增长30% 大多用于工资</a><font size=1 color=gray>(10/17 08:15)</font></li>
+
+<li><a href="/20051015/n227207447.shtml"  class=newsblue1 target=_blank>俄美角逐中亚 俄罗斯与中亚国家可能组建同盟军</a><font size=1 color=gray>(10/15 09:55)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051014/n227200056.shtml"  class=newsblue1 target=_blank>日本称美日有望本月达成重新部署驻日美军协议</a><font size=1 color=gray>(10/14 10:42)</font></li>
+
+<li><a href="/20051014/n227198915.shtml"  class=newsblue1 target=_blank>加拿大空军转型 放眼21世纪的空天部队之路</a><font size=1 color=gray>(10/14 09:53)</font></li>
+
+<li><a href="/20051014/n227198766.shtml"  class=newsblue1 target=_blank>加拿大为CF-18战斗机采购红外传感器吊舱(组图)</a><font size=1 color=gray>(10/14 09:45)</font></li>
+
+<li><a href="/20051014/n227198705.shtml"  class=newsblue1 target=_blank>美驻伊陆军兵员短缺 美将空军人员改为地面部队</a><font size=1 color=gray>(10/14 09:38)</font></li>
+
+<li><a href="/20051014/n227198682.shtml"  class=newsblue1 target=_blank>美国海军陆战队大量采购战术手持式热像仪(图)</a><font size=1 color=gray>(10/14 09:35)</font></li>
+
+<li><a href="/20051014/n227198454.shtml"  class=newsblue1 target=_blank>日本成功试飞超音速飞机 希望快速跃入航空前列</a><font size=1 color=gray>(10/14 09:12)</font></li>
+
+<li><a href="/20051013/n227193297.shtml"  class=newsblue1 target=_blank>印军拟改进早期引进的“搜索者”-1型无人机</a><font size=1 color=gray>(10/13 17:01)</font></li>
+
+<li><a href="/20051013/n227189205.shtml"  class=newsblue1 target=_blank>西班牙海岸警卫队将装备3部侧视空中雷达系统</a><font size=1 color=gray>(10/13 10:24)</font></li>
+
+<li><a href="/20051013/n227188370.shtml"  class=newsblue1 target=_blank>印度最高额军购合同出炉 要买法国6艘鲉鱼潜艇</a><font size=1 color=gray>(10/13 10:10)</font></li>
+
+<li><a href="/20051013/n227188313.shtml"  class=newsblue1 target=_blank>法国向澳大利亚陆军演示“凯撒”式自行榴弹炮</a><font size=1 color=gray>(10/13 10:05)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051013/n227189212.shtml"  class=newsblue1 target=_blank>塞浦路斯将举行四年来首次大规模军事演习</a><font size=1 color=gray>(10/13 10:03)</font></li>
+
+<li><a href="/20051013/n227187607.shtml"  class=newsblue1 target=_blank>俄印军演进入实兵预演阶段 俄防长将赴印度视察</a><font size=1 color=gray>(10/13 09:02)</font></li>
+
+<li><a href="/20051013/n227187087.shtml"  class=newsblue1 target=_blank>赖斯保住中亚最大美军基地</a><font size=1 color=gray>(10/13 08:10)</font></li>
+
+<li><a href="/20051013/n227187085.shtml"  class=newsblue1 target=_blank>欧直UH-145直升机参与美陆军轻型直升机竞标(图)</a><font size=1 color=gray>(10/13 08:01)</font></li>
+
+<li><a href="/20051012/n227180640.shtml"  class=newsblue1 target=_blank>北约在地中海举行“注定光荣-2005”联合演习</a><font size=1 color=gray>(10/12 15:07)</font></li>
+
+<li><a href="/20051012/n227180433.shtml"  class=newsblue1 target=_blank>印将同俄签订购买9K58旋风多管火箭炮合同(图)</a><font size=1 color=gray>(10/12 14:44)</font></li>
+
+<li><a href="/20051012/n227180363.shtml"  class=newsblue1 target=_blank>美国军方计划增购“标枪”反坦克武器系统(图)</a><font size=1 color=gray>(10/12 14:36)</font></li>
+
+<li><a href="/20051012/n227180294.shtml"  class=newsblue1 target=_blank>神六引关注 宇航大国俄罗斯想“进口”中国技术</a><font size=1 color=gray>(10/12 14:24)</font></li>
+
+<li><a href="/20051012/n227179748.shtml"  class=newsblue1 target=_blank>俄军队焕发新式军装 四大系列将做减装措施(图)</a><font size=1 color=gray>(10/12 13:15)</font></li>
+
+<li><a href="/20051012/n227179720.shtml"  class=newsblue1 target=_blank>日本巨资建海外航天基地 军事用途越发明显(图)</a><font size=1 color=gray>(10/12 13:08)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051012/n227179103.shtml"  class=newsblue1 target=_blank>阿富汗武装分子效仿伊拉克发动自杀式恐怖袭击</a><font size=1 color=gray>(10/12 11:46)</font></li>
+
+<li><a href="/20051012/n227179062.shtml"  class=newsblue1 target=_blank>捷克国防部拟出台一项购买中型运输机采办计划</a><font size=1 color=gray>(10/12 11:44)</font></li>
+
+<li><a href="/20051012/n227179030.shtml"  class=newsblue1 target=_blank>英空军男教官裸照勾引女学员 女学员以裸照回应</a><font size=1 color=gray>(10/12 11:42)</font></li>
+
+<li><a href="/20051012/n227178985.shtml"  class=newsblue1 target=_blank>波兰一TS-11型喷气式军用教练机坠毁飞行员丧生</a><font size=1 color=gray>(10/12 11:38)</font></li>
+
+<li><a href="/20051012/n227178955.shtml"  class=newsblue1 target=_blank>吉尔吉斯称美国驻吉军事基地取决于阿富汗局势</a><font size=1 color=gray>(10/12 11:35)</font></li>
+
+<li><a href="/20051012/n227178884.shtml"  class=newsblue1 target=_blank>北约在地中海举行“注定光荣-2005”联合演习</a><font size=1 color=gray>(10/12 10:55)</font></li>
+
+<li><a href="/20051011/n227172872.shtml"  class=newsblue1 target=_blank>美国计划研制新型陆基洲际弹道导弹</a><font size=1 color=gray>(10/11 22:30)</font></li>
+
+<li><a href="/20051011/n227172543.shtml"  class=newsblue1 target=_blank>印度拟最迟明年初进行国产低温发动机测试飞行</a><font size=1 color=gray>(10/11 22:25)</font></li>
+
+<li><a href="/20051011/n227171364.shtml"  class=newsblue1 target=_blank>俄罗斯将削减在拜克奴尔航天发射场的军事存在</a><font size=1 color=gray>(10/11 17:04)</font></li>
+
+<li><a href="/20051011/n227169998.shtml"  class=newsblue1 target=_blank>英应对驻伊部队兵员不足 将征召预备役退役军官</a><font size=1 color=gray>(10/11 14:44)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051011/n227170003.shtml"  class=newsblue1 target=_blank>美“企业”号航母出事故 电容器吃进沙子致熄火</a><font size=1 color=gray>(10/11 14:32)</font></li>
+
+<li><a href="/20051011/n227169668.shtml"  class=newsblue1 target=_blank>美国海军完成下一代舰载通信数据链系统的测试</a><font size=1 color=gray>(10/11 13:54)</font></li>
+
+<li><a href="/20051011/n227169670.shtml"  class=newsblue1 target=_blank>飓风卷走“钞票”美空军加油机采购计划缩水</a><font size=1 color=gray>(10/11 13:47)</font></li>
+
+<li><a href="/20051011/n227169447.shtml"  class=newsblue1 target=_blank>日本种子岛航天中心 间谍卫星从这里升空(组图)</a><font size=1 color=gray>(10/11 13:40)</font></li>
+
+<li><a href="/20051011/n227167065.shtml"  class=newsblue1 target=_blank>新雷达将使美国空军更具空战优势 日台急欲抢购</a><font size=1 color=gray>(10/11 10:24)</font></li>
+
+<li><a href="/20051011/n227166365.shtml"  class=newsblue1 target=_blank>美国将于2006年试验巨型GBU-43/B制导炸弹(图)</a><font size=1 color=gray>(10/11 09:44)</font></li>
+
+<li><a href="/20051011/n227166918.shtml"  class=newsblue1 target=_blank>俄将向阿富汗军队提供3000万美元的军事装备</a><font size=1 color=gray>(10/11 09:43)</font></li>
+
+<li><a href="/20051011/n227166281.shtml"  class=newsblue1 target=_blank>美航天司令部:已部署可阻断对手卫星通信的设备</a><font size=1 color=gray>(10/11 09:39)</font></li>
+
+<li><a href="/20051010/n227161811.shtml"  class=newsblue1 target=_blank>美军在韩国部署的隐形战机全部返回美国</a><font size=1 color=gray>(10/10 20:48)</font></li>
+
+<li><a href="/20051010/n227161018.shtml"  class=newsblue1 target=_blank>法国和马达加斯加举行实弹军演</a><font size=1 color=gray>(10/10 18:25)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051010/n227160938.shtml"  class=newsblue1 target=_blank>印度拟5年内发射一颗微型遥感卫星</a><font size=1 color=gray>(10/10 17:53)</font></li>
+
+<li><a href="/20051010/n227160762.shtml"  class=newsblue1 target=_blank>印度空军敦促推进国产无人机研制项目</a><font size=1 color=gray>(10/10 16:42)</font></li>
+
+<li><a href="/20051010/n227160217.shtml"  class=newsblue1 target=_blank>欧洲EF2000战斗机首次进行跨大西洋测试(图)</a><font size=1 color=gray>(10/10 16:28)</font></li>
+
+<li><a href="/20051010/n227159303.shtml"  class=newsblue1 target=_blank>美军15架F-117A隐形战机全部离韩返回美国本土</a><font size=1 color=gray>(10/10 14:02)</font></li>
+
+<li><a href="/20051010/n227157510.shtml"  class=newsblue1 target=_blank>德陆军采购轻型多用途战车 执行国外任务</a><font size=1 color=gray>(10/10 10:23)</font></li>
+
+<li><a href="/20051010/n227157511.shtml"  class=newsblue1 target=_blank>美陆军启动新“支奴干”重型直升机生产计划</a><font size=1 color=gray>(10/10 10:22)</font></li>
+
+<li><a href="/20051010/n227157447.shtml"  class=newsblue1 target=_blank>英国陆军“小猎犬”战斗工程车开始试验(图)</a><font size=1 color=gray>(10/10 10:19)</font></li>
+
+<li><a href="/20051010/n227157449.shtml"  class=newsblue1 target=_blank>韩国和俄罗斯开始联合研制K-MSAM中程地空导弹</a><font size=1 color=gray>(10/10 10:17)</font></li>
+
+<li><a href="/20051010/n227157353.shtml"  class=newsblue1 target=_blank>“震死你没商量”:美国海军研究鱼雷防御新技术</a><font size=1 color=gray>(10/10 10:16)</font></li>
+
+<li><a href="/20051010/n227157450.shtml"  class=newsblue1 target=_blank>欧洲战斗机“台风”首次进行跨大西洋测试试验</a><font size=1 color=gray>(10/10 10:16)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051010/n227157452.shtml"  class=newsblue1 target=_blank>俄罗斯与印度将于10月于太平洋进行联合海空演习</a><font size=1 color=gray>(10/10 10:15)</font></li>
+
+<li><a href="/20051010/n227157453.shtml"  class=newsblue1 target=_blank>俄罗斯四天内联系两次进行洲际弹道导弹潜射</a><font size=1 color=gray>(10/10 10:14)</font></li>
+
+<li><a href="/20051010/n227156714.shtml"  class=newsblue1 target=_blank>俄媒体：未来美国海军陆战队将从太空发起进攻</a><font size=1 color=gray>(10/10 09:59)</font></li>
+
+<li><a href="/20051010/n227156565.shtml"  class=newsblue1 target=_blank>南非“鹰”Mk120教练机开始在南非空军服役(图)</a><font size=1 color=gray>(10/10 09:51)</font></li>
+
+<li><a href="/20051010/n227156107.shtml"  class=newsblue1 target=_blank>印度一天三次试射导弹 想要构建新型反导系统</a><font size=1 color=gray>(10/10 09:25)</font></li>
+
+<li><a href="/20051010/n227156036.shtml"  class=newsblue1 target=_blank>苏27坠毁北约得绝密部件 俄战机要换敌我识别器</a><font size=1 color=gray>(10/10 09:21)</font></li>
+
+<li><a href="/20051010/n227155945.shtml"  class=newsblue1 target=_blank>美军F/A-22战机将在2005年底具备初始作战能力</a><font size=1 color=gray>(10/10 09:10)</font></li>
+
+<li><a href="/20051009/n227151508.shtml"  class=newsblue1 target=_blank>军情五处密件：数百组织谋取大规模杀伤性武器</a><font size=1 color=gray>(10/09 15:44)</font></li>
+
+<li><a href="/20051009/n227150446.shtml"  class=newsblue1 target=_blank>美国陆军面临招募困难 计划改组以增加作战部队</a><font size=1 color=gray>(10/09 12:48)</font></li>
+
+<li><a href="/20051009/n227149790.shtml"  class=newsblue1 target=_blank>美国空军进行新型战斗搜索和救援直升机招标</a><font size=1 color=gray>(10/09 10:27)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051009/n227148744.shtml"  class=newsblue1 target=_blank>俄罗斯将从2006年起生产试验型苏-35战斗机(图)</a><font size=1 color=gray>(10/09 09:53)</font></li>
+
+<li><a href="/20051009/n227149463.shtml"  class=newsblue1 target=_blank>87架飞机参战美国空军“对抗雷06-1”演习开始</a><font size=1 color=gray>(10/09 09:49)</font></li>
+
+<li><a href="/20051009/n227148682.shtml"  class=newsblue1 target=_blank>俄国国防部宣布将与印度举行联合反恐军事演习</a><font size=1 color=gray>(10/09 09:48)</font></li>
+
+<li><a href="/20051009/n227148810.shtml"  class=newsblue1 target=_blank>俄罗斯将在塔吉克斯坦修建空军基地</a><font size=1 color=gray>(10/09 09:28)</font></li>
+
+<li><a href="/20051008/n227144388.shtml"  class=newsblue1 target=_blank>印度陆军将采购228辆轻型轮式装甲车</a><font size=1 color=gray>(10/08 16:46)</font></li>
+
+<li><a href="/20051008/n227144158.shtml"  class=newsblue1 target=_blank>俄海军成功发射一枚洲际弹道导弹(组图)</a><font size=1 color=gray>(10/08 16:25)</font></li>
+
+<li><a href="/20051008/n227144144.shtml"  class=newsblue1 target=_blank>俄海军成功发射一枚洲际弹道导弹</a><font size=1 color=gray>(10/08 16:18)</font></li>
+
+<li><a href="/20051008/n227144143.shtml"  class=newsblue1 target=_blank>韩国空军将于2007年开始部署F-15K战机</a><font size=1 color=gray>(10/08 15:08)</font></li>
+
+<li><a href="/20051008/n227143583.shtml"  class=newsblue1 target=_blank>韩国和俄罗斯开始联合研制K-MSAM中程地空导弹</a><font size=1 color=gray>(10/08 14:55)</font></li>
+
+<li><a href="/20051008/n227143539.shtml"  class=newsblue1 target=_blank>俄海军“因陀罗-2005”演习参演舰艇即将抵印</a><font size=1 color=gray>(10/08 14:48)</font></li>
+<br><table><tr><td></td></tr></table>
+
+<li><a href="/20051008/n227143479.shtml"  class=newsblue1 target=_blank>俄军3架伊尔-76运输机将参加印俄联合反恐演习</a><font size=1 color=gray>(10/08 14:43)</font></li>
+
+<li><a href="/20051008/n227143458.shtml"  class=newsblue1 target=_blank>法意将联合建造27艘FREMM级新型隐身护卫舰</a><font size=1 color=gray>(10/08 14:23)</font></li>
+
+<li><a href="/20051008/n227143409.shtml"  class=newsblue1 target=_blank>图文：美国海军“蓝天使”飞行表演队最后演习</a><font size=1 color=gray>(10/08 14:20)</font></li>
+
+<li><a href="/20051008/n227143260.shtml"  class=newsblue1 target=_blank>俄核潜艇发射一枚RSM-54洲际弹道导弹击中目标</a><font size=1 color=gray>(10/08 14:13)</font></li>
+
+<li><a href="/20051008/n227143064.shtml"  class=newsblue1 target=_blank>美国军备多国色彩 五角大楼海外采购日益增多</a><font size=1 color=gray>(10/08 13:25)</font></li>
+
+<li><a href="/20051008/n227142947.shtml"  class=newsblue1 target=_blank>日本拟再次为俄拆卸退役核潜艇提供援助</a><font size=1 color=gray>(10/08 12:27)</font></li>
+
+<li><a href="/20051008/n227142647.shtml"  class=newsblue1 target=_blank>俄官员称塔吉克斯坦批准俄修建一永久空军基地</a><font size=1 color=gray>(10/08 11:24)</font></li>
+
+<li><a href="/20051008/n227142022.shtml"  class=newsblue1 target=_blank>立陶宛释放俄苏-27飞行员 北约获战机绝密部件</a><font size=1 color=gray>(10/08 10:50)</font></li>
+
+<li><a href="/20051008/n227141985.shtml"  class=newsblue1 target=_blank>建核司令部想确保二次核打击 印度要造400枚核弹</a><font size=1 color=gray>(10/08 10:33)</font></li>
+
+<li><a href="/20051008/n227142100.shtml"  class=newsblue1 target=_blank>俄罗斯举行“波罗的海2005”大规模军事演习</a><font size=1 color=gray>(10/08 10:32)</font></li> </sohu_cms_include>
+ <sohu_cms_include:sohu_news_subject_frag2> </sohu_cms_include>
+</td>
+<td width=10><br></td>
+<td width=160 valign=top align=center background=/wimages/bj02.gif>
+ 
+ 
+ <sohu_cms_include:sohu_news_subject_frag11> </sohu_cms_include>
+</td></tr>
+<tr><td colspan=2 height=5><img src=/wimages/c.gif width=1 height=1></td>
+<td><img src=/wimages/di.gif border=0 width=160 height=5></td></tr>
+</table>
+<br>
+<!----------标准尾 开始 ------------>
+<sohu_cms_include:sohu_news_copyright><br>
+<script language="javascript" src="http://www.sohu.net/common/sohunettail_local.js"></script>
+<hr size="1" width="760" noshade>
+<table width=760 border=0 cellspacing=0 cellpadding=0>
+  <tr> 
+    <td align=center><a href=http://www.chinaren.com/  class="black" target=_blank>ChinaRen</a> - <a
+href=http://hr.sohu.com/hrm.html class="black" target=_blank>搜狐招聘</a> - <a
+href=http://add.sohu.com/ class="black" target=_blank>网站登录</a> - <a href=http://help.sohu.com/ class="black" target=_blank>帮助中心</a> 
+      - <a
+href="" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sohu.com');return false;" class="black" target=_blank>设置首页</a> - <a
+href=http://adinfo.sohu.com class="black" target=_blank>广告服务</a> - <a
+href=http://www.sohu.com/about/lianxi.htm class="black" target=_blank>联系方式</a> - <a
+href=http://www.sohu.com/about/privacy.html class="black" target=_blank>保护隐私权</a> - <a href="http://www.sohu.com/about/English" class="black" target=_blank>About SOHU</a> - <a href=http://www.sohu.com/about/  class="black" target=_blank>公司介绍</a><br>
+      <span class=eng>Copyright &copy; 2005 Sohu.com Inc. All rights reserved. 
+      搜狐公司 <a href=http://www.sohu.com/about/copyright.html target=_blank class=black>版权所有</a></span></td>
+  </tr>
+</table><p></p>
+<script language="JavaScript" src="http://nielsen.js.sohu.com/nnselect.js">
+</script>
+<noscript>
+<img src='http://ping.nnselect.com/ping.gif?c=119' height='1' width='1'>
+</noscript> </sohu_cms_include>
+<!----------标准尾 结束 ------------>
+</center>
+</body>
+</html>
+

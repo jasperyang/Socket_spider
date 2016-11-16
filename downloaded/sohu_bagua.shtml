@@ -1,0 +1,252 @@
+HTTP/1.1 200 OK
+Date: Tue, 15 Nov 2016 07:20:23 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips
+Last-Modified: Thu, 05 Nov 2015 09:39:25 GMT
+Accept-Ranges: bytes
+Content-Length: 17324
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<!doctype html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<script type="text/javascript">
+  var pvinsight_page_ancestors = '143746642;143746651;212846373;213377553';
+</script>
+
+
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=GBK" />
+<meta name="description" content="世态万象" />
+<meta name="keywords" content="世态万象" />
+<meta name="robots" content="all" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>世态万象-搜狐新闻</title>
+<script src="http://www.sohu.com/sohuflash_1.js" type="text/javascript"></script>
+<link type="text/css" rel="stylesheet"
+href="http://news.sohu.com/upload/img071012/global.css" />
+<link type="text/css" rel="stylesheet"
+href="http://yule.sohu.com/upload/20071109style/style.css" />
+<style>
+.f14list li a:visited {color:#800080;text-decoration:underline}
+.f14list li a:hover {color:#f00;text-decoration:underline}
+.main .rc { display:none}
+.main .lc .f14list SPAN.star {color:#FF9900;font-size:10px;padding-left:8px}
+.main .lc { width:950px;}
+.main .lc h2 { background-repeat:no-repeat}
+#navF { width:950px; margin-bottom:5px;background:url(http://news.sohu.com/upload/imgs_gongyi07/nav_bg01.gif);height:32px;margin:3px auto 5px;}
+#navF ul {float:right;padding-right:14px;}
+#navF li {float:left;height:21px;padding:11px 4px 0;color:#fff;font-weight: bold;}
+#navF li a {color:#fff;}
+.area { margin:0 auto; width:950px;}
+#navFocus {background:#B90600 url(http://i1.itc.cn/20081022/213_87d09813_a55a_4501_8a4b_646a6e4b4cef_0.gif) no-repeat right;height:45px; width:950px; margin:0 auto}
+#navFocus ul {float:right;}
+#navFocus li {height:19px;padding-top:26px;color:#fff;font-weight: bold;width:65px;float:left;}
+#navFocus li a {color:#fff;}
+</style>
+<!-- 模板统一样式碎片，请勿擅自修改 -->
+<link type="text/css" rel="stylesheet"
+href="http://news.sohu.com/upload/img071012/global.css" />
+<link href="http://yule.sohu.com/upload/20071109style/style.css"
+rel="stylesheet" type="text/css" />
+<style>
+.area {width:950px;clear:both;margin:0 auto}
+</style>
+<body>
+<div class="scola_top_bg">
+<div id="channelNav" class="Area">
+
+<!--新闻频道统一标识 请勿改动-->
+
+<div style="float:left;"><a href="http://www.sohu.com/" target="_blank"><IMG height=22 
+src="http://images.sohu.com/uiue/sohu_logo/2005/sohu_logo2.gif" border=0></a><A href="http://news.sohu.com"><IMG height=22 
+src="http://images.sohu.com/uiue/sohu_logo/2006/news_logo2.gif" 
+border=0 ></A></div>
+
+<!--新闻频道统一标识 非UE，频道人员不得修改！！end-->
+
+<div id="fullscreenad" style="display:none"></div>
+<style>#channelNav ul {margin-right:5px;width:auto;clear:none}</style>
+<ul class="right">
+	<li><a href="http://www.sohu.com/">搜狐首页</a></li><li>-</li>
+	<li class="red"><a href="http://news.sohu.com/">新闻</a></li><li>-</li>
+	<li><a href="http://sports.sohu.com/">体育</a></li><li>-</li>
+	<li><a href="http://s.sohu.com/">S</a></li><li>-</li>
+	<li><a href="http://yule.sohu.com/">娱乐</a></li><li>-</li>
+	<li><a href="http://tv.sohu.com/yule/">V</a></li><li>-</li>
+	<li class="red"><a href="http://business.sohu.com/">财经</a></li><li>-</li>
+	<li><a href="http://it.sohu.com/">IT</a></li><li>-</li>
+	<li><a href="http://auto.sohu.com/">汽车</a></li><li>-</li>
+	<li><a href="http://www.focus.cn">房产</a></li><li>-</li>
+	<li><a href="http://women.sohu.com/">女人</a></li><li>-</li>
+	<li><a href="http://tv.sohu.com/">视频</a></li><li>-</li>
+	<li><a href="http://my.tv.sohu.com/">播客</a></li><li>-</li>
+	<li><a href="http://t.sohu.com/">微博</a></li><li>-</li>
+	<li><a href="http://login.mail.sohu.com/">邮件</a></li><li>-</li>
+	<li><a href="http://blog.sohu.com/">博客</a></li><li>-</li>
+	<li><a href="http://club.sohu.com/">BBS</a></li><li>-</li>
+	<li><a href="http://comment2.news.sohu.com/">我说两句</a></li><li>-</li>
+	<li class="end"><a href="http://www.sogou.com/">搜狗</a></li>
+</ul>
+</div>
+<div class=Area id=navFocus><img class=left height=45 alt="" src="http://photocdn.sohu.com/20080131/Img254993386.jpg" width=393 useMap=#Map border=0> <map name=Map><area shape=RECT target=_blank coords=330,19,402,37 href="http://61.135.132.134/goto.php?aid=186&amp;pid=1186"></map>
+<ul>
+<li><a href="http://news.sohu.com/bagua.shtml">要　闻</a></li>
+
+<li><a href="http://news.sohu.com/sp/">图　集</a></li>
+
+<li><a href="http://news.sohu.com/s2008/shehuivideo/" target=_blank>视　频</a></li>
+
+<li><a href="http://news.sohu.com/s2006/ksshilu/" target=_blank>口　述</a></li>
+
+<li><a href="http://news.sohu.com/jinianshizhe/" target=_blank>逝　者</a></li>
+
+<li><a href="http://news.sohu.com/s2010/cityimage8/" target=_blank>白镜头</a></li>
+
+<li><a href="http://club.news.sohu.com/" target=_blank>论　坛</a></li>
+
+<li><a href="http://index.news.sohu.com/zhuanti/zhuanti_last.php?psortname=新闻 &amp;psortid=1&amp;sortid=96" target=_blank>专　题</a></li>
+</ul>
+</div>
+
+
+<sohuadcode></sohuadcode>
+<div class="area location">
+	<div class="leftc">
+	
+	<a href="http://news.sohu.com" target="_blank"><img src="http://images.sohu.com/uiue/sohu_logo/2006/news_logo3.gif" alt="搜狐新闻-搜狐网站" class="left" border="0" /></a>
+<p>&nbsp;<a href=http://news.sohu.com/>新闻中心</a> &gt; <a href=http://news.sohu.com/shehuixinwen.shtml>社会新闻</a> &gt; <a href=http://news.sohu.com/1/0903/63/subject212846373.shtml>最新要闻</a> &gt; <a href=http://news.sohu.com/bagua.shtml><a name='世态万象'>世态万象</a></a></p>
+	</div>
+	
+	<div class="clear"></div>
+</div>
+
+<sohuadcode></sohuadcode>
+
+ 
+
+<div class="main area">
+	<div class="lc">
+                  <style>
+.main .lc { width:926px;}
+.main .lc h2 { background-repeat:no-repeat}
+</style>
+		<h2><a name='世态万象'>世态万象</a></h2>
+		<div class="f14list">
+		<ul><li>·<a test=a href='http://news.sohu.com/20151105/n425408995.shtml' target='_blank'>深圳校园再现毒跑道：孩子流鼻血 家长要求停课</a><span> (11/05 17:39)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425408760.shtml' target='_blank'>广西柳州市长落水身亡 河面布满搜救船只(图)</a><span> (11/05 17:35)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425408139.shtml' target='_blank'>双十一将至呼市清理电动三轮车 快递业面临停摆</a><span> (11/05 17:29)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425407885.shtml' target='_blank'>北京顺义区平房凌晨失火 一人死亡</a><span> (11/05 17:27)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425407801.shtml' target='_blank'>湖北医生拄拐为病人做手术 被赞“最美背影”(图)</a><span> (11/05 17:26)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425407378.shtml' target='_blank'>苏州14岁少年惨死：脖子有勒痕 施暴父亲被刑拘</a><span> (11/05 17:22)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425408501.shtml' target='_blank'>河南洛阳暴力袭警事件造成2名执勤人员离世</a><span> (11/05 17:19)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425408506.shtml' target='_blank'>浙江丽水放火案告破 女婿纵火杀害岳父一家4口</a><span> (11/05 17:17)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425406729.shtml' target='_blank'>广西“再生稻”亩产最高超千斤 袁隆平：重大突破</a><span> (11/05 17:16)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425406374.shtml' target='_blank'>北京有望迎来今冬初雪 累计降温超10℃</a><span> (11/05 17:13)</span><span class='star'>★★★</span></li><li>&nbsp;</li><li>·<a test=a href='http://news.sohu.com/20151105/n425406198.shtml' target='_blank'>老太躺马路维权遭轿车碾轧重伤 双方各担责50%</a><span> (11/05 17:11)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425406124.shtml' target='_blank'>四川现最牛钉子户：拆迁区域停满汽车如4S店</a><span> (11/05 17:10)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425405212.shtml' target='_blank'>厦门大学选修课开讲乳房美学 1成选课者为男生</a><span> (11/05 17:02)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425404687.shtml' target='_blank'>洛阳街头执勤民警遇袭 重伤民警离世已致2死2伤</a><span> (11/05 16:58)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425404001.shtml' target='_blank'>地下钱庄涉案金额大手段隐蔽 已成贪腐洗钱工具</a><span> (11/05 16:50)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425404982.shtml' target='_blank'>广州一父子俩因车资问题将出租车司机打死</a><span> (11/05 16:48)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425403769.shtml' target='_blank'>南京多车让行急救车 交警部门每位司机奖500元</a><span> (11/05 16:47)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425403658.shtml' target='_blank'>湖南一男子上班无辜中枪 被射入37颗钢珠(图)</a><span> (11/05 16:46)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425403473.shtml' target='_blank'>北京初雪有望今夜来</a><span> (11/05 16:44)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425402774.shtml' target='_blank'>小偷体校作案遭全校围捕 自己报警求带走(图)</a><span> (11/05 16:36)</span><span class='star'>★★★</span></li><li>&nbsp;</li><li>·<a test=a href='http://news.sohu.com/20151105/n425402527.shtml' target='_blank'>女孩扶起跌倒老人后照料4年 老人是抗战老兵</a><span> (11/05 16:33)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425402313.shtml' target='_blank'>重庆一景区7保安打游客被开除 4受害人躺进医院</a><span> (11/05 16:30)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425401397.shtml' target='_blank'>八旬老人遭挡道发火骂司机 4根肋骨被踹断</a><span> (11/05 16:21)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425400293.shtml' target='_blank'>广州女子侵入教育网查学籍 非法发布报名数据获刑</a><span> (11/05 16:08)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425400308.shtml' target='_blank'>女子停自行车与他人发生冲突 颅内出血倒地死亡</a><span> (11/05 16:04)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425398396.shtml' target='_blank'>新疆查获特大羚羊角等走私案 涉案金额约1.6亿</a><span> (11/05 15:55)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425398192.shtml' target='_blank'>游客在港被殴死事发地再曝强迫购物案 店主被捕</a><span> (11/05 15:53)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425397960.shtml' target='_blank'>上海一外企经理丢工作 利用探亲假出国旅游</a><span> (11/05 15:50)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425400346.shtml' target='_blank'>台女星跨境卖淫风波 林志玲：继续追诉法律责任</a><span> (11/05 15:45)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425397152.shtml' target='_blank'>小伙地铁发病阿姨垫上万手术费 其家人拒还钱</a><span> (11/05 15:44)</span><span class='star'>★★★</span></li><li>&nbsp;</li><li>·<a test=a href='http://news.sohu.com/20151105/n425396801.shtml' target='_blank'>河南女医生被砍七刀续：嫌疑人有精神病治疗史</a><span> (11/05 15:40)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425396616.shtml' target='_blank'>四川2岁幼童喝酒死亡 3名敬酒者获刑</a><span> (11/05 15:38)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425396447.shtml' target='_blank'>男子要钱无果砍死父亲 玉米地里掩埋时被发现</a><span> (11/05 15:36)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425396375.shtml' target='_blank'>中国赴南极游客7年增数十倍 机构包船欲揽8百人</a><span> (11/05 15:35)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425396155.shtml' target='_blank'>内地旅客香港遇袭死亡案续：再有2人被捕</a><span> (11/05 15:33)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425395773.shtml' target='_blank'>女童不帮同学写作业 胳膊被掐30多个伤痕(图)</a><span> (11/05 15:29)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425394597.shtml' target='_blank'>医生竞选村委委员失败雇凶打人 按惨叫程度付钱</a><span> (11/05 15:17)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425394507.shtml' target='_blank'>湖南一车主将狗挂在车窗外  图片遭疯传(图) </a><span> (11/05 15:16)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425394049.shtml' target='_blank'>7岁民警女儿写日记“可怜的爸爸”：天天ao夜</a><span> (11/05 15:11)</span><span class='star'>★★★</span></li><li>·<a test=a href='http://news.sohu.com/20151105/n425393783.shtml' target='_blank'>福建漳州车祸致1死1伤 两肇事车逃逸被擒</a><span> (11/05 15:07)</span><span class='star'>★★★</span></li><li>&nbsp;</li>
+	
+		</ul>		
+		</div>
+		<div class="pages"><p><table><tr><td nowrap><a href='/bagua.shtml'>首页</a>&nbsp;<a href='#' onclick='javascript:if(!isIndex){go(curPage-1)};return false;'>上一页</a>&nbsp;<a href='#' onclick='javascript:go(curPage+1);return false;'>下一页</a>&nbsp;<a href='#' onclick='javascript:go(maxPage);return false;'>末页</a>&nbsp;
+<span id="pagingIndex"></span>&nbsp;&nbsp;转到&nbsp;<input name="pagenav" id="pagenav" type="text" size="2" onkeypress="javaScript:if(event.keyCode==13){go(this.value);}">&nbsp;页 <a href="#" onclick="javascript:go(document.getElementById('pagenav').value);return false;">Go</a>
+<script language="JavaScript">
+	var indexUrl = '/bagua.shtml';
+	var docUrl = document.location.href;
+	var maxPage = 4319;
+	var curPage = 1;
+	var isIndex = false;
+	var showPages = 100;
+	var end = docUrl.lastIndexOf("/");
+	if(end > 0){
+		var realDocUrl = docUrl.substring(end);
+		var lastToken = realDocUrl.lastIndexOf("_");
+		var lastSuffix = realDocUrl.lastIndexOf(".shtml");
+		if( (realDocUrl)!= indexUrl && lastToken>0 && lastSuffix >0 && lastSuffix > lastToken ){
+			curPage = realDocUrl.substring(lastToken+1,lastSuffix);
+			curPage = maxPage-curPage+1;
+		}else{
+			isIndex = true;
+		}
+	}
+	if(isNaN(curPage)){
+		curPage = 1;
+	}
+	var index = "<span><b>"+curPage+"/"+(maxPage>showPages?showPages:maxPage)+"</b></span>";
+	document.getElementById("pagingIndex").innerHTML=index;
+	function go(page){
+		try{
+		var baseUrl = '/bagua';
+		//var page = document.getElementById("pagenav").value;
+		var url = '';
+			if (page >0&&page <=showPages){
+				page = maxPage - page+1;
+				if(page <= 0 || page == maxPage ){
+					url = indexUrl;;			
+				}else{
+					url = baseUrl+'_'+page+'.shtml';			
+				}
+				document.location.href=url;
+				return true;
+			}else if(page == maxPage){
+				if(maxPage > showPages){
+					url = baseUrl+'_'+(maxPage-showPages+1)+'.shtml';			
+				}else{
+					url = baseUrl+'_1.shtml';			
+				}
+				document.location.href=url;
+				return true;
+			}else{
+				return false;
+			}
+			}catch(e){
+				alert("Sorry:"+e);
+			}
+		return false;
+	}
+</script>
+</td></tr></table></p></div>
+                  
+
+	</div>
+	<div class="rc">
+                  <sohuadcode></sohuadcode>
+		<!-- 模板统一样式碎片，请勿擅自修改 -->
+
+		<!-- 模板统一样式碎片，请勿擅自修改 -->
+		
+                 
+                
+                 
+
+	</div>
+	<div class="clear"></div>
+    <div class="main_bot"></div>
+</div>
+
+
+
+</div>
+<div class="blank5 area"></div>
+
+<table cellspacing=0 cellpadding=0 width=760 border=0>
+<tr><td class=ui_foot align=middle>Copyright &copy; 2015 Sohu.com Inc. All Rights Reserved.搜狐公司 <A href="http://corp.sohu.com/s2007/copyright/" target=_blank rel="nofollow">版权所有</A> <A href="http://roll.sohu.com" target=_blank>全部新闻</A> <A href="http://blog.sohu.com/roll" target=_blank>全部博文</A></td></tr>
+</table>
+<SCRIPT language=JavaScript src="http://a1.itc.cn/pv/js/spv.1309051632.js"></SCRIPT>
+<script language="javascript" src="http://js.sohu.com/wrating20120726.js"></script>
+<script language="javascript">
+var  _wratingId = null;
+try{
+_wratingId = _getAcc();
+}catch(e){}
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript" src="http://sohu.wrating.com/a1.js"></scr'+'ipt>');
+}
+</script>
+<script language="javascript">
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript">');
+document.write('var vjAcc="'+_wratingId+'";');
+document.write('var wrUrl="http://sohu.wrating.com/";');
+document.write('try{vjTrack();}catch(e){}');
+document.write('</scr'+'ipt>');
+}
+</script>
+<!--SOHU:SUB_FOOT-->
+<sohuadcode></sohuadcode>
+
+</body>
+</html>

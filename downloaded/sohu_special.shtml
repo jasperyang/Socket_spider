@@ -1,0 +1,594 @@
+HTTP/1.1 200 OK
+Date: Tue, 15 Nov 2016 07:20:24 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips
+Last-Modified: Thu, 05 Nov 2015 00:29:55 GMT
+Accept-Ranges: bytes
+Content-Length: 34495
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<!doctype html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/ xhtml1-transitional.dtd">
+
+
+<script type="text/javascript">
+  var pvinsight_page_ancestors = '143746642;388773297';
+</script>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=gb2312" />
+<title>新闻专题汇总-搜狐新闻</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="description" content="新闻专题汇总" />
+<meta name="keywords" content="新闻专题汇总" />
+<meta name="robots" content="all" />
+
+
+<link type="text/css" rel="stylesheet" href="http://css.sohu.com/upload/global1.4.1.css" />
+	<link type="text/css" rel="stylesheet" href="http://news.sohu.com/upload/2013/style.css" />
+	<link rel="stylesheet" href="http://news.sohu.com/upload/2013page/c.css" />
+	<script type="text/javascript" src="http://js.sohu.com/library/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="http://news.sohu.com/upload/2013page/j.js"></script>
+
+<style>
+#contentA {border:none;background:none}
+</style>
+<script type="text/javascript" src="http://www.sohu.com/sohuflash_1.js"></script>
+<body>
+<div id=fullscreenad style="display:none">&nbsp;</div>
+
+<!--标准矸 st-->
+<div data-type="roll" data-appid="1077" id="isohu-topbar"></div>
+<link type="text/css" rel="stylesheet" href="http://news.sohu.com/upload/itoolbar/channel/itoolbar.201312131742.css" charset="UTF-8" />
+<script src="http://news.sohu.com/upload/itoolbar/itoolbar.channel.loader.201403191209.js" charset="UTF-8"></script>
+<div id="fullscreenad" style="display:none"></div>
+<style>
+#isohu-topbar .isohu-topbar {width: 950px;}
+#innerToolBar { width:950px;}
+</style>
+<style>
+#commend-headNav {overflow:hidden;color:#999;font: 14px/24px "\5B8B\4F53";height: 24px;margin:10px auto 9px;width:950px;}
+#commend-headNav a {color: #333333;margin:0 5px 0 6px;text-decoration:none;}
+#commend-headNav a.first{margin-left:0;}
+#commend-headNav a.last{margin-right:0;}
+#commend-headNav a.n3{margin-right:6px}
+#commend-headNav a:hover{color: #CC0000;text-decoration:underline;}
+</style>
+<div class="area" id="commend-headNav"><a class="first" href="http://www.sohu.com/">首页</a>-<a href="http://news.sohu.com/">新闻</a>-<a class="n3" href="http://mil.sohu.com/">军事</a>-<a href="http://cul.sohu.com/">文化</a>-<a href="http://history.sohu.com/">历史</a>-<a class="n3" href="http://sports.sohu.com/">体育</a>-<a href="http://sports.sohu.com/nba.shtml">NBA</a>-<a href="http://tv.sohu.com/">视频</a>-<a class="n3" href="http://yule.sohu.com/">娱乐</a>-<a href="http://business.sohu.com/">财经</a>-<a href="http://stock.sohu.com/">股票</a>-<a class="n3" href="http://it.sohu.com/">科技</a>-<a href="http://auto.sohu.com/">汽车</a>-<a href="http://www.focus.cn">房产</a>-<a href="http://fashion.sohu.com/">时尚</a>-<a href="http://baobao.sohu.com/">母婴</a>-<a href="http://learning.sohu.com/">教育</a>-<a href="http://health.sohu.com/">健康</a>-<a href="http://travel.sohu.com/">旅游</a>-<a href="http://chihe.sohu.com">美食</a>-<a class="last" href="http://astro.women.sohu.com/">星座</a></div>
+<!--标准矸 end-->
+
+<!--矸砑 st-->
+<DIV id=logo-frag class=area>
+<DIV class=left>
+<DIV class="logo l"><A href="http://news.sohu.com/" target=_blank><IMG alt=搜狐新闻 src="http://news.sohu.com/upload/2013/images/news_logo0.gif" width=112 height=48 filter="1"></A> </DIV>
+<DIV class="category l">
+<DIV class="l my">新闻专题库</DIV>
+<DIV class=cate-bread><A href="">搜狐新闻</A><EM>&gt;</EM><A href="http://news.sohu.com/special.shtml">热点专题汇总</A></DIV></DIV></DIV>
+<DIV class=right>
+<DIV class=search>
+<FORM name=sogousearch action=http://news.sogou.com/news target=_blank><LABEL for=topSearch></LABEL> <INPUT id=topSearch name=query value="请输入关键字"> <INPUT title=提交 class=submit-btn type=button> </FORM></DIV></DIV></DIV>
+<DIV class=nav-bg>
+<DIV id=nav class=area>
+<DIV class=left>
+<UL><li class="first"><a href="http://news.sohu.com/scroll/" target="_blank">第一播报</a></li>
+        <li><a href="http://comment.news.sohu.com/djpm/" target="_blank">排行</a></li>
+        <li><a href="http://news.sohu.com/guoneixinwen.shtml" target="_blank">国内</a></li>
+        <li><a href="http://news.sohu.com/guojixinwen.shtml" target="_blank">国际</a></li>
+        <li><a href="http://news.sohu.com/special.shtml" target="_blank">专题</a></li>
+        <li><a href="http://news.sohu.com/dianjijinri/" target="_blank">话题</a></li>
+        <li><a href="http://news.sohu.com/pictalk/" target="_blank">图述</a></li>
+        <li><a href="http://news.sohu.com/newsmaker_list/" target="_blank">人物</a></li>
+        <li><a href="http://news.sohu.com/xinwendakao/" target="_blank">大考</a></li>
+        <li><a href="http://star.news.sohu.com/" target="_blank">时评</a></li>
+        <li><a href="http://star.news.sohu.com/mjzl/" target="_blank">专栏</a></li>
+        <li><a href="http://news.sohu.com/photo/" target="_blank">图片</a></li>
+        <li><a href="http://club.news.sohu.com/" target="_blank">社区</a></li>
+        <li><a href="http://news.sohu.com/pad/" target="_blank">Pad版</a></li></UL></DIV></DIV></DIV>
+
+<!--导航 st-->
+<sohuadcode></sohuadcode>
+
+
+
+
+
+
+
+
+
+
+<div class="area" id="contentA">
+	<div class="left">
+    	
+        
+        
+        
+        
+		
+		
+		
+		
+		
+        <div class="new-article">
+        	
+            
+            
+			
+				
+	<div class="article-list">
+                <div class="article">
+                        <h3><span class="com-num"><a target="_blank" href="#">comment num</a></span><a target="_blank" href="http://news.sohu.com/s2015/xjpcflg/index.shtml">习近平访问越南新加坡</a></h3>
+                        <p>&#160;2015年11月5日至6日，中共中央总书记、国家主席习近平将对越南进行国事访问。6日至7...<a target="_blank" href="http://news.sohu.com/s2015/xjpcflg/index.shtml">阅读全文&gt;&gt;</a></p>
+                </div>
+                <div class="pic-group">
+                        <ul><li><a target="_blank" href="http://news.sohu.com/s2015/xjpcflg/index.shtml"><img height="110" alt="" src="http://photocdn.sohu.com/20151105/Img425327544_ss.jpg"></a></li></ul>
+                </div>
+		<div class="fun clear">
+                        <div class="share">
+                                <ul>
+                                        <li class="s-t">分享到 |</li>
+                                        <li class="blg"><a title="·??í?????ü????" href="javascript:void(0)"></a></li>
+                                        <li class="qq"><a title="·??í??QQ????" href="javascript:void(0)"></a></li>
+                                        <li class="rrw"><a title="·??í????????" href="javascript:void(0)"></a></li>
+                                        <li class="db"><a title="·??í????°ê" href="javascript:void(0)"></a></li>
+                                        <li class="itb"><a title="·??í??i?ù°?" href="javascript:void(0)"></a></li>
+                                </ul>
+                        </div>
+    <!--                    <div class="label">±ê????<a target="_blank" href="#">??????</a> <a target="_blank" href="#">???ú</a> <a target="_blank" href="#">????</a></div> -->
+			<div class="time"> 发表于 2015-11-05 08:29</div>
+                </div>
+                </div>
+	
+	<div class="article-list">
+                <div class="article">
+                        <h3><span class="com-num"><a target="_blank" href="#">comment num</a></span><a target="_blank" href="http://news.sohu.com/s2015/lkqfh/index.shtml">李克强任后首次出访韩国</a></h3>
+                        <p>第六次韩中日领导人会议将于11月1日举行，朴槿惠将于10月31日和11月2日分别与李克强、安倍晋三举...<a target="_blank" href="http://news.sohu.com/s2015/lkqfh/index.shtml">阅读全文&gt;&gt;</a></p>
+                </div>
+                <div class="pic-group">
+                        <ul><li><a target="_blank" href="http://news.sohu.com/s2015/lkqfh/index.shtml"><img height="110" alt="" src="http://photocdn.sohu.com/20151030/Img424687823_ss.jpg"></a></li></ul>
+                </div>
+		<div class="fun clear">
+                        <div class="share">
+                                <ul>
+                                        <li class="s-t">分享到 |</li>
+                                        <li class="blg"><a title="·??í?????ü????" href="javascript:void(0)"></a></li>
+                                        <li class="qq"><a title="·??í??QQ????" href="javascript:void(0)"></a></li>
+                                        <li class="rrw"><a title="·??í????????" href="javascript:void(0)"></a></li>
+                                        <li class="db"><a title="·??í????°ê" href="javascript:void(0)"></a></li>
+                                        <li class="itb"><a title="·??í??i?ù°?" href="javascript:void(0)"></a></li>
+                                </ul>
+                        </div>
+    <!--                    <div class="label">±ê????<a target="_blank" href="#">??????</a> <a target="_blank" href="#">???ú</a> <a target="_blank" href="#">????</a></div> -->
+			<div class="time"> 发表于 2015-10-30 10:56</div>
+                </div>
+                </div>
+	
+	<div class="article-list">
+                <div class="article">
+                        <h3><span class="com-num"><a target="_blank" href="#">comment num</a></span><a target="_blank" href="http://news.sohu.com/s2015/wuzhongquanhui/index.shtml">十八届五中全会</a></h3>
+                        <p>十八届五中全会10月26日召开，十三五规划系新一届领导班子第一个“五年规划”，财税人口环境等政策或将...<a target="_blank" href="http://news.sohu.com/s2015/wuzhongquanhui/index.shtml">阅读全文&gt;&gt;</a></p>
+                </div>
+                <div class="pic-group">
+                        <ul><li><a target="_blank" href="http://news.sohu.com/s2015/wuzhongquanhui/index.shtml"><img height="110" alt="" src="http://photocdn.sohu.com/20151026/Img424130677_ss.jpg"></a></li></ul>
+                </div>
+		<div class="fun clear">
+                        <div class="share">
+                                <ul>
+                                        <li class="s-t">分享到 |</li>
+                                        <li class="blg"><a title="·??í?????ü????" href="javascript:void(0)"></a></li>
+                                        <li class="qq"><a title="·??í??QQ????" href="javascript:void(0)"></a></li>
+                                        <li class="rrw"><a title="·??í????????" href="javascript:void(0)"></a></li>
+                                        <li class="db"><a title="·??í????°ê" href="javascript:void(0)"></a></li>
+                                        <li class="itb"><a title="·??í??i?ù°?" href="javascript:void(0)"></a></li>
+                                </ul>
+                        </div>
+    <!--                    <div class="label">±ê????<a target="_blank" href="#">??????</a> <a target="_blank" href="#">???ú</a> <a target="_blank" href="#">????</a></div> -->
+			<div class="time"> 发表于 2015-10-26 09:49</div>
+                </div>
+                </div>
+	
+	<div class="article-list">
+                <div class="article">
+                        <h3><span class="com-num"><a target="_blank" href="#">comment num</a></span><a target="_blank" href="http://news.sohu.com/s2015/xjpcfyg/index.shtml">习近平出访英国</a></h3>
+                        <p>&#160;习近平2015年10月19日至23日访英，将前往伦敦和曼彻斯特。在伦敦他将出席女王主持的...<a target="_blank" href="http://news.sohu.com/s2015/xjpcfyg/index.shtml">阅读全文&gt;&gt;</a></p>
+                </div>
+                <div class="pic-group">
+                        <ul><li><a target="_blank" href="http://news.sohu.com/s2015/xjpcfyg/index.shtml"><img height="110" alt="" src="http://photocdn.sohu.com/20151014/Img423187202_ss.jpg"></a></li></ul>
+                </div>
+		<div class="fun clear">
+                        <div class="share">
+                                <ul>
+                                        <li class="s-t">分享到 |</li>
+                                        <li class="blg"><a title="·??í?????ü????" href="javascript:void(0)"></a></li>
+                                        <li class="qq"><a title="·??í??QQ????" href="javascript:void(0)"></a></li>
+                                        <li class="rrw"><a title="·??í????????" href="javascript:void(0)"></a></li>
+                                        <li class="db"><a title="·??í????°ê" href="javascript:void(0)"></a></li>
+                                        <li class="itb"><a title="·??í??i?ù°?" href="javascript:void(0)"></a></li>
+                                </ul>
+                        </div>
+    <!--                    <div class="label">±ê????<a target="_blank" href="#">??????</a> <a target="_blank" href="#">???ú</a> <a target="_blank" href="#">????</a></div> -->
+			<div class="time"> 发表于 2015-10-14 08:35</div>
+                </div>
+                </div>
+	
+	<div class="article-list">
+                <div class="article">
+                        <h3><span class="com-num"><a target="_blank" href="#">comment num</a></span><a target="_blank" href="http://news.sohu.com/s2015/guoqing66/">国庆66周年</a></h3>
+                        <p>热烈庆祝中华人民共和国成立66周年...<a target="_blank" href="http://news.sohu.com/s2015/guoqing66/">阅读全文&gt;&gt;</a></p>
+                </div>
+                <div class="pic-group">
+                        <ul><li><a target="_blank" href="http://news.sohu.com/s2015/guoqing66/"><img height="110" alt="" src="http://photocdn.sohu.com/20150930/Img422446243_ss.jpg"></a></li></ul>
+                </div>
+		<div class="fun clear">
+                        <div class="share">
+                                <ul>
+                                        <li class="s-t">分享到 |</li>
+                                        <li class="blg"><a title="·??í?????ü????" href="javascript:void(0)"></a></li>
+                                        <li class="qq"><a title="·??í??QQ????" href="javascript:void(0)"></a></li>
+                                        <li class="rrw"><a title="·??í????????" href="javascript:void(0)"></a></li>
+                                        <li class="db"><a title="·??í????°ê" href="javascript:void(0)"></a></li>
+                                        <li class="itb"><a title="·??í??i?ù°?" href="javascript:void(0)"></a></li>
+                                </ul>
+                        </div>
+    <!--                    <div class="label">±ê????<a target="_blank" href="#">??????</a> <a target="_blank" href="#">???ú</a> <a target="_blank" href="#">????</a></div> -->
+			<div class="time"> 发表于 2015-09-30 15:06</div>
+                </div>
+                </div>
+	
+	<div class="article-list">
+                <div class="article">
+                        <h3><span class="com-num"><a target="_blank" href="#">comment num</a></span><a target="_blank" href="http://news.sohu.com/s2015/xinjiang/index.shtml">新疆维吾尔自治区成立60周年</a></h3>
+                        <p>党中央、国务院历来对新疆工作高度重视和支持，始终牵挂着新疆的发展，惦念着天山南北的各族群众，国家实施...<a target="_blank" href="http://news.sohu.com/s2015/xinjiang/index.shtml">阅读全文&gt;&gt;</a></p>
+                </div>
+                <div class="pic-group">
+                        <ul><li><a target="_blank" href="http://news.sohu.com/s2015/xinjiang/index.shtml"><img height="110" alt="" src="http://photocdn.sohu.com/20150928/Img422238115_ss.jpg"></a></li></ul>
+                </div>
+		<div class="fun clear">
+                        <div class="share">
+                                <ul>
+                                        <li class="s-t">分享到 |</li>
+                                        <li class="blg"><a title="·??í?????ü????" href="javascript:void(0)"></a></li>
+                                        <li class="qq"><a title="·??í??QQ????" href="javascript:void(0)"></a></li>
+                                        <li class="rrw"><a title="·??í????????" href="javascript:void(0)"></a></li>
+                                        <li class="db"><a title="·??í????°ê" href="javascript:void(0)"></a></li>
+                                        <li class="itb"><a title="·??í??i?ù°?" href="javascript:void(0)"></a></li>
+                                </ul>
+                        </div>
+    <!--                    <div class="label">±ê????<a target="_blank" href="#">??????</a> <a target="_blank" href="#">???ú</a> <a target="_blank" href="#">????</a></div> -->
+			<div class="time"> 发表于 2015-09-28 09:06</div>
+                </div>
+                </div>
+	
+	<div class="article-list">
+                <div class="article">
+                        <h3><span class="com-num"><a target="_blank" href="#">comment num</a></span><a target="_blank" href="http://news.sohu.com/s2015/shatecaita/">沙特朝觐者踩踏事故</a></h3>
+                        <p>&#160;9月24日，在距离沙特麦加东部5公里处的米纳地区发生朝觐者踩踏事故。据沙特民防部称，事故...<a target="_blank" href="http://news.sohu.com/s2015/shatecaita/">阅读全文&gt;&gt;</a></p>
+                </div>
+                <div class="pic-group">
+                        <ul><li><a target="_blank" href="http://news.sohu.com/s2015/shatecaita/"><img height="110" alt="" src="http://photocdn.sohu.com/20150924/Img422051886_ss.jpg"></a></li></ul>
+                </div>
+		<div class="fun clear">
+                        <div class="share">
+                                <ul>
+                                        <li class="s-t">分享到 |</li>
+                                        <li class="blg"><a title="·??í?????ü????" href="javascript:void(0)"></a></li>
+                                        <li class="qq"><a title="·??í??QQ????" href="javascript:void(0)"></a></li>
+                                        <li class="rrw"><a title="·??í????????" href="javascript:void(0)"></a></li>
+                                        <li class="db"><a title="·??í????°ê" href="javascript:void(0)"></a></li>
+                                        <li class="itb"><a title="·??í??i?ù°?" href="javascript:void(0)"></a></li>
+                                </ul>
+                        </div>
+    <!--                    <div class="label">±ê????<a target="_blank" href="#">??????</a> <a target="_blank" href="#">???ú</a> <a target="_blank" href="#">????</a></div> -->
+			<div class="time"> 发表于 2015-09-24 22:09</div>
+                </div>
+                </div>
+	
+	<div class="article-list">
+                <div class="article">
+                        <h3><span class="com-num"><a target="_blank" href="#">comment num</a></span><a target="_blank" href="http://news.sohu.com/s2015/spaceweek2015/index.shtml">2015年世界空间周</a></h3>
+                        <p>1999年12月，联合国第54届大会核准了第三次外空会议提出的建议，将每年的10月4日至10日定为“...<a target="_blank" href="http://news.sohu.com/s2015/spaceweek2015/index.shtml">阅读全文&gt;&gt;</a></p>
+                </div>
+                <div class="pic-group">
+                        <ul><li><a target="_blank" href="http://news.sohu.com/s2015/spaceweek2015/index.shtml"><img height="110" alt="" src="http://photocdn.sohu.com/20150922/Img421830812_ss.jpg"></a></li></ul>
+                </div>
+		<div class="fun clear">
+                        <div class="share">
+                                <ul>
+                                        <li class="s-t">分享到 |</li>
+                                        <li class="blg"><a title="·??í?????ü????" href="javascript:void(0)"></a></li>
+                                        <li class="qq"><a title="·??í??QQ????" href="javascript:void(0)"></a></li>
+                                        <li class="rrw"><a title="·??í????????" href="javascript:void(0)"></a></li>
+                                        <li class="db"><a title="·??í????°ê" href="javascript:void(0)"></a></li>
+                                        <li class="itb"><a title="·??í??i?ù°?" href="javascript:void(0)"></a></li>
+                                </ul>
+                        </div>
+    <!--                    <div class="label">±ê????<a target="_blank" href="#">??????</a> <a target="_blank" href="#">???ú</a> <a target="_blank" href="#">????</a></div> -->
+			<div class="time"> 发表于 2015-09-22 15:14</div>
+                </div>
+                </div>
+	
+	<div class="article-list">
+                <div class="article">
+                        <h3><span class="com-num"><a target="_blank" href="#">comment num</a></span><a target="_blank" href="http://news.sohu.com/s2015/zhilidizhen/index.shtml">智利大地震</a></h3>
+                        <p>南美开启“震动模式”：智利20多分钟内接连发生两次大地震，分别为8.3级和7.1级；巴西北部期间发生...<a target="_blank" href="http://news.sohu.com/s2015/zhilidizhen/index.shtml">阅读全文&gt;&gt;</a></p>
+                </div>
+                <div class="pic-group">
+                        <ul><li><a target="_blank" href="http://news.sohu.com/s2015/zhilidizhen/index.shtml"><img height="110" alt="" src="http://photocdn.sohu.com/20150921/Img421663320_ss.jpg"></a></li></ul>
+                </div>
+		<div class="fun clear">
+                        <div class="share">
+                                <ul>
+                                        <li class="s-t">分享到 |</li>
+                                        <li class="blg"><a title="·??í?????ü????" href="javascript:void(0)"></a></li>
+                                        <li class="qq"><a title="·??í??QQ????" href="javascript:void(0)"></a></li>
+                                        <li class="rrw"><a title="·??í????????" href="javascript:void(0)"></a></li>
+                                        <li class="db"><a title="·??í????°ê" href="javascript:void(0)"></a></li>
+                                        <li class="itb"><a title="·??í??i?ù°?" href="javascript:void(0)"></a></li>
+                                </ul>
+                        </div>
+    <!--                    <div class="label">±ê????<a target="_blank" href="#">??????</a> <a target="_blank" href="#">???ú</a> <a target="_blank" href="#">????</a></div> -->
+			<div class="time"> 发表于 2015-09-21 08:55</div>
+                </div>
+                </div>
+	
+	<div class="article-list">
+                <div class="article">
+                        <h3><span class="com-num"><a target="_blank" href="#">comment num</a></span><a target="_blank" href="http://news.sohu.com/s2015/xjpfm/">习近平访美</a></h3>
+                        <p>9月22日-28日，国家主席习近平将赴美出访。此行是习近平就任国家主席后首次对美国进行国事访问，也是...<a target="_blank" href="http://news.sohu.com/s2015/xjpfm/">阅读全文&gt;&gt;</a></p>
+                </div>
+                <div class="pic-group">
+                        <ul><li><a target="_blank" href="http://news.sohu.com/s2015/xjpfm/"><img height="110" alt="" src="http://photocdn.sohu.com/20150921/Img421663205_ss.jpg"></a></li></ul>
+                </div>
+		<div class="fun clear">
+                        <div class="share">
+                                <ul>
+                                        <li class="s-t">分享到 |</li>
+                                        <li class="blg"><a title="·??í?????ü????" href="javascript:void(0)"></a></li>
+                                        <li class="qq"><a title="·??í??QQ????" href="javascript:void(0)"></a></li>
+                                        <li class="rrw"><a title="·??í????????" href="javascript:void(0)"></a></li>
+                                        <li class="db"><a title="·??í????°ê" href="javascript:void(0)"></a></li>
+                                        <li class="itb"><a title="·??í??i?ù°?" href="javascript:void(0)"></a></li>
+                                </ul>
+                        </div>
+    <!--                    <div class="label">±ê????<a target="_blank" href="#">??????</a> <a target="_blank" href="#">???ú</a> <a target="_blank" href="#">????</a></div> -->
+			<div class="time"> 发表于 2015-09-21 08:54</div>
+                </div>
+                </div>
+	
+			
+		
+        <div class="pages"><table><tr><td nowrap><a href='/special.shtml'>首页</a>&nbsp;<a href='#' onclick='javascript:if(!isIndex){go(curPage-1)};return false;'>上一页</a>&nbsp;<a href='#' onclick='javascript:go(curPage+1);return false;'>下一页</a>&nbsp;<a href='#' onclick='javascript:go(maxPage);return false;'>末页</a>&nbsp;
+<span id="pagingIndex"></span>&nbsp;&nbsp;转到&nbsp;<input name="pagenav" id="pagenav" type="text" size="2" onkeypress="javaScript:if(event.keyCode==13){go(this.value);}">&nbsp;页 <a href="#" onclick="javascript:go(document.getElementById('pagenav').value);return false;">Go</a>
+<script language="JavaScript">
+	var indexUrl = '/special.shtml';
+	var docUrl = document.location.href;
+	var maxPage = 14;
+	var curPage = 1;
+	var isIndex = false;
+	var showPages = 100;
+	var end = docUrl.lastIndexOf("/");
+	if(end > 0){
+		var realDocUrl = docUrl.substring(end);
+		var lastToken = realDocUrl.lastIndexOf("_");
+		var lastSuffix = realDocUrl.lastIndexOf(".shtml");
+		if( (realDocUrl)!= indexUrl && lastToken>0 && lastSuffix >0 && lastSuffix > lastToken ){
+			curPage = realDocUrl.substring(lastToken+1,lastSuffix);
+			curPage = maxPage-curPage+1;
+		}else{
+			isIndex = true;
+		}
+	}
+	if(isNaN(curPage)){
+		curPage = 1;
+	}
+	var index = "<span><b>"+curPage+"/"+(maxPage>showPages?showPages:maxPage)+"</b></span>";
+	document.getElementById("pagingIndex").innerHTML=index;
+	function go(page){
+		try{
+		var baseUrl = '/special';
+		//var page = document.getElementById("pagenav").value;
+		var url = '';
+			if (page >0&&page <=showPages){
+				page = maxPage - page+1;
+				if(page <= 0 || page == maxPage ){
+					url = indexUrl;;			
+				}else{
+					url = baseUrl+'_'+page+'.shtml';			
+				}
+				document.location.href=url;
+				return true;
+			}else if(page == maxPage){
+				if(maxPage > showPages){
+					url = baseUrl+'_'+(maxPage-showPages+1)+'.shtml';			
+				}else{
+					url = baseUrl+'_1.shtml';			
+				}
+				document.location.href=url;
+				return true;
+			}else{
+				return false;
+			}
+			}catch(e){
+				alert("Sorry:"+e);
+			}
+		return false;
+	}
+</script>
+</td></tr></table></div>
+
+            
+            
+            
+            <div class="clear"></div>
+
+        </div>
+    </div>
+    <div class="right">
+    	<!-- 引用碎片ID：388737465 -->
+<!-- 点击今日 -->
+<div id="menu-e" class="blockRA clear">
+  <div class="menuC"> 
+    <div class="title"><span><a href="http://news.sohu.com/dianjijinri/" target="_blank">点击今日</a></span></div>
+
+<ul>
+<li class="now"></li>
+<li></li>
+<li></li></ul>
+<a href="http://clk.optaim.com/event.ng/Type=click&amp;FlightID=201510&amp;TargetID=sohu&amp;Values=ac2e3d1c,bdad61b8,0bbe53e1,b075f9da&amp;AdID=7782697" target="_blank" style="
+    position: absolute;
+    left: 100px;
+    top: -10px;
+"><img src="http://i2.itc.cn/20151026/35cf_e1c9ee09_fed8_7390_b8e1_f0314d483a86_1.png" border="0" height="40" width="50"></a>
+<img src="http://imp.optaim.com/201510/ac2e3d1cbdad61b80bbe53e1b075f9da.php?a=99" width="0" height="0" style="display:none;"> 
+  </div>
+  <div class="pic-text">
+
+<h3><a href="http://news.sohu.com/s2015/dianji-1737/index.shtml" target="_blank">两岸领导人见面有多难？</a></h3>
+<div><a href="http://news.sohu.com/s2015/dianji-1737/index.shtml" target="_blank"><img alt=""src="http://i3.itc.cn/20151104/360f_34892fa7_6023_62e2_aaf2_6e665166adde_1.jpg" width="100" height="70"></a> </div>场合和身份始终是见面的“坎”<span class="blue"><a href="http://news.sohu.com/s2015/dianji-1737/index.shtml" target="_blank">[详细]</a></span> </div>
+
+<div class="pic-text hidden">
+<h3><a href="http://news.sohu.com/s2015/dianji-1736/index.shtml" target="_blank">
+国产大飞机C919是组装机吗？</a></h3>
+<div><a href="http://news.sohu.com/s2015/dianji-1736/index.shtml" target="_blank"><img alt="" src="http://i1.itc.cn/20151103/3544_7d76047a_5ce2_a79f_2bfc_9a735e2148f7_1.jpg" width="100" height="70"></a></div>C919被质疑内销转出口，是否纯忽悠...<span class="blue"><a href="http://news.sohu.com/s2015/dianji-1736/index.shtml" target="_blank">[详细]</a></span> </div>
+
+<div class="pic-text hidden">
+
+<h3><a href="http://news.sohu.com/s2015/dianji-1735/index.shtml" target="_blank">IS为何宣称击落俄罗斯客机</a></h3>
+<div><a href="http://news.sohu.com/s2015/dianji-1735/index.shtml" target="_blank"><img alt="" src="http://i0.itc.cn/20151102/3677_2d221e87_410f_5d48_da3f_ff69bbd7b1a0_1.jpg" width="100" height="70"></a> </div>俄罗斯客机坠毁，IS忙着“负责”；MH17被导弹击落，却无人主动承认...<span class="blue"><a href="http://news.sohu.com/s2015/dianji-1735/index.shtml" target="_blank">[详细]</a></span> </div>
+
+ 
+</div>
+
+<!-- 数字之道 -->
+<div class="blockRB clear">
+  <div class="title"><span><a href="http://news.sohu.com/matrix/" target="_blank">数字之道</a> &nbsp;&nbsp;</span><em class="r-m"><em class="add">+</em><a href="http://news.sohu.com/matrix/" target="_blank">更多</a></em></div>
+  <div class="pic-text"> 
+    <h3><a href="http://news.sohu.com/s2015/shuzi-407/index.shtml" target="_blank">哪些人30年前就在合法生二孩？</a></h3>
+<div><a href="http://news.sohu.com/s2015/shuzi-407/index.shtml" target="_blank"><img alt="" src="http://i0.itc.cn/20151102/3601_06ad823e_37b7_625a_6e35_982f3bf2b302_1.jpg" width="100" height="70" filter="1"></a> </div>
+<p>你才被放开生二孩3天，有些人已经被放开30年。<span class="blue"><a href="http://news.sohu.com/s2015/shuzi-407/index.shtml" target="_blank">[详细]</a></span></p> 
+  </div>
+</div>
+
+<!-- 新闻当事人 -->
+<div class="blockRC clear">
+  <div class="title"> 
+    <span><a href="http://news.sohu.com/newsmaker_list/index.shtml" target="_blank">新闻当事人</a> </span><em class="r-m"><em class="add">+</em><a href="http://news.sohu.com/newsmaker_list/index.shtml" target="_blank">更多</a></em> 
+  </div>
+  <div class="pic-text"> 
+    <h3><a href="http://news.sohu.com/s2015/newsmaker335/index.shtml" target="_blank">专访崔永元：我与541段抗战老兵口述史</a></h3>
+
+<div><a href="http://news.sohu.com/s2015/newsmaker335/index.shtml" target="_blank"><img alt="" src="http://i3.itc.cn/20150524/3494_827c80ff_ec75_9d5b_4ffe_bd443a49cdcb_1.jpg" width="100" height="70"></a></div>
+
+<p class="blue"><a href="http://news.sohu.com/s2015/newsmaker335/index.shtml" target="_blank">崔永元：要是抗日“神剧”的编剧都来看看老兵的讲述，也就不会那么雷了。
+</a></p> 
+  </div>
+  <div class="list12 list12-c2">
+    <ul>
+      <div class="list12 list12-c2">
+<ul>
+
+<li> <a title="" href="http://news.sohu.com/s2015/newsmaker334/index.shtml" target="_blank" class="">镜头里的同志王国</a> </li>
+<li> <a title="" href="http://news.sohu.com/s2015/newsmaker333/index.shtml" target="_blank" class="">邓小平访美旋风九日</a> </li>
+<li> <a title="" href="http://news.sohu.com/s2015/newsmaker331/index.shtml" target="_blank" class="">敬一丹忆《焦点访谈》</a> </li>
+<li> <a title="" href="http://news.sohu.com/s2015/newsmaker330/index.shtml" target="_blank" class="">尼泊尔地震驴友归国路</a> </li>
+
+
+
+
+
+
+</ul></div>
+    </ul>
+  </div>
+</div>
+
+<!-- 搜狐重磅 -->
+<div class="blockRA clear">
+  <div class="title"> 
+    <SPAN><A href="http://news.sohu.com/special.shtml" target=_blank>搜狐重磅</A></SPAN><EM class=r-m><EM class=add>+</EM><A href="http://news.sohu.com/special.shtml" target=_blank>更多</A></EM> 
+  </div>
+  <h3> 
+    <a href="http://news.sohu.com/s2014/dongguan/" target="_blank">东莞风暴：管不住的“敢性之城”</a> 
+  </h3>
+  <div class="list12 list12-c2">
+    <ul>
+      <li><a href="http://news.sohu.com/s2014/xinjiangdizhen/" target="_blank">新疆7.3级地震</a></li> 
+
+
+<li class="mg"><a href="http://news.sohu.com/s2014/h7n9/" target="_blank">禽流感H7N9</a></li> 
+
+<li><a href="http://news.sohu.com/s2014/dongaohui/" target="_blank">习近平出席冬奥会</a></li>
+
+<li class="mg"><a href="http://news.sohu.com/s2013/tuijiandianji_sanlan/index.shtml" target="_blank">推荐点击</a></li> 
+<li class="mg"><a href="http://news.sohu.com/s2013/chunyun/" target="_blank">春运返程进行时</a></li> 
+<li class="mg"><a href="http://news.sohu.com/s2014/5294/s393905710/" target="_blank">没有什么能阻挡乡愁</a></li> 
+
+<li><a href="http://news.sohu.com/s2013/chinafanfu/" target="_blank">将反腐进行到底</a></li> 
+
+<li><a href="http://news.sohu.com/s2013/xiemu/" target="_blank">大片带你重温中国2013</a></li>
+    </ul>
+  </div>
+</div>
+<div class="blockR blockRE">
+  <div class="title"><span>联系我们</span></div>
+  <div class="box">
+    <p><span>爆料：</span><a href="http://club.news.sohu.com/weekly/threads" target="_blank">新闻爆料社区&gt;&gt;</a></p>
+    <p><span>投诉：</span>kf@vip.sohu.com</p>
+    <p><span>辟谣：</span><a href="http://star.news.sohu.com/piyao/" target="_blank">谣言终结者</a></p>
+    <p>客服热线：86-10-58511234</p> 
+  </div>
+</div>
+
+<style type="text/css">
+.pt-news .t-news .my{font-size: 20px;height:40px;font-weight: bold;line-height:22px; text-align:left;}
+#contentA .right .list12-c2 li{width:122px;}
+#contentA .right .list12-c2 li.mg{margin-left:0}
+</style>
+<sohuadcode></sohuadcode>
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+    </div>
+</div>
+
+
+
+<sohuadcode></sohuadcode>
+<div id="foot" class="Area"> 
+Copyright &copy; 2015 Sohu.com Inc. All Rights Reserved. 搜狐公司 <span class="unline"><a href="http://corp.sohu.com/s2007/copyright/" target="_blank" rel="nofollow">版权所有</a> <a href="http://roll.sohu.com" target="_blank">全部新闻</a> <a href="http://blog.sohu.com/roll" target="_blank">全部博文</a></span><br />
+</div>
+<SCRIPT language=JavaScript src="http://a1.itc.cn/pv/js/spv.1309051632.js"></SCRIPT>
+<script language="javascript" src="http://js.sohu.com/wrating20120726.js"></script>
+<script language="javascript">
+var  _wratingId = null;
+try{
+_wratingId = _getAcc();
+}catch(e){}
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript" src="http://sohu.wrating.com/a1.js"></scr'+'ipt>');
+}
+</script>
+<script language="javascript">
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript">');
+document.write('var vjAcc="'+_wratingId+'";');
+document.write('var wrUrl="http://sohu.wrating.com/";');
+document.write('try{vjTrack();}catch(e){}');
+document.write('</scr'+'ipt>');
+}
+</script>
+<script> require(["sjs/matrix/ad/passion"]);</script>
+<!--SOHU:SUB_FOOT_DIV-->
+ 
+
+
+</body>
+</html>
