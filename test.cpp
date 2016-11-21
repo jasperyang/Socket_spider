@@ -4,80 +4,101 @@
 #include "SocketMaker.hpp"
 #include "parser.h"
 #include "Downloader.hpp"
+#include <pthread.h>
+#include <unistd.h>
+#include "Async_pirnt.h"
 
 
-int main(int argc, char const *argv[])
-{
-    memset(dataHash,0,LENGTH*17*sizeof(unsigned char));
+
+char str[] = {"=\"[A-Za-z0-9]*[^\"].s?html"};
+char str2[] = {"href=\"[A-Za-z0-9]*/"};
+int sockfd;
+SocketMaker* sm = new SocketMaker();
+Downloader* dow = new Downloader();
+regexPara* reg;
 
 
-    char str[] = {"=\"[A-Za-z0-9]*[^\"].s?html"};
-    char str2[] = {"href=\"[A-Za-z0-9]*/"};
-    int sockfd;
-    char pattern_url[128] = {0};
-    struct URL url;
-    string url_prefix = "/sohu";
-    strcpy(url.host,basic_url);
-    url.url = "/sohu/";
-    cout<<"looking into:\n";
-    cout<<url.host<<url.url<<endl;
 
-    SocketMaker* sm = new SocketMaker();
+void* qurl_check(URL url) {
+
+    sleep(1); //简单的反爬虫
+
+    Async_print* ac = Async_print::getInstance();
     parser* par = parser::getInstance();
-    Downloader* dow = new Downloader();
-    regexPara* reg;
-    memset(par->ch,0,sizeof(par->ch));
-
-    sockfd = sm->createSocket(url.host,80);
-    sm->sendHttpRequest(sockfd,url);
-    dow->recvHttpRespond(sockfd,par->ch);
-    strcpy(pattern_url,str);
-    string sh = string(par->ch);
-    reg = par->init_regex(sh,pattern_url,1,url_prefix);
-    cout<<reg->url_prefix<<" "<<reg->type<<" "<<reg->pattern<<endl;
-    thpool_add_work(par->thpool,(void(*)(void*))reptile_regex,(void*)reg);
-    strcpy(pattern_url,str2);
-    reg = par->init_regex(sh,pattern_url,2,url_prefix);
-    thpool_add_work(par->thpool,(void(*)(void*))reptile_regex,(void*)reg);
-    sm->closeSocket(sockfd);
-
     //现在开始从队列里提取出url开始递归
-    while(!par->qurl.empty()) {
-        url = par->qurl.front();
-        par->qurl.pop();
-        url_prefix = url.url;
-        cout<<"looking into:\n";
-        cout<<url.host<<url.url<<endl;
-        strcpy(url.host,basic_url);    //这里
-        // 是不是可以优化？
-        url.url = url_prefix + "/";
+    cout<<"starting qurl_check()..."<<endl;
+    while(1) {
+        sleep(1);
+        par->qurl->
+                get_msg(url);
+        ac->print("looking into:\n"+url.url+"\n");
+        strcpy(url.host,basic_url);    //这里是不是可以优化？
         sockfd = sm->createSocket(url.host,80);
         sm->sendHttpRequest(sockfd,url);
         dow->recvHttpRespond(sockfd,par->ch);
-        strcpy(pattern_url,str);
-        string sh = string(par->ch);
-        reg = par->init_regex(sh,pattern_url,1,url_prefix);
+        reg = par->init_regex(par->ch,str,1,url.url);
         thpool_add_work(par->thpool,(void(*)(void*))reptile_regex,(void*)reg);
-        strcpy(pattern_url,str2);
-        reg = par->init_regex(sh,pattern_url,2,url_prefix);
+        reg = par->init_regex(par->ch,str2,2,url.url);
         thpool_add_work(par->thpool,(void(*)(void*))reptile_regex,(void*)reg);
         sm->closeSocket(sockfd);
-        break;
     }
+}
 
-    //开始从par->qready里下载html文件
-    while(!par->qready.empty()) {
-        url = par->qready.front();
-        par->qready.pop();
-        cout<<"downloading...\n";
-        cout<<url.url<<endl;
+void* qready_pop(URL url) {    //开始从par->qready里下载html文件
+    sleep(1);
+
+    Async_print* ac = Async_print::getInstance();
+    parser* par = parser::getInstance();
+    cout<<"starting qready_pop()..."<<endl;
+    while(1) {
+        sleep(1);
+        par->qready->get_msg(url);
+        //cout<<"downloading...\n";
+        ac->print(url.url+"\n");
         strcpy(url.host,basic_url);    //这里是不是可以优化？
         sockfd = sm->createSocket(url.host,80);
         sm->sendHttpRequest(sockfd,url);
         dow->recvHttpRespond(sockfd,par->ch,url.url.substr(1,url.url.size()-1),par);
         sm->closeSocket(sockfd);
-        break;
     }
+}
+
+
+
+
+
+int main(int argc, char const *argv[])
+{
+    memset(dataHash,0,LENGTH*17*sizeof(unsigned char));
+    pthread_t     k;
+
+    parser* par = parser::getInstance();
+    Async_print* ac = Async_print::getInstance();
+    URL url;
+
+    strcpy(url.host,basic_url);
+    url.url = "/sohu/";
+    ac->print("looking into:\n"+url.url+"\n");
+
+    memset(par->ch,0,sizeof(par->ch));          //缓冲区开辟空间
+
+    sockfd = sm->createSocket(url.host,80);
+    sm->sendHttpRequest(sockfd,url);
+    dow->recvHttpRespond(sockfd,par->ch);
+    reg = par->init_regex(par->ch,str,1,url.url);
+    thpool_add_work(par->thpool,(void(*)(void*))reptile_regex,(void*)reg);
+    reg = par->init_regex(par->ch,str2,2,url.url);
+    thpool_add_work(par->thpool,(void(*)(void*))reptile_regex,(void*)reg);
+    sm->closeSocket(sockfd);
+
+    //cout<<"starting the qurl queue pushing..."<<endl;
+    pthread_create(&k, NULL, (void *(*)(void *))qurl_check, &url);
+
+
+    //cout<<"starting the qready queue popping..."<<endl;
+    pthread_create(&k, NULL,(void *(*)(void *))qready_pop,&url);
+
+    sleep(1000);            //给子线程执行时间
 
     delete sm,dow,par;
     return 0;

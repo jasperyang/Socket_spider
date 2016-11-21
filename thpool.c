@@ -351,7 +351,7 @@ static void* thread_do(struct thread* thread_p){
 			if (job_p) {
 				func_buff = job_p->function;
 				arg_buff  = job_p->arg;
-				func_buff(arg_buff);
+				func_buff(arg_buff);  			//执行函数
 				free(job_p);
 			}
 			
@@ -429,6 +429,7 @@ static void jobqueue_clear(thpool_* thpool_p){
 static void jobqueue_push(thpool_* thpool_p, struct job* newjob){
 
 	newjob->prev = NULL;
+	printf("jobqueue_len is %d\n",thpool_p->jobqueue_p->len);   	//调试用的
 
 	switch(thpool_p->jobqueue_p->len){
 

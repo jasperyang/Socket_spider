@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.6)
+cmake_minimum_required(VERSION 3.2)
 project(Socket_spider)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
@@ -17,6 +17,7 @@ set(SOURCE_FILES
         parser.cpp
         parser.h basic_properties.cpp test.cpp
         thpool.c
-        thpool.h)
+        thpool.h
+        Message_Queue.cpp Async_pirnt.cpp Async_pirnt.h)
 
-add_executable(Socket_spider ${SOURCE_FILES})
+add_executable(Socket_spider ${SOURCE_FILES} test.cpp)

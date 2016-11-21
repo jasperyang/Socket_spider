@@ -4,13 +4,15 @@
 #include <iostream>
 #include "basic_properties.h"
 #include "thpool.h"
+#include "Message_Queue.cpp"
+
 using namespace std;
 
 #ifdef __cpluscplus
 extern "C" {
 #endif
 
-typedef struct regex_para {
+typedef struct regex_para {   //reptile_regex函数的参数结构体
     string buf;
     char *pattern;
     int type;
@@ -19,13 +21,20 @@ typedef struct regex_para {
 
 
 class parser {
-public:
-    static parser* getInstance() {   //饿汉模式的单例
-        if (par == NULL) {
-            par = new parser();
+private:
+    static parser* par;
+    parser();
+    ~parser();
+    class Garbo {  //它的唯一工作就是在析构函数中删除parser的实例
+    public:
+        ~Garbo() {
+            if (parser::par)
+                delete parser::par;
         }
-        return par;
     };
+    static Garbo garbo;
+public:
+    static parser* getInstance();  //饿汉模式的单例
     int getServerState(char *ch);
     int getField(string field, char *ch);
     char *getBody(char *ch);
@@ -33,27 +42,16 @@ public:
     //void reptile_regex(string buf,char* pattern,int type,string url_prefix);
     struct regex_para *init_regex(string buf, char *pattern, int type, string url_prefix);
     char ch[1000000]; //下载得来的字符缓冲区
-    queue<struct URL> qurl;
-    queue<struct URL> qready;
+    Message_Queue<struct URL>* qurl;
+    Message_Queue<struct URL>* qready;
     threadpool thpool;
-private:
-    static parser *par;
-    parser();
-    ~parser();
-    class CGarbo {  //它的唯一工作就是在析构函数中删除parser的实例
-    public:
-        ~CGarbo() {
-            if (parser::par)
-                delete parser::par;
-        }
-    };
-    static CGarbo Garbo;
 };
 
-void reptile_regex(string buf, char *pattern, int type, string url_prefix);
+void reptile_regex(regexPara* reg);
+
 
 #ifdef __cpluscplus
-}
+};
 #endif
 
 #endif

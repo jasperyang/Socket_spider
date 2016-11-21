@@ -19,7 +19,7 @@ int SocketMaker::createSocket(char *hostname,int port) {
     struct sockaddr_in servAddr;
     struct hostent * host;
     int sockfd;
-    host = gethost(hostname);
+    host = gethostbyname(hostname);
     if(host == NULL) {
         perror("dns 解析失败");
     }

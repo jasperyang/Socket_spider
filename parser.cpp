@@ -4,13 +4,16 @@
 #include <stdlib.h>
 #include "BL/bloom.hpp"
 #include <fstream>
-#include <mutex>
+#include "Async_pirnt.h"
 
-std::mutex mtx;
+
+Async_print* ac = Async_print::getInstance();
 
 parser::parser() {
     puts("Making threadpool with 10 threads");
     thpool = thpool_init(10);
+    qurl = new Message_Queue<struct URL>;
+    qready = new Message_Queue<struct URL>;
 }
 parser::~parser() {
     puts("killing threadpool");
@@ -61,40 +64,50 @@ struct regex_para* parser::init_regex(string buf,char* pattern,int type,string u
     reg = (struct regex_para*)malloc(sizeof(struct regex_para));
     reg->buf = buf;
     reg->pattern = pattern;
-    reg->type = 1;
+    reg->type = type;
     reg->url_prefix = url_prefix;
     return reg;
 }
 
-parser* par = parser::getInstance();    //给下面的函数使用
+
+parser* parser::par = NULL;
+parser* par = parser::getInstance();
 
 
-void reptile_regex(string buf,char* pattern,int type,string url_prefix) {
-    regex img_regex(pattern);
-    string splash = "/";
+
+parser* parser::getInstance() {   //饿汉模式的单例
+    if (par == NULL) {
+        par = new parser();
+    }
+    return par;
+};
+
+parser::Garbo parser::garbo;            //初始化垃圾工人
+
+
+
+void reptile_regex(regexPara* reg) {
+    regex img_regex(reg->pattern);
 
     // 使用类 regex_iterator 来进行多次搜索.
-    cout << " =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  = " << endl;
+    //cout << " =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  = " << endl;
     auto words_begin =
-            sregex_iterator(buf.begin(), buf.end(), img_regex);
+            sregex_iterator(reg->buf.begin(), reg->buf.end(), img_regex);
     auto words_end = sregex_iterator();
-    if (type == 1) {
+    if (reg->type == 1) {
         for (sregex_iterator i = words_begin; i != words_end; ++i) {
             smatch match = *i;
             string match_str = match.str();
             match_str = match_str.substr(2,match_str.size()-1);
-            //cout<<match_str<<endl;
             struct URL url;
             strcpy(url.host,basic_url);
-            string tmp = url_prefix + splash + match_str;
-            url.url = tmp;
-            //cout<<url.host<<url.url<<endl;
+            url.url = reg->url_prefix + match_str;
             if (bf_dataCheck(url.url.c_str(),dataHash) != 1) {
                 bf_dataHash(url.url.c_str(),dataHash);
-                par->qready.push(url);
+                par->qready->push_msg(url);
             }
             else {
-                printf("duplicate\n");
+                ac->print("duplicate\n");
             }
         }
     }
@@ -103,19 +116,20 @@ void reptile_regex(string buf,char* pattern,int type,string url_prefix) {
             smatch match = *i;
             string match_str = match.str();
             match_str = match_str.substr(6,match_str.size()-1);
-            //cout<<match_str<<endl;
+            if(match_str == "/") {          //第一个匹配到的是"/"这个特例
+                continue;
+            }
             struct URL url;
             strcpy(url.host,basic_url);
-            string tmp = url_prefix + splash + match_str;
-            url.url = tmp;
+            url.url = reg->url_prefix + match_str;
             if (bf_dataCheck(url.url.c_str(),dataHash) != 1) {
                 bf_dataHash(url.url.c_str(),dataHash);
-                par->qurl.push(url);
+                par->qurl->push_msg(url);
             }
             else {
-                printf("duplicate\n");
+                ac->print("duplicate\n");
             }
-            //cout<<url.host<<url.url<<endl;
+            cout<<url.url<<endl;
         }
     }
 }
