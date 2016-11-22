@@ -5,6 +5,7 @@
 #include "basic_properties.h"
 #include "thpool.h"
 #include "Message_Queue.cpp"
+#include <cstring>
 
 using namespace std;
 
@@ -14,9 +15,9 @@ extern "C" {
 
 typedef struct regex_para {   //reptile_regex函数的参数结构体
     string buf;
-    char *pattern;
     int type;
     string url_prefix;
+    char *pattern;
 } regexPara;
 
 
@@ -39,6 +40,7 @@ public:
     int getField(string field, char *ch);
     char *getBody(char *ch);
     void saveToFile(char *buf, string filename);
+    void saveToFile(int counter,string buf,string url);
     //void reptile_regex(string buf,char* pattern,int type,string url_prefix);
     struct regex_para *init_regex(string buf, char *pattern, int type, string url_prefix);
     char ch[1000000]; //下载得来的字符缓冲区

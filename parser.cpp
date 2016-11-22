@@ -5,7 +5,7 @@
 #include "BL/bloom.hpp"
 #include <fstream>
 #include "Async_pirnt.h"
-
+#include <cstring>
 
 Async_print* ac = Async_print::getInstance();
 
@@ -49,8 +49,6 @@ char* parser::getBody(char *ch) {
 
 
 void parser::saveToFile(char *buf, string filename) {
-    cout<<"saving..."<<endl;
-    cout<< strlen(buf)<<endl;
     ofstream file(filename.c_str());
     if(file.is_open()) {
         file << buf;
@@ -58,14 +56,28 @@ void parser::saveToFile(char *buf, string filename) {
     file.close();
 }
 
+void parser::saveToFile(int counter,string buf, string url) {
+    ofstream file;
+    file.open(result_file,ios::app);
+    if(!file) {
+        ac->print("can't open "+result_file);
+        abort();
+    }
+    else {
+        file << counter + "  " + url + "  " + buf + "\n";
+        file.close();
+    }
+}
 
-struct regex_para* parser::init_regex(string buf,char* pattern,int type,string url_prefix) {
+struct regex_para* parser::init_regex(string b,char* p,int t,string url_prex) {
     regexPara* reg;
-    reg = (struct regex_para*)malloc(sizeof(struct regex_para));
-    reg->buf = buf;
-    reg->pattern = pattern;
-    reg->type = type;
-    reg->url_prefix = url_prefix;
+    reg = new regexPara;
+    reg->buf = b;
+    reg->pattern = p;
+    reg->type = t;
+    if (url_prex != "") {
+        reg->url_prefix = url_prex;
+    }
     return reg;
 }
 
@@ -91,8 +103,7 @@ void reptile_regex(regexPara* reg) {
 
     // 使用类 regex_iterator 来进行多次搜索.
     //cout << " =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  = " << endl;
-    auto words_begin =
-            sregex_iterator(reg->buf.begin(), reg->buf.end(), img_regex);
+    auto words_begin = sregex_iterator(reg->buf.begin(), reg->buf.end(), img_regex);
     auto words_end = sregex_iterator();
     if (reg->type == 1) {
         for (sregex_iterator i = words_begin; i != words_end; ++i) {

@@ -8,21 +8,24 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 #include <map>
+#include "Async_pirnt.h"
+
+
+struct event_base* base;
 
 Downloader::Downloader() {}
 Downloader::~Downloader() {}
 
 
 int Downloader::recvHttpRespond(int sockfd,char *ch) {
+    Async_print* ac = Async_print::getInstance();
     char recvBuf[BUF_SIZE];
     int recvSize;
     //获取http应答信息
     memset(recvBuf,0,sizeof(recvBuf));
     memset(ch,0,sizeof(ch));
-    int count = 0;
-    cout<<"start receiving...\n";
+    ac->print("start receiving...\n");
     while(recvSize = recv(sockfd,recvBuf,BUF_SIZE,0)>0) {
-        count++;
         strcat(ch,recvBuf);
         memset(recvBuf,0,sizeof(recvBuf));
     }
@@ -30,26 +33,50 @@ int Downloader::recvHttpRespond(int sockfd,char *ch) {
 }
 
 int Downloader::recvHttpRespond(int sockfd,char *ch,string filename,parser* par) {
+    Async_print* ac = Async_print::getInstance();
     char recvBuf[BUF_SIZE];
+    string sh;
     int recvSize;
     //获取http应答信息
     memset(recvBuf,0,sizeof(recvBuf));
     memset(ch,0,sizeof(ch));
-    cout<<"start receiving...\n";
-    while(recvSize = recv(sockfd,recvBuf,BUF_SIZE,0)>0) {
-        strcat(ch,recvBuf);
-        memset(recvBuf,0,sizeof(recvBuf));
-    }
-    if(par->getServerState(ch) == 200) {
-        //ch = par->getBody(ch);
-        std::size_t found = filename.find_first_of("/");
-        while (found != std::string::npos) {
-            filename[found] = '_';
-            found = filename.find_first_of("/", found + 1);
+    ac->print("start receiving...\n");
+    recvSize = recv(sockfd,recvBuf,BUF_SIZE,0);
+    strcat(ch,recvBuf);
+    memset(recvBuf,0,sizeof(recvBuf));
+    sh = ch;
+    if(sh.find_first_of("Content-Length") != std::string::npos) {       //这个判断按理说是可以有效的，暂定。
+        while(recvSize = recv(sockfd,recvBuf,BUF_SIZE,0)>0) {
+            strcat(ch,recvBuf);
+            memset(recvBuf,0,sizeof(recvBuf));
         }
-        filename = "downloaded/" + filename;
-        cout << filename << endl;
-        par->saveToFile(ch, filename);
+    }
+
+    if(par->getServerState(ch) == 200) {
+        counter++;
+//        //ch = par->getBody(ch);
+//        std::size_t found = filename.find_first_of("/");
+//        while (found != std::string::npos) {
+//            filename[found] = '_';
+//            found = filename.find_first_of("/", found + 1);
+//        }
+//        filename = "downloaded/" + filename;
+//        cout << filename << endl;
+//        par->saveToFile(ch, filename);
+        filename = "/" + filename;
+
+        if(sh.find_first_of("Content-Length") != -1) {
+            string tmp = strstr(ch,"Content-Length:") + 16;
+            string content_length ;
+            std::size_t found = tmp.find_first_of("\r");
+            content_length = tmp.substr(0,found);
+            content_length[found] = '\0';
+            par->saveToFile(counter,content_length,basic_url+filename);       //按照实验要求的 content_length + url绝对路径的存储方式
+        }
+        else {
+            sh = ch;
+            par->saveToFile(counter,sh.size() + "",basic_url+filename);
+        }
     }
     return 0;
 }

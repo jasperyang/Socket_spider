@@ -22,6 +22,9 @@ extern "C" {
         string url;//除去域名后的url
     };
 
+
+    extern string result_file;      //用来存储结果文件
+    extern int counter;
     extern char *basic_url;
     extern unsigned char *dataHash;//布隆过滤器的hash表
 

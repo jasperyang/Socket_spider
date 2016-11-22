@@ -429,7 +429,6 @@ static void jobqueue_clear(thpool_* thpool_p){
 static void jobqueue_push(thpool_* thpool_p, struct job* newjob){
 
 	newjob->prev = NULL;
-	printf("jobqueue_len is %d\n",thpool_p->jobqueue_p->len);   	//调试用的
 
 	switch(thpool_p->jobqueue_p->len){
 

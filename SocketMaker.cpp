@@ -11,6 +11,8 @@
 #include <map>
 #include <fstream>
 #include "gethostbyname.c"
+#include <event.h>
+
 
 SocketMaker::SocketMaker() {}
 SocketMaker::~SocketMaker() {}
