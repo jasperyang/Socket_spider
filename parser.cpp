@@ -61,7 +61,7 @@ void parser::saveToFile(char *buf, string filename) {
 
 struct regex_para* parser::init_regex(string buf,char* pattern,int type,string url_prefix) {
     regexPara* reg;
-    reg = (struct regex_para*)malloc(sizeof(struct regex_para));
+    reg = new regexPara;
     reg->buf = buf;
     reg->pattern = pattern;
     reg->type = type;
@@ -91,8 +91,7 @@ void reptile_regex(regexPara* reg) {
 
     // 使用类 regex_iterator 来进行多次搜索.
     //cout << " =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  = " << endl;
-    auto words_begin =
-            sregex_iterator(reg->buf.begin(), reg->buf.end(), img_regex);
+    auto words_begin = sregex_iterator(reg->buf.begin(), reg->buf.end(), img_regex);
     auto words_end = sregex_iterator();
     if (reg->type == 1) {
         for (sregex_iterator i = words_begin; i != words_end; ++i) {
