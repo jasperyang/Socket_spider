@@ -6,12 +6,13 @@
 #include <fstream>
 #include "Async_pirnt.h"
 #include <cstring>
+#include <sstream>
 
 Async_print* ac = Async_print::getInstance();
 
 parser::parser() {
     puts("Making threadpool with 10 threads");
-    thpool = thpool_init(10);
+    thpool = thpool_init(_THREAD_NUM_);
     qurl = new Message_Queue<struct URL>;
     qready = new Message_Queue<struct URL>;
 }
@@ -64,7 +65,8 @@ void parser::saveToFile(int counter,string buf, string url) {
         abort();
     }
     else {
-        file << counter + "  " + url + "  " + buf + "\n";
+        string count;
+        file <<int2str(counter,count) + ":   " +  url + "  " + buf + "\n";
         file.close();
     }
 }
@@ -140,7 +142,14 @@ void reptile_regex(regexPara* reg) {
             else {
                 ac->print("duplicate\n");
             }
-            cout<<url.url<<endl;
         }
     }
+}
+
+
+string int2str(const int &int_temp,string &string_temp) {
+    stringstream stream;
+    stream<<int_temp;
+    string_temp=stream.str();
+    return string_temp;
 }

@@ -50,7 +50,7 @@ public:
 };
 
 void reptile_regex(regexPara* reg);
-
+string int2str(const int &int_temp,string &string_temp);
 
 #ifdef __cpluscplus
 };

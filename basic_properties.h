@@ -7,6 +7,7 @@
 
 #define BUF_SIZE 512
 #define LENGTH 44045
+#define _THREAD_NUM_ 10
 
 #include <queue>
 #include <string>

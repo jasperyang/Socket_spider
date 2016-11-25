@@ -17,7 +17,7 @@ public:
 
 	~Downloader();
 
-	int recvHttpRespond(int sockfd, char *ch);
+	char* recvHttpRespond(int sockfd, char *ch);
 
 	int recvHttpRespond(int sockfd, char *ch, string filename, parser *par);
 };

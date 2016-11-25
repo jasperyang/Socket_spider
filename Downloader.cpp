@@ -9,6 +9,7 @@
 #include <arpa/inet.h>
 #include <map>
 #include "Async_pirnt.h"
+#include <pthread.h>
 
 
 struct event_base* base;
@@ -17,7 +18,7 @@ Downloader::Downloader() {}
 Downloader::~Downloader() {}
 
 
-int Downloader::recvHttpRespond(int sockfd,char *ch) {
+char* Downloader::recvHttpRespond(int sockfd,char *ch) {
     Async_print* ac = Async_print::getInstance();
     char recvBuf[BUF_SIZE];
     int recvSize;
@@ -29,11 +30,12 @@ int Downloader::recvHttpRespond(int sockfd,char *ch) {
         strcat(ch,recvBuf);
         memset(recvBuf,0,sizeof(recvBuf));
     }
-    return 0;
+    return ch;
 }
 
 int Downloader::recvHttpRespond(int sockfd,char *ch,string filename,parser* par) {
     Async_print* ac = Async_print::getInstance();
+
     char recvBuf[BUF_SIZE];
     string sh;
     int recvSize;
@@ -53,7 +55,11 @@ int Downloader::recvHttpRespond(int sockfd,char *ch,string filename,parser* par)
     }
 
     if(par->getServerState(ch) == 200) {
+        pthread_mutex_t mtx;
+        pthread_mutex_init(&mtx,NULL);
+        pthread_mutex_lock(&mtx);
         counter++;
+        pthread_mutex_unlock(&mtx);
 //        //ch = par->getBody(ch);
 //        std::size_t found = filename.find_first_of("/");
 //        while (found != std::string::npos) {
