@@ -49,6 +49,7 @@ void* qurl_check(struct URL url) {
         delete dow;
     }
     delete arg;
+
 }
 
 
