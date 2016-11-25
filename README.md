@@ -5,8 +5,8 @@
 
 使用方法：
  
-  cmake .
-  make
+  * cmake .
+  * make
   
 
 
